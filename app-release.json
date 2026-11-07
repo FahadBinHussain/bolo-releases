@@ -1,25 +1,25 @@
 {
-  "versionName": "0.1.30-127-g04e17905b-unstable",
-  "versionCode": 11875,
+  "versionName": "0.1.30-129-g4821c1085-unstable",
+  "versionCode": 11877,
   "minSupportedVersionCode": 11777,
-  "sizeBytes": 55587834,
-  "sha256": "837c1071831aca955a01bffb9115a40f5f7ec120ac0956ba65546d6b9d77b3da",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11875/bolo-keyboard-11875-arm64-v8a.apk",
-  "builtAt": "2026-11-07T16:20:16.0100883+06:00",
-  "changelogBn": "ইনস্টলারের সমস্যা সমাধান ও ইনস্টল পারমিশনের জন্য সেটিংস শর্টকাট যুক্ত করা হয়েছে",
-  "changelogEn": "Fix installer freezes and add settings shortcut for install permissions",
+  "sizeBytes": 55591790,
+  "sha256": "b80ec5f302575cffd4089a72a288bdcf46b29736d116069802780c1c43760924",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11877/bolo-keyboard-11877-arm64-v8a.apk",
+  "builtAt": "2026-11-07T16:41:10.1799887+06:00",
+  "changelogBn": "মর্ফে থেকে ফাস্ট প্যারালাল ডাউনলোড এবং IPv4/HTTP1.1 রাউটিং যুক্ত করা হয়েছে",
+  "changelogEn": "Port fast parallel download and IPv4/HTTP1.1 routing from Morphe",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 55587834,
-      "sha256": "837c1071831aca955a01bffb9115a40f5f7ec120ac0956ba65546d6b9d77b3da",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11875/bolo-keyboard-11875-arm64-v8a.apk"
+      "sizeBytes": 55591790,
+      "sha256": "b80ec5f302575cffd4089a72a288bdcf46b29736d116069802780c1c43760924",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11877/bolo-keyboard-11877-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 54809590,
-      "sha256": "4a58088bc1a158c265412067c687e8312afb8f6d5740f6c7fc6a57a2060c2bff",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11875/bolo-keyboard-11875-armeabi-v7a.apk"
+      "sizeBytes": 54813546,
+      "sha256": "ffd61fc773a44a8c4ce588d77f5b8ce03c20a28b69c24e63952a1b89952cf61e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11877/bolo-keyboard-11877-armeabi-v7a.apk"
     }
   ]
 }
