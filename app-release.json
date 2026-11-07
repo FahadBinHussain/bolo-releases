@@ -1,25 +1,25 @@
 {
-  "versionName": "0.1.30-151-g16a76b1b9-unstable",
-  "versionCode": 11899,
+  "versionName": "0.1.30-153-gaaa3d64d9-unstable",
+  "versionCode": 11901,
   "minSupportedVersionCode": 11777,
-  "sizeBytes": 55724327,
-  "sha256": "ddfadff1c58c2a2bc8aa47556ee5536addfd1d475aeb271064d94446a9120d44",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11899/bolo-keyboard-11899-arm64-v8a.apk",
-  "builtAt": "2026-11-07T22:20:35.8294416+06:00",
+  "sizeBytes": 55723783,
+  "sha256": "a0abcfcfaa10537ae4c90d154f4785745e9c4d1c09f7531cf9526f5aaf43288e",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11901/bolo-keyboard-11901-arm64-v8a.apk",
+  "builtAt": "2026-11-07T22:52:08.1355152+06:00",
   "changelogBn": "যেকোনো-সময়ে-পুশ-নোটিফিকেশন",
-  "changelogEn": "fix spacebar swipe layout labels and carousel direction",
+  "changelogEn": "add spacebar swipe mode topbar popup and increase swipe sensitivity",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 55724327,
-      "sha256": "ddfadff1c58c2a2bc8aa47556ee5536addfd1d475aeb271064d94446a9120d44",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11899/bolo-keyboard-11899-arm64-v8a.apk"
+      "sizeBytes": 55723783,
+      "sha256": "a0abcfcfaa10537ae4c90d154f4785745e9c4d1c09f7531cf9526f5aaf43288e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11901/bolo-keyboard-11901-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 54946083,
-      "sha256": "a3d0779b3ae64f588c7e32b0192861ab97161ea5dc330a6b5e83330d93481025",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11899/bolo-keyboard-11899-armeabi-v7a.apk"
+      "sizeBytes": 54945539,
+      "sha256": "79aca77ab8ffeef9791b23bde20a510b1591bb54c1112cb2d700ae4021675eb9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11901/bolo-keyboard-11901-armeabi-v7a.apk"
     }
   ]
 }
