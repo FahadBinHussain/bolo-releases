@@ -1,0 +1,25 @@
+{
+  "versionName": "0.1.30-115-g46f8f3635-unstable",
+  "versionCode": 11863,
+  "minSupportedVersionCode": 11777,
+  "sizeBytes": 55584798,
+  "sha256": "aefb62905308bbcdf680e6530673eab4d8399dd81fd0d9c983b8f29eae9f1bb3",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11863/bolo-keyboard-11863-arm64-v8a.apk",
+  "builtAt": "2026-11-07T12:37:19.8133880+06:00",
+  "changelogBn": "GitHub Releases-এ আপডেট পাইপলাইন পরিবর্তন",
+  "changelogEn": "Switch OTA pipeline to GitHub Releases",
+  "abis": [
+    {
+      "abi": "arm64-v8a",
+      "sizeBytes": 55584798,
+      "sha256": "aefb62905308bbcdf680e6530673eab4d8399dd81fd0d9c983b8f29eae9f1bb3",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11863/bolo-keyboard-11863-arm64-v8a.apk"
+    },
+    {
+      "abi": "armeabi-v7a",
+      "sizeBytes": 54806558,
+      "sha256": "5950471213bcb2ed5b0dd1efab17067510c05d09fbaddecebf7b98df3c60a5a3",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11863/bolo-keyboard-11863-armeabi-v7a.apk"
+    }
+  ]
+}
