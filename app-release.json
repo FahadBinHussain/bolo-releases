@@ -1,25 +1,25 @@
 {
-  "versionName": "0.1.30-148-g8c19dd9b9-unstable",
-  "versionCode": 11896,
+  "versionName": "0.1.30-151-g16a76b1b9-unstable",
+  "versionCode": 11899,
   "minSupportedVersionCode": 11777,
-  "sizeBytes": 55723875,
-  "sha256": "fc453719b91ad661d54d1bb4cea3357fac088f783203ec8827852038fcd0b2d1",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11896/bolo-keyboard-11896-arm64-v8a.apk",
-  "builtAt": "2026-11-07T21:42:42.9015406+06:00",
+  "sizeBytes": 55724327,
+  "sha256": "ddfadff1c58c2a2bc8aa47556ee5536addfd1d475aeb271064d94446a9120d44",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11899/bolo-keyboard-11899-arm64-v8a.apk",
+  "builtAt": "2026-11-07T22:20:35.8294416+06:00",
   "changelogBn": "যেকোনো-সময়ে-পুশ-নোটিফিকেশন",
-  "changelogEn": "anytime-push-notifications",
+  "changelogEn": "fix spacebar swipe layout labels and carousel direction",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 55723875,
-      "sha256": "fc453719b91ad661d54d1bb4cea3357fac088f783203ec8827852038fcd0b2d1",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11896/bolo-keyboard-11896-arm64-v8a.apk"
+      "sizeBytes": 55724327,
+      "sha256": "ddfadff1c58c2a2bc8aa47556ee5536addfd1d475aeb271064d94446a9120d44",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11899/bolo-keyboard-11899-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 54945631,
-      "sha256": "ca1ddc91ff413dab3cd0e0995d41e1e5108e6adfeeba95c6680b98a9bc9e33ae",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11896/bolo-keyboard-11896-armeabi-v7a.apk"
+      "sizeBytes": 54946083,
+      "sha256": "a3d0779b3ae64f588c7e32b0192861ab97161ea5dc330a6b5e83330d93481025",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11899/bolo-keyboard-11899-armeabi-v7a.apk"
     }
   ]
 }
