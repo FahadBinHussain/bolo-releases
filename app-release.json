@@ -1,25 +1,25 @@
 {
-  "versionName": "0.1.30-135-g1dd259730-unstable",
-  "versionCode": 11883,
+  "versionName": "0.1.30-137-gc30238440-unstable",
+  "versionCode": 11885,
   "minSupportedVersionCode": 11777,
-  "sizeBytes": 55591950,
-  "sha256": "d02d2b36e6937d38e7fa2bb3c478cad24ca6140ab4d7d9b9b460737c7d6c5927",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11883/bolo-keyboard-11883-arm64-v8a.apk",
-  "builtAt": "2026-11-07T17:47:35.4721233+06:00",
-  "changelogBn": "8-parallel-streams-download-speed-test",
-  "changelogEn": " Test-release-v11883-for-8-stream-parallel-download-speed",
+  "sizeBytes": 55594042,
+  "sha256": "925098d3c76681a400969f4350c5f3361881f93d3451efac162d80170465dd7b",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11885/bolo-keyboard-11885-arm64-v8a.apk",
+  "builtAt": "2026-11-07T18:26:18.2672847+06:00",
+  "changelogBn": "আপডেট-বাতিল-করলে-স্টেট-রিসেট-ফিক্স",
+  "changelogEn": "fix-update-rejection-state-reset",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 55591950,
-      "sha256": "d02d2b36e6937d38e7fa2bb3c478cad24ca6140ab4d7d9b9b460737c7d6c5927",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11883/bolo-keyboard-11883-arm64-v8a.apk"
+      "sizeBytes": 55594042,
+      "sha256": "925098d3c76681a400969f4350c5f3361881f93d3451efac162d80170465dd7b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11885/bolo-keyboard-11885-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 54813710,
-      "sha256": "e665b3ce989b64c18935da2a7465f0192fa17c3aed0cd3ec3728138602e1ad33",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11883/bolo-keyboard-11883-armeabi-v7a.apk"
+      "sizeBytes": 54815798,
+      "sha256": "8ee77a903f6be15c3f69edac6a67736cfb6c41000c645dce5dd794c1592f5a6f",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11885/bolo-keyboard-11885-armeabi-v7a.apk"
     }
   ]
 }
