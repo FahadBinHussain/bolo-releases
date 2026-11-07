@@ -1,25 +1,25 @@
 {
-  "versionName": "0.1.30-145-gc7550aa20-unstable",
-  "versionCode": 11893,
+  "versionName": "0.1.30-146-g559e6a2a1-unstable",
+  "versionCode": 11894,
   "minSupportedVersionCode": 11777,
-  "sizeBytes": 55602268,
-  "sha256": "c666def282d0ee5d338bf896d9a676075bf1699345cd2eb05e8933cb8362ebf9",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11893/bolo-keyboard-11893-arm64-v8a.apk",
-  "builtAt": "2026-11-07T20:03:10.0975612+06:00",
+  "sizeBytes": 55720399,
+  "sha256": "ab4cdd38ab2764d6def1054b8815db452e61a50e3119321b563743686331a21a",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11894/bolo-keyboard-11894-arm64-v8a.apk",
+  "builtAt": "2026-11-07T20:56:40.1498380+06:00",
   "changelogBn": "স্পেসবার-হোল্ড-করে-সোয়াইপ-মোড-সুইচ",
   "changelogEn": "spacebar-hold-swipe-mode-switch",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 55602268,
-      "sha256": "c666def282d0ee5d338bf896d9a676075bf1699345cd2eb05e8933cb8362ebf9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11893/bolo-keyboard-11893-arm64-v8a.apk"
+      "sizeBytes": 55720399,
+      "sha256": "ab4cdd38ab2764d6def1054b8815db452e61a50e3119321b563743686331a21a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11894/bolo-keyboard-11894-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 54824028,
-      "sha256": "7929b73ade0ceff27aa10830c6fd7c8f1446f9c9e1bd0123bd86b971c7a49be9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11893/bolo-keyboard-11893-armeabi-v7a.apk"
+      "sizeBytes": 54942155,
+      "sha256": "b367a178272ae979b035d267122a75cda571a24d57d81d203fd1c77facca0f19",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11894/bolo-keyboard-11894-armeabi-v7a.apk"
     }
   ]
 }
