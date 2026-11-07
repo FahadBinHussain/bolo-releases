@@ -1,13 +1,13 @@
 {
-  "versionName": "0.1.30-133-ga2af5f2e3-unstable",
-  "versionCode": 11881,
+  "versionName": "0.1.30-134-test-release",
+  "versionCode": 11882,
   "minSupportedVersionCode": 11777,
   "sizeBytes": 55591966,
   "sha256": "5a91d3aaaafc8dd622221f68ff43445b80af761b6b479dae1f8be7daa04581e5",
   "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11881/bolo-keyboard-11881-arm64-v8a.apk",
-  "builtAt": "2026-11-07T17:13:53.7454798+06:00",
-  "changelogBn": "8 parallel connections and 1MB socket buffers",
-  "changelogEn": "Test release for manual parallel download verification",
+  "builtAt": "2026-11-07T17:16:00.0000000+06:00",
+  "changelogBn": "৮টি প্যারালাল স্ট্রিম ডাউনলোড স্পিড টেস্ট রিলিজ",
+  "changelogEn": "Test release for manual 8-stream parallel download verification",
   "abis": [
     {
       "abi": "arm64-v8a",
