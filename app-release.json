@@ -1,25 +1,25 @@
 {
-  "versionName": "0.1.30-143-g88f962493-unstable",
-  "versionCode": 11891,
+  "versionName": "0.1.30-145-gc7550aa20-unstable",
+  "versionCode": 11893,
   "minSupportedVersionCode": 11777,
-  "sizeBytes": 55601876,
-  "sha256": "8f9b9e11c7e3f5e80ab05a9f1dbf391e876fe71fc93f857b365702ef17cb80ca",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11891/bolo-keyboard-11891-arm64-v8a.apk",
-  "builtAt": "2026-11-07T19:30:29.2403111+06:00",
-  "changelogBn": "অভ্র-ফোনেটিক-মোড-যুক্ত",
-  "changelogEn": "add-avro-phonetic-mode",
+  "sizeBytes": 55602268,
+  "sha256": "c666def282d0ee5d338bf896d9a676075bf1699345cd2eb05e8933cb8362ebf9",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11893/bolo-keyboard-11893-arm64-v8a.apk",
+  "builtAt": "2026-11-07T20:03:10.0975612+06:00",
+  "changelogBn": "স্পেসবার-হোল্ড-করে-সোয়াইপ-মোড-সুইচ",
+  "changelogEn": "spacebar-hold-swipe-mode-switch",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 55601876,
-      "sha256": "8f9b9e11c7e3f5e80ab05a9f1dbf391e876fe71fc93f857b365702ef17cb80ca",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11891/bolo-keyboard-11891-arm64-v8a.apk"
+      "sizeBytes": 55602268,
+      "sha256": "c666def282d0ee5d338bf896d9a676075bf1699345cd2eb05e8933cb8362ebf9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11893/bolo-keyboard-11893-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 54823632,
-      "sha256": "68f83d07d9f0bf1a0facd9b9f3a0e26d8f530f9e9a1b6c47cba6940133bf3ae9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11891/bolo-keyboard-11891-armeabi-v7a.apk"
+      "sizeBytes": 54824028,
+      "sha256": "7929b73ade0ceff27aa10830c6fd7c8f1446f9c9e1bd0123bd86b971c7a49be9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11893/bolo-keyboard-11893-armeabi-v7a.apk"
     }
   ]
 }
