@@ -6,9 +6,9 @@
     "sizeBytes":  58714832,
     "sha256":  "259e8ee1293ad1eee4c63e0f1bf62e4a5a996fd9f0d827548c828c95629c0627",
     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11919/bolo-keyboard-11919-arm64-v8a.apk",
-    "builtAt":  "2026-11-08T23:21:05.6779679+06:00",
-    "changelogBn":  "\\প্রভাত লেআউট রিদমীক কীবোর্ডের সাথে শতভাগ নিখুঁতভাবে মিল করা হয়েছে\\",
-    "changelogEn":  "\\ Align Probhat layout 100% with Ridmik Keyboard layout\\",
+    "builtAt":  "2026-11-08T23:24:21.3910675+06:00",
+    "changelogBn":  "à¦ªà§à¦°à¦­à¦¾à¦¤ à¦²à§‡à¦†à¦‰à¦Ÿ à¦°à¦¿à¦¦à¦®à§€à¦• à¦•à§€à¦¬à§‹à¦°à§à¦¡à§‡à¦° à¦¸à¦¾à¦¥à§‡ à¦¶à¦¤à¦­à¦¾à¦— à¦¨à¦¿à¦–à§à¦à¦¤à¦­à¦¾à¦¬à§‡ à¦®à¦¿à¦² à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤",
+    "changelogEn":  "Align Probhat layout 100% with Ridmik Keyboard layout.",
     "abis":  [
                  {
                      "abi":  "arm64-v8a",
