@@ -1,26 +1,26 @@
 {
-  "versionName": "0.1.30-176-g3d6b64115-unstable",
-  "versionCode": 11923,
+  "versionName": "0.1.30-178-g066243d3f-unstable",
+  "versionCode": 11925,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58714304,
-  "sha256": "b62d5c28949a797b20f6d069bad21014896c717b9bf7f6c87e038672a8c9984b",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11923/bolo-keyboard-11923-arm64-v8a.apk",
-  "builtAt": "2026-11-09T00:18:24.0005430+06:00",
-  "changelogBn": "মিনি টুলস এবং মাইককে রিদমিক-স্টাইলের একটি কম্প্যাক্ট সারিতে একত্রিত করা হয়েছে যা স্ক্রল ছাড়াই পুরো ডিসপ্লেতে ফিট হয়, এবং নিজের পছন্দমতো টুল বেছে নেওয়ার জন্য ৩-ডট মেনু যুক্ত করা হয়েছে।",
-  "changelogEn": "Combined mini tools and mic into a single compact Ridmik-style row that fits the entire display without scrolling, with a 3-dot menu button to customize tools.",
+  "sizeBytes": 58718201,
+  "sha256": "7b9d03ff7d837a6880167b38d6ffa28975d1c5d19116ef11043ce93ca9a81b56",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11925/bolo-keyboard-11925-arm64-v8a.apk",
+  "builtAt": "2026-11-09T00:35:18.9974592+06:00",
+  "changelogBn": "লাইভ সাউন্ড-ওয়েভ মাইক অ্যানিমেশন যুক্ত করা হয়েছে: কণ্ঠের তীব্রতার সাথে মিল রেখে মাইক আইকনটি নিজে থেকেই ভরাট ও খালি হয়, সাথে ওয়েভ রিং এবং ৫-বারের লাইভ ওয়েভফর্ম মিটার।",
+  "changelogEn": "Added live sound-wave mic animation: microphone capsule fills and empties dynamically with voice strength, paired with expanding wave halo rings and a live 5-bar waveform meter.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58714304,
-      "sha256": "b62d5c28949a797b20f6d069bad21014896c717b9bf7f6c87e038672a8c9984b",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11923/bolo-keyboard-11923-arm64-v8a.apk"
+      "sizeBytes": 58718201,
+      "sha256": "7b9d03ff7d837a6880167b38d6ffa28975d1c5d19116ef11043ce93ca9a81b56",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11925/bolo-keyboard-11925-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 57936060,
-      "sha256": "20a5a6c2129d0a0b3dcf228c03f8170996367db341f0f150ca36bb18a55e3560",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11923/bolo-keyboard-11923-armeabi-v7a.apk"
+      "sizeBytes": 57939961,
+      "sha256": "fb9609b60d7973e7ba3973c9a1aff95ecd70781bae2b22077f8596a444957fb9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11925/bolo-keyboard-11925-armeabi-v7a.apk"
     }
   ]
 }
