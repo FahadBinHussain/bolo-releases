@@ -2,6 +2,7 @@
   "versionName": "0.1.30-160-g2a34db2c3-unstable",
   "versionCode": 11908,
   "minSupportedVersionCode": 11777,
+  "rolloutPercentage": 100,
   "sizeBytes": 55735507,
   "sha256": "17633426dabbaef5c9147ce2e82c1922442c38ad9c8f1043a95aaf30d3defa22",
   "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11908/bolo-keyboard-11908-arm64-v8a.apk",
