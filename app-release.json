@@ -1,25 +1,25 @@
 {
-  "versionName": "0.1.30-155-gf88d07ef1-unstable",
-  "versionCode": 11903,
+  "versionName": "0.1.30-158-g1d0837b11-unstable",
+  "versionCode": 11906,
   "minSupportedVersionCode": 11777,
-  "sizeBytes": 55723703,
-  "sha256": "1aab4f5f2a8954ffa2bbd6f35b1c4db0ed7f631425945c894a67aa15f191578e",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11903/bolo-keyboard-11903-arm64-v8a.apk",
-  "builtAt": "2026-11-07T23:17:11.2062597+06:00",
-  "changelogBn": "যেকোনো-সময়ে-পুশ-নোটিফিকেশন",
-  "changelogEn": "remove dev build suffix from app name and settings headers",
+  "sizeBytes": 55729927,
+  "sha256": "d329de930e5f95454db3bf554cad74d8a598e4e02ef931c74215112ae6251b36",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11906/bolo-keyboard-11906-arm64-v8a.apk",
+  "builtAt": "2026-11-08T16:43:51.9013874+06:00",
+  "changelogBn": "অপ্রতিদ্বন্দ্বী নিরাপত্তার সাথে সার্ভার-যাচাইকৃত প্রো টিয়ার লাইসেন্স সিস্টেম এবং প্রো ফিচার সাপোর্ট।",
+  "changelogEn": "Server-enforced premium gate with asymmetric ECDSA P-256 verification, anti-tamper signature checks, and Pro tier management.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 55723703,
-      "sha256": "1aab4f5f2a8954ffa2bbd6f35b1c4db0ed7f631425945c894a67aa15f191578e",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11903/bolo-keyboard-11903-arm64-v8a.apk"
+      "sizeBytes": 55729927,
+      "sha256": "d329de930e5f95454db3bf554cad74d8a598e4e02ef931c74215112ae6251b36",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11906/bolo-keyboard-11906-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 54945463,
-      "sha256": "0fc5d3cb0c22f42612b8304f5fc162741278f710c2a45c363a9b3c2104e66e65",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11903/bolo-keyboard-11903-armeabi-v7a.apk"
+      "sizeBytes": 54951687,
+      "sha256": "f505ef1d3c676558bb9b2fec79f7261ccdaa7057f47e80353b8a73970de29707",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11906/bolo-keyboard-11906-armeabi-v7a.apk"
     }
   ]
 }
