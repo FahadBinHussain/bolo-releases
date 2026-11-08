@@ -1,26 +1,26 @@
 {
-  "versionName": "0.1.30-165-gd942a2c21-unstable",
-  "versionCode": 11912,
-  "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 100,
-  "sizeBytes": 58696200,
-  "sha256": "1a42cbc05a985a1a686dad130fb39bfb0d8d6ee7154ec2c5ebb1637b3ba8cb8d",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11912/bolo-keyboard-11912-arm64-v8a.apk",
-  "builtAt": "2026-11-08T20:20:48.79533+06:00",
-  "changelogBn": "অভ্র ও প্রভাত লেআউটের জন্য অফলাইন বাংলা ডিকশনারি সাজেশন ও নেক্সট-ওয়ার্ড প্রেডিকশন সংযোজন।",
-  "changelogEn": "Offline Bangla predictions, dictionary suggestions, and next-word n-gram completions for Avro and Probhat.",
-  "abis": [
-    {
-      "abi": "arm64-v8a",
-      "sizeBytes": 58696200,
-      "sha256": "1a42cbc05a985a1a686dad130fb39bfb0d8d6ee7154ec2c5ebb1637b3ba8cb8d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11912/bolo-keyboard-11912-arm64-v8a.apk"
-    },
-    {
-      "abi": "armeabi-v7a",
-      "sizeBytes": 57917956,
-      "sha256": "312962e6ee28b0810cfc6a697b6b6f443d0097878f397b5d5f224180d65c5ce2",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11912/bolo-keyboard-11912-armeabi-v7a.apk"
-    }
-  ]
+    "versionName":  "0.1.30-167-g5ba3264d1-unstable",
+    "versionCode":  11914,
+    "minSupportedVersionCode":  11777,
+    "rolloutPercentage":  100,
+    "sizeBytes":  58714740,
+    "sha256":  "7ec0514ef79a9a29affe84bab852bc1b5a6085b1e373b5dc8f8f3a3e06527c7c",
+    "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11914/bolo-keyboard-11914-arm64-v8a.apk",
+    "builtAt":  "2026-11-08T21:17:58.9647210+06:00",
+    "changelogBn":  "à¦…à¦­à§à¦°à¦¤à§‡ à¦«à§‹à¦¨à§‡à¦Ÿà¦¿à¦• à¦…à¦Ÿà§‹-à¦•à¦¾à¦°à§‡à¦•à§à¦Ÿ à¦«à¦¿à¦•à§à¦¸à¦¾à¦° (à§¨à§¨à§­à§« à¦¨à¦¿à§Ÿà¦®), à¦¬à¦¾à¦‚à¦²à¦¾ à¦¸à¦‚à¦–à§à¦¯à¦¾ à¦°à§‹ à¦à¦¬à¦‚ à¦¡à¦¾à§Ÿà¦¨à¦¾à¦®à¦¿à¦• à¦‡à¦‰à¦œà¦¾à¦° à¦ªà§à¦¯à¦¾à¦Ÿà¦¾à¦°à§à¦¨ à¦²à¦¾à¦°à§à¦¨à¦¿à¦‚ à¦¸à¦‚à¦¯à§‹à¦œà¦¨à¥¤",
+    "changelogEn":  "Phonetic autocorrect fixer (2,275 rules) for Avro, Bengali digits on number row, and dynamic user pattern learning.",
+    "abis":  [
+                 {
+                     "abi":  "arm64-v8a",
+                     "sizeBytes":  58714740,
+                     "sha256":  "7ec0514ef79a9a29affe84bab852bc1b5a6085b1e373b5dc8f8f3a3e06527c7c",
+                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11914/bolo-keyboard-11914-arm64-v8a.apk"
+                 },
+                 {
+                     "abi":  "armeabi-v7a",
+                     "sizeBytes":  57936496,
+                     "sha256":  "170f6c15dce7c3e5fb8bb8524fb96822663c8ed0dd9fd09df3a75c1404052f26",
+                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11914/bolo-keyboard-11914-armeabi-v7a.apk"
+                 }
+             ]
 }
