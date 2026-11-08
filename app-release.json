@@ -2,13 +2,13 @@
   "versionName": "0.1.30-165-gd942a2c21-unstable",
   "versionCode": 11912,
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 10,
+  "rolloutPercentage": 100,
   "sizeBytes": 58696200,
   "sha256": "1a42cbc05a985a1a686dad130fb39bfb0d8d6ee7154ec2c5ebb1637b3ba8cb8d",
   "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11912/bolo-keyboard-11912-arm64-v8a.apk",
-  "builtAt": "2026-11-08T20:19:33.0345705+06:00",
-  "changelogBn": "বোলো কী প্রো এনটাইটেলমেন্ট ওয়ালের অধীনে নিউরাল ভয়েস ইনপুট ফিচার সংযোজন ও প্রো ব্যাজ যুক্তকরণ。",
-  "changelogEn": "Gatekeep neural AI voice feature behind Bolo Key Pro entitlement wall with multi-layer verification and visual indicators.",
+  "builtAt": "2026-11-08T20:20:48.7953300+06:00",
+  "changelogBn": "অভ্র ও প্রভাত লেআউটের জন্য অফলাইন বাংলা ডিকশনারি সাজেশন ও নেক্সট-ওয়ার্ড প্রেডিকশন সংযোজন।",
+  "changelogEn": "Offline Bangla predictions, dictionary suggestions, and next-word n-gram completions for Avro and Probhat.",
   "abis": [
     {
       "abi": "arm64-v8a",
