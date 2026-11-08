@@ -1,25 +1,25 @@
 {
-  "versionName": "0.1.30-158-g1d0837b11-unstable",
-  "versionCode": 11906,
+  "versionName": "0.1.30-160-g2a34db2c3-unstable",
+  "versionCode": 11908,
   "minSupportedVersionCode": 11777,
-  "sizeBytes": 55729927,
-  "sha256": "d329de930e5f95454db3bf554cad74d8a598e4e02ef931c74215112ae6251b36",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11906/bolo-keyboard-11906-arm64-v8a.apk",
-  "builtAt": "2026-11-08T16:43:51.9013874+06:00",
-  "changelogBn": "অপ্রতিদ্বন্দ্বী নিরাপত্তার সাথে সার্ভার-যাচাইকৃত প্রো টিয়ার লাইসেন্স সিস্টেম এবং প্রো ফিচার সাপোর্ট।",
-  "changelogEn": "Server-enforced premium gate with asymmetric ECDSA P-256 verification, anti-tamper signature checks, and Pro tier management.",
+  "sizeBytes": 55735507,
+  "sha256": "17633426dabbaef5c9147ce2e82c1922442c38ad9c8f1043a95aaf30d3defa22",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11908/bolo-keyboard-11908-arm64-v8a.apk",
+  "builtAt": "2026-11-08T18:28:34.1286475+06:00",
+  "changelogBn": "বোলো কী প্রো এনটাইটেলমেন্ট ওয়ালের অধীনে নিউরাল ভয়েস ইনপুট ফিচার সংযোজন ও প্রো ব্যাজ যুক্তকরণ。",
+  "changelogEn": "Gatekeep neural AI voice feature behind Bolo Key Pro entitlement wall with multi-layer verification and visual indicators.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 55729927,
-      "sha256": "d329de930e5f95454db3bf554cad74d8a598e4e02ef931c74215112ae6251b36",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11906/bolo-keyboard-11906-arm64-v8a.apk"
+      "sizeBytes": 55735507,
+      "sha256": "17633426dabbaef5c9147ce2e82c1922442c38ad9c8f1043a95aaf30d3defa22",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11908/bolo-keyboard-11908-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 54951687,
-      "sha256": "f505ef1d3c676558bb9b2fec79f7261ccdaa7057f47e80353b8a73970de29707",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11906/bolo-keyboard-11906-armeabi-v7a.apk"
+      "sizeBytes": 54957267,
+      "sha256": "e186f530400ea84579115b8bad29841bb90561239f256074967a7fb38500f526",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11908/bolo-keyboard-11908-armeabi-v7a.apk"
     }
   ]
 }
