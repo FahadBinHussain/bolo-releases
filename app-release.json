@@ -1,26 +1,26 @@
 {
-  "versionName": "0.1.30-178-g066243d3f-unstable",
-  "versionCode": 11925,
+  "versionName": "0.1.30-180-g611a8f334-unstable",
+  "versionCode": 11927,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 58718201,
-  "sha256": "7b9d03ff7d837a6880167b38d6ffa28975d1c5d19116ef11043ce93ca9a81b56",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11925/bolo-keyboard-11925-arm64-v8a.apk",
-  "builtAt": "2026-11-09T00:35:18.9974592+06:00",
-  "changelogBn": "লাইভ সাউন্ড-ওয়েভ মাইক অ্যানিমেশন যুক্ত করা হয়েছে: কণ্ঠের তীব্রতার সাথে মিল রেখে মাইক আইকনটি নিজে থেকেই ভরাট ও খালি হয়, সাথে ওয়েভ রিং এবং ৫-বারের লাইভ ওয়েভফর্ম মিটার।",
-  "changelogEn": "Added live sound-wave mic animation: microphone capsule fills and empties dynamically with voice strength, paired with expanding wave halo rings and a live 5-bar waveform meter.",
+  "sha256": "c1aebbc9dd14bf8a61f8b04a399f5f170a92b74a53c9e7099f9ba045ef25b05d",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11927/bolo-keyboard-11927-arm64-v8a.apk",
+  "builtAt": "2026-11-09T00:43:23.6446792+06:00",
+  "changelogBn": "একবারে ভয়েস টাইপিং করার সময়সীমা ২ মিনিট থেকে বাড়িয়ে ৫ মিনিট করা হয়েছে।",
+  "changelogEn": "Increased single-session voice typing limit from 2 minutes to 5 minutes.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 58718201,
-      "sha256": "7b9d03ff7d837a6880167b38d6ffa28975d1c5d19116ef11043ce93ca9a81b56",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11925/bolo-keyboard-11925-arm64-v8a.apk"
+      "sha256": "c1aebbc9dd14bf8a61f8b04a399f5f170a92b74a53c9e7099f9ba045ef25b05d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11927/bolo-keyboard-11927-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 57939961,
-      "sha256": "fb9609b60d7973e7ba3973c9a1aff95ecd70781bae2b22077f8596a444957fb9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11925/bolo-keyboard-11925-armeabi-v7a.apk"
+      "sizeBytes": 57939957,
+      "sha256": "d18fca0b2a10ee0f6606b8b0849c612cfcaa5eb50a5148f5becd3c7ecd12be05",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11927/bolo-keyboard-11927-armeabi-v7a.apk"
     }
   ]
 }
