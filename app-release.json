@@ -6,7 +6,7 @@
     "sizeBytes":  58714740,
     "sha256":  "7ec0514ef79a9a29affe84bab852bc1b5a6085b1e373b5dc8f8f3a3e06527c7c",
     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11914/bolo-keyboard-11914-arm64-v8a.apk",
-    "builtAt":  "2026-11-08T21:17:58.9647210+06:00",
+    "builtAt":  "2026-11-08T21:19:39.9279008+06:00",
     "changelogBn":  "à¦…à¦­à§à¦°à¦¤à§‡ à¦«à§‹à¦¨à§‡à¦Ÿà¦¿à¦• à¦…à¦Ÿà§‹-à¦•à¦¾à¦°à§‡à¦•à§à¦Ÿ à¦«à¦¿à¦•à§à¦¸à¦¾à¦° (à§¨à§¨à§­à§« à¦¨à¦¿à§Ÿà¦®), à¦¬à¦¾à¦‚à¦²à¦¾ à¦¸à¦‚à¦–à§à¦¯à¦¾ à¦°à§‹ à¦à¦¬à¦‚ à¦¡à¦¾à§Ÿà¦¨à¦¾à¦®à¦¿à¦• à¦‡à¦‰à¦œà¦¾à¦° à¦ªà§à¦¯à¦¾à¦Ÿà¦¾à¦°à§à¦¨ à¦²à¦¾à¦°à§à¦¨à¦¿à¦‚ à¦¸à¦‚à¦¯à§‹à¦œà¦¨à¥¤",
     "changelogEn":  "Phonetic autocorrect fixer (2,275 rules) for Avro, Bengali digits on number row, and dynamic user pattern learning.",
     "abis":  [
