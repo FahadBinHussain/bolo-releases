@@ -6,7 +6,7 @@
   "sizeBytes": 58696200,
   "sha256": "1a42cbc05a985a1a686dad130fb39bfb0d8d6ee7154ec2c5ebb1637b3ba8cb8d",
   "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11912/bolo-keyboard-11912-arm64-v8a.apk",
-  "builtAt": "2026-11-08T20:20:48.7953300+06:00",
+  "builtAt": "2026-11-08T20:20:48.79533+06:00",
   "changelogBn": "অভ্র ও প্রভাত লেআউটের জন্য অফলাইন বাংলা ডিকশনারি সাজেশন ও নেক্সট-ওয়ার্ড প্রেডিকশন সংযোজন।",
   "changelogEn": "Offline Bangla predictions, dictionary suggestions, and next-word n-gram completions for Avro and Probhat.",
   "abis": [
