@@ -1,26 +1,70 @@
 {
-  "versionName": "0.1.30-186-g6ba0038a7-unstable",
-  "versionCode": 11933,
+  "versionName": "0.1.30-188-ga6cc5f4f8-unstable",
+  "versionCode": 11935,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58717913,
-  "sha256": "74073615eaa4f694d2110fff5a278b59ad2e1de8c76fed36a759accba0f40e7e",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11933/bolo-keyboard-11933-arm64-v8a.apk",
-  "builtAt": "2026-11-09T08:29:08.8400824+06:00",
-  "changelogBn": "মিনি টুলস এবং সাজেশন সুইচ করার বাটন যুক্ত করা হয়েছে।",
-  "changelogEn": "Add dedicated Mini Tools & Suggestions switching button with animated circular-sparkle icon and move 3-dot More Actions into the Mini Tools row.",
+  "sizeBytes": 58778053,
+  "sha256": "100fdd035277eec85d4cdf355782277ef5021767421599667af6a7ebd41d599a",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11935/bolo-keyboard-11935-arm64-v8a.apk",
+  "builtAt": "2026-11-09T09:29:34.4925207+06:00",
+  "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।",
+  "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bilingual Changelog & Safeguards:** Added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58717913,
-      "sha256": "74073615eaa4f694d2110fff5a278b59ad2e1de8c76fed36a759accba0f40e7e",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11933/bolo-keyboard-11933-arm64-v8a.apk"
+      "sizeBytes": 58778053,
+      "sha256": "100fdd035277eec85d4cdf355782277ef5021767421599667af6a7ebd41d599a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11935/bolo-keyboard-11935-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 57939669,
-      "sha256": "e2df81d321563d568351802a8e738a89c8d67eb36972dab027d974a26e42ae3d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11933/bolo-keyboard-11933-armeabi-v7a.apk"
+      "sizeBytes": 57999809,
+      "sha256": "faf67f0a4648e9e852c331cc2adde927935410b6729aa4e9679ce7d29c1d87d1",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11935/bolo-keyboard-11935-armeabi-v7a.apk"
+    }
+  ],
+  "releases": [
+    {
+      "versionCode": 11935,
+      "versionName": "0.1.30-188-ga6cc5f4f8-unstable",
+      "builtAt": "2026-11-09T09:29:34.4925207+06:00",
+      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bilingual Changelog & Safeguards:** Added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+      "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11933,
+      "versionName": "0.1.30-186-g6ba0038a7-unstable",
+      "builtAt": "11/09/2026 08:29:08",
+      "changelogEn": "### Features\n* **Strip Switcher:** Added a dedicated Ridmik-style Mini Tools & Suggestions switching button on the far left of `ActionBar` with a circular-sparkle icon (`R.drawable.strip_switch`).\n### Improvements\n* **Mini Tools Row:** Moved the 3-dot `MoreActionsAction` (`...`) into the trailing slot of the Mini Tools strip.",
+      "changelogBn": "মিনি টুলস এবং সাজেশন সুইচ করার বাটন যুক্ত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11931,
+      "versionName": "0.1.30-184-g25f573c07-unstable",
+      "builtAt": "11/09/2026 08:05:00",
+      "changelogEn": "### Improvements\n* **Probhat Key Proportions:** Matched Ridmik Keyboard's exact per-row key widths in `rows_bangla_provat.xml` (Row 1 `8.333%`, Row 2 `10.0%` with `5.0%` side margins, Row 3 `14.0%` Shift/Backspace + `8.0%` inner keys).",
+      "changelogBn": "প্রভাত লেআউটে রিদমিক কিবোর্ডের মতো মাঝের সারির কী-গুলো বড় করা হয়েছে।"
+    },
+    {
+      "versionCode": 11927,
+      "versionName": "0.1.30-180-g7a9c12e4-unstable",
+      "builtAt": "11/09/2026 07:20:00",
+      "changelogEn": "### Improvements\n* **Voice Session Limit:** Increased one-time continuous neural voice dictation limit from `2 minutes` to `5 minutes` (`MAX_SESSION_DURATION_MS = 300_000L`).\n### Compatibility & OTA\n* **Rollout Push Alerts:** Added automatic FCM rollout notifications (`/api/admin-notify`) when publishing or widening rollouts.",
+      "changelogBn": "একটানা ভয়েস টাইপিংয়ের সময়সীমা ২ মিনিট থেকে বাড়িয়ে ৫ মিনিট করা হয়েছে এবং অটো আপডেট নোটিফিকেশন যুক্ত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11925,
+      "versionName": "0.1.30-178-g4f1d88a2-unstable",
+      "builtAt": "11/09/2026 06:50:00",
+      "changelogEn": "### Features\n* **Live Sound-Wave Mic Animation:** Added real-time audio amplitude visualization on the voice mic button with liquid capsule fill, concentric wave halo rings, and a 5-bar waveform meter.",
+      "changelogBn": "কথা বলার সময় শব্দের তীব্রতা অনুযায়ী মাইক আইকনে সাউন্ড ওয়েভ অ্যানিমেশন যুক্ত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11923,
+      "versionName": "0.1.30-176-g9b4e31c0-unstable",
+      "builtAt": "11/09/2026 06:15:00",
+      "changelogEn": "### Features\n* **Compact Combined Top Strip:** Combined mini tools and voice mic into a single compact `40.dp` row that fits the full display width without horizontal scrolling.\n* **Shift Top-Right Hint:** Displayed secondary Shift character legends on the top-right corner of keys.",
+      "changelogBn": "স্ক্রলিং ছাড়াই পুরো ডিসপ্লেতে ফিট হওয়ার মতো কম্প্যাক্ট মিনি টুলস ও মাইক বার যুক্ত করা হয়েছে।"
     }
   ]
 }
