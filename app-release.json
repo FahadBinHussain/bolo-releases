@@ -1,33 +1,40 @@
 {
-  "versionName": "0.1.30-206-gdb43208d4-unstable",
-  "versionCode": 11953,
+  "versionName": "0.1.30-208-gad95cb085-unstable",
+  "versionCode": 11955,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58822996,
-  "sha256": "1ce7fa569fad31581a11ab4713edaf13132a00b2d44eb28af21d24daf00a4535",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11953/bolo-keyboard-11953-arm64-v8a.apk",
-  "builtAt": "2026-11-09T20:03:58.3461897+06:00",
-  "changelogBn": "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে।\n* প্রভাত লেআউটের কি-গুলোতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করে শুধু বাংলা অক্ষর রাখা হয়েছে।\n* নম্বর সারি থেকে ভগ্নাংশ বাদ দিয়ে বিপরীত স্ক্রিপ্টের সংখ্যা নির্ধারণ করা হয়েছে।\n* অভ্র n-এর হোল্ড পপআপ ':, ;, ঃ' নির্ধারণ করা হয়েছে।",
-  "changelogEn": "\\\\",
+  "sizeBytes": 58829288,
+  "sha256": "f013fb99d75353c9fcba7b607cd241ab81a436addd23b4680ce771c9b43a3cbf",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11955/bolo-keyboard-11955-arm64-v8a.apk",
+  "builtAt": "2026-11-09T20:48:04.4638942+06:00",
+  "changelogBn": "সেটিংস হোমে মর্ফে ম্যানেজারের মতো মসৃণ ওয়েভি অ্যানিমেশন ও হ্যাপটিক ফিডব্যাক সহ পুল-ডাউন-টু-রিফ্রেশ যোগ করা হয়েছে।",
+  "changelogEn": "Add Morphe Manager-parity pull-down-to-refresh on Settings Home with smooth wavy loading animation and haptics.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58822996,
-      "sha256": "1ce7fa569fad31581a11ab4713edaf13132a00b2d44eb28af21d24daf00a4535",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11953/bolo-keyboard-11953-arm64-v8a.apk"
+      "sizeBytes": 58829288,
+      "sha256": "f013fb99d75353c9fcba7b607cd241ab81a436addd23b4680ce771c9b43a3cbf",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11955/bolo-keyboard-11955-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58044756,
-      "sha256": "a89744cf91289a8c3f7754c045aef04e2a7ae978482d5483d2d9ab0ef4c75c01",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11953/bolo-keyboard-11953-armeabi-v7a.apk"
+      "sizeBytes": 58051044,
+      "sha256": "aeb596a28e5e116e65a8f380261b23ff8d7924354594d9a9b8d19cf09a2caa66",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11955/bolo-keyboard-11955-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11955,
+      "versionName": "0.1.30-208-gad95cb085-unstable",
+      "builtAt": "2026-11-09T20:48:04.4638942+06:00",
+      "changelogEn": "Add Morphe Manager-parity pull-down-to-refresh on Settings Home with smooth wavy loading animation and haptics.",
+      "changelogBn": "সেটিংস হোমে মর্ফে ম্যানেজারের মতো মসৃণ ওয়েভি অ্যানিমেশন ও হ্যাপটিক ফিডব্যাক সহ পুল-ডাউন-টু-রিফ্রেশ যোগ করা হয়েছে।"
+    },
+    {
       "versionCode": 11953,
       "versionName": "0.1.30-206-gdb43208d4-unstable",
-      "builtAt": "2026-11-09T20:03:58.3461897+06:00",
+      "builtAt": "11/09/2026 20:03:58",
       "changelogEn": "\\\\",
       "changelogBn": "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে।\n* প্রভাত লেআউটের কি-গুলোতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করে শুধু বাংলা অক্ষর রাখা হয়েছে।\n* নম্বর সারি থেকে ভগ্নাংশ বাদ দিয়ে বিপরীত স্ক্রিপ্টের সংখ্যা নির্ধারণ করা হয়েছে।\n* অভ্র n-এর হোল্ড পপআপ ':, ;, ঃ' নির্ধারণ করা হয়েছে।"
     },
