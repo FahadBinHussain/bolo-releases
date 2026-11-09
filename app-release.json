@@ -1,175 +1,182 @@
 {
-    "versionName":  "0.1.30-212-gfd8e0bcfe-unstable",
-    "versionCode":  11959,
-    "minSupportedVersionCode":  11777,
-    "rolloutPercentage":  100,
-    "sizeBytes":  58832192,
-    "sha256":  "dd41eecc69f99b63416e77199896ee3b24b405283021b5afa44f8b77df2afe99",
-    "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11959/bolo-keyboard-11959-arm64-v8a.apk",
-    "builtAt":  "2026-11-09T23:04:35.7768774+06:00",
-    "changelogBn":  "দৈনিক ১২ ঘণ্টার ভয়েস টাইপিংয়ের সীমা: সেশন চলাকালীন অটো-কাটঅফ ও মধ্যরাতে স্বয়ংক্রিয় রিসেট সুবিধা সহ ১২ ঘণ্টার ক্যাপ যুক্ত করা হয়েছে।",
-    "changelogEn":  "Daily 12-hour voice typing cap: persistent daily usage tracking with mid-session cutoff and midnight reset across all users.",
-    "abis":  [
-                 {
-                     "abi":  "arm64-v8a",
-                     "sizeBytes":  58832192,
-                     "sha256":  "dd41eecc69f99b63416e77199896ee3b24b405283021b5afa44f8b77df2afe99",
-                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11959/bolo-keyboard-11959-arm64-v8a.apk"
-                 },
-                 {
-                     "abi":  "armeabi-v7a",
-                     "sizeBytes":  58053952,
-                     "sha256":  "3ff8eab3009dd256b7d52af8400764fab9dae5e9b23cbbfeca85b9e04ea96285",
-                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11959/bolo-keyboard-11959-armeabi-v7a.apk"
-                 }
-             ],
-    "releases":  [
-                     {
-                         "versionCode":  11959,
-                         "versionName":  "0.1.30-212-gfd8e0bcfe-unstable",
-                         "builtAt":  "2026-11-09T23:04:35.7768774+06:00",
-                         "changelogEn":  "Daily 12-hour voice typing cap: persistent daily usage tracking with mid-session cutoff and midnight reset across all users.",
-                         "changelogBn":  "দৈনিক ১২ ঘণ্টার ভয়েস টাইপিংয়ের সীমা: সেশন চলাকালীন অটো-কাটঅফ ও মধ্যরাতে স্বয়ংক্রিয় রিসেট সুবিধা সহ ১২ ঘণ্টার ক্যাপ যুক্ত করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11958,
-                         "versionName":  "0.1.30-211-g3cdffe373-unstable",
-                         "builtAt":  "2026-11-09T22:35:21.3804382+06:00",
-                         "changelogEn":  "Upper bar horizontal scroll wheel animation during spacebar swipe: layouts slide in unison with finger displacement matching Ridmik Keyboard.",
-                         "changelogBn":  "স্পেসবার সোয়াইপ করার সময় রিডমিক কিবোর্ডের মতো উপরের বারে অনুভূমিক স্ক্রোল হুইল অ্যানিমেশন: আঙুলের টানের সাথে লেআউটগুলো মসৃণভাবে রোল করবে।"
-                     },
-                     {
-                         "versionCode":  11957,
-                         "versionName":  "0.1.30-210-gcc547b6e3-unstable",
-                         "builtAt":  "2026-11-09T22:16:56.0643002+06:00",
-                         "changelogEn":  "Spacebar switching animation parity with Ridmik Keyboard: stationary spacebar during swipe, immediate target layout preview in upper bar, and animated fadeout only on release.",
-                         "changelogBn":  "রিডমিক কিবোর্ডের মতো স্পেসবার সোয়াইপ অ্যানিমেশন: সোয়াইপ করার সময় স্পেসবার স্থির থাকবে, উপরের বারে পরবর্তী লেআউটের নাম দেখাবে এবং আঙুল ছাড়লে স্পেসবারে অ্যানিমেশন হবে।"
-                     },
-                     {
-                         "versionCode":  11955,
-                         "versionName":  "0.1.30-208-gad95cb085-unstable",
-                         "builtAt":  "2026-11-09T20:48:04.4638942+06:00",
-                         "changelogEn":  "Add Morphe Manager-parity pull-down-to-refresh on Settings Home with smooth wavy loading animation and haptics.",
-                         "changelogBn":  "সেটিংস হোমে মর্ফে ম্যানেজারের মতো মসৃণ ওয়েভি অ্যানিমেশন ও হ্যাপটিক ফিডব্যাক সহ পুল-ডাউন-টু-রিফ্রেশ যোগ করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11953,
-                         "versionName":  "0.1.30-206-gdb43208d4-unstable",
-                         "builtAt":  "11/09/2026 20:03:58",
-                         "changelogEn":  "\\\\",
-                         "changelogBn":  "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে।\n* প্রভাত লেআউটের কি-গুলোতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করে শুধু বাংলা অক্ষর রাখা হয়েছে।\n* নম্বর সারি থেকে ভগ্নাংশ বাদ দিয়ে বিপরীত স্ক্রিপ্টের সংখ্যা নির্ধারণ করা হয়েছে।\n* অভ্র n-এর হোল্ড পপআপ \u0027:, ;, ঃ\u0027 নির্ধারণ করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11952,
-                         "versionName":  "0.1.30-205-g4922fccfd-unstable",
-                         "builtAt":  "11/09/2026 17:05:07",
-                         "changelogEn":  "### Key Hold States Parity with Ridmik\n* Matched all hold popups across QWERTY, Avro, and Probhat to Ridmik Keyboard.\n* Probhat layout keys now strictly feature Bengali script characters without foreign Latin symbols or numbers.\n* Cleaned number row hold states to opposing digits without fractions.\n* Set Avro n key hold popup to \u0027:, ;, ঃ\u0027.",
-                         "changelogBn":  "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে।\n* প্রভাত লেআউটের কি-গুলোতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করে শুধু বাংলা অক্ষর রাখা হয়েছে।\n* নম্বর সারি থেকে ভগ্নাংশ বাদ দিয়ে বিপরীত স্ক্রিপ্টের সংখ্যা নির্ধারণ করা হয়েছে।\n* অভ্র n-এর হোল্ড পপআপ \u0027:, ;, ঃ\u0027 নির্ধারণ করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11951,
-                         "versionName":  "0.1.30-204-gb5d5b8101-unstable",
-                         "builtAt":  "11/09/2026 16:51:36",
-                         "changelogEn":  "### Key Hold States Parity with Ridmik\n* **Ridmik Parity:** Matched all hold popups across QWERTY, Avro, and Probhat to Ridmik Keyboard. Probhat keys now exclusively feature Bengali characters without numbers or quick actions. Cleaned number row hold states to opposing digits without fractions, and aligned Avro n hold popup to \u0027:, ;, ঃ\u0027.",
-                         "changelogBn":  "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* **রিডমিক সামঞ্জস্য:** ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে। প্রভাতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করা হয়েছে, নম্বর সারি থেকে ভগ্নাংশ বাদ দেওয়া হয়েছে এবং অভ্র n-এর হোল্ডে \u0027:, ;, ঃ\u0027 নির্ধারণ করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11949,
-                         "versionName":  "0.1.30-202-gbb82beb57-unstable",
-                         "builtAt":  "11/09/2026 15:58:04",
-                         "changelogEn":  "### Fixes\n* **OTA Progress Ring Animation:** Ported Morphe Manager\u0027s calm, continuous 2200ms sinusoidal wave ring and keyed updater state on distinct stages, completely eliminating flashing and flickering during update downloads.",
-                         "changelogBn":  "### সমাধান\n* **আপডেট প্রগ্রেস অ্যানিমেশন:** বলো কী কিবোর্ডে আপডেট ডাউনলোড চলাকালীন প্রগ্রেস রিংয়ের অনাকাঙ্ক্ষিত ফ্ল্যাশিং সমাধান করা হয়েছে এবং মর্ফে ম্যানেজারের মতো শান্ত ও স্বাভাবিক ২২০০ মিলিমিটার সাইনোসয়েডাল ওয়েভ অ্যানিমেশন নিশ্চিত করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11947,
-                         "versionName":  "0.1.30-200-gd2e8be1af-unstable",
-                         "builtAt":  "11/09/2026 15:08:19",
-                         "changelogEn":  "### Improvements\n* **Ridmik-Exact Spacebar Swipe Sensitivity:** Calibrated swipe distance to 80% of spacebar width matching Ridmik Keyboard bit-for-bit, eliminating hypersensitivity and accidental language switches while typing.",
-                         "changelogBn":  "### উন্নতি\n* **রিদমিক স্পেসবার সোয়াইপ সেনসিটিভিটি:** রিদমিক কিবোর্ডের হুবহু মাপে স্পেসবারের ৮০% প্রস্থে সোয়াইপ সেনসিটিভিটি ক্যালিব্রেট করা হয়েছে, যাতে টাইপিংয়ের সময় ভুলবশত ভাষা পরিবর্তন না হয়।"
-                     },
-                     {
-                         "versionCode":  11946,
-                         "versionName":  "0.1.30-199-g6fb19d1b9-unstable",
-                         "builtAt":  "11/09/2026 14:41:58",
-                         "changelogEn":  "### Fixes\n* **Ridmik Spacebar Language Switching:** Swiping and hold-swiping across the spacebar now smoothly switches between English, Bangla Probhat, and Avro layouts bit-for-bit like Ridmik Keyboard, with immediate space typing on normal taps.",
-                         "changelogBn":  "### সমাধান\n* **রিদমিক স্টাইল স্পেসবার ভাষা পরিবর্তন:** স্পেসবারে সোয়াইপ এবং হোল্ড-সোয়াইপ উভয় পদ্ধতিতে রিদমিক কিবোর্ডের মতো মসৃণভাবে ইংরেজি, বাংলা প্রভাত এবং অভ্রের মধ্যে সুইচ করা যাবে, সাধারণ ট্যাপে স্বাভাবিক স্পেস টাইপিং অক্ষুণ্ণ রেখে।"
-                     },
-                     {
-                         "versionCode":  11945,
-                         "versionName":  "0.1.30-198-g5e82d8ae5-unstable",
-                         "builtAt":  "11/09/2026 13:45:35",
-                         "changelogEn":  "### Fixes\n* **Ridmik Key Hints \u0026 Hold Suggestions:** Matched top-right key hints and hold suggestions bit-for-bit to Ridmik Keyboard across English, Avro, and Probhat layouts.",
-                         "changelogBn":  "### সমাধান\n* **রিদমিক কি হিন্টস ও লং-প্রেস অপশন:** ইংলিশ, অভ্র এবং প্রভাত লেআউটের প্রতিটি কি-এর টপ-রাইট হিন্ট এবং লং-প্রেস অপশন রিদমিক কিবোর্ডের হুবহু সমান করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11943,
-                         "versionName":  "0.1.30-196-gf4823549b-unstable",
-                         "builtAt":  "11/09/2026 11:52:46",
-                         "changelogEn":  "### Fixes\n* **OTA Download Pipeline:** Replaced fragile multi-part parallel Range connections with reliable single-connection streaming and automatic recovery, resolving HTTP 504 Gateway Timeouts from GitHub Releases redirectors.",
-                         "changelogBn":  "### সমাধান\n* **সাইন-ইন ও ডাউনলোড পাইপলাইন:** গিটহাব রিলিজের রিডিরেক্ট ও সাইন-ইন সংক্রান্ত সমস্যা সমাধান করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11941,
-                         "versionName":  "0.1.30-194-g668610fc1-unstable",
-                         "builtAt":  "11/09/2026 11:21:45",
-                         "changelogEn":  "### Features\n* **Mandatory Google Sign-In:** Enforced Google Sign-In as Step 1 of 3 during initial setup. All users must sign in to activate the keyboard.\n* **Keyboard Sign-In Lockout Gate:** Replaces keyboard keys with a single-tap Sign-In card and IME switcher when signed out, blocking unauthenticated keystrokes and clipboard actions.",
-                         "changelogBn":  "### ফিচার\n* **বাধ্যতামূলক গুগল সাইন-ইন:** প্রথমবার ইনস্টলের পর কিবোর্ড ব্যবহারের পূর্বে গুগল দিয়ে সাইন-ইন বাধ্যতামূলক করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11939,
-                         "versionName":  "0.1.30-192-g5bef3d085-unstable",
-                         "builtAt":  "11/09/2026 10:06:18",
-                         "changelogEn":  "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage \u0026 MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization \u0026 Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
-                         "changelogBn":  "### ফিচার\n* **মরফি-স্টাইল চেঞ্জলগ টাইমলাইন:** ইন্টারঅ্যাক্টিভ ভার্টিক্যাল রিলিজ টাইমলাইন ও স্ট্যাটাস ব্যাজ যুক্ত করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11937,
-                         "versionName":  "0.1.30-190-gcd7994945-unstable",
-                         "builtAt":  "11/09/2026 09:48:21",
-                         "changelogEn":  "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage \u0026 MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization \u0026 Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
-                         "changelogBn":  "### ফিচার\n* **নাম পরিবর্তন:** সমস্ত ইন্টারফেসে অ্যাপের বাংলা নাম বলো কী হিসেবে হালনাগাদ করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11935,
-                         "versionName":  "0.1.30-188-ga6cc5f4f8-unstable",
-                         "builtAt":  "11/09/2026 09:29:34",
-                         "changelogEn":  "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage \u0026 MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bilingual Changelog \u0026 Safeguards:** Added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
-                         "changelogBn":  "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কী-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11933,
-                         "versionName":  "0.1.30-186-g6ba0038a7-unstable",
-                         "builtAt":  "11/09/2026 08:29:08",
-                         "changelogEn":  "### Features\n* **Strip Switcher:** Added a dedicated Ridmik-style Mini Tools \u0026 Suggestions switching button on the far left of `ActionBar` with a circular-sparkle icon (`R.drawable.strip_switch`).\n### Improvements\n* **Mini Tools Row:** Moved the 3-dot `MoreActionsAction` (`...`) into the trailing slot of the Mini Tools strip.",
-                         "changelogBn":  "### ফিচার\n* **মিনি টুলস সুইচার:** বলো কী-এর বাম পাশে রিদমিক স্টাইলের মিনি টুলস এবং সাজেশন পরিবর্তন করার নতুন অ্যানিমেটেড বাটন যুক্ত করা হয়েছে।\n### উন্নয়ন ও পরিমার্জন\n* **থ্রি-ডট মেনু:** মিনি টুলস সারির শেষে ৩-ডট (...) মেনু যুক্ত করা হয়েছে যেন নিজের পছন্দমতো টুলস সাজানো যায়।"
-                     },
-                     {
-                         "versionCode":  11931,
-                         "versionName":  "0.1.30-184-g25f573c07-unstable",
-                         "builtAt":  "11/09/2026 08:05:00",
-                         "changelogEn":  "### Improvements\n* **Probhat Key Proportions:** Matched Ridmik Keyboard\u0027s exact per-row key widths in `rows_bangla_provat.xml` (Row 1 `8.333%`, Row 2 `10.0%` with `5.0%` side margins, Row 3 `14.0%` Shift/Backspace + `8.0%` inner keys).",
-                         "changelogBn":  "### উন্নয়ন ও পরিমার্জন\n* **প্রভাত লেআউট কী সাইজ:** রিদমিক কিবোর্ডের মতো মাঝের সারির কী-গুলো (10.0% প্রস্থ) বড় করা হয়েছে যেন টাইপিং আরও নির্ভুল হয়।"
-                     },
-                     {
-                         "versionCode":  11927,
-                         "versionName":  "0.1.30-180-g7a9c12e4-unstable",
-                         "builtAt":  "11/09/2026 07:20:00",
-                         "changelogEn":  "### Improvements\n* **Voice Session Limit:** Increased one-time continuous neural voice dictation limit from `2 minutes` to `5 minutes` (`MAX_SESSION_DURATION_MS = 300_000L`).\n### Compatibility \u0026 OTA\n* **Rollout Push Alerts:** Added automatic FCM rollout notifications (`/api/admin-notify`) when publishing or widening rollouts.",
-                         "changelogBn":  "### উন্নয়ন ও পরিমার্জন\n* **ভয়েস টাইপিং সময়সীমা:** একটানা ভয়েস টাইপিংয়ের সময়সীমা ২ মিনিট থেকে বাড়িয়ে ৫ মিনিট করা হয়েছে।\n### কম্প্যাটিবিলিটি ও আপডেট\n* **অটো আপডেট নোটিফিকেশন:** নতুন আপডেট প্রকাশ হলে স্বয়ংক্রিয়ভাবে FCM পুশ নোটিফিকেশন পাঠানোর ব্যবস্থা যুক্ত করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11925,
-                         "versionName":  "0.1.30-178-g4f1d88a2-unstable",
-                         "builtAt":  "11/09/2026 06:50:00",
-                         "changelogEn":  "### Features\n* **Live Sound-Wave Mic Animation:** Added real-time audio amplitude visualization on the voice mic button with liquid capsule fill, concentric wave halo rings, and a 5-bar waveform meter.",
-                         "changelogBn":  "### ফিচার\n* **লাইভ মাইক অ্যানিমেশন:** কথা বলার সময় শব্দের তীব্রতা অনুযায়ী মাইক আইকনে সাউন্ড ওয়েভ এবং ওয়েভফর্ম অ্যানিমেশন যুক্ত করা হয়েছে।"
-                     },
-                     {
-                         "versionCode":  11923,
-                         "versionName":  "0.1.30-176-g9b4e31c0-unstable",
-                         "builtAt":  "11/09/2026 06:15:00",
-                         "changelogEn":  "### Features\n* **Compact Combined Top Strip:** Combined mini tools and voice mic into a single compact `40.dp` row that fits the full display width without horizontal scrolling.\n* **Shift Top-Right Hint:** Displayed secondary Shift character legends on the top-right corner of keys.",
-                         "changelogBn":  "### ফিচার\n* **কম্প্যাক্ট মিনি টুলস বার:** স্ক্রলিং ছাড়াই পুরো ডিসপ্লেতে ফিট হওয়ার মতো কম্প্যাক্ট মিনি টুলস ও মাইক বার এবং কি-এর উপরে ডান কোণায় শিফট অক্ষর দেখানো হয়েছে।"
-                     }
-                 ]
+  "versionName": "0.1.30-214-g893482108-unstable",
+  "versionCode": 11961,
+  "minSupportedVersionCode": 11777,
+  "rolloutPercentage": 100,
+  "sizeBytes": 58823476,
+  "sha256": "a899073bcd66ebccde07abd92d8486843dd41fcd2d5bcb957950823872645601",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11961/bolo-keyboard-11961-arm64-v8a.apk",
+  "builtAt": "2026-11-09T23:44:19.2363456+06:00",
+  "changelogBn": "সার্ভার-সাইড দৈনিক ১২ ঘণ্টার ভয়েস টাইপিং কোটা ট্র্যাকিং এবং সুরক্ষিত মিউজ টোকেন প্রভিশনিং।",
+  "changelogEn": "Server-side daily 12-hour voice typing quota tracking and server-managed Muse token provisioning.",
+  "abis": [
+    {
+      "abi": "arm64-v8a",
+      "sizeBytes": 58823476,
+      "sha256": "a899073bcd66ebccde07abd92d8486843dd41fcd2d5bcb957950823872645601",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11961/bolo-keyboard-11961-arm64-v8a.apk"
+    },
+    {
+      "abi": "armeabi-v7a",
+      "sizeBytes": 58045232,
+      "sha256": "7ac848e15e4d1d261259d267593b50fa4297f374f716533c18fd71ed14d00731",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11961/bolo-keyboard-11961-armeabi-v7a.apk"
+    }
+  ],
+  "releases": [
+    {
+      "versionCode": 11961,
+      "versionName": "0.1.30-214-g893482108-unstable",
+      "builtAt": "2026-11-09T23:44:19.2363456+06:00",
+      "changelogEn": "Server-side daily 12-hour voice typing quota tracking and server-managed Muse token provisioning.",
+      "changelogBn": "সার্ভার-সাইড দৈনিক ১২ ঘণ্টার ভয়েস টাইপিং কোটা ট্র্যাকিং এবং সুরক্ষিত মিউজ টোকেন প্রভিশনিং।"
+    },
+    {
+      "versionCode": 11959,
+      "versionName": "0.1.30-212-gfd8e0bcfe-unstable",
+      "builtAt": "11/09/2026 23:04:35",
+      "changelogEn": "Daily 12-hour voice typing cap: persistent daily usage tracking with mid-session cutoff and midnight reset across all users.",
+      "changelogBn": "দৈনিক ১২ ঘণ্টার ভয়েস টাইপিংয়ের সীমা: সেশন চলাকালীন অটো-কাটঅফ ও মধ্যরাতে স্বয়ংক্রিয় রিসেট সুবিধা সহ ১২ ঘণ্টার ক্যাপ যুক্ত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11958,
+      "versionName": "0.1.30-211-g3cdffe373-unstable",
+      "builtAt": "11/09/2026 22:35:21",
+      "changelogEn": "Upper bar horizontal scroll wheel animation during spacebar swipe: layouts slide in unison with finger displacement matching Ridmik Keyboard.",
+      "changelogBn": "স্পেসবার সোয়াইপ করার সময় রিডমিক কিবোর্ডের মতো উপরের বারে অনুভূমিক স্ক্রোল হুইল অ্যানিমেশন: আঙুলের টানের সাথে লেআউটগুলো মসৃণভাবে রোল করবে।"
+    },
+    {
+      "versionCode": 11957,
+      "versionName": "0.1.30-210-gcc547b6e3-unstable",
+      "builtAt": "11/09/2026 22:16:56",
+      "changelogEn": "Spacebar switching animation parity with Ridmik Keyboard: stationary spacebar during swipe, immediate target layout preview in upper bar, and animated fadeout only on release.",
+      "changelogBn": "রিডমিক কিবোর্ডের মতো স্পেসবার সোয়াইপ অ্যানিমেশন: সোয়াইপ করার সময় স্পেসবার স্থির থাকবে, উপরের বারে পরবর্তী লেআউটের নাম দেখাবে এবং আঙুল ছাড়লে স্পেসবারে অ্যানিমেশন হবে।"
+    },
+    {
+      "versionCode": 11955,
+      "versionName": "0.1.30-208-gad95cb085-unstable",
+      "builtAt": "11/09/2026 20:48:04",
+      "changelogEn": "Add Morphe Manager-parity pull-down-to-refresh on Settings Home with smooth wavy loading animation and haptics.",
+      "changelogBn": "সেটিংস হোমে মর্ফে ম্যানেজারের মতো মসৃণ ওয়েভি অ্যানিমেশন ও হ্যাপটিক ফিডব্যাক সহ পুল-ডাউন-টু-রিফ্রেশ যোগ করা হয়েছে।"
+    },
+    {
+      "versionCode": 11953,
+      "versionName": "0.1.30-206-gdb43208d4-unstable",
+      "builtAt": "11/09/2026 20:03:58",
+      "changelogEn": "\\\\",
+      "changelogBn": "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে।\n* প্রভাত লেআউটের কি-গুলোতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করে শুধু বাংলা অক্ষর রাখা হয়েছে।\n* নম্বর সারি থেকে ভগ্নাংশ বাদ দিয়ে বিপরীত স্ক্রিপ্টের সংখ্যা নির্ধারণ করা হয়েছে।\n* অভ্র n-এর হোল্ড পপআপ ':, ;, ঃ' নির্ধারণ করা হয়েছে।"
+    },
+    {
+      "versionCode": 11952,
+      "versionName": "0.1.30-205-g4922fccfd-unstable",
+      "builtAt": "11/09/2026 17:05:07",
+      "changelogEn": "### Key Hold States Parity with Ridmik\n* Matched all hold popups across QWERTY, Avro, and Probhat to Ridmik Keyboard.\n* Probhat layout keys now strictly feature Bengali script characters without foreign Latin symbols or numbers.\n* Cleaned number row hold states to opposing digits without fractions.\n* Set Avro n key hold popup to ':, ;, ঃ'.",
+      "changelogBn": "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে।\n* প্রভাত লেআউটের কি-গুলোতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করে শুধু বাংলা অক্ষর রাখা হয়েছে।\n* নম্বর সারি থেকে ভগ্নাংশ বাদ দিয়ে বিপরীত স্ক্রিপ্টের সংখ্যা নির্ধারণ করা হয়েছে।\n* অভ্র n-এর হোল্ড পপআপ ':, ;, ঃ' নির্ধারণ করা হয়েছে।"
+    },
+    {
+      "versionCode": 11951,
+      "versionName": "0.1.30-204-gb5d5b8101-unstable",
+      "builtAt": "11/09/2026 16:51:36",
+      "changelogEn": "### Key Hold States Parity with Ridmik\n* **Ridmik Parity:** Matched all hold popups across QWERTY, Avro, and Probhat to Ridmik Keyboard. Probhat keys now exclusively feature Bengali characters without numbers or quick actions. Cleaned number row hold states to opposing digits without fractions, and aligned Avro n hold popup to ':, ;, ঃ'.",
+      "changelogBn": "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* **রিডমিক সামঞ্জস্য:** ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে। প্রভাতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করা হয়েছে, নম্বর সারি থেকে ভগ্নাংশ বাদ দেওয়া হয়েছে এবং অভ্র n-এর হোল্ডে ':, ;, ঃ' নির্ধারণ করা হয়েছে।"
+    },
+    {
+      "versionCode": 11949,
+      "versionName": "0.1.30-202-gbb82beb57-unstable",
+      "builtAt": "11/09/2026 15:58:04",
+      "changelogEn": "### Fixes\n* **OTA Progress Ring Animation:** Ported Morphe Manager's calm, continuous 2200ms sinusoidal wave ring and keyed updater state on distinct stages, completely eliminating flashing and flickering during update downloads.",
+      "changelogBn": "### সমাধান\n* **আপডেট প্রগ্রেস অ্যানিমেশন:** বলো কী কিবোর্ডে আপডেট ডাউনলোড চলাকালীন প্রগ্রেস রিংয়ের অনাকাঙ্ক্ষিত ফ্ল্যাশিং সমাধান করা হয়েছে এবং মর্ফে ম্যানেজারের মতো শান্ত ও স্বাভাবিক ২২০০ মিলিমিটার সাইনোসয়েডাল ওয়েভ অ্যানিমেশন নিশ্চিত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11947,
+      "versionName": "0.1.30-200-gd2e8be1af-unstable",
+      "builtAt": "11/09/2026 15:08:19",
+      "changelogEn": "### Improvements\n* **Ridmik-Exact Spacebar Swipe Sensitivity:** Calibrated swipe distance to 80% of spacebar width matching Ridmik Keyboard bit-for-bit, eliminating hypersensitivity and accidental language switches while typing.",
+      "changelogBn": "### উন্নতি\n* **রিদমিক স্পেসবার সোয়াইপ সেনসিটিভিটি:** রিদমিক কিবোর্ডের হুবহু মাপে স্পেসবারের ৮০% প্রস্থে সোয়াইপ সেনসিটিভিটি ক্যালিব্রেট করা হয়েছে, যাতে টাইপিংয়ের সময় ভুলবশত ভাষা পরিবর্তন না হয়।"
+    },
+    {
+      "versionCode": 11946,
+      "versionName": "0.1.30-199-g6fb19d1b9-unstable",
+      "builtAt": "11/09/2026 14:41:58",
+      "changelogEn": "### Fixes\n* **Ridmik Spacebar Language Switching:** Swiping and hold-swiping across the spacebar now smoothly switches between English, Bangla Probhat, and Avro layouts bit-for-bit like Ridmik Keyboard, with immediate space typing on normal taps.",
+      "changelogBn": "### সমাধান\n* **রিদমিক স্টাইল স্পেসবার ভাষা পরিবর্তন:** স্পেসবারে সোয়াইপ এবং হোল্ড-সোয়াইপ উভয় পদ্ধতিতে রিদমিক কিবোর্ডের মতো মসৃণভাবে ইংরেজি, বাংলা প্রভাত এবং অভ্রের মধ্যে সুইচ করা যাবে, সাধারণ ট্যাপে স্বাভাবিক স্পেস টাইপিং অক্ষুণ্ণ রেখে।"
+    },
+    {
+      "versionCode": 11945,
+      "versionName": "0.1.30-198-g5e82d8ae5-unstable",
+      "builtAt": "11/09/2026 13:45:35",
+      "changelogEn": "### Fixes\n* **Ridmik Key Hints & Hold Suggestions:** Matched top-right key hints and hold suggestions bit-for-bit to Ridmik Keyboard across English, Avro, and Probhat layouts.",
+      "changelogBn": "### সমাধান\n* **রিদমিক কি হিন্টস ও লং-প্রেস অপশন:** ইংলিশ, অভ্র এবং প্রভাত লেআউটের প্রতিটি কি-এর টপ-রাইট হিন্ট এবং লং-প্রেস অপশন রিদমিক কিবোর্ডের হুবহু সমান করা হয়েছে।"
+    },
+    {
+      "versionCode": 11943,
+      "versionName": "0.1.30-196-gf4823549b-unstable",
+      "builtAt": "11/09/2026 11:52:46",
+      "changelogEn": "### Fixes\n* **OTA Download Pipeline:** Replaced fragile multi-part parallel Range connections with reliable single-connection streaming and automatic recovery, resolving HTTP 504 Gateway Timeouts from GitHub Releases redirectors.",
+      "changelogBn": "### সমাধান\n* **সাইন-ইন ও ডাউনলোড পাইপলাইন:** গিটহাব রিলিজের রিডিরেক্ট ও সাইন-ইন সংক্রান্ত সমস্যা সমাধান করা হয়েছে।"
+    },
+    {
+      "versionCode": 11941,
+      "versionName": "0.1.30-194-g668610fc1-unstable",
+      "builtAt": "11/09/2026 11:21:45",
+      "changelogEn": "### Features\n* **Mandatory Google Sign-In:** Enforced Google Sign-In as Step 1 of 3 during initial setup. All users must sign in to activate the keyboard.\n* **Keyboard Sign-In Lockout Gate:** Replaces keyboard keys with a single-tap Sign-In card and IME switcher when signed out, blocking unauthenticated keystrokes and clipboard actions.",
+      "changelogBn": "### ফিচার\n* **বাধ্যতামূলক গুগল সাইন-ইন:** প্রথমবার ইনস্টলের পর কিবোর্ড ব্যবহারের পূর্বে গুগল দিয়ে সাইন-ইন বাধ্যতামূলক করা হয়েছে।"
+    },
+    {
+      "versionCode": 11939,
+      "versionName": "0.1.30-192-g5bef3d085-unstable",
+      "builtAt": "11/09/2026 10:06:18",
+      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+      "changelogBn": "### ফিচার\n* **মরফি-স্টাইল চেঞ্জলগ টাইমলাইন:** ইন্টারঅ্যাক্টিভ ভার্টিক্যাল রিলিজ টাইমলাইন ও স্ট্যাটাস ব্যাজ যুক্ত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11937,
+      "versionName": "0.1.30-190-gcd7994945-unstable",
+      "builtAt": "11/09/2026 09:48:21",
+      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+      "changelogBn": "### ফিচার\n* **নাম পরিবর্তন:** সমস্ত ইন্টারফেসে অ্যাপের বাংলা নাম বলো কী হিসেবে হালনাগাদ করা হয়েছে।"
+    },
+    {
+      "versionCode": 11935,
+      "versionName": "0.1.30-188-ga6cc5f4f8-unstable",
+      "builtAt": "11/09/2026 09:29:34",
+      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bilingual Changelog & Safeguards:** Added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+      "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কী-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11933,
+      "versionName": "0.1.30-186-g6ba0038a7-unstable",
+      "builtAt": "11/09/2026 08:29:08",
+      "changelogEn": "### Features\n* **Strip Switcher:** Added a dedicated Ridmik-style Mini Tools & Suggestions switching button on the far left of `ActionBar` with a circular-sparkle icon (`R.drawable.strip_switch`).\n### Improvements\n* **Mini Tools Row:** Moved the 3-dot `MoreActionsAction` (`...`) into the trailing slot of the Mini Tools strip.",
+      "changelogBn": "### ফিচার\n* **মিনি টুলস সুইচার:** বলো কী-এর বাম পাশে রিদমিক স্টাইলের মিনি টুলস এবং সাজেশন পরিবর্তন করার নতুন অ্যানিমেটেড বাটন যুক্ত করা হয়েছে।\n### উন্নয়ন ও পরিমার্জন\n* **থ্রি-ডট মেনু:** মিনি টুলস সারির শেষে ৩-ডট (...) মেনু যুক্ত করা হয়েছে যেন নিজের পছন্দমতো টুলস সাজানো যায়।"
+    },
+    {
+      "versionCode": 11931,
+      "versionName": "0.1.30-184-g25f573c07-unstable",
+      "builtAt": "11/09/2026 08:05:00",
+      "changelogEn": "### Improvements\n* **Probhat Key Proportions:** Matched Ridmik Keyboard's exact per-row key widths in `rows_bangla_provat.xml` (Row 1 `8.333%`, Row 2 `10.0%` with `5.0%` side margins, Row 3 `14.0%` Shift/Backspace + `8.0%` inner keys).",
+      "changelogBn": "### উন্নয়ন ও পরিমার্জন\n* **প্রভাত লেআউট কী সাইজ:** রিদমিক কিবোর্ডের মতো মাঝের সারির কী-গুলো (10.0% প্রস্থ) বড় করা হয়েছে যেন টাইপিং আরও নির্ভুল হয়।"
+    },
+    {
+      "versionCode": 11927,
+      "versionName": "0.1.30-180-g7a9c12e4-unstable",
+      "builtAt": "11/09/2026 07:20:00",
+      "changelogEn": "### Improvements\n* **Voice Session Limit:** Increased one-time continuous neural voice dictation limit from `2 minutes` to `5 minutes` (`MAX_SESSION_DURATION_MS = 300_000L`).\n### Compatibility & OTA\n* **Rollout Push Alerts:** Added automatic FCM rollout notifications (`/api/admin-notify`) when publishing or widening rollouts.",
+      "changelogBn": "### উন্নয়ন ও পরিমার্জন\n* **ভয়েস টাইপিং সময়সীমা:** একটানা ভয়েস টাইপিংয়ের সময়সীমা ২ মিনিট থেকে বাড়িয়ে ৫ মিনিট করা হয়েছে।\n### কম্প্যাটিবিলিটি ও আপডেট\n* **অটো আপডেট নোটিফিকেশন:** নতুন আপডেট প্রকাশ হলে স্বয়ংক্রিয়ভাবে FCM পুশ নোটিফিকেশন পাঠানোর ব্যবস্থা যুক্ত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11925,
+      "versionName": "0.1.30-178-g4f1d88a2-unstable",
+      "builtAt": "11/09/2026 06:50:00",
+      "changelogEn": "### Features\n* **Live Sound-Wave Mic Animation:** Added real-time audio amplitude visualization on the voice mic button with liquid capsule fill, concentric wave halo rings, and a 5-bar waveform meter.",
+      "changelogBn": "### ফিচার\n* **লাইভ মাইক অ্যানিমেশন:** কথা বলার সময় শব্দের তীব্রতা অনুযায়ী মাইক আইকনে সাউন্ড ওয়েভ এবং ওয়েভফর্ম অ্যানিমেশন যুক্ত করা হয়েছে।"
+    },
+    {
+      "versionCode": 11923,
+      "versionName": "0.1.30-176-g9b4e31c0-unstable",
+      "builtAt": "11/09/2026 06:15:00",
+      "changelogEn": "### Features\n* **Compact Combined Top Strip:** Combined mini tools and voice mic into a single compact `40.dp` row that fits the full display width without horizontal scrolling.\n* **Shift Top-Right Hint:** Displayed secondary Shift character legends on the top-right corner of keys.",
+      "changelogBn": "### ফিচার\n* **কম্প্যাক্ট মিনি টুলস বার:** স্ক্রলিং ছাড়াই পুরো ডিসপ্লেতে ফিট হওয়ার মতো কম্প্যাক্ট মিনি টুলস ও মাইক বার এবং কি-এর উপরে ডান কোণায় শিফট অক্ষর দেখানো হয়েছে।"
+    }
+  ]
 }
