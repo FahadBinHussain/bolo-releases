@@ -1,35 +1,42 @@
 {
-  "versionName": "0.1.30-190-gcd7994945-unstable",
-  "versionCode": 11937,
+  "versionName": "0.1.30-192-g5bef3d085-unstable",
+  "versionCode": 11939,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58778777,
-  "sha256": "f693541f569a345d5078d9e2b902aef046fd556de7c4a31849fb96e362f551a3",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11937/bolo-keyboard-11937-arm64-v8a.apk",
-  "builtAt": "2026-11-09T09:48:21.4790840+06:00",
-  "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কি-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** বলো কি সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।",
-  "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কি across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+  "sizeBytes": 58778781,
+  "sha256": "b92dad21d2e655436b979aaaa5cd4135776c45f5aa58f66a591f95010bc50afd",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11939/bolo-keyboard-11939-arm64-v8a.apk",
+  "builtAt": "2026-11-09T10:06:18.7080827+06:00",
+  "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কী-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** বলো কী সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।",
+  "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58778777,
-      "sha256": "f693541f569a345d5078d9e2b902aef046fd556de7c4a31849fb96e362f551a3",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11937/bolo-keyboard-11937-arm64-v8a.apk"
+      "sizeBytes": 58778781,
+      "sha256": "b92dad21d2e655436b979aaaa5cd4135776c45f5aa58f66a591f95010bc50afd",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11939/bolo-keyboard-11939-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58000533,
-      "sha256": "9e70e42928741ee7363a3ad0698bd0794e6ab28457f510fb31eb2afad6c0a355",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11937/bolo-keyboard-11937-armeabi-v7a.apk"
+      "sizeBytes": 58000537,
+      "sha256": "ea06d478cbcc0c584b0b43ae4972e54a077313dc5bed6b228fc4d48111ab23d7",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11939/bolo-keyboard-11939-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11939,
+      "versionName": "0.1.30-192-g5bef3d085-unstable",
+      "builtAt": "2026-11-09T10:06:18.7080827+06:00",
+      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+      "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কী-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** বলো কী সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
+    },
+    {
       "versionCode": 11937,
       "versionName": "0.1.30-190-gcd7994945-unstable",
-      "builtAt": "2026-11-09T09:48:21.4790840+06:00",
-      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কি across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
-      "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কি-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** বলো কি সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
+      "builtAt": "11/09/2026 09:48:21",
+      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+      "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কী-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** বলো কী সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
     },
     {
       "versionCode": 11935,
