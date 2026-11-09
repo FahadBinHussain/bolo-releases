@@ -1,29 +1,36 @@
 {
-    "versionName":  "0.1.30-210-gcc547b6e3-unstable",
-    "versionCode":  11957,
+    "versionName":  "0.1.30-211-g3cdffe373-unstable",
+    "versionCode":  11958,
     "minSupportedVersionCode":  11777,
     "rolloutPercentage":  100,
-    "sizeBytes":  58828564,
-    "sha256":  "b64e1c4408c66d15f4748090e6d7021e625fc71c9ef4107b2b1a07293725d188",
-    "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11957/bolo-keyboard-11957-arm64-v8a.apk",
-    "builtAt":  "2026-11-09T22:16:56.0643002+06:00",
-    "changelogBn":  "রিডমিক কিবোর্ডের মতো স্পেসবার সোয়াইপ অ্যানিমেশন: সোয়াইপ করার সময় স্পেসবার স্থির থাকবে, উপরের বারে পরবর্তী লেআউটের নাম দেখাবে এবং আঙুল ছাড়লে স্পেসবারে অ্যানিমেশন হবে।",
-    "changelogEn":  "Spacebar switching animation parity with Ridmik Keyboard: stationary spacebar during swipe, immediate target layout preview in upper bar, and animated fadeout only on release.",
+    "sizeBytes":  58828916,
+    "sha256":  "03e87f7c97d353932191bfdc429ef3737db6d0221b005bd4fdd7d5fa9846832a",
+    "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11958/bolo-keyboard-11958-arm64-v8a.apk",
+    "builtAt":  "2026-11-09T22:35:21.3804382+06:00",
+    "changelogBn":  "স্পেসবার সোয়াইপ করার সময় রিডমিক কিবোর্ডের মতো উপরের বারে অনুভূমিক স্ক্রোল হুইল অ্যানিমেশন: আঙুলের টানের সাথে লেআউটগুলো মসৃণভাবে রোল করবে।",
+    "changelogEn":  "Upper bar horizontal scroll wheel animation during spacebar swipe: layouts slide in unison with finger displacement matching Ridmik Keyboard.",
     "abis":  [
                  {
                      "abi":  "arm64-v8a",
-                     "sizeBytes":  58828564,
-                     "sha256":  "b64e1c4408c66d15f4748090e6d7021e625fc71c9ef4107b2b1a07293725d188",
-                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11957/bolo-keyboard-11957-arm64-v8a.apk"
+                     "sizeBytes":  58828916,
+                     "sha256":  "03e87f7c97d353932191bfdc429ef3737db6d0221b005bd4fdd7d5fa9846832a",
+                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11958/bolo-keyboard-11958-arm64-v8a.apk"
                  },
                  {
                      "abi":  "armeabi-v7a",
-                     "sizeBytes":  58050320,
-                     "sha256":  "b54a24c7a436ca67df04631102f923464f51c0342c4fe99134f658fd588754fb",
-                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11957/bolo-keyboard-11957-armeabi-v7a.apk"
+                     "sizeBytes":  58050676,
+                     "sha256":  "386913139ac87b5e4104cd932fc24282539a21c0fbda15027829d902c5683ad9",
+                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11958/bolo-keyboard-11958-armeabi-v7a.apk"
                  }
              ],
     "releases":  [
+                     {
+                         "versionCode":  11958,
+                         "versionName":  "0.1.30-211-g3cdffe373-unstable",
+                         "builtAt":  "2026-11-09T22:35:21.3804382+06:00",
+                         "changelogEn":  "Upper bar horizontal scroll wheel animation during spacebar swipe: layouts slide in unison with finger displacement matching Ridmik Keyboard.",
+                         "changelogBn":  "স্পেসবার সোয়াইপ করার সময় রিডমিক কিবোর্ডের মতো উপরের বারে অনুভূমিক স্ক্রোল হুইল অ্যানিমেশন: আঙুলের টানের সাথে লেআউটগুলো মসৃণভাবে রোল করবে।"
+                     },
                      {
                          "versionCode":  11957,
                          "versionName":  "0.1.30-210-gcc547b6e3-unstable",
