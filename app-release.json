@@ -1,33 +1,40 @@
 {
-  "versionName": "0.1.30-192-g5bef3d085-unstable",
-  "versionCode": 11939,
+  "versionName": "0.1.30-194-g668610fc1-unstable",
+  "versionCode": 11941,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58778781,
-  "sha256": "b92dad21d2e655436b979aaaa5cd4135776c45f5aa58f66a591f95010bc50afd",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11939/bolo-keyboard-11939-arm64-v8a.apk",
-  "builtAt": "2026-11-09T10:06:18.7080827+06:00",
-  "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কী-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** বলো কী সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।",
-  "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+  "sizeBytes": 58783737,
+  "sha256": "0d082bcae87c69d39d1ef8e7055427e6d28c9bd861387f7db40309fc1645502a",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11941/bolo-keyboard-11941-arm64-v8a.apk",
+  "builtAt": "2026-11-09T11:21:45.4241074+06:00",
+  "changelogBn": "### ফিচার\n* **বাধ্যতামূলক গুগল সাইন ইন:** প্রথম ইনস্টল সেটআপের ধাপ ১ হিসেবে গুগল সাইন ইন বাধ্যতামূলক করা হয়েছে। সাইন ইন ছাড়া বলো কী ব্যবহার করা যাবে না।\n* **কিবোর্ড সাইন ইন লক:** সাইন আউট অবস্থায় কিবোর্ডের পরিবর্তে সরাসরি সাইন ইন কার্ড ও কিবোর্ড সুইচার দেখাবে এবং সকল টাইপিং নিরাপদভাবে লক রাখবে।",
+  "changelogEn": "### Features\n* **Mandatory Google Sign-In:** Enforced Google Sign-In as Step 1 of 3 during initial setup. All users must sign in to activate the keyboard.\n* **Keyboard Sign-In Lockout Gate:** Replaces keyboard keys with a single-tap Sign-In card and IME switcher when signed out, blocking unauthenticated keystrokes and clipboard actions.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58778781,
-      "sha256": "b92dad21d2e655436b979aaaa5cd4135776c45f5aa58f66a591f95010bc50afd",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11939/bolo-keyboard-11939-arm64-v8a.apk"
+      "sizeBytes": 58783737,
+      "sha256": "0d082bcae87c69d39d1ef8e7055427e6d28c9bd861387f7db40309fc1645502a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11941/bolo-keyboard-11941-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58000537,
-      "sha256": "ea06d478cbcc0c584b0b43ae4972e54a077313dc5bed6b228fc4d48111ab23d7",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11939/bolo-keyboard-11939-armeabi-v7a.apk"
+      "sizeBytes": 58005493,
+      "sha256": "46e01d972d8d1572e42d26982282165957820e148321c1c816a72bfbf2173241",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11941/bolo-keyboard-11941-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11941,
+      "versionName": "0.1.30-194-g668610fc1-unstable",
+      "builtAt": "2026-11-09T11:21:45.4241074+06:00",
+      "changelogEn": "### Features\n* **Mandatory Google Sign-In:** Enforced Google Sign-In as Step 1 of 3 during initial setup. All users must sign in to activate the keyboard.\n* **Keyboard Sign-In Lockout Gate:** Replaces keyboard keys with a single-tap Sign-In card and IME switcher when signed out, blocking unauthenticated keystrokes and clipboard actions.",
+      "changelogBn": "### ফিচার\n* **বাধ্যতামূলক গুগল সাইন ইন:** প্রথম ইনস্টল সেটআপের ধাপ ১ হিসেবে গুগল সাইন ইন বাধ্যতামূলক করা হয়েছে। সাইন ইন ছাড়া বলো কী ব্যবহার করা যাবে না।\n* **কিবোর্ড সাইন ইন লক:** সাইন আউট অবস্থায় কিবোর্ডের পরিবর্তে সরাসরি সাইন ইন কার্ড ও কিবোর্ড সুইচার দেখাবে এবং সকল টাইপিং নিরাপদভাবে লক রাখবে।"
+    },
+    {
       "versionCode": 11939,
       "versionName": "0.1.30-192-g5bef3d085-unstable",
-      "builtAt": "2026-11-09T10:06:18.7080827+06:00",
+      "builtAt": "11/09/2026 10:06:18",
       "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
       "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কী-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** বলো কী সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
     },
