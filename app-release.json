@@ -1,33 +1,40 @@
 {
-  "versionName": "0.1.30-196-gf4823549b-unstable",
-  "versionCode": 11943,
+  "versionName": "0.1.30-198-g5e82d8ae5-unstable",
+  "versionCode": 11945,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58780821,
-  "sha256": "2d51d787c94384b384875571a2dd6cdf29863e116e3b4fad6aea24c46f979021",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11943/bolo-keyboard-11943-arm64-v8a.apk",
-  "builtAt": "2026-11-09T11:52:46.3353160+06:00",
-  "changelogBn": "### সমাধান\n* **ওটিএ ডাউনলোড পাইপলাইন:** গিটহাব রিলিজ থেকে আপডেট ডাউনলোড করার সময় ৫০৪ গেটওয়ে টাইমআউটজনিত ত্রুটি সমাধান করা হয়েছে এবং নিরবচ্ছিন্ন ডাউনলোড ব্যবস্থা নিশ্চিত করা হয়েছে।",
-  "changelogEn": "### Fixes\n* **OTA Download Pipeline:** Replaced fragile multi-part parallel Range connections with reliable single-connection streaming and automatic recovery, resolving HTTP 504 Gateway Timeouts from GitHub Releases redirectors.",
+  "sizeBytes": 58781877,
+  "sha256": "8ee0a4ffc1201381253c12a7612702850fd9eec967daebe481f86266a3e1a692",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11945/bolo-keyboard-11945-arm64-v8a.apk",
+  "builtAt": "2026-11-09T13:45:35.5751266+06:00",
+  "changelogBn": "### সমাধান\n* **রিদমিক কি হিন্টস ও লং-প্রেস অপশন:** ইংলিশ, অভ্র এবং প্রভাত লেআউটের প্রতিটি কি-এর টপ-রাইট হিন্ট এবং লং-প্রেস অপশন রিদমিক কিবোর্ডের হুবহু সমান করা হয়েছে।",
+  "changelogEn": "### Fixes\n* **Ridmik Key Hints & Hold Suggestions:** Matched top-right key hints and hold suggestions bit-for-bit to Ridmik Keyboard across English, Avro, and Probhat layouts.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58780821,
-      "sha256": "2d51d787c94384b384875571a2dd6cdf29863e116e3b4fad6aea24c46f979021",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11943/bolo-keyboard-11943-arm64-v8a.apk"
+      "sizeBytes": 58781877,
+      "sha256": "8ee0a4ffc1201381253c12a7612702850fd9eec967daebe481f86266a3e1a692",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11945/bolo-keyboard-11945-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58002577,
-      "sha256": "5a91199320e4db7e9c7eadbd3e7de6640b11674c67ed503b9e0f9cef248b0dd9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11943/bolo-keyboard-11943-armeabi-v7a.apk"
+      "sizeBytes": 58003633,
+      "sha256": "30e9541ab8ae59e615b3893dd232c5202f225ccb7b12f75b66ebe248953da791",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11945/bolo-keyboard-11945-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11945,
+      "versionName": "0.1.30-198-g5e82d8ae5-unstable",
+      "builtAt": "2026-11-09T13:45:35.5751266+06:00",
+      "changelogEn": "### Fixes\n* **Ridmik Key Hints & Hold Suggestions:** Matched top-right key hints and hold suggestions bit-for-bit to Ridmik Keyboard across English, Avro, and Probhat layouts.",
+      "changelogBn": "### সমাধান\n* **রিদমিক কি হিন্টস ও লং-প্রেস অপশন:** ইংলিশ, অভ্র এবং প্রভাত লেআউটের প্রতিটি কি-এর টপ-রাইট হিন্ট এবং লং-প্রেস অপশন রিদমিক কিবোর্ডের হুবহু সমান করা হয়েছে।"
+    },
+    {
       "versionCode": 11943,
       "versionName": "0.1.30-196-gf4823549b-unstable",
-      "builtAt": "2026-11-09T11:52:46.3353160+06:00",
+      "builtAt": "11/09/2026 11:52:46",
       "changelogEn": "### Fixes\n* **OTA Download Pipeline:** Replaced fragile multi-part parallel Range connections with reliable single-connection streaming and automatic recovery, resolving HTTP 504 Gateway Timeouts from GitHub Releases redirectors.",
       "changelogBn": "### সমাধান\n* **ওটিএ ডাউনলোড পাইপলাইন:** গিটহাব রিলিজ থেকে আপডেট ডাউনলোড করার সময় ৫০৪ গেটওয়ে টাইমআউটজনিত ত্রুটি সমাধান করা হয়েছে এবং নিরবচ্ছিন্ন ডাউনলোড ব্যবস্থা নিশ্চিত করা হয়েছে।"
     },
