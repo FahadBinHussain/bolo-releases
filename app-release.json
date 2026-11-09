@@ -2,7 +2,7 @@
   "versionName": "0.1.30-186-g6ba0038a7-unstable",
   "versionCode": 11933,
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 10,
+  "rolloutPercentage": 100,
   "sizeBytes": 58717913,
   "sha256": "74073615eaa4f694d2110fff5a278b59ad2e1de8c76fed36a759accba0f40e7e",
   "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11933/bolo-keyboard-11933-arm64-v8a.apk",
