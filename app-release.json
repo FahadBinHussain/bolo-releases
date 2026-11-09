@@ -1,29 +1,36 @@
 {
-    "versionName":  "0.1.30-211-g3cdffe373-unstable",
-    "versionCode":  11958,
+    "versionName":  "0.1.30-212-gfd8e0bcfe-unstable",
+    "versionCode":  11959,
     "minSupportedVersionCode":  11777,
     "rolloutPercentage":  100,
-    "sizeBytes":  58828916,
-    "sha256":  "03e87f7c97d353932191bfdc429ef3737db6d0221b005bd4fdd7d5fa9846832a",
-    "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11958/bolo-keyboard-11958-arm64-v8a.apk",
-    "builtAt":  "2026-11-09T22:35:21.3804382+06:00",
-    "changelogBn":  "স্পেসবার সোয়াইপ করার সময় রিডমিক কিবোর্ডের মতো উপরের বারে অনুভূমিক স্ক্রোল হুইল অ্যানিমেশন: আঙুলের টানের সাথে লেআউটগুলো মসৃণভাবে রোল করবে।",
-    "changelogEn":  "Upper bar horizontal scroll wheel animation during spacebar swipe: layouts slide in unison with finger displacement matching Ridmik Keyboard.",
+    "sizeBytes":  58832192,
+    "sha256":  "dd41eecc69f99b63416e77199896ee3b24b405283021b5afa44f8b77df2afe99",
+    "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11959/bolo-keyboard-11959-arm64-v8a.apk",
+    "builtAt":  "2026-11-09T23:04:35.7768774+06:00",
+    "changelogBn":  "দৈনিক ১২ ঘণ্টার ভয়েস টাইপিংয়ের সীমা: সেশন চলাকালীন অটো-কাটঅফ ও মধ্যরাতে স্বয়ংক্রিয় রিসেট সুবিধা সহ ১২ ঘণ্টার ক্যাপ যুক্ত করা হয়েছে।",
+    "changelogEn":  "Daily 12-hour voice typing cap: persistent daily usage tracking with mid-session cutoff and midnight reset across all users.",
     "abis":  [
                  {
                      "abi":  "arm64-v8a",
-                     "sizeBytes":  58828916,
-                     "sha256":  "03e87f7c97d353932191bfdc429ef3737db6d0221b005bd4fdd7d5fa9846832a",
-                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11958/bolo-keyboard-11958-arm64-v8a.apk"
+                     "sizeBytes":  58832192,
+                     "sha256":  "dd41eecc69f99b63416e77199896ee3b24b405283021b5afa44f8b77df2afe99",
+                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11959/bolo-keyboard-11959-arm64-v8a.apk"
                  },
                  {
                      "abi":  "armeabi-v7a",
-                     "sizeBytes":  58050676,
-                     "sha256":  "386913139ac87b5e4104cd932fc24282539a21c0fbda15027829d902c5683ad9",
-                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11958/bolo-keyboard-11958-armeabi-v7a.apk"
+                     "sizeBytes":  58053952,
+                     "sha256":  "3ff8eab3009dd256b7d52af8400764fab9dae5e9b23cbbfeca85b9e04ea96285",
+                     "downloadUrl":  "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11959/bolo-keyboard-11959-armeabi-v7a.apk"
                  }
              ],
     "releases":  [
+                     {
+                         "versionCode":  11959,
+                         "versionName":  "0.1.30-212-gfd8e0bcfe-unstable",
+                         "builtAt":  "2026-11-09T23:04:35.7768774+06:00",
+                         "changelogEn":  "Daily 12-hour voice typing cap: persistent daily usage tracking with mid-session cutoff and midnight reset across all users.",
+                         "changelogBn":  "দৈনিক ১২ ঘণ্টার ভয়েস টাইপিংয়ের সীমা: সেশন চলাকালীন অটো-কাটঅফ ও মধ্যরাতে স্বয়ংক্রিয় রিসেট সুবিধা সহ ১২ ঘণ্টার ক্যাপ যুক্ত করা হয়েছে।"
+                     },
                      {
                          "versionCode":  11958,
                          "versionName":  "0.1.30-211-g3cdffe373-unstable",
