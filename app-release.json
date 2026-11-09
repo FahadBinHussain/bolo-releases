@@ -1,33 +1,40 @@
 {
-  "versionName": "0.1.30-205-g4922fccfd-unstable",
-  "versionCode": 11952,
+  "versionName": "0.1.30-206-gdb43208d4-unstable",
+  "versionCode": 11953,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58781593,
-  "sha256": "f994c52000e771fce19fd6982939134afa4b67b2e65cc6d80fa4b360c61d7ec9",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11952/bolo-keyboard-11952-arm64-v8a.apk",
-  "builtAt": "2026-11-09T17:05:07.0926074+06:00",
+  "sizeBytes": 58822996,
+  "sha256": "1ce7fa569fad31581a11ab4713edaf13132a00b2d44eb28af21d24daf00a4535",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11953/bolo-keyboard-11953-arm64-v8a.apk",
+  "builtAt": "2026-11-09T20:03:58.3461897+06:00",
   "changelogBn": "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে।\n* প্রভাত লেআউটের কি-গুলোতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করে শুধু বাংলা অক্ষর রাখা হয়েছে।\n* নম্বর সারি থেকে ভগ্নাংশ বাদ দিয়ে বিপরীত স্ক্রিপ্টের সংখ্যা নির্ধারণ করা হয়েছে।\n* অভ্র n-এর হোল্ড পপআপ ':, ;, ঃ' নির্ধারণ করা হয়েছে।",
-  "changelogEn": "### Key Hold States Parity with Ridmik\n* Matched all hold popups across QWERTY, Avro, and Probhat to Ridmik Keyboard.\n* Probhat layout keys now strictly feature Bengali script characters without foreign Latin symbols or numbers.\n* Cleaned number row hold states to opposing digits without fractions.\n* Set Avro n key hold popup to ':, ;, ঃ'.",
+  "changelogEn": "\\\\",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58781593,
-      "sha256": "f994c52000e771fce19fd6982939134afa4b67b2e65cc6d80fa4b360c61d7ec9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11952/bolo-keyboard-11952-arm64-v8a.apk"
+      "sizeBytes": 58822996,
+      "sha256": "1ce7fa569fad31581a11ab4713edaf13132a00b2d44eb28af21d24daf00a4535",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11953/bolo-keyboard-11953-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58003349,
-      "sha256": "c317d9e29b888193473466bd802a1dd9b3047719c1890ddf023c5e398e496dc6",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11952/bolo-keyboard-11952-armeabi-v7a.apk"
+      "sizeBytes": 58044756,
+      "sha256": "a89744cf91289a8c3f7754c045aef04e2a7ae978482d5483d2d9ab0ef4c75c01",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11953/bolo-keyboard-11953-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11953,
+      "versionName": "0.1.30-206-gdb43208d4-unstable",
+      "builtAt": "2026-11-09T20:03:58.3461897+06:00",
+      "changelogEn": "\\\\",
+      "changelogBn": "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে।\n* প্রভাত লেআউটের কি-গুলোতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করে শুধু বাংলা অক্ষর রাখা হয়েছে।\n* নম্বর সারি থেকে ভগ্নাংশ বাদ দিয়ে বিপরীত স্ক্রিপ্টের সংখ্যা নির্ধারণ করা হয়েছে।\n* অভ্র n-এর হোল্ড পপআপ ':, ;, ঃ' নির্ধারণ করা হয়েছে।"
+    },
+    {
       "versionCode": 11952,
       "versionName": "0.1.30-205-g4922fccfd-unstable",
-      "builtAt": "2026-11-09T17:05:07.0926074+06:00",
+      "builtAt": "11/09/2026 17:05:07",
       "changelogEn": "### Key Hold States Parity with Ridmik\n* Matched all hold popups across QWERTY, Avro, and Probhat to Ridmik Keyboard.\n* Probhat layout keys now strictly feature Bengali script characters without foreign Latin symbols or numbers.\n* Cleaned number row hold states to opposing digits without fractions.\n* Set Avro n key hold popup to ':, ;, ঃ'.",
       "changelogBn": "### রিডমিক কিবোর্ডের মতো হোল্ড পপআপ\n* ইংরেজি, অভ্র ও প্রভাত লেআউটের প্রতিটি কি-এর হোল্ড স্টেট রিডমিকের হুবহু কোডের সাথে মেলানো হয়েছে।\n* প্রভাত লেআউটের কি-গুলোতে অবাঞ্ছিত ইংরেজি প্রতীক ও নম্বর দূর করে শুধু বাংলা অক্ষর রাখা হয়েছে।\n* নম্বর সারি থেকে ভগ্নাংশ বাদ দিয়ে বিপরীত স্ক্রিপ্টের সংখ্যা নির্ধারণ করা হয়েছে।\n* অভ্র n-এর হোল্ড পপআপ ':, ;, ঃ' নির্ধারণ করা হয়েছে।"
     },
