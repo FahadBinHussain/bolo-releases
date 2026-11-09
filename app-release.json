@@ -6,9 +6,9 @@
   "sizeBytes": 58781697,
   "sha256": "57b847cc2f625b5e64747f828173eebf01e9d1238e37860884844febdceacf76",
   "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11949/bolo-keyboard-11949-arm64-v8a.apk",
-  "builtAt": "2026-11-09T15:55:59.9871323+06:00",
-  "changelogBn": "### উন্নতি\n* **রিদমিক স্পেসবার সোয়াইপ সেনসিটিভিটি:** রিদমিক কিবোর্ডের হুবহু মাপে স্পেসবারের ৮০% প্রস্থে সোয়াইপ সেনসিটিভিটি ক্যালিব্রেট করা হয়েছে, যাতে টাইপিংয়ের সময় ভুলবশত ভাষা পরিবর্তন না হয়।",
-  "changelogEn": "### Improvements\n* **Ridmik-Exact Spacebar Swipe Sensitivity:** Calibrated swipe distance to 80% of spacebar width matching Ridmik Keyboard bit-for-bit, eliminating hypersensitivity and accidental language switches while typing.",
+  "builtAt": "2026-11-09T15:58:04.9501902+06:00",
+  "changelogBn": "### সমাধান\n* **আপডেট প্রগ্রেস অ্যানিমেশন:** বলো কী কিবোর্ডে আপডেট ডাউনলোড চলাকালীন প্রগ্রেস রিংয়ের অনাকাঙ্ক্ষিত ফ্ল্যাশিং সমাধান করা হয়েছে এবং মর্ফে ম্যানেজারের মতো শান্ত ও স্বাভাবিক ২২০০ মিলিমিটার সাইনোসয়েডাল ওয়েভ অ্যানিমেশন নিশ্চিত করা হয়েছে।",
+  "changelogEn": "### Fixes\n* **OTA Progress Ring Animation:** Ported Morphe Manager's calm, continuous 2200ms sinusoidal wave ring and keyed updater state on distinct stages, completely eliminating flashing and flickering during update downloads.",
   "abis": [
     {
       "abi": "arm64-v8a",
@@ -27,9 +27,9 @@
     {
       "versionCode": 11949,
       "versionName": "0.1.30-202-gbb82beb57-unstable",
-      "builtAt": "2026-11-09T15:55:59.9871323+06:00",
-      "changelogEn": "### Improvements\n* **Ridmik-Exact Spacebar Swipe Sensitivity:** Calibrated swipe distance to 80% of spacebar width matching Ridmik Keyboard bit-for-bit, eliminating hypersensitivity and accidental language switches while typing.",
-      "changelogBn": "### উন্নতি\n* **রিদমিক স্পেসবার সোয়াইপ সেনসিটিভিটি:** রিদমিক কিবোর্ডের হুবহু মাপে স্পেসবারের ৮০% প্রস্থে সোয়াইপ সেনসিটিভিটি ক্যালিব্রেট করা হয়েছে, যাতে টাইপিংয়ের সময় ভুলবশত ভাষা পরিবর্তন না হয়।"
+      "builtAt": "2026-11-09T15:58:04.9501902+06:00",
+      "changelogEn": "### Fixes\n* **OTA Progress Ring Animation:** Ported Morphe Manager's calm, continuous 2200ms sinusoidal wave ring and keyed updater state on distinct stages, completely eliminating flashing and flickering during update downloads.",
+      "changelogBn": "### সমাধান\n* **আপডেট প্রগ্রেস অ্যানিমেশন:** বলো কী কিবোর্ডে আপডেট ডাউনলোড চলাকালীন প্রগ্রেস রিংয়ের অনাকাঙ্ক্ষিত ফ্ল্যাশিং সমাধান করা হয়েছে এবং মর্ফে ম্যানেজারের মতো শান্ত ও স্বাভাবিক ২২০০ মিলিমিটার সাইনোসয়েডাল ওয়েভ অ্যানিমেশন নিশ্চিত করা হয়েছে।"
     },
     {
       "versionCode": 11947,
