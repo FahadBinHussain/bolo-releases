@@ -1,33 +1,40 @@
 {
-  "versionName": "0.1.30-194-g668610fc1-unstable",
-  "versionCode": 11941,
+  "versionName": "0.1.30-196-gf4823549b-unstable",
+  "versionCode": 11943,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58783737,
-  "sha256": "0d082bcae87c69d39d1ef8e7055427e6d28c9bd861387f7db40309fc1645502a",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11941/bolo-keyboard-11941-arm64-v8a.apk",
-  "builtAt": "2026-11-09T11:21:45.4241074+06:00",
-  "changelogBn": "### ফিচার\n* **বাধ্যতামূলক গুগল সাইন ইন:** প্রথম ইনস্টল সেটআপের ধাপ ১ হিসেবে গুগল সাইন ইন বাধ্যতামূলক করা হয়েছে। সাইন ইন ছাড়া বলো কী ব্যবহার করা যাবে না।\n* **কিবোর্ড সাইন ইন লক:** সাইন আউট অবস্থায় কিবোর্ডের পরিবর্তে সরাসরি সাইন ইন কার্ড ও কিবোর্ড সুইচার দেখাবে এবং সকল টাইপিং নিরাপদভাবে লক রাখবে।",
-  "changelogEn": "### Features\n* **Mandatory Google Sign-In:** Enforced Google Sign-In as Step 1 of 3 during initial setup. All users must sign in to activate the keyboard.\n* **Keyboard Sign-In Lockout Gate:** Replaces keyboard keys with a single-tap Sign-In card and IME switcher when signed out, blocking unauthenticated keystrokes and clipboard actions.",
+  "sizeBytes": 58780821,
+  "sha256": "2d51d787c94384b384875571a2dd6cdf29863e116e3b4fad6aea24c46f979021",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11943/bolo-keyboard-11943-arm64-v8a.apk",
+  "builtAt": "2026-11-09T11:52:46.3353160+06:00",
+  "changelogBn": "### সমাধান\n* **ওটিএ ডাউনলোড পাইপলাইন:** গিটহাব রিলিজ থেকে আপডেট ডাউনলোড করার সময় ৫০৪ গেটওয়ে টাইমআউটজনিত ত্রুটি সমাধান করা হয়েছে এবং নিরবচ্ছিন্ন ডাউনলোড ব্যবস্থা নিশ্চিত করা হয়েছে।",
+  "changelogEn": "### Fixes\n* **OTA Download Pipeline:** Replaced fragile multi-part parallel Range connections with reliable single-connection streaming and automatic recovery, resolving HTTP 504 Gateway Timeouts from GitHub Releases redirectors.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58783737,
-      "sha256": "0d082bcae87c69d39d1ef8e7055427e6d28c9bd861387f7db40309fc1645502a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11941/bolo-keyboard-11941-arm64-v8a.apk"
+      "sizeBytes": 58780821,
+      "sha256": "2d51d787c94384b384875571a2dd6cdf29863e116e3b4fad6aea24c46f979021",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11943/bolo-keyboard-11943-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58005493,
-      "sha256": "46e01d972d8d1572e42d26982282165957820e148321c1c816a72bfbf2173241",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11941/bolo-keyboard-11941-armeabi-v7a.apk"
+      "sizeBytes": 58002577,
+      "sha256": "5a91199320e4db7e9c7eadbd3e7de6640b11674c67ed503b9e0f9cef248b0dd9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11943/bolo-keyboard-11943-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11943,
+      "versionName": "0.1.30-196-gf4823549b-unstable",
+      "builtAt": "2026-11-09T11:52:46.3353160+06:00",
+      "changelogEn": "### Fixes\n* **OTA Download Pipeline:** Replaced fragile multi-part parallel Range connections with reliable single-connection streaming and automatic recovery, resolving HTTP 504 Gateway Timeouts from GitHub Releases redirectors.",
+      "changelogBn": "### সমাধান\n* **ওটিএ ডাউনলোড পাইপলাইন:** গিটহাব রিলিজ থেকে আপডেট ডাউনলোড করার সময় ৫০৪ গেটওয়ে টাইমআউটজনিত ত্রুটি সমাধান করা হয়েছে এবং নিরবচ্ছিন্ন ডাউনলোড ব্যবস্থা নিশ্চিত করা হয়েছে।"
+    },
+    {
       "versionCode": 11941,
       "versionName": "0.1.30-194-g668610fc1-unstable",
-      "builtAt": "2026-11-09T11:21:45.4241074+06:00",
+      "builtAt": "11/09/2026 11:21:45",
       "changelogEn": "### Features\n* **Mandatory Google Sign-In:** Enforced Google Sign-In as Step 1 of 3 during initial setup. All users must sign in to activate the keyboard.\n* **Keyboard Sign-In Lockout Gate:** Replaces keyboard keys with a single-tap Sign-In card and IME switcher when signed out, blocking unauthenticated keystrokes and clipboard actions.",
       "changelogBn": "### ফিচার\n* **বাধ্যতামূলক গুগল সাইন ইন:** প্রথম ইনস্টল সেটআপের ধাপ ১ হিসেবে গুগল সাইন ইন বাধ্যতামূলক করা হয়েছে। সাইন ইন ছাড়া বলো কী ব্যবহার করা যাবে না।\n* **কিবোর্ড সাইন ইন লক:** সাইন আউট অবস্থায় কিবোর্ডের পরিবর্তে সরাসরি সাইন ইন কার্ড ও কিবোর্ড সুইচার দেখাবে এবং সকল টাইপিং নিরাপদভাবে লক রাখবে।"
     },
