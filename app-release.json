@@ -1,105 +1,112 @@
 {
-  "versionName": "0.1.30-198-g5e82d8ae5-unstable",
-  "versionCode": 11945,
+  "versionName": "0.1.30-199-g6fb19d1b9-unstable",
+  "versionCode": 11946,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58781877,
-  "sha256": "8ee0a4ffc1201381253c12a7612702850fd9eec967daebe481f86266a3e1a692",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11945/bolo-keyboard-11945-arm64-v8a.apk",
-  "builtAt": "2026-11-09T13:45:35.5751266+06:00",
-  "changelogBn": "### সমাধান\n* **রিদমিক কি হিন্টস ও লং-প্রেস অপশন:** ইংলিশ, অভ্র এবং প্রভাত লেআউটের প্রতিটি কি-এর টপ-রাইট হিন্ট এবং লং-প্রেস অপশন রিদমিক কিবোর্ডের হুবহু সমান করা হয়েছে।",
-  "changelogEn": "### Fixes\n* **Ridmik Key Hints & Hold Suggestions:** Matched top-right key hints and hold suggestions bit-for-bit to Ridmik Keyboard across English, Avro, and Probhat layouts.",
+  "sizeBytes": 58781821,
+  "sha256": "e23b21831b0c695b88032ab1f4595cee00f9f870f3c8da9f77c8ba66fe41707f",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11946/bolo-keyboard-11946-arm64-v8a.apk",
+  "builtAt": "2026-11-09T14:39:55.7566513+06:00",
+  "changelogBn": "### সমাধান\n* **রিদমিক স্টাইল স্পেসবার ভাষা পরিবর্তন:** স্পেসবারে সোয়াইপ এবং হোল্ড-সোয়াইপ উভয় পদ্ধতিতে রিদমিক কিবোর্ডের মতো মসৃণভাবে ইংরেজি, বাংলা প্রভাত এবং অভ্রের মধ্যে সুইচ করা যাবে, সাধারণ ট্যাপে স্বাভাবিক স্পেস টাইপিং অক্ষুণ্ণ রেখে।",
+  "changelogEn": "### Fixes\n* **Ridmik Spacebar Language Switching:** Swiping and hold-swiping across the spacebar now smoothly switches between English, Bangla Probhat, and Avro layouts bit-for-bit like Ridmik Keyboard, with immediate space typing on normal taps.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58781877,
-      "sha256": "8ee0a4ffc1201381253c12a7612702850fd9eec967daebe481f86266a3e1a692",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11945/bolo-keyboard-11945-arm64-v8a.apk"
+      "sizeBytes": 58781821,
+      "sha256": "e23b21831b0c695b88032ab1f4595cee00f9f870f3c8da9f77c8ba66fe41707f",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11946/bolo-keyboard-11946-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58003633,
-      "sha256": "30e9541ab8ae59e615b3893dd232c5202f225ccb7b12f75b66ebe248953da791",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11945/bolo-keyboard-11945-armeabi-v7a.apk"
+      "sizeBytes": 58003577,
+      "sha256": "c48b6329f7695b56a9b7e3ed6b165eb5a00e5db0e8c4fab2073aa3ad1678d5eb",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11946/bolo-keyboard-11946-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 11946,
+      "versionName": "0.1.30-199-g6fb19d1b9-unstable",
+      "builtAt": "2026-11-09T14:39:55.7566513+06:00",
+      "changelogEn": "### Fixes\n* **Ridmik Spacebar Language Switching:** Swiping and hold-swiping across the spacebar now smoothly switches between English, Bangla Probhat, and Avro layouts bit-for-bit like Ridmik Keyboard, with immediate space typing on normal taps.",
+      "changelogBn": "### সমাধান\n* **রিদমিক স্টাইল স্পেসবার ভাষা পরিবর্তন:** স্পেসবারে সোয়াইপ এবং হোল্ড-সোয়াইপ উভয় পদ্ধতিতে রিদমিক কিবোর্ডের মতো মসৃণভাবে ইংরেজি, বাংলা প্রভাত এবং অভ্রের মধ্যে সুইচ করা যাবে, সাধারণ ট্যাপে স্বাভাবিক স্পেস টাইপিং অক্ষুণ্ণ রেখে।"
+    },
     {
       "versionCode": 11945,
       "versionName": "0.1.30-198-g5e82d8ae5-unstable",
       "builtAt": "2026-11-09T13:45:35.5751266+06:00",
       "changelogEn": "### Fixes\n* **Ridmik Key Hints & Hold Suggestions:** Matched top-right key hints and hold suggestions bit-for-bit to Ridmik Keyboard across English, Avro, and Probhat layouts.",
-      "changelogBn": "### সমাধান\n* **রিদমিক কি হিন্টস ও লং-প্রেস অপশন:** ইংলিশ, অভ্র এবং প্রভাত লেআউটের প্রতিটি কি-এর টপ-রাইট হিন্ট এবং লং-প্রেস অপশন রিদমিক কিবোর্ডের হুবহু সমান করা হয়েছে।"
+      "changelogBn": "### à¦¸à¦®à¦¾à¦§à¦¾à¦¨\n* **à¦°à¦¿à¦¦à¦®à¦¿à¦• à¦•à¦¿ à¦¹à¦¿à¦¨à§à¦Ÿà¦¸ à¦“ à¦²à¦‚-à¦ªà§à¦°à§‡à¦¸ à¦…à¦ªà¦¶à¦¨:** à¦‡à¦‚à¦²à¦¿à¦¶, à¦…à¦­à§à¦° à¦à¦¬à¦‚ à¦ªà§à¦°à¦­à¦¾à¦¤ à¦²à§‡à¦†à¦‰à¦Ÿà§‡à¦° à¦ªà§à¦°à¦¤à¦¿à¦Ÿà¦¿ à¦•à¦¿-à¦à¦° à¦Ÿà¦ª-à¦°à¦¾à¦‡à¦Ÿ à¦¹à¦¿à¦¨à§à¦Ÿ à¦à¦¬à¦‚ à¦²à¦‚-à¦ªà§à¦°à§‡à¦¸ à¦…à¦ªà¦¶à¦¨ à¦°à¦¿à¦¦à¦®à¦¿à¦• à¦•à¦¿à¦¬à§‹à¦°à§à¦¡à§‡à¦° à¦¹à§à¦¬à¦¹à§ à¦¸à¦®à¦¾à¦¨ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     },
     {
       "versionCode": 11943,
       "versionName": "0.1.30-196-gf4823549b-unstable",
       "builtAt": "11/09/2026 11:52:46",
       "changelogEn": "### Fixes\n* **OTA Download Pipeline:** Replaced fragile multi-part parallel Range connections with reliable single-connection streaming and automatic recovery, resolving HTTP 504 Gateway Timeouts from GitHub Releases redirectors.",
-      "changelogBn": "### সমাধান\n* **ওটিএ ডাউনলোড পাইপলাইন:** গিটহাব রিলিজ থেকে আপডেট ডাউনলোড করার সময় ৫০৪ গেটওয়ে টাইমআউটজনিত ত্রুটি সমাধান করা হয়েছে এবং নিরবচ্ছিন্ন ডাউনলোড ব্যবস্থা নিশ্চিত করা হয়েছে।"
+      "changelogBn": "### à¦¸à¦®à¦¾à¦§à¦¾à¦¨\n* **à¦“à¦Ÿà¦¿à¦ à¦¡à¦¾à¦‰à¦¨à¦²à§‹à¦¡ à¦ªà¦¾à¦‡à¦ªà¦²à¦¾à¦‡à¦¨:** à¦—à¦¿à¦Ÿà¦¹à¦¾à¦¬ à¦°à¦¿à¦²à¦¿à¦œ à¦¥à§‡à¦•à§‡ à¦†à¦ªà¦¡à§‡à¦Ÿ à¦¡à¦¾à¦‰à¦¨à¦²à§‹à¦¡ à¦•à¦°à¦¾à¦° à¦¸à¦®à§Ÿ à§«à§¦à§ª à¦—à§‡à¦Ÿà¦“à§Ÿà§‡ à¦Ÿà¦¾à¦‡à¦®à¦†à¦‰à¦Ÿà¦œà¦¨à¦¿à¦¤ à¦¤à§à¦°à§à¦Ÿà¦¿ à¦¸à¦®à¦¾à¦§à¦¾à¦¨ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡ à¦à¦¬à¦‚ à¦¨à¦¿à¦°à¦¬à¦šà§à¦›à¦¿à¦¨à§à¦¨ à¦¡à¦¾à¦‰à¦¨à¦²à§‹à¦¡ à¦¬à§à¦¯à¦¬à¦¸à§à¦¥à¦¾ à¦¨à¦¿à¦¶à§à¦šà¦¿à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     },
     {
       "versionCode": 11941,
       "versionName": "0.1.30-194-g668610fc1-unstable",
       "builtAt": "11/09/2026 11:21:45",
       "changelogEn": "### Features\n* **Mandatory Google Sign-In:** Enforced Google Sign-In as Step 1 of 3 during initial setup. All users must sign in to activate the keyboard.\n* **Keyboard Sign-In Lockout Gate:** Replaces keyboard keys with a single-tap Sign-In card and IME switcher when signed out, blocking unauthenticated keystrokes and clipboard actions.",
-      "changelogBn": "### ফিচার\n* **বাধ্যতামূলক গুগল সাইন ইন:** প্রথম ইনস্টল সেটআপের ধাপ ১ হিসেবে গুগল সাইন ইন বাধ্যতামূলক করা হয়েছে। সাইন ইন ছাড়া বলো কী ব্যবহার করা যাবে না।\n* **কিবোর্ড সাইন ইন লক:** সাইন আউট অবস্থায় কিবোর্ডের পরিবর্তে সরাসরি সাইন ইন কার্ড ও কিবোর্ড সুইচার দেখাবে এবং সকল টাইপিং নিরাপদভাবে লক রাখবে।"
+      "changelogBn": "### à¦«à¦¿à¦šà¦¾à¦°\n* **à¦¬à¦¾à¦§à§à¦¯à¦¤à¦¾à¦®à§‚à¦²à¦• à¦—à§à¦—à¦² à¦¸à¦¾à¦‡à¦¨ à¦‡à¦¨:** à¦ªà§à¦°à¦¥à¦® à¦‡à¦¨à¦¸à§à¦Ÿà¦² à¦¸à§‡à¦Ÿà¦†à¦ªà§‡à¦° à¦§à¦¾à¦ª à§§ à¦¹à¦¿à¦¸à§‡à¦¬à§‡ à¦—à§à¦—à¦² à¦¸à¦¾à¦‡à¦¨ à¦‡à¦¨ à¦¬à¦¾à¦§à§à¦¯à¦¤à¦¾à¦®à§‚à¦²à¦• à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤ à¦¸à¦¾à¦‡à¦¨ à¦‡à¦¨ à¦›à¦¾à§œà¦¾ à¦¬à¦²à§‹ à¦•à§€ à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦° à¦•à¦°à¦¾ à¦¯à¦¾à¦¬à§‡ à¦¨à¦¾à¥¤\n* **à¦•à¦¿à¦¬à§‹à¦°à§à¦¡ à¦¸à¦¾à¦‡à¦¨ à¦‡à¦¨ à¦²à¦•:** à¦¸à¦¾à¦‡à¦¨ à¦†à¦‰à¦Ÿ à¦…à¦¬à¦¸à§à¦¥à¦¾à§Ÿ à¦•à¦¿à¦¬à§‹à¦°à§à¦¡à§‡à¦° à¦ªà¦°à¦¿à¦¬à¦°à§à¦¤à§‡ à¦¸à¦°à¦¾à¦¸à¦°à¦¿ à¦¸à¦¾à¦‡à¦¨ à¦‡à¦¨ à¦•à¦¾à¦°à§à¦¡ à¦“ à¦•à¦¿à¦¬à§‹à¦°à§à¦¡ à¦¸à§à¦‡à¦šà¦¾à¦° à¦¦à§‡à¦–à¦¾à¦¬à§‡ à¦à¦¬à¦‚ à¦¸à¦•à¦² à¦Ÿà¦¾à¦‡à¦ªà¦¿à¦‚ à¦¨à¦¿à¦°à¦¾à¦ªà¦¦à¦­à¦¾à¦¬à§‡ à¦²à¦• à¦°à¦¾à¦–à¦¬à§‡à¥¤"
     },
     {
       "versionCode": 11939,
       "versionName": "0.1.30-192-g5bef3d085-unstable",
       "builtAt": "11/09/2026 10:06:18",
-      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
-      "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কী-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** বলো কী সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
+      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to à¦¬à¦²à§‹ à¦•à§€ across all UI strings and changelogs, added inline à¦¬à¦¾à¦‚à¦²à¦¾ / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+      "changelogBn": "### à¦«à¦¿à¦šà¦¾à¦°\n* **à¦®à¦°à¦«à¦¿-à¦¸à§à¦Ÿà¦¾à¦‡à¦² à¦†à¦ªà¦¡à§‡à¦Ÿ à¦“ à¦šà§‡à¦žà§à¦œà¦²à¦— à¦Ÿà¦¾à¦‡à¦®à¦²à¦¾à¦‡à¦¨:** à¦¬à¦²à§‹ à¦•à§€-à¦¤à§‡ à¦‡à¦¨à§à¦Ÿà¦¾à¦°à¦…à§à¦¯à¦¾à¦•à§à¦Ÿà¦¿à¦­ à¦°à¦¿à¦²à¦¿à¦œ à¦Ÿà¦¾à¦‡à¦®à¦²à¦¾à¦‡à¦¨, à¦•à§à¦¯à¦¾à¦Ÿà¦¾à¦—à¦°à¦¿ à¦…à¦¨à§à¦¯à¦¾à§Ÿà§€ à¦¸à¦¾à¦®à¦¾à¦°à¦¿ à¦ªà¦¿à¦² à¦à¦¬à¦‚ à¦¸à§‡à¦•à¦¶à¦¨ à¦•à¦¾à¦°à§à¦¡ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤\n* **à§¨à§¨à§¦ à¦¡à¦¿à¦ªà¦¿ à¦“à§Ÿà§‡à¦­à¦¿ à¦ªà§à¦°à¦—à§à¦°à§‡à¦¸ à¦°à¦¿à¦‚:** à¦†à¦ªà¦¡à§‡à¦Ÿ à¦¡à¦¾à¦‰à¦¨à¦²à§‹à¦¡à§‡à¦° à¦¸à¦®à§Ÿ à¦†à¦•à¦°à§à¦·à¦£à§€à§Ÿ à¦“à§Ÿà§‡à¦­à¦¿ à¦ªà§à¦°à¦—à§à¦°à§‡à¦¸ à¦°à¦¿à¦‚ à¦à¦¬à¦‚ à¦…à§à¦¯à¦¾à¦¨à¦¿à¦®à§‡à¦Ÿà§‡à¦¡ à¦‡à¦¨à¦¸à§à¦Ÿà¦² à¦‡à¦¨à§à¦¡à¦¿à¦•à§‡à¦Ÿà¦° à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤\n* **à¦¹à§‹à¦® à¦¨à§‹à¦Ÿà¦¿à¦«à¦¿à¦•à§‡à¦¶à¦¨ à¦¡à§‡à¦•:** à¦¬à¦²à§‹ à¦•à§€ à¦¸à§‡à¦Ÿà¦¿à¦‚à¦¸ à¦¹à§‹à¦® à¦¸à§à¦•à§à¦°à¦¿à¦¨à§‡ à¦¸à§à¦Ÿà§à¦¯à¦¾à¦•à¦¡ à¦«à§‹à¦²à§à¦¡à§‡à¦¬à¦² à¦¨à§‹à¦Ÿà¦¿à¦«à¦¿à¦•à§‡à¦¶à¦¨ à¦¡à§‡à¦• à¦à¦¬à¦‚ à¦¸à§‹à§Ÿà¦¾à¦‡à¦ª-à¦Ÿà§-à¦¸à§à¦¨à§à¦œ à¦¸à§à¦¬à¦¿à¦§à¦¾ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     },
     {
       "versionCode": 11937,
       "versionName": "0.1.30-190-gcd7994945-unstable",
       "builtAt": "11/09/2026 09:48:21",
-      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to বলো কী across all UI strings and changelogs, added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
-      "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** বলো কী-তে ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** বলো কী সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
+      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bangla Localization & Safeguards:** Standardized Bangla brand spelling to à¦¬à¦²à§‹ à¦•à§€ across all UI strings and changelogs, added inline à¦¬à¦¾à¦‚à¦²à¦¾ / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+      "changelogBn": "### à¦«à¦¿à¦šà¦¾à¦°\n* **à¦®à¦°à¦«à¦¿-à¦¸à§à¦Ÿà¦¾à¦‡à¦² à¦†à¦ªà¦¡à§‡à¦Ÿ à¦“ à¦šà§‡à¦žà§à¦œà¦²à¦— à¦Ÿà¦¾à¦‡à¦®à¦²à¦¾à¦‡à¦¨:** à¦¬à¦²à§‹ à¦•à§€-à¦¤à§‡ à¦‡à¦¨à§à¦Ÿà¦¾à¦°à¦…à§à¦¯à¦¾à¦•à§à¦Ÿà¦¿à¦­ à¦°à¦¿à¦²à¦¿à¦œ à¦Ÿà¦¾à¦‡à¦®à¦²à¦¾à¦‡à¦¨, à¦•à§à¦¯à¦¾à¦Ÿà¦¾à¦—à¦°à¦¿ à¦…à¦¨à§à¦¯à¦¾à§Ÿà§€ à¦¸à¦¾à¦®à¦¾à¦°à¦¿ à¦ªà¦¿à¦² à¦à¦¬à¦‚ à¦¸à§‡à¦•à¦¶à¦¨ à¦•à¦¾à¦°à§à¦¡ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤\n* **à§¨à§¨à§¦ à¦¡à¦¿à¦ªà¦¿ à¦“à§Ÿà§‡à¦­à¦¿ à¦ªà§à¦°à¦—à§à¦°à§‡à¦¸ à¦°à¦¿à¦‚:** à¦†à¦ªà¦¡à§‡à¦Ÿ à¦¡à¦¾à¦‰à¦¨à¦²à§‹à¦¡à§‡à¦° à¦¸à¦®à§Ÿ à¦†à¦•à¦°à§à¦·à¦£à§€à§Ÿ à¦“à§Ÿà§‡à¦­à¦¿ à¦ªà§à¦°à¦—à§à¦°à§‡à¦¸ à¦°à¦¿à¦‚ à¦à¦¬à¦‚ à¦…à§à¦¯à¦¾à¦¨à¦¿à¦®à§‡à¦Ÿà§‡à¦¡ à¦‡à¦¨à¦¸à§à¦Ÿà¦² à¦‡à¦¨à§à¦¡à¦¿à¦•à§‡à¦Ÿà¦° à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤\n* **à¦¹à§‹à¦® à¦¨à§‹à¦Ÿà¦¿à¦«à¦¿à¦•à§‡à¦¶à¦¨ à¦¡à§‡à¦•:** à¦¬à¦²à§‹ à¦•à§€ à¦¸à§‡à¦Ÿà¦¿à¦‚à¦¸ à¦¹à§‹à¦® à¦¸à§à¦•à§à¦°à¦¿à¦¨à§‡ à¦¸à§à¦Ÿà§à¦¯à¦¾à¦•à¦¡ à¦«à§‹à¦²à§à¦¡à§‡à¦¬à¦² à¦¨à§‹à¦Ÿà¦¿à¦«à¦¿à¦•à§‡à¦¶à¦¨ à¦¡à§‡à¦• à¦à¦¬à¦‚ à¦¸à§‹à§Ÿà¦¾à¦‡à¦ª-à¦Ÿà§-à¦¸à§à¦¨à§à¦œ à¦¸à§à¦¬à¦¿à¦§à¦¾ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     },
     {
       "versionCode": 11935,
       "versionName": "0.1.30-188-ga6cc5f4f8-unstable",
       "builtAt": "11/09/2026 09:29:34",
-      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bilingual Changelog & Safeguards:** Added inline বাংলা / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
-      "changelogBn": "### ফিচার\n* **মরফি-স্টাইল আপডেট ও চেঞ্জলগ টাইমলাইন:** ইন্টারঅ্যাক্টিভ রিলিজ টাইমলাইন, ক্যাটাগরি অনুযায়ী সামারি পিল এবং সেকশন কার্ড যুক্ত করা হয়েছে।\n* **২২০ ডিপি ওয়েভি প্রগ্রেস রিং:** আপডেট ডাউনলোডের সময় আকর্ষণীয় ওয়েভি প্রগ্রেস রিং এবং অ্যানিমেটেড ইনস্টল ইন্ডিকেটর যুক্ত করা হয়েছে।\n* **হোম নোটিফিকেশন ডেক:** সেটিংস হোম স্ক্রিনে স্ট্যাকড ফোল্ডেবল নোটিফিকেশন ডেক এবং সোয়াইপ-টু-স্নুজ সুবিধা যুক্ত করা হয়েছে।"
+      "changelogEn": "### Features\n* **Morphe-Style Changelog Timeline:** Added interactive vertical release timeline with semantic status badges (Latest, Installed, Downloaded), aggregated update summary pills, and collapsible section cards (New Features, Bug Fixes, Improvements, Performance).\n* **220dp Wavy Progress Ring:** Added sinusoidal Material 3 Expressive wavy progress ring with real-time percentage & MB counter during OTA downloads, pulsing install indicator, and spring-animated completion badge.\n* **Home Notification Deck:** Added stacked foldable notification deck on Settings Home with peek cards, +N more expand/collapse, and horizontal swipe-to-snooze.\n### Improvements\n* **Bilingual Changelog & Safeguards:** Added inline à¦¬à¦¾à¦‚à¦²à¦¾ / English changelog language switcher, metered network confirmation prompt, ZIP magic-byte verification, and 1500ms abandoned-install recovery.",
+      "changelogBn": "### à¦«à¦¿à¦šà¦¾à¦°\n* **à¦®à¦°à¦«à¦¿-à¦¸à§à¦Ÿà¦¾à¦‡à¦² à¦†à¦ªà¦¡à§‡à¦Ÿ à¦“ à¦šà§‡à¦žà§à¦œà¦²à¦— à¦Ÿà¦¾à¦‡à¦®à¦²à¦¾à¦‡à¦¨:** à¦‡à¦¨à§à¦Ÿà¦¾à¦°à¦…à§à¦¯à¦¾à¦•à§à¦Ÿà¦¿à¦­ à¦°à¦¿à¦²à¦¿à¦œ à¦Ÿà¦¾à¦‡à¦®à¦²à¦¾à¦‡à¦¨, à¦•à§à¦¯à¦¾à¦Ÿà¦¾à¦—à¦°à¦¿ à¦…à¦¨à§à¦¯à¦¾à§Ÿà§€ à¦¸à¦¾à¦®à¦¾à¦°à¦¿ à¦ªà¦¿à¦² à¦à¦¬à¦‚ à¦¸à§‡à¦•à¦¶à¦¨ à¦•à¦¾à¦°à§à¦¡ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤\n* **à§¨à§¨à§¦ à¦¡à¦¿à¦ªà¦¿ à¦“à§Ÿà§‡à¦­à¦¿ à¦ªà§à¦°à¦—à§à¦°à§‡à¦¸ à¦°à¦¿à¦‚:** à¦†à¦ªà¦¡à§‡à¦Ÿ à¦¡à¦¾à¦‰à¦¨à¦²à§‹à¦¡à§‡à¦° à¦¸à¦®à§Ÿ à¦†à¦•à¦°à§à¦·à¦£à§€à§Ÿ à¦“à§Ÿà§‡à¦­à¦¿ à¦ªà§à¦°à¦—à§à¦°à§‡à¦¸ à¦°à¦¿à¦‚ à¦à¦¬à¦‚ à¦…à§à¦¯à¦¾à¦¨à¦¿à¦®à§‡à¦Ÿà§‡à¦¡ à¦‡à¦¨à¦¸à§à¦Ÿà¦² à¦‡à¦¨à§à¦¡à¦¿à¦•à§‡à¦Ÿà¦° à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤\n* **à¦¹à§‹à¦® à¦¨à§‹à¦Ÿà¦¿à¦«à¦¿à¦•à§‡à¦¶à¦¨ à¦¡à§‡à¦•:** à¦¸à§‡à¦Ÿà¦¿à¦‚à¦¸ à¦¹à§‹à¦® à¦¸à§à¦•à§à¦°à¦¿à¦¨à§‡ à¦¸à§à¦Ÿà§à¦¯à¦¾à¦•à¦¡ à¦«à§‹à¦²à§à¦¡à§‡à¦¬à¦² à¦¨à§‹à¦Ÿà¦¿à¦«à¦¿à¦•à§‡à¦¶à¦¨ à¦¡à§‡à¦• à¦à¦¬à¦‚ à¦¸à§‹à§Ÿà¦¾à¦‡à¦ª-à¦Ÿà§-à¦¸à§à¦¨à§à¦œ à¦¸à§à¦¬à¦¿à¦§à¦¾ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     },
     {
       "versionCode": 11933,
       "versionName": "0.1.30-186-g6ba0038a7-unstable",
       "builtAt": "11/09/2026 08:29:08",
       "changelogEn": "### Features\n* **Strip Switcher:** Added a dedicated Ridmik-style Mini Tools & Suggestions switching button on the far left of `ActionBar` with a circular-sparkle icon (`R.drawable.strip_switch`).\n### Improvements\n* **Mini Tools Row:** Moved the 3-dot `MoreActionsAction` (`...`) into the trailing slot of the Mini Tools strip.",
-      "changelogBn": "মিনি টুলস এবং সাজেশন সুইচ করার বাটন যুক্ত করা হয়েছে।"
+      "changelogBn": "à¦®à¦¿à¦¨à¦¿ à¦Ÿà§à¦²à¦¸ à¦à¦¬à¦‚ à¦¸à¦¾à¦œà§‡à¦¶à¦¨ à¦¸à§à¦‡à¦š à¦•à¦°à¦¾à¦° à¦¬à¦¾à¦Ÿà¦¨ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     },
     {
       "versionCode": 11931,
       "versionName": "0.1.30-184-g25f573c07-unstable",
       "builtAt": "11/09/2026 08:05:00",
       "changelogEn": "### Improvements\n* **Probhat Key Proportions:** Matched Ridmik Keyboard's exact per-row key widths in `rows_bangla_provat.xml` (Row 1 `8.333%`, Row 2 `10.0%` with `5.0%` side margins, Row 3 `14.0%` Shift/Backspace + `8.0%` inner keys).",
-      "changelogBn": "প্রভাত লেআউটে রিদমিক কিবোর্ডের মতো মাঝের সারির কি-গুলো বড় করা হয়েছে।"
+      "changelogBn": "à¦ªà§à¦°à¦­à¦¾à¦¤ à¦²à§‡à¦†à¦‰à¦Ÿà§‡ à¦°à¦¿à¦¦à¦®à¦¿à¦• à¦•à¦¿à¦¬à§‹à¦°à§à¦¡à§‡à¦° à¦®à¦¤à§‹ à¦®à¦¾à¦à§‡à¦° à¦¸à¦¾à¦°à¦¿à¦° à¦•à¦¿-à¦—à§à¦²à§‹ à¦¬à§œ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     },
     {
       "versionCode": 11927,
       "versionName": "0.1.30-180-g7a9c12e4-unstable",
       "builtAt": "11/09/2026 07:20:00",
       "changelogEn": "### Improvements\n* **Voice Session Limit:** Increased one-time continuous neural voice dictation limit from `2 minutes` to `5 minutes` (`MAX_SESSION_DURATION_MS = 300_000L`).\n### Compatibility & OTA\n* **Rollout Push Alerts:** Added automatic FCM rollout notifications (`/api/admin-notify`) when publishing or widening rollouts.",
-      "changelogBn": "একটানা ভয়েস টাইপিংয়ের সময়সীমা ২ মিনিট থেকে বাড়িয়ে ৫ মিনিট করা হয়েছে এবং অটো আপডেট নোটিফিকেশন যুক্ত করা হয়েছে।"
+      "changelogBn": "à¦à¦•à¦Ÿà¦¾à¦¨à¦¾ à¦­à§Ÿà§‡à¦¸ à¦Ÿà¦¾à¦‡à¦ªà¦¿à¦‚à§Ÿà§‡à¦° à¦¸à¦®à§Ÿà¦¸à§€à¦®à¦¾ à§¨ à¦®à¦¿à¦¨à¦¿à¦Ÿ à¦¥à§‡à¦•à§‡ à¦¬à¦¾à§œà¦¿à§Ÿà§‡ à§« à¦®à¦¿à¦¨à¦¿à¦Ÿ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡ à¦à¦¬à¦‚ à¦…à¦Ÿà§‹ à¦†à¦ªà¦¡à§‡à¦Ÿ à¦¨à§‹à¦Ÿà¦¿à¦«à¦¿à¦•à§‡à¦¶à¦¨ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     },
     {
       "versionCode": 11925,
       "versionName": "0.1.30-178-g4f1d88a2-unstable",
       "builtAt": "11/09/2026 06:50:00",
       "changelogEn": "### Features\n* **Live Sound-Wave Mic Animation:** Added real-time audio amplitude visualization on the voice mic button with liquid capsule fill, concentric wave halo rings, and a 5-bar waveform meter.",
-      "changelogBn": "কথা বলার সময় শব্দের তীব্রতা অনুযায়ী মাইক আইকনে সাউন্ড ওয়েভ অ্যানিমেশন যুক্ত করা হয়েছে।"
+      "changelogBn": "à¦•à¦¥à¦¾ à¦¬à¦²à¦¾à¦° à¦¸à¦®à§Ÿ à¦¶à¦¬à§à¦¦à§‡à¦° à¦¤à§€à¦¬à§à¦°à¦¤à¦¾ à¦…à¦¨à§à¦¯à¦¾à§Ÿà§€ à¦®à¦¾à¦‡à¦• à¦†à¦‡à¦•à¦¨à§‡ à¦¸à¦¾à¦‰à¦¨à§à¦¡ à¦“à§Ÿà§‡à¦­ à¦…à§à¦¯à¦¾à¦¨à¦¿à¦®à§‡à¦¶à¦¨ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     },
     {
       "versionCode": 11923,
       "versionName": "0.1.30-176-g9b4e31c0-unstable",
       "builtAt": "11/09/2026 06:15:00",
       "changelogEn": "### Features\n* **Compact Combined Top Strip:** Combined mini tools and voice mic into a single compact `40.dp` row that fits the full display width without horizontal scrolling.\n* **Shift Top-Right Hint:** Displayed secondary Shift character legends on the top-right corner of keys.",
-      "changelogBn": "স্ক্রলিং ছাড়াই পুরো ডিসপ্লেতে ফিট হওয়ার মতো কম্প্যাক্ট মিনি টুলস ও মাইক বার যুক্ত করা হয়েছে।"
+      "changelogBn": "à¦¸à§à¦•à§à¦°à¦²à¦¿à¦‚ à¦›à¦¾à§œà¦¾à¦‡ à¦ªà§à¦°à§‹ à¦¡à¦¿à¦¸à¦ªà§à¦²à§‡à¦¤à§‡ à¦«à¦¿à¦Ÿ à¦¹à¦“à§Ÿà¦¾à¦° à¦®à¦¤à§‹ à¦•à¦®à§à¦ªà§à¦¯à¦¾à¦•à§à¦Ÿ à¦®à¦¿à¦¨à¦¿ à¦Ÿà§à¦²à¦¸ à¦“ à¦®à¦¾à¦‡à¦• à¦¬à¦¾à¦° à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à§Ÿà§‡à¦›à§‡à¥¤"
     }
   ]
 }
