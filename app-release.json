@@ -1,26 +1,26 @@
 {
-  "versionName": "0.1.30-184-g25f573c07-unstable",
-  "versionCode": 11931,
+  "versionName": "0.1.30-186-g6ba0038a7-unstable",
+  "versionCode": 11933,
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 100,
-  "sizeBytes": 58718241,
-  "sha256": "c6964531bf8c7e5a0fe4fd553ac1e50782f250e5874eff2a66060a1f89d21207",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11931/bolo-keyboard-11931-arm64-v8a.apk",
-  "builtAt": "2026-11-09T08:03:59.7928852+06:00",
-  "changelogBn": "রিদমিক প্রভাত লেআউটের প্রতি সারির কী-সাইজ হুবহু মিলানো হয়েছে: ২য় সারির মাঝের কীগুলো ১০% চওড়া করা হয়েছে এবং ৩য় সারির শিফট/ডিলিট (১৪%) ও অক্ষরের কীগুলোর (৮%) মাপ ঠিক করা হয়েছে।",
-  "changelogEn": "Matched Ridmik Provat per-row key widths: widened middle row keys to 10% (reducing side gaps from 12.5% to 5%) and aligned 3rd row Shift/Delete (14%) and letter keys (8%).",
+  "rolloutPercentage": 10,
+  "sizeBytes": 58717913,
+  "sha256": "74073615eaa4f694d2110fff5a278b59ad2e1de8c76fed36a759accba0f40e7e",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11933/bolo-keyboard-11933-arm64-v8a.apk",
+  "builtAt": "2026-11-09T08:29:08.8400824+06:00",
+  "changelogBn": "মিনি টুলস এবং সাজেশন সুইচ করার বাটন যুক্ত করা হয়েছে।",
+  "changelogEn": "Add dedicated Mini Tools & Suggestions switching button with animated circular-sparkle icon and move 3-dot More Actions into the Mini Tools row.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58718241,
-      "sha256": "c6964531bf8c7e5a0fe4fd553ac1e50782f250e5874eff2a66060a1f89d21207",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11931/bolo-keyboard-11931-arm64-v8a.apk"
+      "sizeBytes": 58717913,
+      "sha256": "74073615eaa4f694d2110fff5a278b59ad2e1de8c76fed36a759accba0f40e7e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11933/bolo-keyboard-11933-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 57940001,
-      "sha256": "902acc5f027ed58dfbc09da9eccb11b5ddbc3cb9069d12a4bb58647ff04e541f",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11931/bolo-keyboard-11931-armeabi-v7a.apk"
+      "sizeBytes": 57939669,
+      "sha256": "e2df81d321563d568351802a8e738a89c8d67eb36972dab027d974a26e42ae3d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11933/bolo-keyboard-11933-armeabi-v7a.apk"
     }
   ]
 }
