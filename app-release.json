@@ -1,33 +1,40 @@
 {
-  "versionName": "0.1.30-215-g27e971733-unstable",
-  "versionCode": 11962,
+  "versionName": "0.1.30-221-g506879074-unstable",
+  "versionCode": 11968,
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 10,
-  "sizeBytes": 58825608,
-  "sha256": "b5bdd7ee439319364aa7a246ad1839bb433c7eaa3eb8d20564f1e600139fee40",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11962/bolo-keyboard-11962-arm64-v8a.apk",
-  "builtAt": "2026-11-10T15:34:33.1098196+06:00",
-  "changelogBn": "অফলাইনে ভয়েস টাইপিং চাপলে এখন অফলাইন টোস্ট দেখাবে, আর নেটওয়ার্ক চলে গেলে আপনার কথা রেখে সুন্দরভাবে বন্ধ হবে।",
-  "changelogEn": "Voice typing now shows a \"You are offline\" toast when offline, and stops cleanly (keeping your words) if the network drops.",
+  "rolloutPercentage": 100,
+  "sizeBytes": 58854724,
+  "sha256": "0a35fa604051605724eef594d0e34455f7819ef7a4834749dbf0446b041b8d59",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11968/bolo-keyboard-11968-arm64-v8a.apk",
+  "builtAt": "2026-11-10T23:10:14.0501468+06:00",
+  "changelogBn": "বলো কী-তে ডিভাইস ও পারফরম্যান্স ডায়াগনস্টিকস, রিমোট কনফিগ ও তাৎক্ষণিক আপডেট সিঙ্ক এবং সার্ভার-রাউটেড মডেল বাকেট ভয়েস টাইপিং প্রি-ওয়ার্মিং যুক্ত করা হয়েছে।",
+  "changelogEn": "Added device & performance diagnostics, instant remote config & update sync, Model Bucket server-routed voice ASR with pre-warming, and per-user rollout controls.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58825608,
-      "sha256": "b5bdd7ee439319364aa7a246ad1839bb433c7eaa3eb8d20564f1e600139fee40",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11962/bolo-keyboard-11962-arm64-v8a.apk"
+      "sizeBytes": 58854724,
+      "sha256": "0a35fa604051605724eef594d0e34455f7819ef7a4834749dbf0446b041b8d59",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11968/bolo-keyboard-11968-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58047368,
-      "sha256": "f91a02aac5c3a64e076cc43df0f132f51f67b8e02519fbab756330d15b7cdd9c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11962/bolo-keyboard-11962-armeabi-v7a.apk"
+      "sizeBytes": 58076480,
+      "sha256": "365f3cdc5471ee69dfe6ca5140750bceb6123c0ffa5281201378f95d4cd1536a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11968/bolo-keyboard-11968-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11968,
+      "versionName": "0.1.30-221-g506879074-unstable",
+      "builtAt": "2026-11-10T23:10:14.0501468+06:00",
+      "changelogEn": "Added device & performance diagnostics, instant remote config & update sync, Model Bucket server-routed voice ASR with pre-warming, and per-user rollout controls.",
+      "changelogBn": "বলো কী-তে ডিভাইস ও পারফরম্যান্স ডায়াগনস্টিকস, রিমোট কনফিগ ও তাৎক্ষণিক আপডেট সিঙ্ক এবং সার্ভার-রাউটেড মডেল বাকেট ভয়েস টাইপিং প্রি-ওয়ার্মিং যুক্ত করা হয়েছে।"
+    },
+    {
       "versionCode": 11962,
       "versionName": "0.1.30-215-g27e971733-unstable",
-      "builtAt": "2026-11-10T15:34:33.1098196+06:00",
+      "builtAt": "11/10/2026 15:34:33",
       "changelogEn": "Voice typing now shows a \"You are offline\" toast when offline, and stops cleanly (keeping your words) if the network drops.",
       "changelogBn": "অফলাইনে ভয়েস টাইপিং চাপলে এখন অফলাইন টোস্ট দেখাবে, আর নেটওয়ার্ক চলে গেলে আপনার কথা রেখে সুন্দরভাবে বন্ধ হবে।"
     },
