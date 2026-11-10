@@ -1,33 +1,40 @@
 {
-  "versionName": "0.1.30-214-g893482108-unstable",
-  "versionCode": 11961,
+  "versionName": "0.1.30-215-g27e971733-unstable",
+  "versionCode": 11962,
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 100,
-  "sizeBytes": 58823476,
-  "sha256": "a899073bcd66ebccde07abd92d8486843dd41fcd2d5bcb957950823872645601",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11961/bolo-keyboard-11961-arm64-v8a.apk",
-  "builtAt": "2026-11-09T23:44:19.2363456+06:00",
-  "changelogBn": "সার্ভার-সাইড দৈনিক ১২ ঘণ্টার ভয়েস টাইপিং কোটা ট্র্যাকিং এবং সুরক্ষিত মিউজ টোকেন প্রভিশনিং।",
-  "changelogEn": "Server-side daily 12-hour voice typing quota tracking and server-managed Muse token provisioning.",
+  "rolloutPercentage": 10,
+  "sizeBytes": 58825608,
+  "sha256": "b5bdd7ee439319364aa7a246ad1839bb433c7eaa3eb8d20564f1e600139fee40",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11962/bolo-keyboard-11962-arm64-v8a.apk",
+  "builtAt": "2026-11-10T15:34:33.1098196+06:00",
+  "changelogBn": "অফলাইনে ভয়েস টাইপিং চাপলে এখন অফলাইন টোস্ট দেখাবে, আর নেটওয়ার্ক চলে গেলে আপনার কথা রেখে সুন্দরভাবে বন্ধ হবে।",
+  "changelogEn": "Voice typing now shows a \"You are offline\" toast when offline, and stops cleanly (keeping your words) if the network drops.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58823476,
-      "sha256": "a899073bcd66ebccde07abd92d8486843dd41fcd2d5bcb957950823872645601",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11961/bolo-keyboard-11961-arm64-v8a.apk"
+      "sizeBytes": 58825608,
+      "sha256": "b5bdd7ee439319364aa7a246ad1839bb433c7eaa3eb8d20564f1e600139fee40",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11962/bolo-keyboard-11962-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58045232,
-      "sha256": "7ac848e15e4d1d261259d267593b50fa4297f374f716533c18fd71ed14d00731",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11961/bolo-keyboard-11961-armeabi-v7a.apk"
+      "sizeBytes": 58047368,
+      "sha256": "f91a02aac5c3a64e076cc43df0f132f51f67b8e02519fbab756330d15b7cdd9c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11962/bolo-keyboard-11962-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11962,
+      "versionName": "0.1.30-215-g27e971733-unstable",
+      "builtAt": "2026-11-10T15:34:33.1098196+06:00",
+      "changelogEn": "Voice typing now shows a \"You are offline\" toast when offline, and stops cleanly (keeping your words) if the network drops.",
+      "changelogBn": "অফলাইনে ভয়েস টাইপিং চাপলে এখন অফলাইন টোস্ট দেখাবে, আর নেটওয়ার্ক চলে গেলে আপনার কথা রেখে সুন্দরভাবে বন্ধ হবে।"
+    },
+    {
       "versionCode": 11961,
       "versionName": "0.1.30-214-g893482108-unstable",
-      "builtAt": "2026-11-09T23:44:19.2363456+06:00",
+      "builtAt": "11/09/2026 23:44:19",
       "changelogEn": "Server-side daily 12-hour voice typing quota tracking and server-managed Muse token provisioning.",
       "changelogBn": "সার্ভার-সাইড দৈনিক ১২ ঘণ্টার ভয়েস টাইপিং কোটা ট্র্যাকিং এবং সুরক্ষিত মিউজ টোকেন প্রভিশনিং।"
     },
