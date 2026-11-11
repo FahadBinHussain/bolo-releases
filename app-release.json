@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-244-g46b85b7b3-unstable",
-  "versionCode": 11991,
+  "versionName": "0.1.30-247-g0bed709fb-unstable",
+  "versionCode": 11994,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58914017,
-  "sha256": "f335413e78fba543238c01678c89dbd7c0aab5d70a55909a43aaea3fe438a6fe",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11991/bolo-keyboard-11991-arm64-v8a.apk",
-  "builtAt": "2026-11-11T14:57:59.702Z",
-  "changelogBn": "সেটিংস স্ক্রিন রিজিউম হওয়ার সময় রিবিল্ড ও কোরুটিন ক্যান্সেলেশন এরর সমাধান করা হয়েছে এবং অ্যাকাউন্ট সিঙ্ক ও রিফ্রেশ স্ট্যাবিলিটি উন্নত করা হয়েছে।",
-  "changelogEn": "Fixed settings screen recreation on resume causing coroutine scope cancellation errors; added singleflight account sync and pull-to-refresh guards.",
+  "sizeBytes": 58913625,
+  "sha256": "26ad35493eac11d24e6bce2cdb079420cc894f9045e7bb538bfacbd6b10fcb08",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11994/bolo-keyboard-11994-arm64-v8a.apk",
+  "builtAt": "2026-11-11T17:13:42.422Z",
+  "changelogBn": "ভয়েস টাইপিং কানেকশন কিপ-অ্যালাইভ, মোবাইল ডেটায় অডিও স্টল হলে গ্লোবাল টোকেন কুলডাউন প্রতিরোধ এবং অ্যান্টিগ্র্যাভিটি ২৪ কিলোহার্টজ অডিও রিস্যাম্পলিং উন্নত করা হয়েছে।",
+  "changelogEn": "Fixed voice stream connection keepalive, prevented cellular audio stalls from cooling down global voice tokens, and added 24kHz audio resampling for Antigravity voice typing.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58914017,
-      "sha256": "f335413e78fba543238c01678c89dbd7c0aab5d70a55909a43aaea3fe438a6fe",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11991/bolo-keyboard-11991-arm64-v8a.apk"
+      "sizeBytes": 58913625,
+      "sha256": "26ad35493eac11d24e6bce2cdb079420cc894f9045e7bb538bfacbd6b10fcb08",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11994/bolo-keyboard-11994-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58135725,
-      "sha256": "e6e3bd7df8112ae1af9a3c250c0d5a049d2961fee7e7250b854f6d8854576181",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11991/bolo-keyboard-11991-armeabi-v7a.apk"
+      "sizeBytes": 58135337,
+      "sha256": "ed1aa35d2b1a7216ccf70d18dc404f002e7d0b09028d7e174512ee7f7862db9c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11994/bolo-keyboard-11994-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 11994,
+      "versionName": "0.1.30-247-g0bed709fb-unstable",
+      "builtAt": "2026-11-11T17:13:42.422Z",
+      "changelogEn": "Fixed voice stream connection keepalive, prevented cellular audio stalls from cooling down global voice tokens, and added 24kHz audio resampling for Antigravity voice typing.",
+      "changelogBn": "ভয়েস টাইপিং কানেকশন কিপ-অ্যালাইভ, মোবাইল ডেটায় অডিও স্টল হলে গ্লোবাল টোকেন কুলডাউন প্রতিরোধ এবং অ্যান্টিগ্র্যাভিটি ২৪ কিলোহার্টজ অডিও রিস্যাম্পলিং উন্নত করা হয়েছে।"
+    },
     {
       "versionCode": 11991,
       "versionName": "0.1.30-244-g46b85b7b3-unstable",
