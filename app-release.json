@@ -1,33 +1,40 @@
 {
-  "versionName": "0.1.30-221-g506879074-unstable",
-  "versionCode": 11968,
+  "versionName": "0.1.30-223-g0dd9a5f9d-unstable",
+  "versionCode": 11970,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58854724,
-  "sha256": "0a35fa604051605724eef594d0e34455f7819ef7a4834749dbf0446b041b8d59",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11968/bolo-keyboard-11968-arm64-v8a.apk",
-  "builtAt": "2026-11-10T23:10:14.0501468+06:00",
-  "changelogBn": "বলো কী-তে ডিভাইস ও পারফরম্যান্স ডায়াগনস্টিকস, রিমোট কনফিগ ও তাৎক্ষণিক আপডেট সিঙ্ক এবং সার্ভার-রাউটেড মডেল বাকেট ভয়েস টাইপিং প্রি-ওয়ার্মিং যুক্ত করা হয়েছে।",
-  "changelogEn": "Added device & performance diagnostics, instant remote config & update sync, Model Bucket server-routed voice ASR with pre-warming, and per-user rollout controls.",
+  "sizeBytes": 58859092,
+  "sha256": "2f05108f7cac805c362e5237e3fbde88659bcdbe9cd5abd93409d4b93775e7e6",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11970/bolo-keyboard-11970-arm64-v8a.apk",
+  "builtAt": "2026-11-11T07:37:29.8133419+06:00",
+  "changelogBn": "বলো কী-তে ব্যাকগ্রাউন্ড ওটিএ আপডেট পুশ নোটিফিকেশন চ্যানেল ও তাৎক্ষণিক ডেলিভারি অ্যাকনলেজমেন্ট ঠিক করা হয়েছে এবং ড্যাশবোর্ড আপডেট বাটনের ভার্সন গার্ড যুক্ত করা হয়েছে।",
+  "changelogEn": "Fixed background OTA update push notification channel and wakeup delivery, immediate delivery acknowledgments, and dashboard version guards.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58854724,
-      "sha256": "0a35fa604051605724eef594d0e34455f7819ef7a4834749dbf0446b041b8d59",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11968/bolo-keyboard-11968-arm64-v8a.apk"
+      "sizeBytes": 58859092,
+      "sha256": "2f05108f7cac805c362e5237e3fbde88659bcdbe9cd5abd93409d4b93775e7e6",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11970/bolo-keyboard-11970-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58076480,
-      "sha256": "365f3cdc5471ee69dfe6ca5140750bceb6123c0ffa5281201378f95d4cd1536a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11968/bolo-keyboard-11968-armeabi-v7a.apk"
+      "sizeBytes": 58080852,
+      "sha256": "e9dabe0b3cecc19e2067b368ba9b2a2ac2d874d1cf509e9a3bdcefc5a663e10a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11970/bolo-keyboard-11970-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11970,
+      "versionName": "0.1.30-223-g0dd9a5f9d-unstable",
+      "builtAt": "2026-11-11T07:37:29.8133419+06:00",
+      "changelogEn": "Fixed background OTA update push notification channel and wakeup delivery, immediate delivery acknowledgments, and dashboard version guards.",
+      "changelogBn": "বলো কী-তে ব্যাকগ্রাউন্ড ওটিএ আপডেট পুশ নোটিফিকেশন চ্যানেল ও তাৎক্ষণিক ডেলিভারি অ্যাকনলেজমেন্ট ঠিক করা হয়েছে এবং ড্যাশবোর্ড আপডেট বাটনের ভার্সন গার্ড যুক্ত করা হয়েছে।"
+    },
+    {
       "versionCode": 11968,
       "versionName": "0.1.30-221-g506879074-unstable",
-      "builtAt": "2026-11-10T23:10:14.0501468+06:00",
+      "builtAt": "11/10/2026 23:10:14",
       "changelogEn": "Added device & performance diagnostics, instant remote config & update sync, Model Bucket server-routed voice ASR with pre-warming, and per-user rollout controls.",
       "changelogBn": "বলো কী-তে ডিভাইস ও পারফরম্যান্স ডায়াগনস্টিকস, রিমোট কনফিগ ও তাৎক্ষণিক আপডেট সিঙ্ক এবং সার্ভার-রাউটেড মডেল বাকেট ভয়েস টাইপিং প্রি-ওয়ার্মিং যুক্ত করা হয়েছে।"
     },
