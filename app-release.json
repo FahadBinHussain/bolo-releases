@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-223-g0dd9a5f9d-unstable",
-  "versionCode": 11970,
+  "versionName": "0.1.30-233-g09b056249-unstable",
+  "versionCode": 11980,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58859092,
-  "sha256": "2f05108f7cac805c362e5237e3fbde88659bcdbe9cd5abd93409d4b93775e7e6",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11970/bolo-keyboard-11970-arm64-v8a.apk",
-  "builtAt": "2026-11-11T07:37:29.8133419+06:00",
-  "changelogBn": "বলো কী-তে ব্যাকগ্রাউন্ড ওটিএ আপডেট পুশ নোটিফিকেশন চ্যানেল ও তাৎক্ষণিক ডেলিভারি অ্যাকনলেজমেন্ট ঠিক করা হয়েছে এবং ড্যাশবোর্ড আপডেট বাটনের ভার্সন গার্ড যুক্ত করা হয়েছে।",
-  "changelogEn": "Fixed background OTA update push notification channel and wakeup delivery, immediate delivery acknowledgments, and dashboard version guards.",
+  "sizeBytes": 58811405,
+  "sha256": "da05eba408f148ef012025d7c9146c9dc7f02da14f90dda1428d9046ee88f017",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11980/bolo-keyboard-11980-arm64-v8a.apk",
+  "builtAt": "2026-11-11T05:09:21.861Z",
+  "changelogBn": "বলো কী-তে ডিফল্টভাবে অটো-ক্যাপিটালাইজেশন চালু করা হয়েছে।",
+  "changelogEn": "Enabled auto-capitalization by default for new installs and default profiles.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58859092,
-      "sha256": "2f05108f7cac805c362e5237e3fbde88659bcdbe9cd5abd93409d4b93775e7e6",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11970/bolo-keyboard-11970-arm64-v8a.apk"
+      "sizeBytes": 58811405,
+      "sha256": "da05eba408f148ef012025d7c9146c9dc7f02da14f90dda1428d9046ee88f017",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11980/bolo-keyboard-11980-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58080852,
-      "sha256": "e9dabe0b3cecc19e2067b368ba9b2a2ac2d874d1cf509e9a3bdcefc5a663e10a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11970/bolo-keyboard-11970-armeabi-v7a.apk"
+      "sizeBytes": 58033117,
+      "sha256": "10934b4e70543dcafc2716c9a96076e2d3b37bf21f589488125bbdee25c5cd7c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11980/bolo-keyboard-11980-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 11980,
+      "versionName": "0.1.30-233-g09b056249-unstable",
+      "builtAt": "2026-11-11T05:09:21.861Z",
+      "changelogEn": "Enabled auto-capitalization by default for new installs and default profiles.",
+      "changelogBn": "বলো কী-তে ডিফল্টভাবে অটো-ক্যাপিটালাইজেশন চালু করা হয়েছে।"
+    },
     {
       "versionCode": 11970,
       "versionName": "0.1.30-223-g0dd9a5f9d-unstable",
