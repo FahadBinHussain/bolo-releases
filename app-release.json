@@ -1,40 +1,47 @@
 {
-  "versionName": "0.1.30-233-g09b056249-unstable",
-  "versionCode": 11980,
+  "versionName": "0.1.30-236-g93c6a6131-unstable",
+  "versionCode": 11983,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58811405,
-  "sha256": "da05eba408f148ef012025d7c9146c9dc7f02da14f90dda1428d9046ee88f017",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11980/bolo-keyboard-11980-arm64-v8a.apk",
-  "builtAt": "2026-11-11T05:09:21.861Z",
-  "changelogBn": "বলো কী-তে ডিফল্টভাবে অটো-ক্যাপিটালাইজেশন চালু করা হয়েছে।",
-  "changelogEn": "Enabled auto-capitalization by default for new installs and default profiles.",
+  "sizeBytes": 58955876,
+  "sha256": "c48a585f19b155e562928f1f3e4ad1aadf75edecb95afce0c215fdd315829498",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11983/bolo-keyboard-11983-arm64-v8a.apk",
+  "builtAt": "2026-11-11T17:57:35.7227645+06:00",
+  "changelogBn": "মিউজ বন্ধ থাকলে স্বয়ংক্রিয়ভাবে অ্যান্টিগ্র্যাভিটি ভয়েস ডিক্টেশন চালু হওয়ার সমস্যা সমাধান করা হয়েছে এবং বলো কী অ্যাপের সব এরর ও ক্র্যাশ তথ্য সরাসরি সার্ভারে পাঠানো হচ্ছে।",
+  "changelogEn": "Fixed automatic Antigravity voice dictation when Muse is turned off, removed client-side technical error popups, and enabled automatic server error telemetry.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58811405,
-      "sha256": "da05eba408f148ef012025d7c9146c9dc7f02da14f90dda1428d9046ee88f017",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11980/bolo-keyboard-11980-arm64-v8a.apk"
+      "sizeBytes": 58955876,
+      "sha256": "c48a585f19b155e562928f1f3e4ad1aadf75edecb95afce0c215fdd315829498",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11983/bolo-keyboard-11983-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58033117,
-      "sha256": "10934b4e70543dcafc2716c9a96076e2d3b37bf21f589488125bbdee25c5cd7c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11980/bolo-keyboard-11980-armeabi-v7a.apk"
+      "sizeBytes": 58177636,
+      "sha256": "dd26feae61d3c5ff1a3752ec46155869cd0effd5ec909ae0c2849375659e1b7a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11983/bolo-keyboard-11983-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 11983,
+      "versionName": "0.1.30-236-g93c6a6131-unstable",
+      "builtAt": "2026-11-11T17:57:35.7227645+06:00",
+      "changelogEn": "Fixed automatic Antigravity voice dictation when Muse is turned off, removed client-side technical error popups, and enabled automatic server error telemetry.",
+      "changelogBn": "মিউজ বন্ধ থাকলে স্বয়ংক্রিয়ভাবে অ্যান্টিগ্র্যাভিটি ভয়েস ডিক্টেশন চালু হওয়ার সমস্যা সমাধান করা হয়েছে এবং বলো কী অ্যাপের সব এরর ও ক্র্যাশ তথ্য সরাসরি সার্ভারে পাঠানো হচ্ছে।"
+    },
+    {
       "versionCode": 11980,
       "versionName": "0.1.30-233-g09b056249-unstable",
-      "builtAt": "2026-11-11T05:09:21.861Z",
+      "builtAt": "11/11/2026 05:09:21",
       "changelogEn": "Enabled auto-capitalization by default for new installs and default profiles.",
       "changelogBn": "বলো কী-তে ডিফল্টভাবে অটো-ক্যাপিটালাইজেশন চালু করা হয়েছে।"
     },
     {
       "versionCode": 11970,
       "versionName": "0.1.30-223-g0dd9a5f9d-unstable",
-      "builtAt": "2026-11-11T07:37:29.8133419+06:00",
+      "builtAt": "11/11/2026 07:37:29",
       "changelogEn": "Fixed background OTA update push notification channel and wakeup delivery, immediate delivery acknowledgments, and dashboard version guards.",
       "changelogBn": "বলো কী-তে ব্যাকগ্রাউন্ড ওটিএ আপডেট পুশ নোটিফিকেশন চ্যানেল ও তাৎক্ষণিক ডেলিভারি অ্যাকনলেজমেন্ট ঠিক করা হয়েছে এবং ড্যাশবোর্ড আপডেট বাটনের ভার্সন গার্ড যুক্ত করা হয়েছে।"
     },
