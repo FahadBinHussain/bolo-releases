@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-242-ge3fcb566e-unstable",
-  "versionCode": 11989,
+  "versionName": "0.1.30-244-g46b85b7b3-unstable",
+  "versionCode": 11991,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58912437,
-  "sha256": "522ae37aa18b0e7b97f78482ba173c5b84ba7310e2d6694d8f009f3237703540",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11989/bolo-keyboard-11989-arm64-v8a.apk",
-  "builtAt": "2026-11-11T13:58:11.315Z",
-  "changelogBn": "মোবাইল ডেটায় সার্ভার সিঙ্ক টাইমআউট রিট্রাই এবং অপ্রয়োজনীয় ক্যান্সেলেশন এরর রিপোর্টিং ঠিক করা হয়েছে।",
-  "changelogEn": "Fixed cellular timeout retries on API sync and coroutine cancellation error telemetry noise; improved server error grouping.",
+  "sizeBytes": 58914017,
+  "sha256": "f335413e78fba543238c01678c89dbd7c0aab5d70a55909a43aaea3fe438a6fe",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11991/bolo-keyboard-11991-arm64-v8a.apk",
+  "builtAt": "2026-11-11T14:57:59.702Z",
+  "changelogBn": "সেটিংস স্ক্রিন রিজিউম হওয়ার সময় রিবিল্ড ও কোরুটিন ক্যান্সেলেশন এরর সমাধান করা হয়েছে এবং অ্যাকাউন্ট সিঙ্ক ও রিফ্রেশ স্ট্যাবিলিটি উন্নত করা হয়েছে।",
+  "changelogEn": "Fixed settings screen recreation on resume causing coroutine scope cancellation errors; added singleflight account sync and pull-to-refresh guards.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58912437,
-      "sha256": "522ae37aa18b0e7b97f78482ba173c5b84ba7310e2d6694d8f009f3237703540",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11989/bolo-keyboard-11989-arm64-v8a.apk"
+      "sizeBytes": 58914017,
+      "sha256": "f335413e78fba543238c01678c89dbd7c0aab5d70a55909a43aaea3fe438a6fe",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11991/bolo-keyboard-11991-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58134149,
-      "sha256": "81519c424ca67ac8d2c1c9967210452a6dd6d0384ef203cba372c37d89959026",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11989/bolo-keyboard-11989-armeabi-v7a.apk"
+      "sizeBytes": 58135725,
+      "sha256": "e6e3bd7df8112ae1af9a3c250c0d5a049d2961fee7e7250b854f6d8854576181",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11991/bolo-keyboard-11991-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 11991,
+      "versionName": "0.1.30-244-g46b85b7b3-unstable",
+      "builtAt": "2026-11-11T14:57:59.702Z",
+      "changelogEn": "Fixed settings screen recreation on resume causing coroutine scope cancellation errors; added singleflight account sync and pull-to-refresh guards.",
+      "changelogBn": "সেটিংস স্ক্রিন রিজিউম হওয়ার সময় রিবিল্ড ও কোরুটিন ক্যান্সেলেশন এরর সমাধান করা হয়েছে এবং অ্যাকাউন্ট সিঙ্ক ও রিফ্রেশ স্ট্যাবিলিটি উন্নত করা হয়েছে।"
+    },
     {
       "versionCode": 11989,
       "versionName": "0.1.30-242-ge3fcb566e-unstable",
