@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-236-g93c6a6131-unstable",
-  "versionCode": 11983,
+  "versionName": "0.1.30-242-ge3fcb566e-unstable",
+  "versionCode": 11989,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58955876,
-  "sha256": "c48a585f19b155e562928f1f3e4ad1aadf75edecb95afce0c215fdd315829498",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11983/bolo-keyboard-11983-arm64-v8a.apk",
-  "builtAt": "2026-11-11T17:57:35.7227645+06:00",
-  "changelogBn": "মিউজ বন্ধ থাকলে স্বয়ংক্রিয়ভাবে অ্যান্টিগ্র্যাভিটি ভয়েস ডিক্টেশন চালু হওয়ার সমস্যা সমাধান করা হয়েছে এবং বলো কী অ্যাপের সব এরর ও ক্র্যাশ তথ্য সরাসরি সার্ভারে পাঠানো হচ্ছে।",
-  "changelogEn": "Fixed automatic Antigravity voice dictation when Muse is turned off, removed client-side technical error popups, and enabled automatic server error telemetry.",
+  "sizeBytes": 58912437,
+  "sha256": "522ae37aa18b0e7b97f78482ba173c5b84ba7310e2d6694d8f009f3237703540",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11989/bolo-keyboard-11989-arm64-v8a.apk",
+  "builtAt": "2026-11-11T13:58:11.315Z",
+  "changelogBn": "মোবাইল ডেটায় সার্ভার সিঙ্ক টাইমআউট রিট্রাই এবং অপ্রয়োজনীয় ক্যান্সেলেশন এরর রিপোর্টিং ঠিক করা হয়েছে।",
+  "changelogEn": "Fixed cellular timeout retries on API sync and coroutine cancellation error telemetry noise; improved server error grouping.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58955876,
-      "sha256": "c48a585f19b155e562928f1f3e4ad1aadf75edecb95afce0c215fdd315829498",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11983/bolo-keyboard-11983-arm64-v8a.apk"
+      "sizeBytes": 58912437,
+      "sha256": "522ae37aa18b0e7b97f78482ba173c5b84ba7310e2d6694d8f009f3237703540",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11989/bolo-keyboard-11989-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58177636,
-      "sha256": "dd26feae61d3c5ff1a3752ec46155869cd0effd5ec909ae0c2849375659e1b7a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11983/bolo-keyboard-11983-armeabi-v7a.apk"
+      "sizeBytes": 58134149,
+      "sha256": "81519c424ca67ac8d2c1c9967210452a6dd6d0384ef203cba372c37d89959026",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11989/bolo-keyboard-11989-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 11989,
+      "versionName": "0.1.30-242-ge3fcb566e-unstable",
+      "builtAt": "2026-11-11T13:58:11.315Z",
+      "changelogEn": "Fixed cellular timeout retries on API sync and coroutine cancellation error telemetry noise; improved server error grouping.",
+      "changelogBn": "মোবাইল ডেটায় সার্ভার সিঙ্ক টাইমআউট রিট্রাই এবং অপ্রয়োজনীয় ক্যান্সেলেশন এরর রিপোর্টিং ঠিক করা হয়েছে।"
+    },
     {
       "versionCode": 11983,
       "versionName": "0.1.30-236-g93c6a6131-unstable",
