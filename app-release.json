@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-288-g38346e64f-unstable",
-  "versionCode": 12035,
+  "versionName": "0.1.30-290-gc4bd8e142-unstable",
+  "versionCode": 12037,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58924505,
-  "sha256": "717aaa1d83d1baf9bc8aaaf167cf2446b193d0161f702af2086d0e594694f2b8",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12035/bolo-keyboard-12035-arm64-v8a.apk",
-  "builtAt": "2026-11-12T17:50:31.098Z",
-  "changelogBn": "ChatGPT ডিক্টেশন এখন কথা বলার সময়েই লেখে, থামার পরে নয়।",
-  "changelogEn": "ChatGPT dictation now types as you speak, not only after you stop.",
+  "sizeBytes": 58922889,
+  "sha256": "d002cf47415ec6a9bbadf499e6cb0330e9bda26293444ba9a320ee9f14b66a63",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12037/bolo-keyboard-12037-arm64-v8a.apk",
+  "builtAt": "2026-11-12T18:16:13.809Z",
+  "changelogBn": "ChatGPT ডিক্টেশন এখন কথা বলার সময় প্রায় প্রতি ৩ সেকেন্ডে শব্দ দেখায়, থামার পরে নয়।",
+  "changelogEn": "ChatGPT dictation now shows words about every 3 seconds while you talk, not after you stop.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58924505,
-      "sha256": "717aaa1d83d1baf9bc8aaaf167cf2446b193d0161f702af2086d0e594694f2b8",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12035/bolo-keyboard-12035-arm64-v8a.apk"
+      "sizeBytes": 58922889,
+      "sha256": "d002cf47415ec6a9bbadf499e6cb0330e9bda26293444ba9a320ee9f14b66a63",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12037/bolo-keyboard-12037-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58146169,
-      "sha256": "eca01ee7bbe52d9bf4d39b3cbc5bd9a8f58a9daee05e2d42affdc5dacf80d7db",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12035/bolo-keyboard-12035-armeabi-v7a.apk"
+      "sizeBytes": 58144553,
+      "sha256": "e36eefcb904e4b41c67b605dea616382b04bf45d9a4058d4ad59bcdae34f3c2d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12037/bolo-keyboard-12037-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12037,
+      "versionName": "0.1.30-290-gc4bd8e142-unstable",
+      "builtAt": "2026-11-12T18:16:13.809Z",
+      "changelogEn": "ChatGPT dictation now shows words about every 3 seconds while you talk, not after you stop.",
+      "changelogBn": "ChatGPT ডিক্টেশন এখন কথা বলার সময় প্রায় প্রতি ৩ সেকেন্ডে শব্দ দেখায়, থামার পরে নয়।"
+    },
     {
       "versionCode": 12035,
       "versionName": "0.1.30-288-g38346e64f-unstable",
