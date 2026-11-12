@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-275-g43dd244cf-unstable",
-  "versionCode": 12022,
+  "versionName": "0.1.30-279-g9c5e9a201-unstable",
+  "versionCode": 12026,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58919689,
-  "sha256": "3d306e0dfbcb7b1584b4061816782e8e33818904e6805e6e44ddc42e2b3efe9d",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12022/bolo-keyboard-12022-arm64-v8a.apk",
-  "builtAt": "2026-11-12T15:02:58.338Z",
-  "changelogBn": "ভয়েস ইনপুট এখন একটি নির্দিষ্ট মাইক সোর্স ব্যবহার করে, এবং ড্যাশবোর্ডে ভয়েস টেস্ট যোগ করা হয়েছে।",
-  "changelogEn": "Voice input now uses one consistent microphone source, and the dashboard gained a voice test.",
+  "sizeBytes": 58920717,
+  "sha256": "a0d1416d2ff2f3f1c026216957c86777cfcaff3b16f8c3bd975114b1130b1cda",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12026/bolo-keyboard-12026-arm64-v8a.apk",
+  "builtAt": "2026-11-12T15:39:19.165Z",
+  "changelogBn": "ভয়েস ইনপুটে আপনি যা বলেন তার শেষ অংশটুকুও এখন রাখা হয়, এবং ChatGPT ডিক্টেশন সার্ভার ঠিক কী উত্তর দিচ্ছে তা জানায়।",
+  "changelogEn": "Voice input keeps the last bit of audio you speak, and ChatGPT dictation reports exactly what the server answers.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58919689,
-      "sha256": "3d306e0dfbcb7b1584b4061816782e8e33818904e6805e6e44ddc42e2b3efe9d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12022/bolo-keyboard-12022-arm64-v8a.apk"
+      "sizeBytes": 58920717,
+      "sha256": "a0d1416d2ff2f3f1c026216957c86777cfcaff3b16f8c3bd975114b1130b1cda",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12026/bolo-keyboard-12026-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58141349,
-      "sha256": "c9c5d847eb060058c34f9c707643c894c707cbdef9e787ed82521d80070ebcb3",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12022/bolo-keyboard-12022-armeabi-v7a.apk"
+      "sizeBytes": 58142381,
+      "sha256": "ba6a5489386b8c3dcdca83fa1d0ffd222e3ac964964c5611d08587acab3d0413",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12026/bolo-keyboard-12026-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12026,
+      "versionName": "0.1.30-279-g9c5e9a201-unstable",
+      "builtAt": "2026-11-12T15:39:19.165Z",
+      "changelogEn": "Voice input keeps the last bit of audio you speak, and ChatGPT dictation reports exactly what the server answers.",
+      "changelogBn": "ভয়েস ইনপুটে আপনি যা বলেন তার শেষ অংশটুকুও এখন রাখা হয়, এবং ChatGPT ডিক্টেশন সার্ভার ঠিক কী উত্তর দিচ্ছে তা জানায়।"
+    },
     {
       "versionCode": 12022,
       "versionName": "0.1.30-275-g43dd244cf-unstable",
