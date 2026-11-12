@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-262-ge65943c56-unstable",
-  "versionCode": 12009,
+  "versionName": "0.1.30-264-g226f68517-unstable",
+  "versionCode": 12011,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58914485,
-  "sha256": "dd61a5d4dd6876ba2e5f9a649a933914c1b021bffcab38682d7fdda816a0e23a",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12009/bolo-keyboard-12009-arm64-v8a.apk",
-  "builtAt": "2026-11-12T11:46:19.602Z",
-  "changelogBn": "মাইকে চাপলেই এখন সাথে সাথে \"Listening...\" দেখায়। সাজেশন বার আর আইকনে ফ্ল্যাশ করে না।",
-  "changelogEn": "the mic says \"Listening...\" the moment you tap it now - the suggestion strip no longer flickers to the action icons first",
+  "sizeBytes": 58920221,
+  "sha256": "43fb771fc55c4baeb38f7d1a2bae93e415648b3a6d24d79164a9c9ecfa15ff93",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12011/bolo-keyboard-12011-arm64-v8a.apk",
+  "builtAt": "2026-11-12T13:07:36.916Z",
+  "changelogBn": "ফেসবুক মিউজ ও গুগল অ্যান্টিগ্র্যাভিটির পাশাপাশি তৃতীয় ভয়েস ইনপুট প্রোভাইডার হিসেবে ChatGPT ডিক্টেশন যুক্ত করা হয়েছে।",
+  "changelogEn": "Added ChatGPT dictation as a third voice input provider alongside Facebook Muse and Google Antigravity.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58914485,
-      "sha256": "dd61a5d4dd6876ba2e5f9a649a933914c1b021bffcab38682d7fdda816a0e23a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12009/bolo-keyboard-12009-arm64-v8a.apk"
+      "sizeBytes": 58920221,
+      "sha256": "43fb771fc55c4baeb38f7d1a2bae93e415648b3a6d24d79164a9c9ecfa15ff93",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12011/bolo-keyboard-12011-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58136145,
-      "sha256": "7c7be9844b734feb8a0077e39d0c1b51a7975f7e59af33a88e93dece3fd239fd",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12009/bolo-keyboard-12009-armeabi-v7a.apk"
+      "sizeBytes": 58141929,
+      "sha256": "789f9e4c911f2d003ca27af8419417f061421e77d6352cdaf611d931d93c5da5",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12011/bolo-keyboard-12011-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12011,
+      "versionName": "0.1.30-264-g226f68517-unstable",
+      "builtAt": "2026-11-12T13:07:36.916Z",
+      "changelogEn": "Added ChatGPT dictation as a third voice input provider alongside Facebook Muse and Google Antigravity.",
+      "changelogBn": "ফেসবুক মিউজ ও গুগল অ্যান্টিগ্র্যাভিটির পাশাপাশি তৃতীয় ভয়েস ইনপুট প্রোভাইডার হিসেবে ChatGPT ডিক্টেশন যুক্ত করা হয়েছে।"
+    },
     {
       "versionCode": 12009,
       "versionName": "0.1.30-262-ge65943c56-unstable",
