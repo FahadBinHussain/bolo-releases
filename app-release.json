@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-279-g9c5e9a201-unstable",
-  "versionCode": 12026,
+  "versionName": "0.1.30-282-g703cbb588-unstable",
+  "versionCode": 12029,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58920717,
-  "sha256": "a0d1416d2ff2f3f1c026216957c86777cfcaff3b16f8c3bd975114b1130b1cda",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12026/bolo-keyboard-12026-arm64-v8a.apk",
-  "builtAt": "2026-11-12T15:39:19.165Z",
-  "changelogBn": "ভয়েস ইনপুটে আপনি যা বলেন তার শেষ অংশটুকুও এখন রাখা হয়, এবং ChatGPT ডিক্টেশন সার্ভার ঠিক কী উত্তর দিচ্ছে তা জানায়।",
-  "changelogEn": "Voice input keeps the last bit of audio you speak, and ChatGPT dictation reports exactly what the server answers.",
+  "sizeBytes": 58919681,
+  "sha256": "871774b3cfb1b7b6141108b43a94abf789f653d1d43e54df1368435b44373db2",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12029/bolo-keyboard-12029-arm64-v8a.apk",
+  "builtAt": "2026-11-12T16:04:09.479Z",
+  "changelogBn": "ChatGPT ডিক্টেশন এখন সার্ভার ঠিক কী উত্তর দিয়েছে তা জানায়, ফলে পরের বার সমস্যাটা ঠিক কোথায় তা বোঝা যাবে।",
+  "changelogEn": "ChatGPT dictation now reports what the server actually answered, so the next failure says exactly what went wrong.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58920717,
-      "sha256": "a0d1416d2ff2f3f1c026216957c86777cfcaff3b16f8c3bd975114b1130b1cda",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12026/bolo-keyboard-12026-arm64-v8a.apk"
+      "sizeBytes": 58919681,
+      "sha256": "871774b3cfb1b7b6141108b43a94abf789f653d1d43e54df1368435b44373db2",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12029/bolo-keyboard-12029-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58142381,
-      "sha256": "ba6a5489386b8c3dcdca83fa1d0ffd222e3ac964964c5611d08587acab3d0413",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12026/bolo-keyboard-12026-armeabi-v7a.apk"
+      "sizeBytes": 58141341,
+      "sha256": "ecf8aa22eed73f40abd97c4abefbd6f97ee1a887a32d9830f4504b6b58032b4d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12029/bolo-keyboard-12029-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12029,
+      "versionName": "0.1.30-282-g703cbb588-unstable",
+      "builtAt": "2026-11-12T16:04:09.479Z",
+      "changelogEn": "ChatGPT dictation now reports what the server actually answered, so the next failure says exactly what went wrong.",
+      "changelogBn": "ChatGPT ডিক্টেশন এখন সার্ভার ঠিক কী উত্তর দিয়েছে তা জানায়, ফলে পরের বার সমস্যাটা ঠিক কোথায় তা বোঝা যাবে।"
+    },
     {
       "versionCode": 12026,
       "versionName": "0.1.30-279-g9c5e9a201-unstable",
