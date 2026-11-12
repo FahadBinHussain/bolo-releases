@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-253-g0c83b9961-unstable",
-  "versionCode": 12000,
+  "versionName": "0.1.30-262-ge65943c56-unstable",
+  "versionCode": 12009,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58914949,
-  "sha256": "4bf84284d90d2d1a44bd388b87c35d4a6ada26b3ea54bd8ed0c3ad6f1411c6cf",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12000/bolo-keyboard-12000-arm64-v8a.apk",
-  "builtAt": "2026-11-12T03:39:11.055Z",
-  "changelogBn": "অ্যান্টিগ্র্যাভিটি ভয়েস ডিক্টেশনে বলা শব্দ বাদ পড়ার সমস্যা সমাধান করা হয়েছে: সার্ভারের ফাইনাল টেক্সট যখন টার্নের প্রত্যাজন ছোট করে দেয় তখন মূল বলা লেখা রাখা হয়, আর এন্ডপয়েন্টিং উইন্ডো ২ সেকেন্ড করা হয়েছে যাতে কম টার্ন নতুন করে লেখা না হয়।",
-  "changelogEn": "Fixed Antigravity voice dictation dropping spoken words: the transcript now keeps the literal spoken text when the server's final rewrite collapses the turn, and the endpointing window was stretched to 2 seconds so fewer turns get rewritten.",
+  "sizeBytes": 58914485,
+  "sha256": "dd61a5d4dd6876ba2e5f9a649a933914c1b021bffcab38682d7fdda816a0e23a",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12009/bolo-keyboard-12009-arm64-v8a.apk",
+  "builtAt": "2026-11-12T11:46:19.602Z",
+  "changelogBn": "মাইকে চাপলেই এখন সাথে সাথে \"Listening...\" দেখায়। সাজেশন বার আর আইকনে ফ্ল্যাশ করে না।",
+  "changelogEn": "the mic says \"Listening...\" the moment you tap it now - the suggestion strip no longer flickers to the action icons first",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58914949,
-      "sha256": "4bf84284d90d2d1a44bd388b87c35d4a6ada26b3ea54bd8ed0c3ad6f1411c6cf",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12000/bolo-keyboard-12000-arm64-v8a.apk"
+      "sizeBytes": 58914485,
+      "sha256": "dd61a5d4dd6876ba2e5f9a649a933914c1b021bffcab38682d7fdda816a0e23a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12009/bolo-keyboard-12009-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58136661,
-      "sha256": "fc5c316d34e1af306e3ab7b553da9f95f41099fec888dc9104dd0da1e19a2449",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12000/bolo-keyboard-12000-armeabi-v7a.apk"
+      "sizeBytes": 58136145,
+      "sha256": "7c7be9844b734feb8a0077e39d0c1b51a7975f7e59af33a88e93dece3fd239fd",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12009/bolo-keyboard-12009-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12009,
+      "versionName": "0.1.30-262-ge65943c56-unstable",
+      "builtAt": "2026-11-12T11:46:19.602Z",
+      "changelogEn": "the mic says \"Listening...\" the moment you tap it now - the suggestion strip no longer flickers to the action icons first",
+      "changelogBn": "মাইকে চাপলেই এখন সাথে সাথে \"Listening...\" দেখায়। সাজেশন বার আর আইকনে ফ্ল্যাশ করে না।"
+    },
     {
       "versionCode": 12000,
       "versionName": "0.1.30-253-g0c83b9961-unstable",
