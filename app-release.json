@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-272-gd1c2979bc-unstable",
-  "versionCode": 12019,
+  "versionName": "0.1.30-275-g43dd244cf-unstable",
+  "versionCode": 12022,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58920397,
-  "sha256": "5225a57c857c21051b4811722e0a3136a97697b424831ae9ade2d27736e260a4",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12019/bolo-keyboard-12019-arm64-v8a.apk",
-  "builtAt": "2026-11-12T14:37:43.130Z",
-  "changelogBn": "ChatGPT ডিক্টেশনে নীরব অডিও আপলোড হওয়ার সমস্যা ঠিক করা হয়েছে, এবং প্রয়োজনে মাইক এখন অন্য অডিও সোর্সে যায়।",
-  "changelogEn": "Fixed ChatGPT dictation uploading silence, and the mic now falls back to another audio source when needed.",
+  "sizeBytes": 58919689,
+  "sha256": "3d306e0dfbcb7b1584b4061816782e8e33818904e6805e6e44ddc42e2b3efe9d",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12022/bolo-keyboard-12022-arm64-v8a.apk",
+  "builtAt": "2026-11-12T15:02:58.338Z",
+  "changelogBn": "ভয়েস ইনপুট এখন একটি নির্দিষ্ট মাইক সোর্স ব্যবহার করে, এবং ড্যাশবোর্ডে ভয়েস টেস্ট যোগ করা হয়েছে।",
+  "changelogEn": "Voice input now uses one consistent microphone source, and the dashboard gained a voice test.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58920397,
-      "sha256": "5225a57c857c21051b4811722e0a3136a97697b424831ae9ade2d27736e260a4",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12019/bolo-keyboard-12019-arm64-v8a.apk"
+      "sizeBytes": 58919689,
+      "sha256": "3d306e0dfbcb7b1584b4061816782e8e33818904e6805e6e44ddc42e2b3efe9d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12022/bolo-keyboard-12022-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58142057,
-      "sha256": "c96a8fb8d9921ecac05b68724cd52d2189523c87b8128d04f63ea0709fb32fec",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12019/bolo-keyboard-12019-armeabi-v7a.apk"
+      "sizeBytes": 58141349,
+      "sha256": "c9c5d847eb060058c34f9c707643c894c707cbdef9e787ed82521d80070ebcb3",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12022/bolo-keyboard-12022-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12022,
+      "versionName": "0.1.30-275-g43dd244cf-unstable",
+      "builtAt": "2026-11-12T15:02:58.338Z",
+      "changelogEn": "Voice input now uses one consistent microphone source, and the dashboard gained a voice test.",
+      "changelogBn": "ভয়েস ইনপুট এখন একটি নির্দিষ্ট মাইক সোর্স ব্যবহার করে, এবং ড্যাশবোর্ডে ভয়েস টেস্ট যোগ করা হয়েছে।"
+    },
     {
       "versionCode": 12019,
       "versionName": "0.1.30-272-gd1c2979bc-unstable",
