@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-268-g6850daf99-unstable",
-  "versionCode": 12015,
+  "versionName": "0.1.30-270-g07045b2a4-unstable",
+  "versionCode": 12017,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58919945,
-  "sha256": "2fed440db113820800facb9f3f14ad69370c4607c0bc01adecb6696f79574130",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12015/bolo-keyboard-12015-arm64-v8a.apk",
-  "builtAt": "2026-11-12T13:52:50.370Z",
-  "changelogBn": "ChatGPT ডিক্টেশন এখন ট্রান্সক্রিপ্টের জন্য অপেক্ষা করে, তাই ভয়েস ইনপুটে আপনি যা বলেছেন তা লেখা হয়।",
-  "changelogEn": "ChatGPT dictation now waits for its transcript, so voice input actually types what you said.",
+  "sizeBytes": 58920029,
+  "sha256": "f11ace20c02b696d4b648bdcb2ef21eed47d64229f3662650f21188773a3b4e3",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12017/bolo-keyboard-12017-arm64-v8a.apk",
+  "builtAt": "2026-11-12T14:16:57.462Z",
+  "changelogBn": "ChatGPT ডিক্টেশনে খালি অডিও পাঠানোর সমস্যা ঠিক করা হয়েছে, তাই কিছু লেখা হচ্ছিল না।",
+  "changelogEn": "Fixed ChatGPT dictation sending empty audio, so nothing was being typed.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58919945,
-      "sha256": "2fed440db113820800facb9f3f14ad69370c4607c0bc01adecb6696f79574130",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12015/bolo-keyboard-12015-arm64-v8a.apk"
+      "sizeBytes": 58920029,
+      "sha256": "f11ace20c02b696d4b648bdcb2ef21eed47d64229f3662650f21188773a3b4e3",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12017/bolo-keyboard-12017-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58141609,
-      "sha256": "fd8dae65051d6158428bab024458738b3d83a290b8b698e319df3ad2e3a26564",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12015/bolo-keyboard-12015-armeabi-v7a.apk"
+      "sizeBytes": 58141689,
+      "sha256": "33c900d0e47e53425d398a4932c255cc7f859a72d0d2bf53d717d004def72ef9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12017/bolo-keyboard-12017-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12017,
+      "versionName": "0.1.30-270-g07045b2a4-unstable",
+      "builtAt": "2026-11-12T14:16:57.462Z",
+      "changelogEn": "Fixed ChatGPT dictation sending empty audio, so nothing was being typed.",
+      "changelogBn": "ChatGPT ডিক্টেশনে খালি অডিও পাঠানোর সমস্যা ঠিক করা হয়েছে, তাই কিছু লেখা হচ্ছিল না।"
+    },
     {
       "versionCode": 12015,
       "versionName": "0.1.30-268-g6850daf99-unstable",
