@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-264-g226f68517-unstable",
-  "versionCode": 12011,
+  "versionName": "0.1.30-266-g46795915d-unstable",
+  "versionCode": 12013,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58920221,
-  "sha256": "43fb771fc55c4baeb38f7d1a2bae93e415648b3a6d24d79164a9c9ecfa15ff93",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12011/bolo-keyboard-12011-arm64-v8a.apk",
-  "builtAt": "2026-11-12T13:07:36.916Z",
-  "changelogBn": "ফেসবুক মিউজ ও গুগল অ্যান্টিগ্র্যাভিটির পাশাপাশি তৃতীয় ভয়েস ইনপুট প্রোভাইডার হিসেবে ChatGPT ডিক্টেশন যুক্ত করা হয়েছে।",
-  "changelogEn": "Added ChatGPT dictation as a third voice input provider alongside Facebook Muse and Google Antigravity.",
+  "sizeBytes": 58920553,
+  "sha256": "8a7e182eda246079d2ddd991043fa24c03482e5b9c719db774cac7ea031053f9",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12013/bolo-keyboard-12013-arm64-v8a.apk",
+  "builtAt": "2026-11-12T13:32:36.132Z",
+  "changelogBn": "ChatGPT ডিক্টেশনে প্রতিবার অডিও না পাওয়ার সমস্যা সমাধান করা হয়েছে।",
+  "changelogEn": "Fixed ChatGPT dictation failing on every utterance with no audio captured.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58920221,
-      "sha256": "43fb771fc55c4baeb38f7d1a2bae93e415648b3a6d24d79164a9c9ecfa15ff93",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12011/bolo-keyboard-12011-arm64-v8a.apk"
+      "sizeBytes": 58920553,
+      "sha256": "8a7e182eda246079d2ddd991043fa24c03482e5b9c719db774cac7ea031053f9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12013/bolo-keyboard-12013-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58141929,
-      "sha256": "789f9e4c911f2d003ca27af8419417f061421e77d6352cdaf611d931d93c5da5",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12011/bolo-keyboard-12011-armeabi-v7a.apk"
+      "sizeBytes": 58142265,
+      "sha256": "951b6d192e747fd1eb8ec2128176179a0b64a3af2c4e1c61f0fedc95f37b4045",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12013/bolo-keyboard-12013-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12013,
+      "versionName": "0.1.30-266-g46795915d-unstable",
+      "builtAt": "2026-11-12T13:32:36.132Z",
+      "changelogEn": "Fixed ChatGPT dictation failing on every utterance with no audio captured.",
+      "changelogBn": "ChatGPT ডিক্টেশনে প্রতিবার অডিও না পাওয়ার সমস্যা সমাধান করা হয়েছে।"
+    },
     {
       "versionCode": 12011,
       "versionName": "0.1.30-264-g226f68517-unstable",
