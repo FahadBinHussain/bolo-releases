@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-284-gf40213c4c-unstable",
-  "versionCode": 12031,
+  "versionName": "0.1.30-286-g6a504f0d5-unstable",
+  "versionCode": 12033,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58921197,
-  "sha256": "85072ea4aaa7d53df51400b8c42b251097151338b16f78984280d44d21d35e6e",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12031/bolo-keyboard-12031-arm64-v8a.apk",
-  "builtAt": "2026-11-12T17:00:56.335Z",
-  "changelogBn": "ChatGPT ডিক্টেশন এখন লম্বা রেকর্ডিং ঠিকভাবে লেখে, এবং একই কথা দুইবার লেখে না।",
-  "changelogEn": "ChatGPT dictation now transcribes long recordings properly, and no longer types everything twice.",
+  "sizeBytes": 58921493,
+  "sha256": "56da4136f19cb9a96406f415d709cb7f85bcfa769ab6e6ccb122c8b312183d91",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12033/bolo-keyboard-12033-arm64-v8a.apk",
+  "builtAt": "2026-11-12T17:25:30.368Z",
+  "changelogBn": "লম্বা ডিক্টেশন এখন থামার জায়গায় ভাগ হয়ে ক্রমে লেখে, অন্য ভয়েস প্রোভাইডারগুলোর মতোই।",
+  "changelogEn": "Long dictation now breaks at pauses and writes in order, the same way the other voice providers do.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58921197,
-      "sha256": "85072ea4aaa7d53df51400b8c42b251097151338b16f78984280d44d21d35e6e",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12031/bolo-keyboard-12031-arm64-v8a.apk"
+      "sizeBytes": 58921493,
+      "sha256": "56da4136f19cb9a96406f415d709cb7f85bcfa769ab6e6ccb122c8b312183d91",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12033/bolo-keyboard-12033-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58142861,
-      "sha256": "5d59065f9d1f2b07f4b9716bf7506cada4f1bfcfceb59ffd2f48021b803bddec",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12031/bolo-keyboard-12031-armeabi-v7a.apk"
+      "sizeBytes": 58143157,
+      "sha256": "edaa722bec88d0d0c067f988927970d8f6560d976503c984ddba01febcaa33f7",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12033/bolo-keyboard-12033-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12033,
+      "versionName": "0.1.30-286-g6a504f0d5-unstable",
+      "builtAt": "2026-11-12T17:25:30.368Z",
+      "changelogEn": "Long dictation now breaks at pauses and writes in order, the same way the other voice providers do.",
+      "changelogBn": "লম্বা ডিক্টেশন এখন থামার জায়গায় ভাগ হয়ে ক্রমে লেখে, অন্য ভয়েস প্রোভাইডারগুলোর মতোই।"
+    },
     {
       "versionCode": 12031,
       "versionName": "0.1.30-284-gf40213c4c-unstable",
