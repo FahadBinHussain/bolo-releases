@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-270-g07045b2a4-unstable",
-  "versionCode": 12017,
+  "versionName": "0.1.30-272-gd1c2979bc-unstable",
+  "versionCode": 12019,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58920029,
-  "sha256": "f11ace20c02b696d4b648bdcb2ef21eed47d64229f3662650f21188773a3b4e3",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12017/bolo-keyboard-12017-arm64-v8a.apk",
-  "builtAt": "2026-11-12T14:16:57.462Z",
-  "changelogBn": "ChatGPT ডিক্টেশনে খালি অডিও পাঠানোর সমস্যা ঠিক করা হয়েছে, তাই কিছু লেখা হচ্ছিল না।",
-  "changelogEn": "Fixed ChatGPT dictation sending empty audio, so nothing was being typed.",
+  "sizeBytes": 58920397,
+  "sha256": "5225a57c857c21051b4811722e0a3136a97697b424831ae9ade2d27736e260a4",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12019/bolo-keyboard-12019-arm64-v8a.apk",
+  "builtAt": "2026-11-12T14:37:43.130Z",
+  "changelogBn": "ChatGPT ডিক্টেশনে নীরব অডিও আপলোড হওয়ার সমস্যা ঠিক করা হয়েছে, এবং প্রয়োজনে মাইক এখন অন্য অডিও সোর্সে যায়।",
+  "changelogEn": "Fixed ChatGPT dictation uploading silence, and the mic now falls back to another audio source when needed.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58920029,
-      "sha256": "f11ace20c02b696d4b648bdcb2ef21eed47d64229f3662650f21188773a3b4e3",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12017/bolo-keyboard-12017-arm64-v8a.apk"
+      "sizeBytes": 58920397,
+      "sha256": "5225a57c857c21051b4811722e0a3136a97697b424831ae9ade2d27736e260a4",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12019/bolo-keyboard-12019-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58141689,
-      "sha256": "33c900d0e47e53425d398a4932c255cc7f859a72d0d2bf53d717d004def72ef9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12017/bolo-keyboard-12017-armeabi-v7a.apk"
+      "sizeBytes": 58142057,
+      "sha256": "c96a8fb8d9921ecac05b68724cd52d2189523c87b8128d04f63ea0709fb32fec",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12019/bolo-keyboard-12019-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12019,
+      "versionName": "0.1.30-272-gd1c2979bc-unstable",
+      "builtAt": "2026-11-12T14:37:43.130Z",
+      "changelogEn": "Fixed ChatGPT dictation uploading silence, and the mic now falls back to another audio source when needed.",
+      "changelogBn": "ChatGPT ডিক্টেশনে নীরব অডিও আপলোড হওয়ার সমস্যা ঠিক করা হয়েছে, এবং প্রয়োজনে মাইক এখন অন্য অডিও সোর্সে যায়।"
+    },
     {
       "versionCode": 12017,
       "versionName": "0.1.30-270-g07045b2a4-unstable",
