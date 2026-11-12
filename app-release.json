@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-282-g703cbb588-unstable",
-  "versionCode": 12029,
+  "versionName": "0.1.30-284-gf40213c4c-unstable",
+  "versionCode": 12031,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58919681,
-  "sha256": "871774b3cfb1b7b6141108b43a94abf789f653d1d43e54df1368435b44373db2",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12029/bolo-keyboard-12029-arm64-v8a.apk",
-  "builtAt": "2026-11-12T16:04:09.479Z",
-  "changelogBn": "ChatGPT ডিক্টেশন এখন সার্ভার ঠিক কী উত্তর দিয়েছে তা জানায়, ফলে পরের বার সমস্যাটা ঠিক কোথায় তা বোঝা যাবে।",
-  "changelogEn": "ChatGPT dictation now reports what the server actually answered, so the next failure says exactly what went wrong.",
+  "sizeBytes": 58921197,
+  "sha256": "85072ea4aaa7d53df51400b8c42b251097151338b16f78984280d44d21d35e6e",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12031/bolo-keyboard-12031-arm64-v8a.apk",
+  "builtAt": "2026-11-12T17:00:56.335Z",
+  "changelogBn": "ChatGPT ডিক্টেশন এখন লম্বা রেকর্ডিং ঠিকভাবে লেখে, এবং একই কথা দুইবার লেখে না।",
+  "changelogEn": "ChatGPT dictation now transcribes long recordings properly, and no longer types everything twice.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58919681,
-      "sha256": "871774b3cfb1b7b6141108b43a94abf789f653d1d43e54df1368435b44373db2",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12029/bolo-keyboard-12029-arm64-v8a.apk"
+      "sizeBytes": 58921197,
+      "sha256": "85072ea4aaa7d53df51400b8c42b251097151338b16f78984280d44d21d35e6e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12031/bolo-keyboard-12031-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58141341,
-      "sha256": "ecf8aa22eed73f40abd97c4abefbd6f97ee1a887a32d9830f4504b6b58032b4d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12029/bolo-keyboard-12029-armeabi-v7a.apk"
+      "sizeBytes": 58142861,
+      "sha256": "5d59065f9d1f2b07f4b9716bf7506cada4f1bfcfceb59ffd2f48021b803bddec",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12031/bolo-keyboard-12031-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12031,
+      "versionName": "0.1.30-284-gf40213c4c-unstable",
+      "builtAt": "2026-11-12T17:00:56.335Z",
+      "changelogEn": "ChatGPT dictation now transcribes long recordings properly, and no longer types everything twice.",
+      "changelogBn": "ChatGPT ডিক্টেশন এখন লম্বা রেকর্ডিং ঠিকভাবে লেখে, এবং একই কথা দুইবার লেখে না।"
+    },
     {
       "versionCode": 12029,
       "versionName": "0.1.30-282-g703cbb588-unstable",
