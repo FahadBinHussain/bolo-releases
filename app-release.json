@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-247-g0bed709fb-unstable",
-  "versionCode": 11994,
+  "versionName": "0.1.30-253-g0c83b9961-unstable",
+  "versionCode": 12000,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58913625,
-  "sha256": "26ad35493eac11d24e6bce2cdb079420cc894f9045e7bb538bfacbd6b10fcb08",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11994/bolo-keyboard-11994-arm64-v8a.apk",
-  "builtAt": "2026-11-11T17:13:42.422Z",
-  "changelogBn": "ভয়েস টাইপিং কানেকশন কিপ-অ্যালাইভ, মোবাইল ডেটায় অডিও স্টল হলে গ্লোবাল টোকেন কুলডাউন প্রতিরোধ এবং অ্যান্টিগ্র্যাভিটি ২৪ কিলোহার্টজ অডিও রিস্যাম্পলিং উন্নত করা হয়েছে।",
-  "changelogEn": "Fixed voice stream connection keepalive, prevented cellular audio stalls from cooling down global voice tokens, and added 24kHz audio resampling for Antigravity voice typing.",
+  "sizeBytes": 58914949,
+  "sha256": "4bf84284d90d2d1a44bd388b87c35d4a6ada26b3ea54bd8ed0c3ad6f1411c6cf",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12000/bolo-keyboard-12000-arm64-v8a.apk",
+  "builtAt": "2026-11-12T03:39:11.055Z",
+  "changelogBn": "অ্যান্টিগ্র্যাভিটি ভয়েস ডিক্টেশনে বলা শব্দ বাদ পড়ার সমস্যা সমাধান করা হয়েছে: সার্ভারের ফাইনাল টেক্সট যখন টার্নের প্রত্যাজন ছোট করে দেয় তখন মূল বলা লেখা রাখা হয়, আর এন্ডপয়েন্টিং উইন্ডো ২ সেকেন্ড করা হয়েছে যাতে কম টার্ন নতুন করে লেখা না হয়।",
+  "changelogEn": "Fixed Antigravity voice dictation dropping spoken words: the transcript now keeps the literal spoken text when the server's final rewrite collapses the turn, and the endpointing window was stretched to 2 seconds so fewer turns get rewritten.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58913625,
-      "sha256": "26ad35493eac11d24e6bce2cdb079420cc894f9045e7bb538bfacbd6b10fcb08",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11994/bolo-keyboard-11994-arm64-v8a.apk"
+      "sizeBytes": 58914949,
+      "sha256": "4bf84284d90d2d1a44bd388b87c35d4a6ada26b3ea54bd8ed0c3ad6f1411c6cf",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12000/bolo-keyboard-12000-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58135337,
-      "sha256": "ed1aa35d2b1a7216ccf70d18dc404f002e7d0b09028d7e174512ee7f7862db9c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v11994/bolo-keyboard-11994-armeabi-v7a.apk"
+      "sizeBytes": 58136661,
+      "sha256": "fc5c316d34e1af306e3ab7b553da9f95f41099fec888dc9104dd0da1e19a2449",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12000/bolo-keyboard-12000-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12000,
+      "versionName": "0.1.30-253-g0c83b9961-unstable",
+      "builtAt": "2026-11-12T03:39:11.055Z",
+      "changelogEn": "Fixed Antigravity voice dictation dropping spoken words: the transcript now keeps the literal spoken text when the server's final rewrite collapses the turn, and the endpointing window was stretched to 2 seconds so fewer turns get rewritten.",
+      "changelogBn": "অ্যান্টিগ্র্যাভিটি ভয়েস ডিক্টেশনে বলা শব্দ বাদ পড়ার সমস্যা সমাধান করা হয়েছে: সার্ভারের ফাইনাল টেক্সট যখন টার্নের প্রত্যাজন ছোট করে দেয় তখন মূল বলা লেখা রাখা হয়, আর এন্ডপয়েন্টিং উইন্ডো ২ সেকেন্ড করা হয়েছে যাতে কম টার্ন নতুন করে লেখা না হয়।"
+    },
     {
       "versionCode": 11994,
       "versionName": "0.1.30-247-g0bed709fb-unstable",
