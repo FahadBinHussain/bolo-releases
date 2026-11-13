@@ -2,7 +2,7 @@
   "versionName": "0.1.30-318-g1c7da8561-unstable",
   "versionCode": 12065,
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 10,
+  "rolloutPercentage": 100,
   "sizeBytes": 58941629,
   "sha256": "0546bb0a528a8e9b9c5b7473193b387d1d4812ee393257989704f5e9da28288c",
   "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12065/bolo-keyboard-12065-arm64-v8a.apk",
