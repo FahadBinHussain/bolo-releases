@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-304-g30e083a1c-unstable",
-  "versionCode": 12051,
+  "versionName": "0.1.30-306-gc39ab1184-unstable",
+  "versionCode": 12053,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58941733,
-  "sha256": "90b977fe39b27a1499048cac873c5eef35ee4fb32b080d517eb8f63a0dbc7303",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12051/bolo-keyboard-12051-arm64-v8a.apk",
-  "builtAt": "2026-11-13T11:15:30.188Z",
-  "changelogBn": "প্রোমো কোড: একবার ব্যবহারযোগ্য কোড দিয়ে এক মাস ফ্রি Pro (Settings -> Bolo Key Pro)। মেয়াদ শেষ হলে Pro আর চালু থাকবে না।",
-  "changelogEn": "Promo codes: redeem a single-use code for a free month of Pro (Settings -> Bolo Key Pro). Pro now actually ends when the paid period ends.",
+  "sizeBytes": 58942349,
+  "sha256": "b09a46ba7600d40f427a2862a7f96cb75121ab4a2d09c77b3b0126cc8569a6bc",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12053/bolo-keyboard-12053-arm64-v8a.apk",
+  "builtAt": "2026-11-13T12:08:43.661Z",
+  "changelogBn": "প্রোমো কোডে এখন কোড-প্রতি ট্রায়াল দিন, রিডেম্পশন লিমিট, মেয়াদ, কাস্টম কোড ও প্ল্যান স্কোপ আছে। কোড বসানোর জায়গা এখন Settings -> Subscription।",
+  "changelogEn": "Promo codes now support a per-code trial length, redemption caps, redeem-by dates, vanity codes and plan scope. Settings -> Subscription is the new home for entering a code.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58941733,
-      "sha256": "90b977fe39b27a1499048cac873c5eef35ee4fb32b080d517eb8f63a0dbc7303",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12051/bolo-keyboard-12051-arm64-v8a.apk"
+      "sizeBytes": 58942349,
+      "sha256": "b09a46ba7600d40f427a2862a7f96cb75121ab4a2d09c77b3b0126cc8569a6bc",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12053/bolo-keyboard-12053-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58163397,
-      "sha256": "c212f72c6599141ea7d6fa3f1965e025c3797618454ea5af1dbbc3ccb5124d40",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12051/bolo-keyboard-12051-armeabi-v7a.apk"
+      "sizeBytes": 58164013,
+      "sha256": "6f95c0542742c4281f97e41fd92efdd9ee884f188a76ee3f385ea30239dff618",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12053/bolo-keyboard-12053-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12053,
+      "versionName": "0.1.30-306-gc39ab1184-unstable",
+      "builtAt": "2026-11-13T12:08:43.661Z",
+      "changelogEn": "Promo codes now support a per-code trial length, redemption caps, redeem-by dates, vanity codes and plan scope. Settings -> Subscription is the new home for entering a code.",
+      "changelogBn": "প্রোমো কোডে এখন কোড-প্রতি ট্রায়াল দিন, রিডেম্পশন লিমিট, মেয়াদ, কাস্টম কোড ও প্ল্যান স্কোপ আছে। কোড বসানোর জায়গা এখন Settings -> Subscription।"
+    },
     {
       "versionCode": 12051,
       "versionName": "0.1.30-304-g30e083a1c-unstable",
