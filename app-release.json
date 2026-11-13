@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-292-gf02f0f5d7-unstable",
-  "versionCode": 12039,
+  "versionName": "0.1.30-294-gf5a239886-unstable",
+  "versionCode": 12041,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58924045,
-  "sha256": "319774b15af4994da9a9da7eb1910fe8f02cdf2334d5f65fe9ebbd23439133aa",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12039/bolo-keyboard-12039-arm64-v8a.apk",
-  "builtAt": "2026-11-13T02:31:10.045Z",
-  "changelogBn": "খুব কম শব্দের রেকর্ডিং আর সার্ভারে পাঠানো হয় না, তাই চুপচাপ রেকর্ডিং আর সার্ভার এরর হিসেবে দেখায় না।",
-  "changelogEn": "Dictation stops sending near-silent clips, so a quiet recording no longer shows up as a server error.",
+  "sizeBytes": 58923933,
+  "sha256": "40fc8f178d99285deef32d9ec4a79cf58a9fb5bd18c326a15925be57f8a05f3b",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12041/bolo-keyboard-12041-arm64-v8a.apk",
+  "builtAt": "2026-11-13T02:52:18.232Z",
+  "changelogBn": "মাইক চেপে কিছু না বললে আর কোনো এরর দেখায় না। অন্য প্রোভাইডারদের মতো চুপচাপ কিছুই হয় না।",
+  "changelogEn": "Dictation no longer shows an error when you tap the mic and say nothing. Empty recordings are just ignored, like the other providers.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58924045,
-      "sha256": "319774b15af4994da9a9da7eb1910fe8f02cdf2334d5f65fe9ebbd23439133aa",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12039/bolo-keyboard-12039-arm64-v8a.apk"
+      "sizeBytes": 58923933,
+      "sha256": "40fc8f178d99285deef32d9ec4a79cf58a9fb5bd18c326a15925be57f8a05f3b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12041/bolo-keyboard-12041-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58145709,
-      "sha256": "93049588fba924ca681c4115cfa2e504371b69b725fff0166ba87af365e823ff",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12039/bolo-keyboard-12039-armeabi-v7a.apk"
+      "sizeBytes": 58145593,
+      "sha256": "6df6f36bcc04ef36a1862f16319faf9b2dd4af79135885e2ae13e9a808195bd4",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12041/bolo-keyboard-12041-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12041,
+      "versionName": "0.1.30-294-gf5a239886-unstable",
+      "builtAt": "2026-11-13T02:52:18.232Z",
+      "changelogEn": "Dictation no longer shows an error when you tap the mic and say nothing. Empty recordings are just ignored, like the other providers.",
+      "changelogBn": "মাইক চেপে কিছু না বললে আর কোনো এরর দেখায় না। অন্য প্রোভাইডারদের মতো চুপচাপ কিছুই হয় না।"
+    },
     {
       "versionCode": 12039,
       "versionName": "0.1.30-292-gf02f0f5d7-unstable",
