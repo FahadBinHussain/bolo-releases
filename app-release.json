@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-290-gc4bd8e142-unstable",
-  "versionCode": 12037,
+  "versionName": "0.1.30-292-gf02f0f5d7-unstable",
+  "versionCode": 12039,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58922889,
-  "sha256": "d002cf47415ec6a9bbadf499e6cb0330e9bda26293444ba9a320ee9f14b66a63",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12037/bolo-keyboard-12037-arm64-v8a.apk",
-  "builtAt": "2026-11-12T18:16:13.809Z",
-  "changelogBn": "ChatGPT ডিক্টেশন এখন কথা বলার সময় প্রায় প্রতি ৩ সেকেন্ডে শব্দ দেখায়, থামার পরে নয়।",
-  "changelogEn": "ChatGPT dictation now shows words about every 3 seconds while you talk, not after you stop.",
+  "sizeBytes": 58924045,
+  "sha256": "319774b15af4994da9a9da7eb1910fe8f02cdf2334d5f65fe9ebbd23439133aa",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12039/bolo-keyboard-12039-arm64-v8a.apk",
+  "builtAt": "2026-11-13T02:31:10.045Z",
+  "changelogBn": "খুব কম শব্দের রেকর্ডিং আর সার্ভারে পাঠানো হয় না, তাই চুপচাপ রেকর্ডিং আর সার্ভার এরর হিসেবে দেখায় না।",
+  "changelogEn": "Dictation stops sending near-silent clips, so a quiet recording no longer shows up as a server error.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58922889,
-      "sha256": "d002cf47415ec6a9bbadf499e6cb0330e9bda26293444ba9a320ee9f14b66a63",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12037/bolo-keyboard-12037-arm64-v8a.apk"
+      "sizeBytes": 58924045,
+      "sha256": "319774b15af4994da9a9da7eb1910fe8f02cdf2334d5f65fe9ebbd23439133aa",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12039/bolo-keyboard-12039-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58144553,
-      "sha256": "e36eefcb904e4b41c67b605dea616382b04bf45d9a4058d4ad59bcdae34f3c2d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12037/bolo-keyboard-12037-armeabi-v7a.apk"
+      "sizeBytes": 58145709,
+      "sha256": "93049588fba924ca681c4115cfa2e504371b69b725fff0166ba87af365e823ff",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12039/bolo-keyboard-12039-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12039,
+      "versionName": "0.1.30-292-gf02f0f5d7-unstable",
+      "builtAt": "2026-11-13T02:31:10.045Z",
+      "changelogEn": "Dictation stops sending near-silent clips, so a quiet recording no longer shows up as a server error.",
+      "changelogBn": "খুব কম শব্দের রেকর্ডিং আর সার্ভারে পাঠানো হয় না, তাই চুপচাপ রেকর্ডিং আর সার্ভার এরর হিসেবে দেখায় না।"
+    },
     {
       "versionCode": 12037,
       "versionName": "0.1.30-290-gc4bd8e142-unstable",
