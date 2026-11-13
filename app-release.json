@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-294-gf5a239886-unstable",
-  "versionCode": 12041,
+  "versionName": "0.1.30-304-g30e083a1c-unstable",
+  "versionCode": 12051,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58923933,
-  "sha256": "40fc8f178d99285deef32d9ec4a79cf58a9fb5bd18c326a15925be57f8a05f3b",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12041/bolo-keyboard-12041-arm64-v8a.apk",
-  "builtAt": "2026-11-13T02:52:18.232Z",
-  "changelogBn": "মাইক চেপে কিছু না বললে আর কোনো এরর দেখায় না। অন্য প্রোভাইডারদের মতো চুপচাপ কিছুই হয় না।",
-  "changelogEn": "Dictation no longer shows an error when you tap the mic and say nothing. Empty recordings are just ignored, like the other providers.",
+  "sizeBytes": 58941733,
+  "sha256": "90b977fe39b27a1499048cac873c5eef35ee4fb32b080d517eb8f63a0dbc7303",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12051/bolo-keyboard-12051-arm64-v8a.apk",
+  "builtAt": "2026-11-13T11:15:30.188Z",
+  "changelogBn": "প্রোমো কোড: একবার ব্যবহারযোগ্য কোড দিয়ে এক মাস ফ্রি Pro (Settings -> Bolo Key Pro)। মেয়াদ শেষ হলে Pro আর চালু থাকবে না।",
+  "changelogEn": "Promo codes: redeem a single-use code for a free month of Pro (Settings -> Bolo Key Pro). Pro now actually ends when the paid period ends.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58923933,
-      "sha256": "40fc8f178d99285deef32d9ec4a79cf58a9fb5bd18c326a15925be57f8a05f3b",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12041/bolo-keyboard-12041-arm64-v8a.apk"
+      "sizeBytes": 58941733,
+      "sha256": "90b977fe39b27a1499048cac873c5eef35ee4fb32b080d517eb8f63a0dbc7303",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12051/bolo-keyboard-12051-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58145593,
-      "sha256": "6df6f36bcc04ef36a1862f16319faf9b2dd4af79135885e2ae13e9a808195bd4",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12041/bolo-keyboard-12041-armeabi-v7a.apk"
+      "sizeBytes": 58163397,
+      "sha256": "c212f72c6599141ea7d6fa3f1965e025c3797618454ea5af1dbbc3ccb5124d40",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12051/bolo-keyboard-12051-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12051,
+      "versionName": "0.1.30-304-g30e083a1c-unstable",
+      "builtAt": "2026-11-13T11:15:30.188Z",
+      "changelogEn": "Promo codes: redeem a single-use code for a free month of Pro (Settings -> Bolo Key Pro). Pro now actually ends when the paid period ends.",
+      "changelogBn": "প্রোমো কোড: একবার ব্যবহারযোগ্য কোড দিয়ে এক মাস ফ্রি Pro (Settings -> Bolo Key Pro)। মেয়াদ শেষ হলে Pro আর চালু থাকবে না।"
+    },
     {
       "versionCode": 12041,
       "versionName": "0.1.30-294-gf5a239886-unstable",
