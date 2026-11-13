@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-306-gc39ab1184-unstable",
-  "versionCode": 12053,
+  "versionName": "0.1.30-310-ge51833b5a-unstable",
+  "versionCode": 12057,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58942349,
-  "sha256": "b09a46ba7600d40f427a2862a7f96cb75121ab4a2d09c77b3b0126cc8569a6bc",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12053/bolo-keyboard-12053-arm64-v8a.apk",
-  "builtAt": "2026-11-13T12:08:43.661Z",
-  "changelogBn": "প্রোমো কোডে এখন কোড-প্রতি ট্রায়াল দিন, রিডেম্পশন লিমিট, মেয়াদ, কাস্টম কোড ও প্ল্যান স্কোপ আছে। কোড বসানোর জায়গা এখন Settings -> Subscription।",
-  "changelogEn": "Promo codes now support a per-code trial length, redemption caps, redeem-by dates, vanity codes and plan scope. Settings -> Subscription is the new home for entering a code.",
+  "sizeBytes": 58942901,
+  "sha256": "c8a8f8e3f111efda076f099a7a1889d7c597ae559228061db3cd3b0a86b51659",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12057/bolo-keyboard-12057-arm64-v8a.apk",
+  "builtAt": "2026-11-13T13:30:42.647Z",
+  "changelogBn": "ড্যাশবোর্ড থেকে এখন কোনো বিল্ডকে পুরোনো বলে চিহ্নিত করা যায়। পুরোনো বিল্ড চললে বাধ্যতামূলক আপডেট আসে আর বর্তমান বিল্ডে পাঠায়।",
+  "changelogEn": "A build can now be marked old from the dashboard. A refused build gets a forced update pointing at the current one, and refused builds leave the changelog list.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58942349,
-      "sha256": "b09a46ba7600d40f427a2862a7f96cb75121ab4a2d09c77b3b0126cc8569a6bc",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12053/bolo-keyboard-12053-arm64-v8a.apk"
+      "sizeBytes": 58942901,
+      "sha256": "c8a8f8e3f111efda076f099a7a1889d7c597ae559228061db3cd3b0a86b51659",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12057/bolo-keyboard-12057-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58164013,
-      "sha256": "6f95c0542742c4281f97e41fd92efdd9ee884f188a76ee3f385ea30239dff618",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12053/bolo-keyboard-12053-armeabi-v7a.apk"
+      "sizeBytes": 58164565,
+      "sha256": "36e616767374e3d1197941617697c23ad4a085404e7a4e6302c1bf1b16ceef31",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12057/bolo-keyboard-12057-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12057,
+      "versionName": "0.1.30-310-ge51833b5a-unstable",
+      "builtAt": "2026-11-13T13:30:42.647Z",
+      "changelogEn": "A build can now be marked old from the dashboard. A refused build gets a forced update pointing at the current one, and refused builds leave the changelog list.",
+      "changelogBn": "ড্যাশবোর্ড থেকে এখন কোনো বিল্ডকে পুরোনো বলে চিহ্নিত করা যায়। পুরোনো বিল্ড চললে বাধ্যতামূলক আপডেট আসে আর বর্তমান বিল্ডে পাঠায়।"
+    },
     {
       "versionCode": 12053,
       "versionName": "0.1.30-306-gc39ab1184-unstable",
