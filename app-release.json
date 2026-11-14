@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-367-g8679c3c28-unstable",
-  "versionCode": 12114,
+  "versionName": "0.1.30-369-gf548eefb6-unstable",
+  "versionCode": 12116,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 59074333,
-  "sha256": "0feccef443fb205bcc366606824f7ba465be6f49f056110f13c28f30914b66af",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12114/bolo-keyboard-12114-arm64-v8a.apk",
-  "builtAt": "2026-11-14T10:57:33.076Z",
-  "changelogBn": "ডাউনলোড রিং এখন মরফের ঢেউয়ের মতো।",
-  "changelogEn": "Download ring now matches Morphe's wavy curves.",
+  "sizeBytes": 70013459,
+  "sha256": "14af65a70d110dd53df106c1e0c5a9aab99f7173fef20ee6eff2fbd283202336",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12116/bolo-keyboard-12116-arm64-v8a.apk",
+  "builtAt": "2026-11-14T11:20:46.356Z",
+  "changelogBn": "সুরক্ষা ঠিক করা হয়েছে: asr proxy এখন shared key-এর পাশাপাশি device token চায়, api আর pool refresh token দেয় না, updater install করার আগে apk-র signer যাচাই করে, আর api সংযোগ vercel-এর নিজের certificate chain-এ pin করা।",
+  "changelogEn": "security fixes: the asr proxy now needs your device token next to the shared key, the api no longer hands out pool refresh tokens, the updater checks the apk signer before installing, and the api connection is pinned to vercel's own certificate chain.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 59074333,
-      "sha256": "0feccef443fb205bcc366606824f7ba465be6f49f056110f13c28f30914b66af",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12114/bolo-keyboard-12114-arm64-v8a.apk"
+      "sizeBytes": 70013459,
+      "sha256": "14af65a70d110dd53df106c1e0c5a9aab99f7173fef20ee6eff2fbd283202336",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12116/bolo-keyboard-12116-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58295993,
-      "sha256": "25cdf7f30bbb23c6d131d0706b2947bda1ca95a145b42e24429c3c2ff38a46f3",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12114/bolo-keyboard-12114-armeabi-v7a.apk"
+      "sizeBytes": 65005799,
+      "sha256": "f35b1f05caf40308454be924e8142ab02665a3db1ae57a19b5106c2d62d9456e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12116/bolo-keyboard-12116-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12116,
+      "versionName": "0.1.30-369-gf548eefb6-unstable",
+      "builtAt": "2026-11-14T11:20:46.356Z",
+      "changelogEn": "security fixes: the asr proxy now needs your device token next to the shared key, the api no longer hands out pool refresh tokens, the updater checks the apk signer before installing, and the api connection is pinned to vercel's own certificate chain.",
+      "changelogBn": "সুরক্ষা ঠিক করা হয়েছে: asr proxy এখন shared key-এর পাশাপাশি device token চায়, api আর pool refresh token দেয় না, updater install করার আগে apk-র signer যাচাই করে, আর api সংযোগ vercel-এর নিজের certificate chain-এ pin করা।"
+    },
     {
       "versionCode": 12114,
       "versionName": "0.1.30-367-g8679c3c28-unstable",
