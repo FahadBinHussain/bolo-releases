@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-333-ga021ed9e0-unstable",
-  "versionCode": 12080,
+  "versionName": "0.1.30-337-g724bd54cb-unstable",
+  "versionCode": 12084,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58968373,
-  "sha256": "fba0c2f861a57055390c1c75788fae49533e06d6d2136de2431bd916c5bba616",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12080/bolo-keyboard-12080-arm64-v8a.apk",
-  "builtAt": "2026-11-14T02:33:33.201Z",
-  "changelogBn": "এখন আপনার অ্যাকাউন্ট সর্বোচ্চ ২টি ডিভাইসে চলবে - প্রতিটি ফোন তার হার্ডওয়্যার কি দিয়ে বাঁধা। ডিভাইস দেখতে ও সরাতে যান Settings - Subscription-এ।",
-  "changelogEn": "2-device limit: your account now works on up to 2 phones, each bound to its hardware key. See and manage your devices in Settings - Subscription.",
+  "sizeBytes": 58967517,
+  "sha256": "32d0794f71ac7b3eac30acd9701a53e5ff9fbdfa99b551b786c5f01441d52a28",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12084/bolo-keyboard-12084-arm64-v8a.apk",
+  "builtAt": "2026-11-14T02:52:43.902Z",
+  "changelogBn": "ডিভাইস রেজিস্ট্রেশন ঠিক করা হয়েছে: সার্ভার প্যাচ লেভেল সংখ্যা হিসেবে পাঠাতো, অ্যাপ টেক্সট আশা করতো - তাই সফল রেজিস্ট্রেশনের পরও টোকেন জমা হতো না।",
+  "changelogEn": "Fixes device registration completing on the phone: the server sent the patch level as a number and the app expected text, so a successful registration never stored its token.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58968373,
-      "sha256": "fba0c2f861a57055390c1c75788fae49533e06d6d2136de2431bd916c5bba616",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12080/bolo-keyboard-12080-arm64-v8a.apk"
+      "sizeBytes": 58967517,
+      "sha256": "32d0794f71ac7b3eac30acd9701a53e5ff9fbdfa99b551b786c5f01441d52a28",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12084/bolo-keyboard-12084-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58190037,
-      "sha256": "d0fc940ebeeb4693397603def81706fd38347a67560293549435e5d68df4c339",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12080/bolo-keyboard-12080-armeabi-v7a.apk"
+      "sizeBytes": 58189181,
+      "sha256": "8f78231401e0bb62d41f181452acc7136070e4ee34e88c91a27ced6195e76bf9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12084/bolo-keyboard-12084-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12084,
+      "versionName": "0.1.30-337-g724bd54cb-unstable",
+      "builtAt": "2026-11-14T02:52:43.902Z",
+      "changelogEn": "Fixes device registration completing on the phone: the server sent the patch level as a number and the app expected text, so a successful registration never stored its token.",
+      "changelogBn": "ডিভাইস রেজিস্ট্রেশন ঠিক করা হয়েছে: সার্ভার প্যাচ লেভেল সংখ্যা হিসেবে পাঠাতো, অ্যাপ টেক্সট আশা করতো - তাই সফল রেজিস্ট্রেশনের পরও টোকেন জমা হতো না।"
+    },
     {
       "versionCode": 12080,
       "versionName": "0.1.30-333-ga021ed9e0-unstable",
