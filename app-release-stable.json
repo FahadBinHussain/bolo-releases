@@ -1,0 +1,36 @@
+{
+  "versionName": "0.1.30-372-g694d3720c",
+  "versionCode": 12119,
+  "packageName": "com.bolo.key",
+  "minSupportedVersionCode": 12119,
+  "rolloutPercentage": 100,
+  "sizeBytes": 70058378,
+  "sha256": "b95f39860cf2f157d3a2d1356df64f2c15b7ccfb304555afedb2fff49f91251a",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12119-stable/bolo-keyboard-12119-stable-arm64-v8a.apk",
+  "builtAt": "2026-11-14T13:52:31.270Z",
+  "changelogBn": "বলো কী-এর প্রথম স্থিতিশীল সংস্করণ।",
+  "changelogEn": "first stable release of bolo key. bangla-first keyboard with voice typing, avro phonetic, probhat and cloud settings.",
+  "abis": [
+    {
+      "abi": "arm64-v8a",
+      "sizeBytes": 70058378,
+      "sha256": "b95f39860cf2f157d3a2d1356df64f2c15b7ccfb304555afedb2fff49f91251a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12119-stable/bolo-keyboard-12119-stable-arm64-v8a.apk"
+    },
+    {
+      "abi": "armeabi-v7a",
+      "sizeBytes": 65050718,
+      "sha256": "1d1fff8d3fd35842d50b11d0b4b8184158acf777708341da45d6a96097af3d4d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12119-stable/bolo-keyboard-12119-stable-armeabi-v7a.apk"
+    }
+  ],
+  "releases": [
+    {
+      "versionCode": 12119,
+      "versionName": "0.1.30-372-g694d3720c",
+      "builtAt": "2026-11-14T13:52:31.270Z",
+      "changelogEn": "first stable release of bolo key. bangla-first keyboard with voice typing, avro phonetic, probhat and cloud settings.",
+      "changelogBn": "বলো কী-এর প্রথম স্থিতিশীল সংস্করণ।"
+    }
+  ]
+}
