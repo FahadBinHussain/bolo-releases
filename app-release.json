@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-337-g724bd54cb-unstable",
-  "versionCode": 12084,
+  "versionName": "0.1.30-340-gf45a61d1f-unstable",
+  "versionCode": 12087,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58967517,
-  "sha256": "32d0794f71ac7b3eac30acd9701a53e5ff9fbdfa99b551b786c5f01441d52a28",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12084/bolo-keyboard-12084-arm64-v8a.apk",
-  "builtAt": "2026-11-14T02:52:43.902Z",
-  "changelogBn": "ডিভাইস রেজিস্ট্রেশন ঠিক করা হয়েছে: সার্ভার প্যাচ লেভেল সংখ্যা হিসেবে পাঠাতো, অ্যাপ টেক্সট আশা করতো - তাই সফল রেজিস্ট্রেশনের পরও টোকেন জমা হতো না।",
-  "changelogEn": "Fixes device registration completing on the phone: the server sent the patch level as a number and the app expected text, so a successful registration never stored its token.",
+  "sizeBytes": 58966913,
+  "sha256": "286a70b39093387852138c054a575fc2047ab15067aef8f2959f32b6560a6507",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12087/bolo-keyboard-12087-arm64-v8a.apk",
+  "builtAt": "2026-11-14T03:12:14.796Z",
+  "changelogBn": "ইনস্টলের পর চেঞ্জলগ টাইমলাইন ঠিক করা হয়েছে: আগে শুধু ১০টা বিল্ট-ইন এন্ট্রি দেখাতো, পুরো রিলিজ হিস্ট্রি দেখাতো না।",
+  "changelogEn": "Fixes the changelog timeline after an install: it showed only the 10 built-in entries instead of the full release history, because the panel never loaded the manifest in the Installed state.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58967517,
-      "sha256": "32d0794f71ac7b3eac30acd9701a53e5ff9fbdfa99b551b786c5f01441d52a28",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12084/bolo-keyboard-12084-arm64-v8a.apk"
+      "sizeBytes": 58966913,
+      "sha256": "286a70b39093387852138c054a575fc2047ab15067aef8f2959f32b6560a6507",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12087/bolo-keyboard-12087-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58189181,
-      "sha256": "8f78231401e0bb62d41f181452acc7136070e4ee34e88c91a27ced6195e76bf9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12084/bolo-keyboard-12084-armeabi-v7a.apk"
+      "sizeBytes": 58188577,
+      "sha256": "ae046c6dab71feed1c98bf8102f99e0cbb8b9dc1fbe801d6bdbc3f032153ac10",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12087/bolo-keyboard-12087-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12087,
+      "versionName": "0.1.30-340-gf45a61d1f-unstable",
+      "builtAt": "2026-11-14T03:12:14.796Z",
+      "changelogEn": "Fixes the changelog timeline after an install: it showed only the 10 built-in entries instead of the full release history, because the panel never loaded the manifest in the Installed state.",
+      "changelogBn": "ইনস্টলের পর চেঞ্জলগ টাইমলাইন ঠিক করা হয়েছে: আগে শুধু ১০টা বিল্ট-ইন এন্ট্রি দেখাতো, পুরো রিলিজ হিস্ট্রি দেখাতো না।"
+    },
     {
       "versionCode": 12084,
       "versionName": "0.1.30-337-g724bd54cb-unstable",
