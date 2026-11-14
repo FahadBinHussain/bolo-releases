@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-318-g1c7da8561-unstable",
-  "versionCode": 12065,
+  "versionName": "0.1.30-333-ga021ed9e0-unstable",
+  "versionCode": 12080,
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 100,
-  "sizeBytes": 58941629,
-  "sha256": "0546bb0a528a8e9b9c5b7473193b387d1d4812ee393257989704f5e9da28288c",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12065/bolo-keyboard-12065-arm64-v8a.apk",
-  "builtAt": "2026-11-13T15:35:53.933Z",
-  "changelogBn": "ড্যাশবোর্ড থেকে এখন কোনো বিল্ডকে পুরোনো বলে চিহ্নিত করা যায়। পুরোনো বিল্ড চললে বাধ্যতামূলক আপডেট আসে আর বর্তমান বিল্ডে পাঠায়।",
-  "changelogEn": "A build can now be marked old from the dashboard. A refused build gets a forced update pointing at the current one, and refused builds leave the changelog list.",
+  "rolloutPercentage": 10,
+  "sizeBytes": 58968373,
+  "sha256": "fba0c2f861a57055390c1c75788fae49533e06d6d2136de2431bd916c5bba616",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12080/bolo-keyboard-12080-arm64-v8a.apk",
+  "builtAt": "2026-11-14T02:33:33.201Z",
+  "changelogBn": "এখন আপনার অ্যাকাউন্ট সর্বোচ্চ ২টি ডিভাইসে চলবে - প্রতিটি ফোন তার হার্ডওয়্যার কি দিয়ে বাঁধা। ডিভাইস দেখতে ও সরাতে যান Settings - Subscription-এ।",
+  "changelogEn": "2-device limit: your account now works on up to 2 phones, each bound to its hardware key. See and manage your devices in Settings - Subscription.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58941629,
-      "sha256": "0546bb0a528a8e9b9c5b7473193b387d1d4812ee393257989704f5e9da28288c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12065/bolo-keyboard-12065-arm64-v8a.apk"
+      "sizeBytes": 58968373,
+      "sha256": "fba0c2f861a57055390c1c75788fae49533e06d6d2136de2431bd916c5bba616",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12080/bolo-keyboard-12080-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58163293,
-      "sha256": "3f2dcd1e57a3b5e8e95da55409c319ab0fc143265f05383a509988e50ddef1ec",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12065/bolo-keyboard-12065-armeabi-v7a.apk"
+      "sizeBytes": 58190037,
+      "sha256": "d0fc940ebeeb4693397603def81706fd38347a67560293549435e5d68df4c339",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12080/bolo-keyboard-12080-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12080,
+      "versionName": "0.1.30-333-ga021ed9e0-unstable",
+      "builtAt": "2026-11-14T02:33:33.201Z",
+      "changelogEn": "2-device limit: your account now works on up to 2 phones, each bound to its hardware key. See and manage your devices in Settings - Subscription.",
+      "changelogBn": "এখন আপনার অ্যাকাউন্ট সর্বোচ্চ ২টি ডিভাইসে চলবে - প্রতিটি ফোন তার হার্ডওয়্যার কি দিয়ে বাঁধা। ডিভাইস দেখতে ও সরাতে যান Settings - Subscription-এ।"
+    },
     {
       "versionCode": 12065,
       "versionName": "0.1.30-318-g1c7da8561-unstable",
