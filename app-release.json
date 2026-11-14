@@ -1,29 +1,37 @@
 {
-  "versionName": "0.1.30-355-g79f7c3bc6-unstable",
-  "versionCode": 12102,
+  "versionName": "0.1.30-358-g768674556-unstable",
+  "versionCode": 12105,
+  "packageName": "org.futo.inputmethod.latin.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 59069445,
-  "sha256": "10e10e1634c00a26cf8ce3204247e8fe7dc4133a93f982e02eb18a0a7e7c04f1",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12102/bolo-keyboard-12102-arm64-v8a.apk",
-  "builtAt": "2026-11-14T04:52:37.447Z",
+  "sizeBytes": 59073637,
+  "sha256": "26b93b38eecada60482d893e89530413d65a21134885a7a600c6acb60de21af9",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12105/bolo-keyboard-12105-arm64-v8a.apk",
+  "builtAt": "2026-11-14T05:15:51.993Z",
   "changelogBn": "ইনস্টলের পর চেঞ্জলগ টাইমলাইন ঠিক করা হয়েছে: আগে শুধু ১০টা বিল্ট-ইন এন্ট্রি দেখাতো, পুরো রিলিজ হিস্ট্রি দেখাতো না।",
-  "changelogEn": "security fixes from the red team pass: closed the exported activities, session tokens are encrypted on the device now",
+  "changelogEn": "the updater now knows about the package move to com.bolo.key, and device registration sends the app package",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 59069445,
-      "sha256": "10e10e1634c00a26cf8ce3204247e8fe7dc4133a93f982e02eb18a0a7e7c04f1",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12102/bolo-keyboard-12102-arm64-v8a.apk"
+      "sizeBytes": 59073637,
+      "sha256": "26b93b38eecada60482d893e89530413d65a21134885a7a600c6acb60de21af9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12105/bolo-keyboard-12105-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58291105,
-      "sha256": "0333a120be0034175244ddf5c1b87685a20eca3f75c57b2b164311af851ca8d1",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12102/bolo-keyboard-12102-armeabi-v7a.apk"
+      "sizeBytes": 58295301,
+      "sha256": "2260a8bd9daba545ba52250edfb8d22a30bac474e61d325319b2e4b6fd03daa0",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12105/bolo-keyboard-12105-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12105,
+      "versionName": "0.1.30-358-g768674556-unstable",
+      "builtAt": "2026-11-14T05:15:51.993Z",
+      "changelogEn": "the updater now knows about the package move to com.bolo.key, and device registration sends the app package",
+      "changelogBn": "ইনস্টলের পর চেঞ্জলগ টাইমলাইন ঠিক করা হয়েছে: আগে শুধু ১০টা বিল্ট-ইন এন্ট্রি দেখাতো, পুরো রিলিজ হিস্ট্রি দেখাতো না।"
+    },
     {
       "versionCode": 12102,
       "versionName": "0.1.30-355-g79f7c3bc6-unstable",
