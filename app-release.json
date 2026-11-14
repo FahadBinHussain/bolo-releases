@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-358-g768674556-unstable",
-  "versionCode": 12105,
-  "packageName": "org.futo.inputmethod.latin.unstable",
+  "versionName": "0.1.30-360-gab40d3ca5-unstable",
+  "versionCode": 12107,
+  "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 59073637,
-  "sha256": "26b93b38eecada60482d893e89530413d65a21134885a7a600c6acb60de21af9",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12105/bolo-keyboard-12105-arm64-v8a.apk",
-  "builtAt": "2026-11-14T05:15:51.993Z",
+  "sizeBytes": 59073121,
+  "sha256": "6e7d4ac5648acded6fd4384237674c235121fbd26cdf2edf20fbd167adb0595e",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12107/bolo-keyboard-12107-arm64-v8a.apk",
+  "builtAt": "2026-11-14T06:47:48.546Z",
   "changelogBn": "ইনস্টলের পর চেঞ্জলগ টাইমলাইন ঠিক করা হয়েছে: আগে শুধু ১০টা বিল্ট-ইন এন্ট্রি দেখাতো, পুরো রিলিজ হিস্ট্রি দেখাতো না।",
-  "changelogEn": "the updater now knows about the package move to com.bolo.key, and device registration sends the app package",
+  "changelogEn": "Bolo Key moved to its new home: com.bolo.key",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 59073637,
-      "sha256": "26b93b38eecada60482d893e89530413d65a21134885a7a600c6acb60de21af9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12105/bolo-keyboard-12105-arm64-v8a.apk"
+      "sizeBytes": 59073121,
+      "sha256": "6e7d4ac5648acded6fd4384237674c235121fbd26cdf2edf20fbd167adb0595e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12107/bolo-keyboard-12107-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58295301,
-      "sha256": "2260a8bd9daba545ba52250edfb8d22a30bac474e61d325319b2e4b6fd03daa0",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12105/bolo-keyboard-12105-armeabi-v7a.apk"
+      "sizeBytes": 58294785,
+      "sha256": "3a7c59bb2e6cb377fa5cca7f3e972a20e4d22c600429db5f92c14a700bb3800b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12107/bolo-keyboard-12107-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12107,
+      "versionName": "0.1.30-360-gab40d3ca5-unstable",
+      "builtAt": "2026-11-14T06:47:48.546Z",
+      "changelogEn": "Bolo Key moved to its new home: com.bolo.key",
+      "changelogBn": "ইনস্টলের পর চেঞ্জলগ টাইমলাইন ঠিক করা হয়েছে: আগে শুধু ১০টা বিল্ট-ইন এন্ট্রি দেখাতো, পুরো রিলিজ হিস্ট্রি দেখাতো না।"
+    },
     {
       "versionCode": 12105,
       "versionName": "0.1.30-358-g768674556-unstable",
