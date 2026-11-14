@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-364-g6dd350667-unstable",
-  "versionCode": 12111,
+  "versionName": "0.1.30-367-g8679c3c28-unstable",
+  "versionCode": 12114,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 59060861,
-  "sha256": "791de8e465b83a5b2ff173d925c8d18aa3815585954245a668a435ddc3c20252",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12111/bolo-keyboard-12111-arm64-v8a.apk",
-  "builtAt": "2026-11-14T10:17:02.991Z",
-  "changelogBn": "ভয়েস এখন সবসময় অনলাইন। অনলাইন/অফলাইন টগল সরিয়ে দেওয়া হয়েছে, নতুন ইনস্টলে আর 'no voice input model installed' দেখাবে না।",
-  "changelogEn": "Voice is always online now. The online/offline toggle is gone, so a fresh install no longer shows 'no voice input model installed'.",
+  "sizeBytes": 59074333,
+  "sha256": "0feccef443fb205bcc366606824f7ba465be6f49f056110f13c28f30914b66af",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12114/bolo-keyboard-12114-arm64-v8a.apk",
+  "builtAt": "2026-11-14T10:57:33.076Z",
+  "changelogBn": "ডাউনলোড রিং এখন মরফের ঢেউয়ের মতো।",
+  "changelogEn": "Download ring now matches Morphe's wavy curves.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 59060861,
-      "sha256": "791de8e465b83a5b2ff173d925c8d18aa3815585954245a668a435ddc3c20252",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12111/bolo-keyboard-12111-arm64-v8a.apk"
+      "sizeBytes": 59074333,
+      "sha256": "0feccef443fb205bcc366606824f7ba465be6f49f056110f13c28f30914b66af",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12114/bolo-keyboard-12114-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58282525,
-      "sha256": "088cf4017e20e90858d9ea79328b6ddc0b381ca1e25c8acd38af8e84d21e4269",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12111/bolo-keyboard-12111-armeabi-v7a.apk"
+      "sizeBytes": 58295993,
+      "sha256": "25cdf7f30bbb23c6d131d0706b2947bda1ca95a145b42e24429c3c2ff38a46f3",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12114/bolo-keyboard-12114-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12114,
+      "versionName": "0.1.30-367-g8679c3c28-unstable",
+      "builtAt": "2026-11-14T10:57:33.076Z",
+      "changelogEn": "Download ring now matches Morphe's wavy curves.",
+      "changelogBn": "ডাউনলোড রিং এখন মরফের ঢেউয়ের মতো।"
+    },
     {
       "versionCode": 12111,
       "versionName": "0.1.30-364-g6dd350667-unstable",
