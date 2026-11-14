@@ -1,29 +1,36 @@
 {
-  "versionName": "0.1.30-345-g6d6c4f312-unstable",
-  "versionCode": 12092,
+  "versionName": "0.1.30-347-gc77e012f9-unstable",
+  "versionCode": 12094,
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 58966297,
-  "sha256": "b30909880bc178d9c8232b995c0353ceb18867fbaa5fa269adc9a84fe2cf62fe",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12092/bolo-keyboard-12092-arm64-v8a.apk",
-  "builtAt": "2026-11-14T04:03:10.141Z",
+  "sizeBytes": 58968349,
+  "sha256": "38594f6607a6c9ecc51871fefb50fe02af30906c6db4daf5aac7f7cfaf2cd6e0",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12094/bolo-keyboard-12094-arm64-v8a.apk",
+  "builtAt": "2026-11-14T04:17:50.804Z",
   "changelogBn": "ইনস্টলের পর চেঞ্জলগ টাইমলাইন ঠিক করা হয়েছে: আগে শুধু ১০টা বিল্ট-ইন এন্ট্রি দেখাতো, পুরো রিলিজ হিস্ট্রি দেখাতো না।",
-  "changelogEn": "removed the verification method line from the License & Account card",
+  "changelogEn": "checking for updates again shows a spinner instead of flashing the old answer first",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 58966297,
-      "sha256": "b30909880bc178d9c8232b995c0353ceb18867fbaa5fa269adc9a84fe2cf62fe",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12092/bolo-keyboard-12092-arm64-v8a.apk"
+      "sizeBytes": 58968349,
+      "sha256": "38594f6607a6c9ecc51871fefb50fe02af30906c6db4daf5aac7f7cfaf2cd6e0",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12094/bolo-keyboard-12094-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 58187961,
-      "sha256": "95f0b534e113637af3a345dc97b5355e4d3c6755aaa02fed8f12e44dc06ead03",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12092/bolo-keyboard-12092-armeabi-v7a.apk"
+      "sizeBytes": 58190013,
+      "sha256": "65f8031ff48c1fbe6fe317fea3816250005a1eb419bba6b6f2a6177328715d00",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12094/bolo-keyboard-12094-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12094,
+      "versionName": "0.1.30-347-gc77e012f9-unstable",
+      "builtAt": "2026-11-14T04:17:50.804Z",
+      "changelogEn": "checking for updates again shows a spinner instead of flashing the old answer first",
+      "changelogBn": "ইনস্টলের পর চেঞ্জলগ টাইমলাইন ঠিক করা হয়েছে: আগে শুধু ১০টা বিল্ট-ইন এন্ট্রি দেখাতো, পুরো রিলিজ হিস্ট্রি দেখাতো না।"
+    },
     {
       "versionCode": 12092,
       "versionName": "0.1.30-345-g6d6c4f312-unstable",
