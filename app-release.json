@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-385-g52108477a-unstable",
-  "versionCode": 12130,
+  "versionName": "0.1.30-394-g2681d65e2-unstable",
+  "versionCode": 12139,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70013459,
-  "sha256": "bb9eeb05ed871ab58d9aefb46dc19358d20bc9ab4bb66d8b61b546aebb702352",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12130/bolo-keyboard-12130-arm64-v8a.apk",
-  "builtAt": "2026-11-14T18:04:30.497Z",
-  "changelogBn": "সুরক্ষা ঠিক করা হয়েছে: asr proxy এখন shared key-এর পাশাপাশি device token চায়, api আর pool refresh token দেয় না, updater install করার আগে apk-র signer যাচাই করে, আর api সংযোগ vercel-এর নিজের certificate chain-এ pin করা।",
-  "changelogEn": "free plan no longer shows a 12h voice allowance",
+  "sizeBytes": 70029843,
+  "sha256": "50ac6b5cba9b1a714727e86231aec2c3b9073efa3839da6bdc018d75766a441f",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12139/bolo-keyboard-12139-arm64-v8a.apk",
+  "builtAt": "2026-11-14T19:00:55.540Z",
+  "changelogBn": "ভয়েস ডিকটেশনে এখন ইংরেজি বাক্যের শুরুতে বড় হাতের অক্ষর আসবে - লাইনের শুরুতে আর ফুল স্টপের পরেও।",
+  "changelogEn": "Voice dictation now capitalizes English sentences - at the start of a line and after every full stop.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70013459,
-      "sha256": "bb9eeb05ed871ab58d9aefb46dc19358d20bc9ab4bb66d8b61b546aebb702352",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12130/bolo-keyboard-12130-arm64-v8a.apk"
+      "sizeBytes": 70029843,
+      "sha256": "50ac6b5cba9b1a714727e86231aec2c3b9073efa3839da6bdc018d75766a441f",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12139/bolo-keyboard-12139-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65005799,
-      "sha256": "586ee7ea92efc175501fe4c5433a776081cd8faa78b33d87d52d9618632da574",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12130/bolo-keyboard-12130-armeabi-v7a.apk"
+      "sizeBytes": 65022183,
+      "sha256": "d1541610930b48f556fbfcd39b873fee9a97f93709098b88f2a9d43712f473e7",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12139/bolo-keyboard-12139-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12139,
+      "versionName": "0.1.30-394-g2681d65e2-unstable",
+      "builtAt": "2026-11-14T19:00:55.540Z",
+      "changelogEn": "Voice dictation now capitalizes English sentences - at the start of a line and after every full stop.",
+      "changelogBn": "ভয়েস ডিকটেশনে এখন ইংরেজি বাক্যের শুরুতে বড় হাতের অক্ষর আসবে - লাইনের শুরুতে আর ফুল স্টপের পরেও।"
+    },
     {
       "versionCode": 12130,
       "versionName": "0.1.30-385-g52108477a-unstable",
