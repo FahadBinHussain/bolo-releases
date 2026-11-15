@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-432-gf34d2fc69-unstable",
-  "versionCode": 12177,
+  "versionName": "0.1.30-438-gadebe4899-unstable",
+  "versionCode": 12183,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70066498,
-  "sha256": "da4f2824830f05b236d3d7664b693c084e23f587816147500c3d42cedba89ddd",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12177/bolo-keyboard-12177-arm64-v8a.apk",
-  "builtAt": "2026-11-15T16:25:22.757Z",
-  "changelogBn": "ভয়েস: ল্যাংগুয়েজ বায়াস এখন নাম পাঠায় (Bengali, English) — কোড ভ্যালু Meta চিনে না, তাই ছোট বাংলা হিন্দি হয়ে যাচ্ছিল",
-  "changelogEn": "Voice: language bias now sends language names (Bengali, English) - Meta ignores code values, which is why short Bangla came back as Hindi",
+  "sizeBytes": 70228218,
+  "sha256": "1feb7a2c7f76318a3d9ee81155a184129288f709c6da5a3ed75312622c5802b0",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12183/bolo-keyboard-12183-arm64-v8a.apk",
+  "builtAt": "2026-11-15T17:01:12.551Z",
+  "changelogBn": "ভয়েস: প্রত্যেক সেশনে তোমার কথার আগে কয়েক সেকেন্ড রেকর্ড করা বাংলা যাবে, যাতে মডেল ছোট কথায় হিন্দি না ধরে বাংলা ধরে",
+  "changelogEn": "Voice: every session now opens with a few seconds of recorded Bangla before your audio, so the model locks onto Bengali instead of guessing Hindi on short utterances",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70066498,
-      "sha256": "da4f2824830f05b236d3d7664b693c084e23f587816147500c3d42cedba89ddd",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12177/bolo-keyboard-12177-arm64-v8a.apk"
+      "sizeBytes": 70228218,
+      "sha256": "1feb7a2c7f76318a3d9ee81155a184129288f709c6da5a3ed75312622c5802b0",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12183/bolo-keyboard-12183-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65058838,
-      "sha256": "59ef0f1ab8c3f7455e1991762e88ded253c2a03624ea1982b18513cde5ccbe8f",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12177/bolo-keyboard-12177-armeabi-v7a.apk"
+      "sizeBytes": 65220558,
+      "sha256": "87d911fe10d45680c287ac9ea04c910e1120c501e72f365b62968dd1989c15cf",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12183/bolo-keyboard-12183-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12183,
+      "versionName": "0.1.30-438-gadebe4899-unstable",
+      "builtAt": "2026-11-15T17:01:12.551Z",
+      "changelogEn": "Voice: every session now opens with a few seconds of recorded Bangla before your audio, so the model locks onto Bengali instead of guessing Hindi on short utterances",
+      "changelogBn": "ভয়েস: প্রত্যেক সেশনে তোমার কথার আগে কয়েক সেকেন্ড রেকর্ড করা বাংলা যাবে, যাতে মডেল ছোট কথায় হিন্দি না ধরে বাংলা ধরে"
+    },
     {
       "versionCode": 12177,
       "versionName": "0.1.30-432-gf34d2fc69-unstable",
