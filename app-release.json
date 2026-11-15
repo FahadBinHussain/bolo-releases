@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-403-gaaaf7e7d1-unstable",
-  "versionCode": 12148,
+  "versionName": "0.1.30-406-g4abbc7dce-unstable",
+  "versionCode": 12151,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70031673,
-  "sha256": "29bac1ddea1836f603f1216d08210eb1162580a666741a4609af9e5ad31b3e20",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12148/bolo-keyboard-12148-arm64-v8a.apk",
-  "builtAt": "2026-11-15T02:06:50.978Z",
-  "changelogBn": "সেটিংসে Account, Miscellaneous আর Credits-এর পাশে এখন আইকন আছে।",
-  "changelogEn": "Account, Miscellaneous and Credits now have icons on the settings screen, like the other rows.",
+  "sha256": "577c799a322e5e09ba9cb7b7820df12e0d610d48c96b9b0c0a20db17728807ca",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12151/bolo-keyboard-12151-arm64-v8a.apk",
+  "builtAt": "2026-11-15T09:44:48.549Z",
+  "changelogBn": "প্লে ইন্টিগ্রিটি গেট: ভয়েস অ্যাসাইনমেন্ট দেওয়ার আগে ডিভাইস যাচাই করা হয়।",
+  "changelogEn": "Play Integrity gate: voice assignments now verify the device before issuing.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70031673,
-      "sha256": "29bac1ddea1836f603f1216d08210eb1162580a666741a4609af9e5ad31b3e20",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12148/bolo-keyboard-12148-arm64-v8a.apk"
+      "sha256": "577c799a322e5e09ba9cb7b7820df12e0d610d48c96b9b0c0a20db17728807ca",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12151/bolo-keyboard-12151-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65024013,
-      "sha256": "5c276a57c2041944f384db10d736f78dc9c4b4e8470133d01075d8da85748ebb",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12148/bolo-keyboard-12148-armeabi-v7a.apk"
+      "sha256": "65cf2a6fa8d5c41d9fc3bf975beaa6c4b4dad86156fce2efd8d7c986bda970bd",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12151/bolo-keyboard-12151-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12151,
+      "versionName": "0.1.30-406-g4abbc7dce-unstable",
+      "builtAt": "2026-11-15T09:44:48.549Z",
+      "changelogEn": "Play Integrity gate: voice assignments now verify the device before issuing.",
+      "changelogBn": "প্লে ইন্টিগ্রিটি গেট: ভয়েস অ্যাসাইনমেন্ট দেওয়ার আগে ডিভাইস যাচাই করা হয়।"
+    },
     {
       "versionCode": 12148,
       "versionName": "0.1.30-403-gaaaf7e7d1-unstable",
