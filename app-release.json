@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-398-gf41da9ee8-unstable",
-  "versionCode": 12143,
+  "versionName": "0.1.30-403-gaaaf7e7d1-unstable",
+  "versionCode": 12148,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 100,
-  "sizeBytes": 70030409,
-  "sha256": "c138a6d5634059fd4a70458c5acf58f468854734cfd6a98be3e9cc0a1ad69296",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12143/bolo-keyboard-12143-arm64-v8a.apk",
-  "builtAt": "2026-11-15T01:12:46.553Z",
-  "changelogBn": "মুছে ফেলা ডিভাইস আর ডিভাইস লিস্টে থাকবে না - স্লট খালি হলেই এখন দেখা যাবে।",
-  "changelogEn": "Removed devices no longer stay in your device list - freeing a slot now shows up right away.",
+  "rolloutPercentage": 10,
+  "sizeBytes": 70031673,
+  "sha256": "29bac1ddea1836f603f1216d08210eb1162580a666741a4609af9e5ad31b3e20",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12148/bolo-keyboard-12148-arm64-v8a.apk",
+  "builtAt": "2026-11-15T02:06:50.978Z",
+  "changelogBn": "সেটিংসে Account, Miscellaneous আর Credits-এর পাশে এখন আইকন আছে।",
+  "changelogEn": "Account, Miscellaneous and Credits now have icons on the settings screen, like the other rows.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70030409,
-      "sha256": "c138a6d5634059fd4a70458c5acf58f468854734cfd6a98be3e9cc0a1ad69296",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12143/bolo-keyboard-12143-arm64-v8a.apk"
+      "sizeBytes": 70031673,
+      "sha256": "29bac1ddea1836f603f1216d08210eb1162580a666741a4609af9e5ad31b3e20",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12148/bolo-keyboard-12148-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65022749,
-      "sha256": "fe9e8a62f46dc16ba6acb26b974805f6dfb01c5fff46e3ccd4edc430daae8a56",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12143/bolo-keyboard-12143-armeabi-v7a.apk"
+      "sizeBytes": 65024013,
+      "sha256": "5c276a57c2041944f384db10d736f78dc9c4b4e8470133d01075d8da85748ebb",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12148/bolo-keyboard-12148-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12148,
+      "versionName": "0.1.30-403-gaaaf7e7d1-unstable",
+      "builtAt": "2026-11-15T02:06:50.978Z",
+      "changelogEn": "Account, Miscellaneous and Credits now have icons on the settings screen, like the other rows.",
+      "changelogBn": "সেটিংসে Account, Miscellaneous আর Credits-এর পাশে এখন আইকন আছে।"
+    },
     {
       "versionCode": 12143,
       "versionName": "0.1.30-398-gf41da9ee8-unstable",
