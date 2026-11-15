@@ -3,7 +3,7 @@
   "versionCode": 12143,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 10,
+  "rolloutPercentage": 100,
   "sizeBytes": 70030409,
   "sha256": "c138a6d5634059fd4a70458c5acf58f468854734cfd6a98be3e9cc0a1ad69296",
   "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12143/bolo-keyboard-12143-arm64-v8a.apk",
