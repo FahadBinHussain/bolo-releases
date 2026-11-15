@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-426-g37e070065-unstable",
-  "versionCode": 12171,
+  "versionName": "0.1.30-429-g9b59a3b9d-unstable",
+  "versionCode": 12174,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70066498,
-  "sha256": "0ee7968ce01b8cb2fadbbce7c7ce4afc562655c40c70b549cb66595c59c9d8c7",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12171/bolo-keyboard-12171-arm64-v8a.apk",
-  "builtAt": "2026-11-15T13:49:45.934Z",
-  "changelogBn": "বানান পরীক্ষা ঠিক করা হয়েছে: কীবোর্ড এখন আর অ্যান্ড্রয়েডকে বানান পরীক্ষা বন্ধ করতে বলে না, তাই ভুল শব্দে লাল দাগ আর পরামর্শ দেখা যাবে।",
-  "changelogEn": "Spell checker fixed: the keyboard no longer tells Android to skip spell checking, so red underlines and suggestions now appear.",
+  "sha256": "dc1935b73840aff9614af4c942d774f32a031100e3613c570926d1b10ec8cd43",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12174/bolo-keyboard-12174-arm64-v8a.apk",
+  "builtAt": "2026-11-15T15:30:55.819Z",
+  "changelogBn": "ভয়েস: ছোট বাংলা/ইংরেজি কথাগুলো এখন সঠিক ভাষায় লেখা হবে। সেটিংস থেকে ম্যানুয়াল আপডেট চেকের লাইনটা সরানো হয়েছে।",
+  "changelogEn": "Voice: short Bangla/English utterances now transcribe in the right language (bn+en hint sent together). Settings: removed the manual check-for-updates row.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70066498,
-      "sha256": "0ee7968ce01b8cb2fadbbce7c7ce4afc562655c40c70b549cb66595c59c9d8c7",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12171/bolo-keyboard-12171-arm64-v8a.apk"
+      "sha256": "dc1935b73840aff9614af4c942d774f32a031100e3613c570926d1b10ec8cd43",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12174/bolo-keyboard-12174-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65058838,
-      "sha256": "216f024aac7f7f3b0671e741c3f07b7023ec8a3e026803babea4ac79b69c2ae2",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12171/bolo-keyboard-12171-armeabi-v7a.apk"
+      "sha256": "5906d7e80007cf259fb5e328709f60ba7d4c221c83b67d84667c7384cf3012cc",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12174/bolo-keyboard-12174-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12174,
+      "versionName": "0.1.30-429-g9b59a3b9d-unstable",
+      "builtAt": "2026-11-15T15:30:55.819Z",
+      "changelogEn": "Voice: short Bangla/English utterances now transcribe in the right language (bn+en hint sent together). Settings: removed the manual check-for-updates row.",
+      "changelogBn": "ভয়েস: ছোট বাংলা/ইংরেজি কথাগুলো এখন সঠিক ভাষায় লেখা হবে। সেটিংস থেকে ম্যানুয়াল আপডেট চেকের লাইনটা সরানো হয়েছে।"
+    },
     {
       "versionCode": 12171,
       "versionName": "0.1.30-426-g37e070065-unstable",
