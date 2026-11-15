@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-417-gc470c0473-unstable",
-  "versionCode": 12162,
+  "versionName": "0.1.30-424-gfc40ea63d-unstable",
+  "versionCode": 12169,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70049466,
-  "sha256": "b785abca4657fdb11f9f0b17dcf35155ee76ab272783820ceacd0a885d70a090",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12162/bolo-keyboard-12162-arm64-v8a.apk",
-  "builtAt": "2026-11-15T11:07:11.046Z",
-  "changelogBn": "ঘোষণা: নির্দিষ্ট ব্যবহারকারী/গ্রুপে পাঠানো, সময়সূচি, ইতিহাস + অ্যাপে ইনবক্স। স্পেল চেকার সাজেশন, ভয়েস কাউন্টডাউন, সেটিংস সিঙ্ক।",
-  "changelogEn": "Announcements: audience targeting, scheduling, history + in-app inbox. Spell checker suggestions, voice countdown, settings sync.",
+  "sizeBytes": 70066514,
+  "sha256": "2c236d48159ededeae67817670b6c6792b576435540096649a94645e1bd781cb",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12169/bolo-keyboard-12169-arm64-v8a.apk",
+  "builtAt": "2026-11-15T11:52:29.737Z",
+  "changelogBn": "অ্যাপ বন্ধ থাকলেও আপডেট নোটিফিকেশন আসবে। স্পেল চেকার সার্ভিস আবার চালু — সিস্টেম স্পেল চেকারে বলো কী এখন দেখা যাবে।",
+  "changelogEn": "Update notifications now reach your phone even when the app is closed. Spell checker service re-enabled — Bolo Key now appears in system spell checker settings.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70049466,
-      "sha256": "b785abca4657fdb11f9f0b17dcf35155ee76ab272783820ceacd0a885d70a090",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12162/bolo-keyboard-12162-arm64-v8a.apk"
+      "sizeBytes": 70066514,
+      "sha256": "2c236d48159ededeae67817670b6c6792b576435540096649a94645e1bd781cb",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12169/bolo-keyboard-12169-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65041806,
-      "sha256": "79b5851da8e67aa3577d306b4a294e7b583fa6f6e4d9c84ae81ecaf0522a0124",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12162/bolo-keyboard-12162-armeabi-v7a.apk"
+      "sizeBytes": 65058854,
+      "sha256": "d95f4779a2321acb599eb9f885bc1bb5c7a946d87369b0db371eef582a1235ef",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12169/bolo-keyboard-12169-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12169,
+      "versionName": "0.1.30-424-gfc40ea63d-unstable",
+      "builtAt": "2026-11-15T11:52:29.737Z",
+      "changelogEn": "Update notifications now reach your phone even when the app is closed. Spell checker service re-enabled — Bolo Key now appears in system spell checker settings.",
+      "changelogBn": "অ্যাপ বন্ধ থাকলেও আপডেট নোটিফিকেশন আসবে। স্পেল চেকার সার্ভিস আবার চালু — সিস্টেম স্পেল চেকারে বলো কী এখন দেখা যাবে।"
+    },
     {
       "versionCode": 12162,
       "versionName": "0.1.30-417-gc470c0473-unstable",
