@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-482-gac6dcf181-unstable",
-  "versionCode": 12227,
+  "versionName": "0.1.30-488-gccb7c3375-unstable",
+  "versionCode": 12233,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70235642,
-  "sha256": "766f1de9c1849ab4681ca035fb842f83c2bcb88ce1a42c8c8be39308d3a13050",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12227/bolo-keyboard-12227-arm64-v8a.apk",
-  "builtAt": "2026-11-16T09:32:39.684Z",
-  "changelogBn": "গ্লোব বাটন আবার সব লেআউট ঘুরে ঘুরে বদলাবে (অভ্র, প্রভাত, ইংরেজি)।",
-  "changelogEn": "Globe button cycles through all layouts again (Avro, Probhat, English).",
+  "sizeBytes": 70256602,
+  "sha256": "c899c9dfdc60ce086a943da45ecd8634b0bd1b5d4d19a4404f8436833fbc4056",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12233/bolo-keyboard-12233-arm64-v8a.apk",
+  "builtAt": "2026-11-16T10:15:50.571Z",
+  "changelogBn": "ইমোজি বাটন স্পেসবারের ডানদিকে, ফুলস্টপের পরে নেওয়া হয়েছে।",
+  "changelogEn": "Emoji key moved to the right of the spacebar, after the period.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70235642,
-      "sha256": "766f1de9c1849ab4681ca035fb842f83c2bcb88ce1a42c8c8be39308d3a13050",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12227/bolo-keyboard-12227-arm64-v8a.apk"
+      "sizeBytes": 70256602,
+      "sha256": "c899c9dfdc60ce086a943da45ecd8634b0bd1b5d4d19a4404f8436833fbc4056",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12233/bolo-keyboard-12233-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65227982,
-      "sha256": "a259ba42ec3aed874168d7d68e7483625dfcfd80030fef3e77c1a9e2640811c1",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12227/bolo-keyboard-12227-armeabi-v7a.apk"
+      "sizeBytes": 65248942,
+      "sha256": "809984a1f6148fcc56d5fe38e22d52317ed8a7fe1d3a10185bc0516232028be7",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12233/bolo-keyboard-12233-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12233,
+      "versionName": "0.1.30-488-gccb7c3375-unstable",
+      "builtAt": "2026-11-16T10:15:50.571Z",
+      "changelogEn": "Emoji key moved to the right of the spacebar, after the period.",
+      "changelogBn": "ইমোজি বাটন স্পেসবারের ডানদিকে, ফুলস্টপের পরে নেওয়া হয়েছে।"
+    },
     {
       "versionCode": 12227,
       "versionName": "0.1.30-482-gac6dcf181-unstable",
