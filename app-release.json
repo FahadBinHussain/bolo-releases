@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-468-g441dc12a1-unstable",
-  "versionCode": 12213,
+  "versionName": "0.1.30-471-g26c6a1a6d-unstable",
+  "versionCode": 12216,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70244946,
-  "sha256": "65f1bbdfd15c7c6a851a264ea6d64c5ff5e9d64b2f81b8e78476a73855a7accf",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12213/bolo-keyboard-12213-arm64-v8a.apk",
-  "builtAt": "2026-11-16T07:07:49.477Z",
-  "changelogBn": "RefKB-র লেআউটের মতো কি-র মাঝে গ্যাপ কমানো হলো (#29)",
-  "changelogEn": "tighter key spacing to match RefKB's layout (#29)",
+  "sha256": "5d35faf755f4c30420d7fd51e4faef5814275a4fa83703fd75ec747e399ad74b",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12216/bolo-keyboard-12216-arm64-v8a.apk",
+  "builtAt": "2026-11-16T07:45:14.056Z",
+  "changelogBn": "RefKB-র লেআউটের মতো নাম্বার রো ছোট করা হলো (#29)",
+  "changelogEn": "shorter number row to match RefKB's layout (#29)",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70244946,
-      "sha256": "65f1bbdfd15c7c6a851a264ea6d64c5ff5e9d64b2f81b8e78476a73855a7accf",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12213/bolo-keyboard-12213-arm64-v8a.apk"
+      "sha256": "5d35faf755f4c30420d7fd51e4faef5814275a4fa83703fd75ec747e399ad74b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12216/bolo-keyboard-12216-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65237286,
-      "sha256": "ab0c765d802e111cc6946d9365bccc094352f05016e79364309e50575ec6ff80",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12213/bolo-keyboard-12213-armeabi-v7a.apk"
+      "sha256": "dd84a39a208b5b8966a7ff39dc3b80b88aef48da911b697f1d7c1f853a970302",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12216/bolo-keyboard-12216-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12216,
+      "versionName": "0.1.30-471-g26c6a1a6d-unstable",
+      "builtAt": "2026-11-16T07:45:14.056Z",
+      "changelogEn": "shorter number row to match RefKB's layout (#29)",
+      "changelogBn": "RefKB-র লেআউটের মতো নাম্বার রো ছোট করা হলো (#29)"
+    },
     {
       "versionCode": 12213,
       "versionName": "0.1.30-468-g441dc12a1-unstable",
