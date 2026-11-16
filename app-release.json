@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-476-ga7bdcf939-unstable",
-  "versionCode": 12221,
+  "versionName": "0.1.30-480-ga43589740-unstable",
+  "versionCode": 12225,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70235462,
-  "sha256": "f419ae3e061041d89f665c172cf6a2908c4ee7893241a7f2ceb8f90bdcbc36f9",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12221/bolo-keyboard-12221-arm64-v8a.apk",
-  "builtAt": "2026-11-16T08:25:36.392Z",
-  "changelogBn": "আনস্টেবল বিল্ডে এখন সোনালি DEV ব্যাজ আর Bolo Key Dev নাম থাকবে, স্টেবল অ্যাপের সাথে গুলিয়ে যাবে না",
-  "changelogEn": "Unstable builds now show a gold DEV badge and the Bolo Key Dev name, so they can't be confused with the stable app",
+  "sizeBytes": 70235642,
+  "sha256": "cf847ddb2f3ffd063d539693af2b110f2522814d8737c17ab17da1390098314b",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12225/bolo-keyboard-12225-arm64-v8a.apk",
+  "builtAt": "2026-11-16T08:57:38.318Z",
+  "changelogBn": "গ্লোব বাটন এখন লেআউটের বদলে ভাষা বদলায়, আর সেটিংস থেকে লুকানো যায়; DEV ব্যাজ এখন পুরোপুরি আইকনের ভেতরে",
+  "changelogEn": "Globe button now switches language instead of layout, and can be hidden from Settings - Languages; the DEV badge sits fully inside the icon",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70235462,
-      "sha256": "f419ae3e061041d89f665c172cf6a2908c4ee7893241a7f2ceb8f90bdcbc36f9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12221/bolo-keyboard-12221-arm64-v8a.apk"
+      "sizeBytes": 70235642,
+      "sha256": "cf847ddb2f3ffd063d539693af2b110f2522814d8737c17ab17da1390098314b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12225/bolo-keyboard-12225-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65227802,
-      "sha256": "2f190480e0f82b3b4f3ec7f8c2dde93dcd3c56eb548cdeadd82127f56afd4408",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12221/bolo-keyboard-12221-armeabi-v7a.apk"
+      "sizeBytes": 65227982,
+      "sha256": "cf8e740be04efbb82c58abe5eda296d720122468d15fa6d609420b80a8ed0120",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12225/bolo-keyboard-12225-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12225,
+      "versionName": "0.1.30-480-ga43589740-unstable",
+      "builtAt": "2026-11-16T08:57:38.318Z",
+      "changelogEn": "Globe button now switches language instead of layout, and can be hidden from Settings - Languages; the DEV badge sits fully inside the icon",
+      "changelogBn": "গ্লোব বাটন এখন লেআউটের বদলে ভাষা বদলায়, আর সেটিংস থেকে লুকানো যায়; DEV ব্যাজ এখন পুরোপুরি আইকনের ভেতরে"
+    },
     {
       "versionCode": 12221,
       "versionName": "0.1.30-476-ga7bdcf939-unstable",
