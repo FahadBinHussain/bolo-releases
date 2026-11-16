@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-471-g26c6a1a6d-unstable",
-  "versionCode": 12216,
+  "versionName": "0.1.30-476-ga7bdcf939-unstable",
+  "versionCode": 12221,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70244946,
-  "sha256": "5d35faf755f4c30420d7fd51e4faef5814275a4fa83703fd75ec747e399ad74b",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12216/bolo-keyboard-12216-arm64-v8a.apk",
-  "builtAt": "2026-11-16T07:45:14.056Z",
-  "changelogBn": "RefKB-র লেআউটের মতো নাম্বার রো ছোট করা হলো (#29)",
-  "changelogEn": "shorter number row to match RefKB's layout (#29)",
+  "sizeBytes": 70235462,
+  "sha256": "f419ae3e061041d89f665c172cf6a2908c4ee7893241a7f2ceb8f90bdcbc36f9",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12221/bolo-keyboard-12221-arm64-v8a.apk",
+  "builtAt": "2026-11-16T08:25:36.392Z",
+  "changelogBn": "আনস্টেবল বিল্ডে এখন সোনালি DEV ব্যাজ আর Bolo Key Dev নাম থাকবে, স্টেবল অ্যাপের সাথে গুলিয়ে যাবে না",
+  "changelogEn": "Unstable builds now show a gold DEV badge and the Bolo Key Dev name, so they can't be confused with the stable app",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70244946,
-      "sha256": "5d35faf755f4c30420d7fd51e4faef5814275a4fa83703fd75ec747e399ad74b",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12216/bolo-keyboard-12216-arm64-v8a.apk"
+      "sizeBytes": 70235462,
+      "sha256": "f419ae3e061041d89f665c172cf6a2908c4ee7893241a7f2ceb8f90bdcbc36f9",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12221/bolo-keyboard-12221-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65237286,
-      "sha256": "dd84a39a208b5b8966a7ff39dc3b80b88aef48da911b697f1d7c1f853a970302",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12216/bolo-keyboard-12216-armeabi-v7a.apk"
+      "sizeBytes": 65227802,
+      "sha256": "2f190480e0f82b3b4f3ec7f8c2dde93dcd3c56eb548cdeadd82127f56afd4408",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12221/bolo-keyboard-12221-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12221,
+      "versionName": "0.1.30-476-ga7bdcf939-unstable",
+      "builtAt": "2026-11-16T08:25:36.392Z",
+      "changelogEn": "Unstable builds now show a gold DEV badge and the Bolo Key Dev name, so they can't be confused with the stable app",
+      "changelogBn": "আনস্টেবল বিল্ডে এখন সোনালি DEV ব্যাজ আর Bolo Key Dev নাম থাকবে, স্টেবল অ্যাপের সাথে গুলিয়ে যাবে না"
+    },
     {
       "versionCode": 12216,
       "versionName": "0.1.30-471-g26c6a1a6d-unstable",
