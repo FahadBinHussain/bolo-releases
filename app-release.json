@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-480-ga43589740-unstable",
-  "versionCode": 12225,
+  "versionName": "0.1.30-482-gac6dcf181-unstable",
+  "versionCode": 12227,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70235642,
-  "sha256": "cf847ddb2f3ffd063d539693af2b110f2522814d8737c17ab17da1390098314b",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12225/bolo-keyboard-12225-arm64-v8a.apk",
-  "builtAt": "2026-11-16T08:57:38.318Z",
-  "changelogBn": "গ্লোব বাটন এখন লেআউটের বদলে ভাষা বদলায়, আর সেটিংস থেকে লুকানো যায়; DEV ব্যাজ এখন পুরোপুরি আইকনের ভেতরে",
-  "changelogEn": "Globe button now switches language instead of layout, and can be hidden from Settings - Languages; the DEV badge sits fully inside the icon",
+  "sha256": "766f1de9c1849ab4681ca035fb842f83c2bcb88ce1a42c8c8be39308d3a13050",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12227/bolo-keyboard-12227-arm64-v8a.apk",
+  "builtAt": "2026-11-16T09:32:39.684Z",
+  "changelogBn": "গ্লোব বাটন আবার সব লেআউট ঘুরে ঘুরে বদলাবে (অভ্র, প্রভাত, ইংরেজি)।",
+  "changelogEn": "Globe button cycles through all layouts again (Avro, Probhat, English).",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70235642,
-      "sha256": "cf847ddb2f3ffd063d539693af2b110f2522814d8737c17ab17da1390098314b",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12225/bolo-keyboard-12225-arm64-v8a.apk"
+      "sha256": "766f1de9c1849ab4681ca035fb842f83c2bcb88ce1a42c8c8be39308d3a13050",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12227/bolo-keyboard-12227-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65227982,
-      "sha256": "cf8e740be04efbb82c58abe5eda296d720122468d15fa6d609420b80a8ed0120",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12225/bolo-keyboard-12225-armeabi-v7a.apk"
+      "sha256": "a259ba42ec3aed874168d7d68e7483625dfcfd80030fef3e77c1a9e2640811c1",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12227/bolo-keyboard-12227-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12227,
+      "versionName": "0.1.30-482-gac6dcf181-unstable",
+      "builtAt": "2026-11-16T09:32:39.684Z",
+      "changelogEn": "Globe button cycles through all layouts again (Avro, Probhat, English).",
+      "changelogBn": "গ্লোব বাটন আবার সব লেআউট ঘুরে ঘুরে বদলাবে (অভ্র, প্রভাত, ইংরেজি)।"
+    },
     {
       "versionCode": 12225,
       "versionName": "0.1.30-480-ga43589740-unstable",
