@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-494-gf02f63b4d-unstable",
-  "versionCode": 12239,
+  "versionName": "0.1.30-497-gc802a9bbb-unstable",
+  "versionCode": 12242,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70252487,
-  "sha256": "26397955cff5da4ca7521acc946e3edbbe675ac1c3faeb8162124a25adc0f806",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12239/bolo-keyboard-12239-arm64-v8a.apk",
-  "builtAt": "2026-11-16T15:46:57.764Z",
-  "changelogBn": "লাইফটাইম ক্লিপবোর্ড: টেক্সট আর ছবি এখন লাইফটাইম স্টোরে সিঙ্ক হবে, সেনসিটিভ ক্লিপসহ। ক্লিপবোর্ড সিঙ্ক আর লোকাল হিস্টোরি সেটিংসের উপর নির্ভর করে না।",
-  "changelogEn": "Lifetime clipboard: text and images now sync to your lifetime store, including sensitive clips. Clipboard sync no longer depends on local history settings.",
+  "sha256": "ad7002c42f1a8df53d9d60853a9a7c26605b771c74feb62a788e457cf846ab90",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12242/bolo-keyboard-12242-arm64-v8a.apk",
+  "builtAt": "2026-11-16T17:22:47.289Z",
+  "changelogBn": "লেনদেন আইডির ঘর এখন প্রতিটি পেমেন্ট মাধ্যমের সঠিক দৈর্ঘ্যে থেমে যাবে।",
+  "changelogEn": "The transaction ID field now stops at the right length for each payment method.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70252487,
-      "sha256": "26397955cff5da4ca7521acc946e3edbbe675ac1c3faeb8162124a25adc0f806",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12239/bolo-keyboard-12239-arm64-v8a.apk"
+      "sha256": "ad7002c42f1a8df53d9d60853a9a7c26605b771c74feb62a788e457cf846ab90",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12242/bolo-keyboard-12242-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65244827,
-      "sha256": "ba43e21c99f9061d7cac66633cb7b1b6ef4e20100a8bc788065bc989dd920f5c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12239/bolo-keyboard-12239-armeabi-v7a.apk"
+      "sha256": "82265d7cd5b50640c34d4f2b7d33230627854b7f90f3fab961184f80500b5845",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12242/bolo-keyboard-12242-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12242,
+      "versionName": "0.1.30-497-gc802a9bbb-unstable",
+      "builtAt": "2026-11-16T17:22:47.289Z",
+      "changelogEn": "The transaction ID field now stops at the right length for each payment method.",
+      "changelogBn": "লেনদেন আইডির ঘর এখন প্রতিটি পেমেন্ট মাধ্যমের সঠিক দৈর্ঘ্যে থেমে যাবে।"
+    },
     {
       "versionCode": 12239,
       "versionName": "0.1.30-494-gf02f63b4d-unstable",
