@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-490-g965638a06-unstable",
-  "versionCode": 12235,
+  "versionName": "0.1.30-494-gf02f63b4d-unstable",
+  "versionCode": 12239,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70251439,
-  "sha256": "94167fae163d0a6945db92f5642e27c90275026ca3e9011a04f0d285d1ba58ac",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12235/bolo-keyboard-12235-arm64-v8a.apk",
-  "builtAt": "2026-11-16T12:43:53.091Z",
-  "changelogBn": "মোবাইল ব্যাংকিং দিয়ে পেমেন্ট করুন: Subscription স্ক্রিন থেকে TrxID জমা দিন আর পেমেন্টের ইতিহাসে দেখুন। ক্লিপবোর্ড সিঙ্ক ফিরেছে, ইমোজি কি এখন পিরিয়ডের ডানে, আর সোয়াইপ মডেল এখন অ্যাপের ভেতরেই আছে।",
-  "changelogEn": "Pay with mobile banking: submit your TrxID from the Subscription screen and track it in payment history. Clipboard sync is back, the emoji key sits right of the period, and the swipe model now ships inside the app.",
+  "sizeBytes": 70252487,
+  "sha256": "26397955cff5da4ca7521acc946e3edbbe675ac1c3faeb8162124a25adc0f806",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12239/bolo-keyboard-12239-arm64-v8a.apk",
+  "builtAt": "2026-11-16T15:46:57.764Z",
+  "changelogBn": "লাইফটাইম ক্লিপবোর্ড: টেক্সট আর ছবি এখন লাইফটাইম স্টোরে সিঙ্ক হবে, সেনসিটিভ ক্লিপসহ। ক্লিপবোর্ড সিঙ্ক আর লোকাল হিস্টোরি সেটিংসের উপর নির্ভর করে না।",
+  "changelogEn": "Lifetime clipboard: text and images now sync to your lifetime store, including sensitive clips. Clipboard sync no longer depends on local history settings.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70251439,
-      "sha256": "94167fae163d0a6945db92f5642e27c90275026ca3e9011a04f0d285d1ba58ac",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12235/bolo-keyboard-12235-arm64-v8a.apk"
+      "sizeBytes": 70252487,
+      "sha256": "26397955cff5da4ca7521acc946e3edbbe675ac1c3faeb8162124a25adc0f806",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12239/bolo-keyboard-12239-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65243779,
-      "sha256": "aef37f55ef3f2c6ce050efc8f8a66ef0935cb6d951650f905974b38af11d1aaa",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12235/bolo-keyboard-12235-armeabi-v7a.apk"
+      "sizeBytes": 65244827,
+      "sha256": "ba43e21c99f9061d7cac66633cb7b1b6ef4e20100a8bc788065bc989dd920f5c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12239/bolo-keyboard-12239-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12239,
+      "versionName": "0.1.30-494-gf02f63b4d-unstable",
+      "builtAt": "2026-11-16T15:46:57.764Z",
+      "changelogEn": "Lifetime clipboard: text and images now sync to your lifetime store, including sensitive clips. Clipboard sync no longer depends on local history settings.",
+      "changelogBn": "লাইফটাইম ক্লিপবোর্ড: টেক্সট আর ছবি এখন লাইফটাইম স্টোরে সিঙ্ক হবে, সেনসিটিভ ক্লিপসহ। ক্লিপবোর্ড সিঙ্ক আর লোকাল হিস্টোরি সেটিংসের উপর নির্ভর করে না।"
+    },
     {
       "versionCode": 12235,
       "versionName": "0.1.30-490-g965638a06-unstable",
