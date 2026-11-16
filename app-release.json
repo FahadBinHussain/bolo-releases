@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-460-geaf05b273-unstable",
-  "versionCode": 12205,
+  "versionName": "0.1.30-468-g441dc12a1-unstable",
+  "versionCode": 12213,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70227974,
-  "sha256": "360150c5731fe2e134502f8518b9efa26963a7123519f568a7e95baf01facfa1",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12205/bolo-keyboard-12205-arm64-v8a.apk",
-  "builtAt": "2026-11-16T04:05:49.671Z",
-  "changelogBn": "শিপ করা টেক্সটে RefKB কোডনেম (#29)",
-  "changelogEn": "RefKB codename in shipped text (#29)",
+  "sizeBytes": 70244946,
+  "sha256": "65f1bbdfd15c7c6a851a264ea6d64c5ff5e9d64b2f81b8e78476a73855a7accf",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12213/bolo-keyboard-12213-arm64-v8a.apk",
+  "builtAt": "2026-11-16T07:07:49.477Z",
+  "changelogBn": "RefKB-র লেআউটের মতো কি-র মাঝে গ্যাপ কমানো হলো (#29)",
+  "changelogEn": "tighter key spacing to match RefKB's layout (#29)",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70227974,
-      "sha256": "360150c5731fe2e134502f8518b9efa26963a7123519f568a7e95baf01facfa1",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12205/bolo-keyboard-12205-arm64-v8a.apk"
+      "sizeBytes": 70244946,
+      "sha256": "65f1bbdfd15c7c6a851a264ea6d64c5ff5e9d64b2f81b8e78476a73855a7accf",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12213/bolo-keyboard-12213-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65220314,
-      "sha256": "4f308abfe2c5e00f2f928784450c40b6ab5905e6ab6384e6ba42f47947f7d223",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12205/bolo-keyboard-12205-armeabi-v7a.apk"
+      "sizeBytes": 65237286,
+      "sha256": "ab0c765d802e111cc6946d9365bccc094352f05016e79364309e50575ec6ff80",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12213/bolo-keyboard-12213-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12213,
+      "versionName": "0.1.30-468-g441dc12a1-unstable",
+      "builtAt": "2026-11-16T07:07:49.477Z",
+      "changelogEn": "tighter key spacing to match RefKB's layout (#29)",
+      "changelogBn": "RefKB-র লেআউটের মতো কি-র মাঝে গ্যাপ কমানো হলো (#29)"
+    },
     {
       "versionCode": 12205,
       "versionName": "0.1.30-460-geaf05b273-unstable",
@@ -122,6 +129,13 @@
       "builtAt": "2026-11-14T19:00:55.540Z",
       "changelogEn": "Voice dictation now capitalizes English sentences - at the start of a line and after every full stop.",
       "changelogBn": "ভয়েস ডিকটেশনে এখন ইংরেজি বাক্যের শুরুতে বড় হাতের অক্ষর আসবে - লাইনের শুরুতে আর ফুল স্টপের পরেও।"
+    },
+    {
+      "versionCode": 12133,
+      "versionName": "0.1.30-388-g53e8bd3c9-unstable",
+      "builtAt": "11/15/2026 00:09:56",
+      "changelogEn": "### Features\n* **Sentence Capitalization:** Voice dictation now capitalizes English sentences - at the start of a line and after every full stop.\n### Fixes\n* **Stable Channel Link:** Restored the stable channel link on the public site.",
+      "changelogBn": "### ফিচার\n* **বাক্যের বড় হাতের অক্ষর:** ভয়েস ডিকটেশনে ইংরেজি বাক্যের শুরুতে ও প্রতিটি full stop-এর পর বড় হাতের অক্ষর আসে।\n### সমাধান\n* **Stable চ্যানেল লিংক:** public সাইটে stable চ্যানেলের লিংক ফিরিয়ে আনা হয়েছে।"
     },
     {
       "versionCode": 12130,
@@ -563,6 +577,153 @@
       "builtAt": "11/09/2026 06:15:00",
       "changelogEn": "### Features\n* **Compact Combined Top Strip:** Combined mini tools and voice mic into a single compact `40.dp` row that fits the full display width without horizontal scrolling.\n* **Shift Top-Right Hint:** Displayed secondary Shift character legends on the top-right corner of keys.",
       "changelogBn": "### ফিচার\n* **কম্প্যাক্ট মিনি টুলস বার:** স্ক্রলিং ছাড়াই পুরো ডিসপ্লেতে ফিট হওয়ার মতো কম্প্যাক্ট মিনি টুলস ও মাইক বার এবং কি-এর উপরে ডান কোণায় শিফট অক্ষর দেখানো হয়েছে।"
+    },
+    {
+      "versionCode": 11921,
+      "versionName": "0.1.30-174-g9a9ea61a6-unstable",
+      "builtAt": "11/08/2026 23:57:31",
+      "changelogEn": "### Improvements\n* **Key Hints:** Shifted characters now show in the top-right key hints, like RefKB.",
+      "changelogBn": "### উন্নয়ন\n* **Key Hint:** শিফট করা অক্ষর এখন কি-এর উপরে ডান কোণার hint-এ দেখা যায়, RefKB-এর মতো।"
+    },
+    {
+      "versionCode": 11919,
+      "versionName": "0.1.30-172-g564a84fc4-unstable",
+      "builtAt": "11/08/2026 23:21:03",
+      "changelogEn": "### Features\n* **Probhat Layout:** Aligned the Probhat layout with the RefKB layout.\n* **Phonetic Autocorrect:** Added the phonetic autocorrect fixer (2,275 rules) for Avro, plus the Bengali number row.\n* **Push Targeting:** Push notifications can now target any user by email or id.\n### Fixes\n* **Dashboard Session:** Fixed session token refresh and 401 recovery in the dashboard.",
+      "changelogBn": "### ফিচার\n* **প্রভাত লেআউট:** প্রভাত লেআউট RefKB লেআউটের সাথে মিলানো হয়েছে।\n* **ফোনেটিক অটোকারেক্ট:** অভ্রের জন্য phonetic autocorrect fixer (2,275 rules) ও বাংলা number row যোগ হয়েছে।\n* **Push টার্গেটিং:** email বা id দিয়ে যেকোনো user-কে push নোটিফিকেশন পাঠানো যায়।\n### সমাধান\n* **ড্যাশবোর্ড সেশন:** ড্যাশবোর্ডে session token refresh ও 401 recovery ঠিক করা হয়েছে।"
+    },
+    {
+      "versionCode": 11914,
+      "versionName": "0.1.30-167-g5ba3264d1-unstable",
+      "builtAt": "11/08/2026 21:17:56",
+      "changelogEn": "### Improvements\n* **Production Channel:** Published build 11912 to the production channel and updated the release history on the site.",
+      "changelogBn": "### উন্নয়ন\n* **Production চ্যানেল:** 11912 build production চ্যানেলে দেওয়া হয়েছে ও সাইটের release history আপডেট করা হয়েছে।"
+    },
+    {
+      "versionCode": 11912,
+      "versionName": "0.1.30-165-gd942a2c21-unstable",
+      "builtAt": "11/08/2026 20:19:30",
+      "changelogEn": "### Features\n* **Offline Bangla Dictionary:** Bundled an offline Bangla dictionary for suggestions and next-word prediction.\n* **Staged Rollout:** Added staged rollout for OTA updates with client bucketing and auto-halt.\n### Improvements\n* **Landing Page:** The releases and changelog history on the landing page now sync automatically.",
+      "changelogBn": "### ফিচার\n* **অফলাইন বাংলা ডিকশনারি:** সাজেশন ও next-word prediction-এর জন্য অফলাইন বাংলা ডিকশনারি যোগ হয়েছে।\n* **Staged Rollout:** client bucketing ও auto-halt সহ OTA আপডেটের staged rollout যোগ হয়েছে।\n### উন্নয়ন\n* **ল্যান্ডিং পেজ:** ল্যান্ডিং পেজের releases ও changelog history এখন automatically sync হয়।"
+    },
+    {
+      "versionCode": 11908,
+      "versionName": "0.1.30-160-g2a34db2c3-unstable",
+      "builtAt": "11/08/2026 18:28:31",
+      "changelogEn": "### Features\n* **Pro Voice Gate:** Voice input is now behind the Bolo Key Pro entitlement wall, with visual badges and multi-layer enforcement.",
+      "changelogBn": "### ফিচার\n* **Pro ভয়েস গেট:** ভয়েস ইনপুট এখন Bolo Key Pro entitlement-এর আওতায়, visual badge ও multi-layer enforcement সহ।"
+    },
+    {
+      "versionCode": 11906,
+      "versionName": "0.1.30-158-g1d0837b11-unstable",
+      "builtAt": "11/08/2026 16:43:13",
+      "changelogEn": "### Features\n* **Entitlement Gate:** Added a server-enforced entitlement gate with asymmetric ECDSA verification and an anti-tamper signature check.",
+      "changelogBn": "### ফিচার\n* **Entitlement Gate:** asymmetric ECDSA verification ও anti-tamper signature check সহ server-enforced entitlement gate যোগ করা হয়েছে।"
+    },
+    {
+      "versionCode": 11903,
+      "versionName": "0.1.30-155-gf88d07ef1-unstable",
+      "builtAt": "11/07/2026 23:17:08",
+      "changelogEn": "### Improvements\n* **App Name:** Removed the dev-build suffix from the app name and settings headers.",
+      "changelogBn": "### উন্নয়ন\n* **অ্যাপের নাম:** অ্যাপের নাম ও settings header থেকে dev-build suffix সরানো হয়েছে।"
+    },
+    {
+      "versionCode": 11901,
+      "versionName": "0.1.30-153-gaaa3d64d9-unstable",
+      "builtAt": "11/07/2026 22:52:05",
+      "changelogEn": "### Features\n* **Swipe Mode Popup:** Added a top-bar popup for the spacebar swipe mode, with higher swipe sensitivity.",
+      "changelogBn": "### ফিচার\n* **সোয়াইপ মোড পপআপ:** স্পেসবার সোয়াইপ মোডের জন্য top-bar পপআপ যোগ হয়েছে, সোয়াইপ sensitivity বাড়ানো হয়েছে।"
+    },
+    {
+      "versionCode": 11899,
+      "versionName": "0.1.30-151-g16a76b1b9-unstable",
+      "builtAt": "11/07/2026 22:20:33",
+      "changelogEn": "### Features\n* **Custom Push Notifications:** Added custom push notifications across the client, server, and dashboard.\n### Fixes\n* **Spacebar Swipe:** Fixed swipe layout labels and carousel direction.",
+      "changelogBn": "### ফিচার\n* **কাস্টম Push নোটিফিকেশন:** ক্লায়েন্ট, সার্ভার ও ড্যাশবোর্ড জুড়ে কাস্টম push নোটিফিকেশন যোগ হয়েছে।\n### সমাধান\n* **স্পেসবার সোয়াইপ:** সোয়াইপ লেআউট লেবেল ও carousel দিক ঠিক করা হয়েছে।"
+    },
+    {
+      "versionCode": 11896,
+      "versionName": "0.1.30-148-g8c19dd9b9-unstable",
+      "builtAt": "11/07/2026 21:42:40",
+      "changelogEn": "### Features\n* **Push Notifications:** Added FCM push notifications for update dispatch.",
+      "changelogBn": "### ফিচার\n* **Push নোটিফিকেশন:** আপডেট dispatch-এর জন্য FCM push নোটিফিকেশন যোগ করা হয়েছে।"
+    },
+    {
+      "versionCode": 11894,
+      "versionName": "0.1.30-146-g559e6a2a1-unstable",
+      "builtAt": "11/07/2026 20:56:38",
+      "changelogEn": "### Maintenance\n* **Release Data:** Recorded v11893 release data. No user-facing change.",
+      "changelogBn": "### রক্ষণাবেক্ষণ\n* **রিলিজ ডেটা:** v11893-এর রিলিজ ডেটা রেকর্ড করা হয়েছে। ব্যবহারকারীর জন্য কোনো পরিবর্তন নেই।"
+    },
+    {
+      "versionCode": 11893,
+      "versionName": "0.1.30-145-gc7550aa20-unstable",
+      "builtAt": "11/07/2026 20:03:07",
+      "changelogEn": "### Features\n* **Spacebar Language Switch:** Hold the spacebar, then swipe to switch between English, Bangla, and Avro.",
+      "changelogBn": "### ফিচার\n* **স্পেসবার ভাষা পরিবর্তন:** স্পেসবার ধরে রেখে সোয়াইপ করলে ইংরেজি, বাংলা ও অভ্রের মধ্যে ভাষা বদলায়।"
+    },
+    {
+      "versionCode": 11891,
+      "versionName": "0.1.30-143-g88f962493-unstable",
+      "builtAt": "11/07/2026 19:30:26",
+      "changelogEn": "### Features\n* **Avro Phonetic Mode:** Added Avro phonetic input to the Bengali keyboard.",
+      "changelogBn": "### ফিচার\n* **অভ্র ফোনেটিক মোড:** বাংলা কিবোর্ডে অভ্র ফোনেটিক ইনপুট যোগ করা হয়েছে।"
+    },
+    {
+      "versionCode": 11889,
+      "versionName": "0.1.30-141-g6a5af6e51-unstable",
+      "builtAt": "11/07/2026 19:01:27",
+      "changelogEn": "### Improvements\n* **Update Panel:** Removed the alternative installer buttons from the update panel.",
+      "changelogBn": "### উন্নয়ন\n* **আপডেট প্যানেল:** আপডেট প্যানেল থেকে alternative installer button সরানো হয়েছে।"
+    },
+    {
+      "versionCode": 11887,
+      "versionName": "0.1.30-139-ga1a2abc5d-unstable",
+      "builtAt": "11/07/2026 18:47:02",
+      "changelogEn": "### Improvements\n* **Update Panel:** Hid the manual update notice card; the check-for-updates button now opens Misc settings.",
+      "changelogBn": "### উন্নয়ন\n* **আপডেট প্যানেল:** ম্যানুয়াল আপডেট নোটিশ কার্ড লুকানো হয়েছে; check-for-updates button এখন Misc settings খোলে।"
+    },
+    {
+      "versionCode": 11885,
+      "versionName": "0.1.30-137-gc30238440-unstable",
+      "builtAt": "11/07/2026 18:26:15",
+      "changelogEn": "### Fixes\n* **Update Rejection:** Rejecting an update now resets the update state and keeps the action buttons visible.",
+      "changelogBn": "### সমাধান\n* **আপডেট বাতিল:** আপডেট বাতিল করলে update state reset হয় ও action button গুলো দেখা যায়।"
+    },
+    {
+      "versionCode": 11883,
+      "versionName": "0.1.30-135-g1dd259730-unstable",
+      "builtAt": "11/07/2026 17:47:33",
+      "changelogEn": "### Maintenance\n* **Release Data:** Recorded v11882 release data. No user-facing change.",
+      "changelogBn": "### রক্ষণাবেক্ষণ\n* **রিলিজ ডেটা:** v11882-এর রিলিজ ডেটা রেকর্ড করা হয়েছে। ব্যবহারকারীর জন্য কোনো পরিবর্তন নেই।"
+    },
+    {
+      "versionCode": 11882,
+      "versionName": "0.1.30-134-g4202380fa-unstable",
+      "builtAt": "11/07/2026 17:24:18",
+      "changelogEn": "### Maintenance\n* **Release Data:** Recorded v11881 release data. No user-facing change.",
+      "changelogBn": "### রক্ষণাবেক্ষণ\n* **রিলিজ ডেটা:** v11881-এর রিলিজ ডেটা রেকর্ড করা হয়েছে। ব্যবহারকারীর জন্য কোনো পরিবর্তন নেই।"
+    },
+    {
+      "versionCode": 11881,
+      "versionName": "0.1.30-133-ga2af5f2e3-unstable",
+      "builtAt": "11/07/2026 17:13:51",
+      "changelogEn": "### Improvements\n* **Faster Downloads:** 8 parallel streams, 1 MB socket buffer, and an unthrottled dispatcher for update downloads.",
+      "changelogBn": "### উন্নয়ন\n* **দ্রুত ডাউনলোড:** আপডেট ডাউনলোডে 8 parallel stream, 1 MB socket buffer ও unthrottled dispatcher।"
+    },
+    {
+      "versionCode": 11879,
+      "versionName": "0.1.30-131-g6792543a4-unstable",
+      "builtAt": "11/07/2026 16:54:33",
+      "changelogEn": "### Tests\n* **Download Verification:** Test release for manual parallel-download verification.",
+      "changelogBn": "### টেস্ট\n* **ডাউনলোড যাচাই:** ম্যানুয়াল parallel-download যাচাইয়ের জন্য টেস্ট রিলিজ।"
+    },
+    {
+      "versionCode": 11877,
+      "versionName": "0.1.30-129-g4821c1085-unstable",
+      "builtAt": "11/07/2026 16:41:06",
+      "changelogEn": "### Features\n* **Faster Updates:** Ported fast parallel download and IPv4/HTTP1.1 routing from Morphe.\n* **GitHub Releases Distribution:** APKs now ship from GitHub Releases.\n* **Releases & Changelog Page:** Added a releases and changelog section to the website, plus redirects for docs, download, releases, Discord, and issues.\n* **Admin Update Dispatch:** Manual update notifications with acknowledgement, and delivery auto-clear.\n### Fixes\n* **Install Permission Prompts:** Install permission denials and misclicks now show a settings prompt with direct retry.\n* **Voice Cancel:** Tapping outside the keyboard stops inline voice transcription.\n* **Rebrand:** Replaced the remaining upstream logo, contributor tag, and strings with Bolo Key.",
+      "changelogBn": "### ফিচার\n* **দ্রুত আপডেট:** Morphe থেকে fast parallel download ও IPv4/HTTP1.1 routing আনা হয়েছে।\n* **GitHub Releases:** APK এখন GitHub Releases থেকে দেওয়া হয়।\n* **Releases ও Changelog পেজ:** ওয়েবসাইটে releases ও changelog সেকশন যোগ করা হয়েছে।\n* **অ্যাডমিন আপডেট নোটিফিকেশন:** ম্যানুয়াল আপডেট নোটিফিকেশন ও acknowledgement যোগ হয়েছে।\n### সমাধান\n* **ইনস্টল পারমিশন:** পারমিশন না দিলে settings prompt ও direct retry দেখায়।\n* **ভয়েস বাতিল:** কিবোর্ডের বাইরে ট্যাপ করলে ভয়েস ট্রান্সক্রিপশন বন্ধ হয়।"
     }
   ]
 }
