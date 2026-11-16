@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-438-gadebe4899-unstable",
-  "versionCode": 12183,
+  "versionName": "0.1.30-448-g6bd33b58e-unstable",
+  "versionCode": 12193,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70228218,
-  "sha256": "1feb7a2c7f76318a3d9ee81155a184129288f709c6da5a3ed75312622c5802b0",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12183/bolo-keyboard-12183-arm64-v8a.apk",
-  "builtAt": "2026-11-15T17:01:12.551Z",
-  "changelogBn": "ভয়েস: প্রত্যেক সেশনে তোমার কথার আগে কয়েক সেকেন্ড রেকর্ড করা বাংলা যাবে, যাতে মডেল ছোট কথায় হিন্দি না ধরে বাংলা ধরে",
-  "changelogEn": "Voice: every session now opens with a few seconds of recorded Bangla before your audio, so the model locks onto Bengali instead of guessing Hindi on short utterances",
+  "sizeBytes": 70227974,
+  "sha256": "22d1da92406a9fa3381eb9fdf5db0d5dad653a46e5a6bd37d64b4da6b99b7899",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12193/bolo-keyboard-12193-arm64-v8a.apk",
+  "builtAt": "2026-11-16T01:59:50.351Z",
+  "changelogBn": "স্পেসবারের পাশে গ্লোব বাটন; স্পেসবারের ২৫% সোয়াইপে ভাষা বদল; কল এলে ভয়েস রেকর্ডিং থামবে, নোটিফিকেশনে শুধু ভলিউম কমবে।",
+  "changelogEn": "Globe key beside the spacebar (Ridmik-style); swipe language switch at 25% of the spacebar; calls now stop voice recording, notifications only duck it.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70228218,
-      "sha256": "1feb7a2c7f76318a3d9ee81155a184129288f709c6da5a3ed75312622c5802b0",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12183/bolo-keyboard-12183-arm64-v8a.apk"
+      "sizeBytes": 70227974,
+      "sha256": "22d1da92406a9fa3381eb9fdf5db0d5dad653a46e5a6bd37d64b4da6b99b7899",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12193/bolo-keyboard-12193-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65220558,
-      "sha256": "87d911fe10d45680c287ac9ea04c910e1120c501e72f365b62968dd1989c15cf",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12183/bolo-keyboard-12183-armeabi-v7a.apk"
+      "sizeBytes": 65220314,
+      "sha256": "5c22d9f8ee58c06af6dd654516a7e72b7f13e64fbb38e01afefabb4eaac72bde",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12193/bolo-keyboard-12193-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12193,
+      "versionName": "0.1.30-448-g6bd33b58e-unstable",
+      "builtAt": "2026-11-16T01:59:50.351Z",
+      "changelogEn": "Globe key beside the spacebar (Ridmik-style); swipe language switch at 25% of the spacebar; calls now stop voice recording, notifications only duck it.",
+      "changelogBn": "স্পেসবারের পাশে গ্লোব বাটন; স্পেসবারের ২৫% সোয়াইপে ভাষা বদল; কল এলে ভয়েস রেকর্ডিং থামবে, নোটিফিকেশনে শুধু ভলিউম কমবে।"
+    },
     {
       "versionCode": 12183,
       "versionName": "0.1.30-438-gadebe4899-unstable",
