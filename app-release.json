@@ -1,43 +1,36 @@
 {
-  "versionName": "0.1.30-488-gccb7c3375-unstable",
-  "versionCode": 12233,
+  "versionName": "0.1.30-490-g965638a06-unstable",
+  "versionCode": 12235,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70256602,
-  "sha256": "c899c9dfdc60ce086a943da45ecd8634b0bd1b5d4d19a4404f8436833fbc4056",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12233/bolo-keyboard-12233-arm64-v8a.apk",
-  "builtAt": "2026-11-16T10:15:50.571Z",
-  "changelogBn": "ইমোজি বাটন স্পেসবারের ডানদিকে, ফুলস্টপের পরে নেওয়া হয়েছে।",
-  "changelogEn": "Emoji key moved to the right of the spacebar, after the period.",
+  "sizeBytes": 70251439,
+  "sha256": "94167fae163d0a6945db92f5642e27c90275026ca3e9011a04f0d285d1ba58ac",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12235/bolo-keyboard-12235-arm64-v8a.apk",
+  "builtAt": "2026-11-16T12:43:53.091Z",
+  "changelogBn": "মোবাইল ব্যাংকিং দিয়ে পেমেন্ট করুন: Subscription স্ক্রিন থেকে TrxID জমা দিন আর পেমেন্টের ইতিহাসে দেখুন। ক্লিপবোর্ড সিঙ্ক ফিরেছে, ইমোজি কি এখন পিরিয়ডের ডানে, আর সোয়াইপ মডেল এখন অ্যাপের ভেতরেই আছে।",
+  "changelogEn": "Pay with mobile banking: submit your TrxID from the Subscription screen and track it in payment history. Clipboard sync is back, the emoji key sits right of the period, and the swipe model now ships inside the app.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70256602,
-      "sha256": "c899c9dfdc60ce086a943da45ecd8634b0bd1b5d4d19a4404f8436833fbc4056",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12233/bolo-keyboard-12233-arm64-v8a.apk"
+      "sizeBytes": 70251439,
+      "sha256": "94167fae163d0a6945db92f5642e27c90275026ca3e9011a04f0d285d1ba58ac",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12235/bolo-keyboard-12235-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65248942,
-      "sha256": "809984a1f6148fcc56d5fe38e22d52317ed8a7fe1d3a10185bc0516232028be7",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12233/bolo-keyboard-12233-armeabi-v7a.apk"
+      "sizeBytes": 65243779,
+      "sha256": "aef37f55ef3f2c6ce050efc8f8a66ef0935cb6d951650f905974b38af11d1aaa",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12235/bolo-keyboard-12235-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
-      "versionCode": 12233,
-      "versionName": "0.1.30-488-gccb7c3375-unstable",
-      "builtAt": "2026-11-16T10:15:50.571Z",
-      "changelogEn": "Emoji key moved to the right of the spacebar, after the period.",
-      "changelogBn": "ইমোজি বাটন স্পেসবারের ডানদিকে, ফুলস্টপের পরে নেওয়া হয়েছে।"
-    },
-    {
-      "versionCode": 12227,
-      "versionName": "0.1.30-482-gac6dcf181-unstable",
-      "builtAt": "2026-11-16T09:32:39.684Z",
-      "changelogEn": "Globe button cycles through all layouts again (Avro, Probhat, English).",
-      "changelogBn": "গ্লোব বাটন আবার সব লেআউট ঘুরে ঘুরে বদলাবে (অভ্র, প্রভাত, ইংরেজি)।"
+      "versionCode": 12235,
+      "versionName": "0.1.30-490-g965638a06-unstable",
+      "builtAt": "2026-11-16T12:43:53.091Z",
+      "changelogEn": "Pay with mobile banking: submit your TrxID from the Subscription screen and track it in payment history. Clipboard sync is back, the emoji key sits right of the period, and the swipe model now ships inside the app.",
+      "changelogBn": "মোবাইল ব্যাংকিং দিয়ে পেমেন্ট করুন: Subscription স্ক্রিন থেকে TrxID জমা দিন আর পেমেন্টের ইতিহাসে দেখুন। ক্লিপবোর্ড সিঙ্ক ফিরেছে, ইমোজি কি এখন পিরিয়ডের ডানে, আর সোয়াইপ মডেল এখন অ্যাপের ভেতরেই আছে।"
     },
     {
       "versionCode": 12225,
