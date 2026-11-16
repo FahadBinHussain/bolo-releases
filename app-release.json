@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-450-gb1d56325a-unstable",
-  "versionCode": 12195,
+  "versionName": "0.1.30-454-g08fb02e5a-unstable",
+  "versionCode": 12199,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70227974,
-  "sha256": "a34c38e7a11f2032823ba5b56e6701f782503c0f90c1d2b384489a14aa3cc79f",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12195/bolo-keyboard-12195-arm64-v8a.apk",
-  "builtAt": "2026-11-16T02:16:55.563Z",
-  "changelogBn": "ঠিক করা হয়েছে: পুরনো install-এ toolbar-এর গ্লোব এখন সরবে (স্পেসবারের পাশের গ্লোব থাকবে)।",
-  "changelogEn": "Fix: the toolbar globe is now removed on existing installs (the bottom-row globe stays).",
+  "sha256": "ba5c9fb0e361d8ef73909d45c2ffe129abf5e3620d95664a5b9d4645d54b8f71",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12199/bolo-keyboard-12199-arm64-v8a.apk",
+  "builtAt": "2026-11-16T02:44:44.931Z",
+  "changelogBn": "বক্সসহ নাম্বার রো + রিডমিক ৪dp কি বক্স (#29)",
+  "changelogEn": "Boxed number row + Ridmik 4dp key box (#29)",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70227974,
-      "sha256": "a34c38e7a11f2032823ba5b56e6701f782503c0f90c1d2b384489a14aa3cc79f",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12195/bolo-keyboard-12195-arm64-v8a.apk"
+      "sha256": "ba5c9fb0e361d8ef73909d45c2ffe129abf5e3620d95664a5b9d4645d54b8f71",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12199/bolo-keyboard-12199-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65220314,
-      "sha256": "1adb490a34305342123b8011f8e89ad49e7aa8042fd2cdb73a7bb4b42ae17346",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12195/bolo-keyboard-12195-armeabi-v7a.apk"
+      "sha256": "8da1751c9d23f935cda841d10a4947f86cfeacfcdc818e8c659ff374a9790ddc",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12199/bolo-keyboard-12199-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12199,
+      "versionName": "0.1.30-454-g08fb02e5a-unstable",
+      "builtAt": "2026-11-16T02:44:44.931Z",
+      "changelogEn": "Boxed number row + Ridmik 4dp key box (#29)",
+      "changelogBn": "বক্সসহ নাম্বার রো + রিডমিক ৪dp কি বক্স (#29)"
+    },
     {
       "versionCode": 12195,
       "versionName": "0.1.30-450-gb1d56325a-unstable",
