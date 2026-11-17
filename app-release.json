@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-514-gac0d5b512-unstable",
-  "versionCode": 12259,
+  "versionName": "0.1.30-516-ge9e64fa2e-unstable",
+  "versionCode": 12261,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70259481,
-  "sha256": "64ae7efa16259764546be2c6658dcafffe56200de2501578718f1613ec2e22e8",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12259/bolo-keyboard-12259-arm64-v8a.apk",
-  "builtAt": "2026-11-17T11:36:12.390Z",
-  "changelogBn": "নিচের সারি: গ্লোব এখন কমার বামে। X, C আর V-তে কাট, কপি আর পেস্ট আইকন — চেপে ধরলে কাজ করবে।",
-  "changelogEn": "Bottom row: the globe now sits left of the comma. X, C and V show cut, copy and paste icons, and long-pressing them runs the action.",
+  "sizeBytes": 70259485,
+  "sha256": "75d67869b94c2525f7ac8f8d3e025abced195f0a2171ee181cced4ec932b7105",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12261/bolo-keyboard-12261-arm64-v8a.apk",
+  "builtAt": "2026-11-17T12:47:08.946Z",
+  "changelogBn": "ক্লিপবোর্ড history বন্ধ বা capped থাকলেও sync চলবে, আর keyboard বন্ধ থাকতে করা copy পরের বার খুললেই চলে আসবে",
+  "changelogEn": "clipboard sync keeps working when history is off or capped, and copies made while the keyboard was closed now catch up on the next open",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70259481,
-      "sha256": "64ae7efa16259764546be2c6658dcafffe56200de2501578718f1613ec2e22e8",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12259/bolo-keyboard-12259-arm64-v8a.apk"
+      "sizeBytes": 70259485,
+      "sha256": "75d67869b94c2525f7ac8f8d3e025abced195f0a2171ee181cced4ec932b7105",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12261/bolo-keyboard-12261-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65251821,
-      "sha256": "c6e45bafcde6f73a931033fc11e921914681f56c1e1beab8cd71f52b4ce8a15c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12259/bolo-keyboard-12259-armeabi-v7a.apk"
+      "sizeBytes": 65251825,
+      "sha256": "57ee52baad47e37fb53e63a154e774db78f8da601e61eabec5e967da1e744603",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12261/bolo-keyboard-12261-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12261,
+      "versionName": "0.1.30-516-ge9e64fa2e-unstable",
+      "builtAt": "2026-11-17T12:47:08.946Z",
+      "changelogEn": "clipboard sync keeps working when history is off or capped, and copies made while the keyboard was closed now catch up on the next open",
+      "changelogBn": "ক্লিপবোর্ড history বন্ধ বা capped থাকলেও sync চলবে, আর keyboard বন্ধ থাকতে করা copy পরের বার খুললেই চলে আসবে"
+    },
     {
       "versionCode": 12259,
       "versionName": "0.1.30-514-gac0d5b512-unstable",
