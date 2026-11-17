@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-499-g01401958c-unstable",
-  "versionCode": 12244,
+  "versionName": "0.1.30-504-g6dc43694e-unstable",
+  "versionCode": 12249,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70252687,
-  "sha256": "6cd946d9613503f4f60e350b120317dfd6bd13859d8dea338e63cad6145656f6",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12244/bolo-keyboard-12244-arm64-v8a.apk",
-  "builtAt": "2026-11-16T18:14:06.076Z",
-  "changelogBn": "আপনার সেশন লোড হওয়ার সময় অ্যাকাউন্ট পেজে আর সাইন আউট দেখাবে না।",
-  "changelogEn": "The account page no longer shows you as signed out while your session is still loading.",
+  "sizeBytes": 70253987,
+  "sha256": "be8c7be96592833e9edf127cbc235ed5771d68d4b47e036147850ba05af762aa",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12249/bolo-keyboard-12249-arm64-v8a.apk",
+  "builtAt": "2026-11-17T05:19:16.515Z",
+  "changelogBn": "আপনার ফ্রি ট্রায়াল বা প্যাকেজ শেষ হলে কিবোর্ড এখন ঠিক কী শেষ হয়েছে তা জানাবে এবং রিনিউ করতে সরাসরি পেমেন্ট স্ক্রিনে নিয়ে যাবে। ফ্রি ট্রায়াল ২ সপ্তাহ।",
+  "changelogEn": "When your free trial or package ends, the keyboard now tells you exactly what ended and takes you straight to the payment screen to renew. The free trial is 2 weeks.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70252687,
-      "sha256": "6cd946d9613503f4f60e350b120317dfd6bd13859d8dea338e63cad6145656f6",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12244/bolo-keyboard-12244-arm64-v8a.apk"
+      "sizeBytes": 70253987,
+      "sha256": "be8c7be96592833e9edf127cbc235ed5771d68d4b47e036147850ba05af762aa",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12249/bolo-keyboard-12249-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65245027,
-      "sha256": "7195efa4ceb535abed463147bf80c663832d05e96141f9fce2623536b8987097",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12244/bolo-keyboard-12244-armeabi-v7a.apk"
+      "sizeBytes": 65246327,
+      "sha256": "21159600d65de4ee11593a8d0af11d434b789b618813a280e09e5756604cb82e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12249/bolo-keyboard-12249-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12249,
+      "versionName": "0.1.30-504-g6dc43694e-unstable",
+      "builtAt": "2026-11-17T05:19:16.515Z",
+      "changelogEn": "When your free trial or package ends, the keyboard now tells you exactly what ended and takes you straight to the payment screen to renew. The free trial is 2 weeks.",
+      "changelogBn": "আপনার ফ্রি ট্রায়াল বা প্যাকেজ শেষ হলে কিবোর্ড এখন ঠিক কী শেষ হয়েছে তা জানাবে এবং রিনিউ করতে সরাসরি পেমেন্ট স্ক্রিনে নিয়ে যাবে। ফ্রি ট্রায়াল ২ সপ্তাহ।"
+    },
     {
       "versionCode": 12244,
       "versionName": "0.1.30-499-g01401958c-unstable",
