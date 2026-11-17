@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-507-g97a53360c-unstable",
-  "versionCode": 12252,
+  "versionName": "0.1.30-509-g4ba47ece6-unstable",
+  "versionCode": 12254,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70253987,
-  "sha256": "6332511d1305d299a3ad720466c5f9188f78c3f2dc2aeb54090ecf835cd12b08",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12252/bolo-keyboard-12252-arm64-v8a.apk",
-  "builtAt": "2026-11-17T10:00:06.334Z",
-  "changelogBn": "ঠিক করা হয়েছে: ট্রায়াল বা প্যাকেজ শেষ হওয়ার পরও পেমেন্ট স্ক্রিনে প্রো active দেখাতে পারত। এখন সঠিক অবস্থা দেখাবে।",
-  "changelogEn": "Fixed: after a trial or package expired, the payment screen could still show Pro as active. It now shows the right state.",
+  "sizeBytes": 70256413,
+  "sha256": "fd22659c04d4867105fdac0576161ec79971fb7c2bcab575fb38b1b4844c0314",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12254/bolo-keyboard-12254-arm64-v8a.apk",
+  "builtAt": "2026-11-17T10:47:56.077Z",
+  "changelogBn": "Avro symbol পেজ নতুন করে বানানো হইছে: বাংলা ডিজিট, টাকার চিহ্ন আর পুরা shifted সেট।",
+  "changelogEn": "Avro symbols pages rebuilt: Bengali digits, taka sign, and the full shifted set.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70253987,
-      "sha256": "6332511d1305d299a3ad720466c5f9188f78c3f2dc2aeb54090ecf835cd12b08",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12252/bolo-keyboard-12252-arm64-v8a.apk"
+      "sizeBytes": 70256413,
+      "sha256": "fd22659c04d4867105fdac0576161ec79971fb7c2bcab575fb38b1b4844c0314",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12254/bolo-keyboard-12254-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65246327,
-      "sha256": "f5b49a33d9ce29bda81498a9e11c82013e0d20035bbc6e7974da2db83bb2329d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12252/bolo-keyboard-12252-armeabi-v7a.apk"
+      "sizeBytes": 65248753,
+      "sha256": "eb38192f07111be0953b4636ad6bbfa0c9f479700323b5e9e47c299bfd6fb1bd",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12254/bolo-keyboard-12254-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12254,
+      "versionName": "0.1.30-509-g4ba47ece6-unstable",
+      "builtAt": "2026-11-17T10:47:56.077Z",
+      "changelogEn": "Avro symbols pages rebuilt: Bengali digits, taka sign, and the full shifted set.",
+      "changelogBn": "Avro symbol পেজ নতুন করে বানানো হইছে: বাংলা ডিজিট, টাকার চিহ্ন আর পুরা shifted সেট।"
+    },
     {
       "versionCode": 12252,
       "versionName": "0.1.30-507-g97a53360c-unstable",
