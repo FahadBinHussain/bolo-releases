@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-504-g6dc43694e-unstable",
-  "versionCode": 12249,
+  "versionName": "0.1.30-507-g97a53360c-unstable",
+  "versionCode": 12252,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70253987,
-  "sha256": "be8c7be96592833e9edf127cbc235ed5771d68d4b47e036147850ba05af762aa",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12249/bolo-keyboard-12249-arm64-v8a.apk",
-  "builtAt": "2026-11-17T05:19:16.515Z",
-  "changelogBn": "আপনার ফ্রি ট্রায়াল বা প্যাকেজ শেষ হলে কিবোর্ড এখন ঠিক কী শেষ হয়েছে তা জানাবে এবং রিনিউ করতে সরাসরি পেমেন্ট স্ক্রিনে নিয়ে যাবে। ফ্রি ট্রায়াল ২ সপ্তাহ।",
-  "changelogEn": "When your free trial or package ends, the keyboard now tells you exactly what ended and takes you straight to the payment screen to renew. The free trial is 2 weeks.",
+  "sha256": "6332511d1305d299a3ad720466c5f9188f78c3f2dc2aeb54090ecf835cd12b08",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12252/bolo-keyboard-12252-arm64-v8a.apk",
+  "builtAt": "2026-11-17T10:00:06.334Z",
+  "changelogBn": "ঠিক করা হয়েছে: ট্রায়াল বা প্যাকেজ শেষ হওয়ার পরও পেমেন্ট স্ক্রিনে প্রো active দেখাতে পারত। এখন সঠিক অবস্থা দেখাবে।",
+  "changelogEn": "Fixed: after a trial or package expired, the payment screen could still show Pro as active. It now shows the right state.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70253987,
-      "sha256": "be8c7be96592833e9edf127cbc235ed5771d68d4b47e036147850ba05af762aa",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12249/bolo-keyboard-12249-arm64-v8a.apk"
+      "sha256": "6332511d1305d299a3ad720466c5f9188f78c3f2dc2aeb54090ecf835cd12b08",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12252/bolo-keyboard-12252-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65246327,
-      "sha256": "21159600d65de4ee11593a8d0af11d434b789b618813a280e09e5756604cb82e",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12249/bolo-keyboard-12249-armeabi-v7a.apk"
+      "sha256": "f5b49a33d9ce29bda81498a9e11c82013e0d20035bbc6e7974da2db83bb2329d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12252/bolo-keyboard-12252-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12252,
+      "versionName": "0.1.30-507-g97a53360c-unstable",
+      "builtAt": "2026-11-17T10:00:06.334Z",
+      "changelogEn": "Fixed: after a trial or package expired, the payment screen could still show Pro as active. It now shows the right state.",
+      "changelogBn": "ঠিক করা হয়েছে: ট্রায়াল বা প্যাকেজ শেষ হওয়ার পরও পেমেন্ট স্ক্রিনে প্রো active দেখাতে পারত। এখন সঠিক অবস্থা দেখাবে।"
+    },
     {
       "versionCode": 12249,
       "versionName": "0.1.30-504-g6dc43694e-unstable",
