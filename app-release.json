@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-511-gb3f9f6cf7-unstable",
-  "versionCode": 12256,
+  "versionName": "0.1.30-514-gac0d5b512-unstable",
+  "versionCode": 12259,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70259109,
-  "sha256": "4b1bb830f499e74b5ba1ffdeca3ee9efe607e7588054ee4f6392ae2b22d73126",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12256/bolo-keyboard-12256-arm64-v8a.apk",
-  "builtAt": "2026-11-17T11:09:48.657Z",
-  "changelogBn": "English symbol পেজও নতুন করে বানানো হইছে: বাংলা ডিজিট, টাকার চিহ্ন আর পুরা shifted সেট।",
-  "changelogEn": "English symbols pages rebuilt too: Bengali digits, taka sign, and the full shifted set.",
+  "sizeBytes": 70259481,
+  "sha256": "64ae7efa16259764546be2c6658dcafffe56200de2501578718f1613ec2e22e8",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12259/bolo-keyboard-12259-arm64-v8a.apk",
+  "builtAt": "2026-11-17T11:36:12.390Z",
+  "changelogBn": "নিচের সারি: গ্লোব এখন কমার বামে। X, C আর V-তে কাট, কপি আর পেস্ট আইকন — চেপে ধরলে কাজ করবে।",
+  "changelogEn": "Bottom row: the globe now sits left of the comma. X, C and V show cut, copy and paste icons, and long-pressing them runs the action.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70259109,
-      "sha256": "4b1bb830f499e74b5ba1ffdeca3ee9efe607e7588054ee4f6392ae2b22d73126",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12256/bolo-keyboard-12256-arm64-v8a.apk"
+      "sizeBytes": 70259481,
+      "sha256": "64ae7efa16259764546be2c6658dcafffe56200de2501578718f1613ec2e22e8",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12259/bolo-keyboard-12259-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65251449,
-      "sha256": "efa0a40a866fb599395173c9681d05fd7ec34fe45ff48587ba6b12dc749c428a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12256/bolo-keyboard-12256-armeabi-v7a.apk"
+      "sizeBytes": 65251821,
+      "sha256": "c6e45bafcde6f73a931033fc11e921914681f56c1e1beab8cd71f52b4ce8a15c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12259/bolo-keyboard-12259-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12259,
+      "versionName": "0.1.30-514-gac0d5b512-unstable",
+      "builtAt": "2026-11-17T11:36:12.390Z",
+      "changelogEn": "Bottom row: the globe now sits left of the comma. X, C and V show cut, copy and paste icons, and long-pressing them runs the action.",
+      "changelogBn": "নিচের সারি: গ্লোব এখন কমার বামে। X, C আর V-তে কাট, কপি আর পেস্ট আইকন — চেপে ধরলে কাজ করবে।"
+    },
     {
       "versionCode": 12256,
       "versionName": "0.1.30-511-gb3f9f6cf7-unstable",
