@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-519-ge63ce1dde-unstable",
-  "versionCode": 12264,
+  "versionName": "0.1.30-524-g0a77d8e6d-unstable",
+  "versionCode": 12269,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70259481,
-  "sha256": "375e9d2050e73161e777d4d88f76da23f13135a9a06e82dfa768a7ddaaf7cd90",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12264/bolo-keyboard-12264-arm64-v8a.apk",
-  "builtAt": "2026-11-17T13:37:10.875Z",
-  "changelogBn": "stable-এ চেঞ্জলগ এখন ছোট এক লাইনের সামারি দেখাবে; dev-এ পুরো বিস্তারিত থাকবে",
-  "changelogEn": "stable changelog now shows a short generic summary per release; dev keeps the full detail",
+  "sizeBytes": 70259485,
+  "sha256": "91eaa90c07a5d7a6387f8026e34d901c23c85b8fa17b4d5d37e7d2a273bc1774",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12269/bolo-keyboard-12269-arm64-v8a.apk",
+  "builtAt": "2026-11-17T14:45:51.063Z",
+  "changelogBn": "dev build এখন শুধু tester-দের জন্য: update check sign-in করে, আর download short-lived link দিয়ে আসে।",
+  "changelogEn": "Dev builds are now tester-only: the update check signs in, and downloads come through short-lived links.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70259481,
-      "sha256": "375e9d2050e73161e777d4d88f76da23f13135a9a06e82dfa768a7ddaaf7cd90",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12264/bolo-keyboard-12264-arm64-v8a.apk"
+      "sizeBytes": 70259485,
+      "sha256": "91eaa90c07a5d7a6387f8026e34d901c23c85b8fa17b4d5d37e7d2a273bc1774",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12269/bolo-keyboard-12269-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65251821,
-      "sha256": "af50ff1f93421294a679d3ebb538b5c915c435f3b6d2479e0de6c08b0ec84a72",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12264/bolo-keyboard-12264-armeabi-v7a.apk"
+      "sizeBytes": 65251825,
+      "sha256": "abb7e521bad7a8504a838d023efd36dea14068e4dbc92754ea3b60c45738cb7a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12269/bolo-keyboard-12269-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12269,
+      "versionName": "0.1.30-524-g0a77d8e6d-unstable",
+      "builtAt": "2026-11-17T14:45:51.063Z",
+      "changelogEn": "Dev builds are now tester-only: the update check signs in, and downloads come through short-lived links.",
+      "changelogBn": "dev build এখন শুধু tester-দের জন্য: update check sign-in করে, আর download short-lived link দিয়ে আসে।"
+    },
     {
       "versionCode": 12264,
       "versionName": "0.1.30-519-ge63ce1dde-unstable",
