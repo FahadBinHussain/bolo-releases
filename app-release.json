@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-524-g0a77d8e6d-unstable",
-  "versionCode": 12269,
+  "versionName": "0.1.30-526-g7b01a2391-unstable",
+  "versionCode": 12271,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70259485,
-  "sha256": "91eaa90c07a5d7a6387f8026e34d901c23c85b8fa17b4d5d37e7d2a273bc1774",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12269/bolo-keyboard-12269-arm64-v8a.apk",
-  "builtAt": "2026-11-17T14:45:51.063Z",
-  "changelogBn": "dev build এখন শুধু tester-দের জন্য: update check sign-in করে, আর download short-lived link দিয়ে আসে।",
-  "changelogEn": "Dev builds are now tester-only: the update check signs in, and downloads come through short-lived links.",
+  "sha256": "5e6ae5892f5b1e29084f38e3d0de983926e531aabed386b13d1451cdb617899d",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12271/bolo-keyboard-12271-arm64-v8a.apk",
+  "builtAt": "2026-11-18T01:58:20.954Z",
+  "changelogBn": "X/C/V long-press-এ কপি/কাট এখন সত্যিই কাজ করে: কিবোর্ড নিজেই text clipboard-এ বসায়, আর Copied মেসেজ শুধু আসলেই copy হলে দেখাবে।",
+  "changelogEn": "Long-press copy/cut on X/C/V now actually copies: the keyboard puts the text on the clipboard itself instead of asking the app, and the Copied message only shows when it really copied.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70259485,
-      "sha256": "91eaa90c07a5d7a6387f8026e34d901c23c85b8fa17b4d5d37e7d2a273bc1774",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12269/bolo-keyboard-12269-arm64-v8a.apk"
+      "sha256": "5e6ae5892f5b1e29084f38e3d0de983926e531aabed386b13d1451cdb617899d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12271/bolo-keyboard-12271-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65251825,
-      "sha256": "abb7e521bad7a8504a838d023efd36dea14068e4dbc92754ea3b60c45738cb7a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12269/bolo-keyboard-12269-armeabi-v7a.apk"
+      "sha256": "fc1156eb1bc56161f5be8b51dec519e78650818de1cd25d0986a80d15888ca02",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12271/bolo-keyboard-12271-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12271,
+      "versionName": "0.1.30-526-g7b01a2391-unstable",
+      "builtAt": "2026-11-18T01:58:20.954Z",
+      "changelogEn": "Long-press copy/cut on X/C/V now actually copies: the keyboard puts the text on the clipboard itself instead of asking the app, and the Copied message only shows when it really copied.",
+      "changelogBn": "X/C/V long-press-এ কপি/কাট এখন সত্যিই কাজ করে: কিবোর্ড নিজেই text clipboard-এ বসায়, আর Copied মেসেজ শুধু আসলেই copy হলে দেখাবে।"
+    },
     {
       "versionCode": 12269,
       "versionName": "0.1.30-524-g0a77d8e6d-unstable",
