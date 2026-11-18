@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-526-g7b01a2391-unstable",
-  "versionCode": 12271,
+  "versionName": "0.1.30-528-g39d8191be-unstable",
+  "versionCode": 12273,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70259485,
-  "sha256": "5e6ae5892f5b1e29084f38e3d0de983926e531aabed386b13d1451cdb617899d",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12271/bolo-keyboard-12271-arm64-v8a.apk",
-  "builtAt": "2026-11-18T01:58:20.954Z",
-  "changelogBn": "X/C/V long-press-এ কপি/কাট এখন সত্যিই কাজ করে: কিবোর্ড নিজেই text clipboard-এ বসায়, আর Copied মেসেজ শুধু আসলেই copy হলে দেখাবে।",
-  "changelogEn": "Long-press copy/cut on X/C/V now actually copies: the keyboard puts the text on the clipboard itself instead of asking the app, and the Copied message only shows when it really copied.",
+  "sha256": "792fd3a7fbcfce9724d2a69c8b8870a2336902c20a2ffa28dd346b1238d18330",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12273/bolo-keyboard-12273-arm64-v8a.apk",
+  "builtAt": "2026-11-18T03:00:49.677Z",
+  "changelogBn": "paste suggestion দেখানোর সময় tools switcher আবার কাজ করে: কিবোর্ড খুললে suggestion দেখাবে, আর switcher চাপলে tools আর suggestion-এর মধ্যে যাওয়া-আসা করা যাবে।",
+  "changelogEn": "The tools switcher works again while the paste suggestion is showing: the suggestion still appears when you open the keyboard, and the switcher goes back and forth between your tools and the suggestion.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70259485,
-      "sha256": "5e6ae5892f5b1e29084f38e3d0de983926e531aabed386b13d1451cdb617899d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12271/bolo-keyboard-12271-arm64-v8a.apk"
+      "sha256": "792fd3a7fbcfce9724d2a69c8b8870a2336902c20a2ffa28dd346b1238d18330",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12273/bolo-keyboard-12273-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65251825,
-      "sha256": "fc1156eb1bc56161f5be8b51dec519e78650818de1cd25d0986a80d15888ca02",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12271/bolo-keyboard-12271-armeabi-v7a.apk"
+      "sha256": "634958131ff0bd811273154bfe0f0da9c946b8c55f27e66d4000518e7ed6258e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12273/bolo-keyboard-12273-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12273,
+      "versionName": "0.1.30-528-g39d8191be-unstable",
+      "builtAt": "2026-11-18T03:00:49.677Z",
+      "changelogEn": "The tools switcher works again while the paste suggestion is showing: the suggestion still appears when you open the keyboard, and the switcher goes back and forth between your tools and the suggestion.",
+      "changelogBn": "paste suggestion দেখানোর সময় tools switcher আবার কাজ করে: কিবোর্ড খুললে suggestion দেখাবে, আর switcher চাপলে tools আর suggestion-এর মধ্যে যাওয়া-আসা করা যাবে।"
+    },
     {
       "versionCode": 12271,
       "versionName": "0.1.30-526-g7b01a2391-unstable",
