@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-565-g6fc7710257-unstable",
-  "versionCode": 12310,
+  "versionName": "0.1.30-567-ge28818b782-unstable",
+  "versionCode": 12312,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70281568,
-  "sha256": "2afcae13c21917ca2a29f65171c0c1984111834483fff51397455ada5dedd6b2",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12310/bolo-keyboard-12310-arm64-v8a.apk",
-  "builtAt": "2026-11-18T12:28:06.255Z",
-  "changelogBn": "সেটিংস পরিষ্কার: ল্যাংগুয়েজ রো লুকানো, মডেলস-এ coming soon, ক্রেডিটস স্ক্রিন সরল করা",
-  "changelogEn": "settings cleanup: languages row hidden, models says coming soon, credits screen simplified",
+  "sizeBytes": 70282192,
+  "sha256": "36c015c26f9f3839ea86c433b42a89b4d2f9bbdee29c0f3b79440596c3a8b7a0",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12312/bolo-keyboard-12312-arm64-v8a.apk",
+  "builtAt": "2026-11-18T13:15:21.561Z",
+  "changelogBn": "ক্রেডিটস স্ক্রিন নতুন ডিজাইন: বড় হার্ট, made with love by Bolo Key team",
+  "changelogEn": "credits screen redesigned: big heart, made with love by Bolo Key team",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70281568,
-      "sha256": "2afcae13c21917ca2a29f65171c0c1984111834483fff51397455ada5dedd6b2",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12310/bolo-keyboard-12310-arm64-v8a.apk"
+      "sizeBytes": 70282192,
+      "sha256": "36c015c26f9f3839ea86c433b42a89b4d2f9bbdee29c0f3b79440596c3a8b7a0",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12312/bolo-keyboard-12312-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65273908,
-      "sha256": "5c69cc651b564307bb2d4f8051cb3db032b628d7f00671a67b0c62b3e82d2d7a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12310/bolo-keyboard-12310-armeabi-v7a.apk"
+      "sizeBytes": 65274532,
+      "sha256": "1e95819898ce03c93013a147815478b71e810f6371ab891587c40bda2b7ce985",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12312/bolo-keyboard-12312-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12312,
+      "versionName": "0.1.30-567-ge28818b782-unstable",
+      "builtAt": "2026-11-18T13:15:21.561Z",
+      "changelogEn": "credits screen redesigned: big heart, made with love by Bolo Key team",
+      "changelogBn": "ক্রেডিটস স্ক্রিন নতুন ডিজাইন: বড় হার্ট, made with love by Bolo Key team"
+    },
     {
       "versionCode": 12310,
       "versionName": "0.1.30-565-g6fc7710257-unstable",
