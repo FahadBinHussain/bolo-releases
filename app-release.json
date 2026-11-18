@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-567-ge28818b782-unstable",
-  "versionCode": 12312,
+  "versionName": "0.1.30-570-gcca3f109ea-unstable",
+  "versionCode": 12315,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70282192,
-  "sha256": "36c015c26f9f3839ea86c433b42a89b4d2f9bbdee29c0f3b79440596c3a8b7a0",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12312/bolo-keyboard-12312-arm64-v8a.apk",
-  "builtAt": "2026-11-18T13:15:21.561Z",
-  "changelogBn": "ক্রেডিটস স্ক্রিন নতুন ডিজাইন: বড় হার্ট, made with love by Bolo Key team",
-  "changelogEn": "credits screen redesigned: big heart, made with love by Bolo Key team",
+  "sha256": "6c88b1a8cfe8e03dedea9da1dcc3ccced349fe7f5799729af4dbba22101bdd33",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12315/bolo-keyboard-12315-arm64-v8a.apk",
+  "builtAt": "2026-11-18T14:25:48.594Z",
+  "changelogBn": "ভয়েস প্রোভাইডার এখন NATO কোডনেমে - Alfa, Bravo, Charlie, Delta",
+  "changelogEn": "voice providers now ship under NATO codenames - Alfa, Bravo, Charlie, Delta",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70282192,
-      "sha256": "36c015c26f9f3839ea86c433b42a89b4d2f9bbdee29c0f3b79440596c3a8b7a0",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12312/bolo-keyboard-12312-arm64-v8a.apk"
+      "sha256": "6c88b1a8cfe8e03dedea9da1dcc3ccced349fe7f5799729af4dbba22101bdd33",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12315/bolo-keyboard-12315-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65274532,
-      "sha256": "1e95819898ce03c93013a147815478b71e810f6371ab891587c40bda2b7ce985",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12312/bolo-keyboard-12312-armeabi-v7a.apk"
+      "sha256": "072cd24d4766b53740e097ea49e53aa5ff69ec21246baabeb79becd758213359",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12315/bolo-keyboard-12315-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12315,
+      "versionName": "0.1.30-570-gcca3f109ea-unstable",
+      "builtAt": "2026-11-18T14:25:48.594Z",
+      "changelogEn": "voice providers now ship under NATO codenames - Alfa, Bravo, Charlie, Delta",
+      "changelogBn": "ভয়েস প্রোভাইডার এখন NATO কোডনেমে - Alfa, Bravo, Charlie, Delta"
+    },
     {
       "versionCode": 12312,
       "versionName": "0.1.30-567-ge28818b782-unstable",
@@ -463,15 +470,15 @@
       "versionCode": 12037,
       "versionName": "0.1.30-290-gc4bd8e142-unstable",
       "builtAt": "2026-11-12T18:16:13.809Z",
-      "changelogEn": "ChatGPT dictation now shows words about every 3 seconds while you talk, not after you stop.",
-      "changelogBn": "ChatGPT ডিক্টেশন এখন কথা বলার সময় প্রায় প্রতি ৩ সেকেন্ডে শব্দ দেখায়, থামার পরে নয়।"
+      "changelogEn": "Charlie dictation now shows words about every 3 seconds while you talk, not after you stop.",
+      "changelogBn": "Charlie ডিক্টেশন এখন কথা বলার সময় প্রায় প্রতি ৩ সেকেন্ডে শব্দ দেখায়, থামার পরে নয়।"
     },
     {
       "versionCode": 12035,
       "versionName": "0.1.30-288-g38346e64f-unstable",
       "builtAt": "2026-11-12T17:50:31.098Z",
-      "changelogEn": "ChatGPT dictation now types as you speak, not only after you stop.",
-      "changelogBn": "ChatGPT ডিক্টেশন এখন কথা বলার সময়েই লেখে, থামার পরে নয়।"
+      "changelogEn": "Charlie dictation now types as you speak, not only after you stop.",
+      "changelogBn": "Charlie ডিক্টেশন এখন কথা বলার সময়েই লেখে, থামার পরে নয়।"
     },
     {
       "versionCode": 12033,
@@ -484,22 +491,22 @@
       "versionCode": 12031,
       "versionName": "0.1.30-284-gf40213c4c-unstable",
       "builtAt": "2026-11-12T17:00:56.335Z",
-      "changelogEn": "ChatGPT dictation now transcribes long recordings properly, and no longer types everything twice.",
-      "changelogBn": "ChatGPT ডিক্টেশন এখন লম্বা রেকর্ডিং ঠিকভাবে লেখে, এবং একই কথা দুইবার লেখে না।"
+      "changelogEn": "Charlie dictation now transcribes long recordings properly, and no longer types everything twice.",
+      "changelogBn": "Charlie ডিক্টেশন এখন লম্বা রেকর্ডিং ঠিকভাবে লেখে, এবং একই কথা দুইবার লেখে না।"
     },
     {
       "versionCode": 12029,
       "versionName": "0.1.30-282-g703cbb588-unstable",
       "builtAt": "2026-11-12T16:04:09.479Z",
-      "changelogEn": "ChatGPT dictation now reports what the server actually answered, so the next failure says exactly what went wrong.",
-      "changelogBn": "ChatGPT ডিক্টেশন এখন সার্ভার ঠিক কী উত্তর দিয়েছে তা জানায়, ফলে পরের বার সমস্যাটা ঠিক কোথায় তা বোঝা যাবে।"
+      "changelogEn": "Charlie dictation now reports what the server actually answered, so the next failure says exactly what went wrong.",
+      "changelogBn": "Charlie ডিক্টেশন এখন সার্ভার ঠিক কী উত্তর দিয়েছে তা জানায়, ফলে পরের বার সমস্যাটা ঠিক কোথায় তা বোঝা যাবে।"
     },
     {
       "versionCode": 12026,
       "versionName": "0.1.30-279-g9c5e9a201-unstable",
       "builtAt": "2026-11-12T15:39:19.165Z",
-      "changelogEn": "Voice input keeps the last bit of audio you speak, and ChatGPT dictation reports exactly what the server answers.",
-      "changelogBn": "ভয়েস ইনপুটে আপনি যা বলেন তার শেষ অংশটুকুও এখন রাখা হয়, এবং ChatGPT ডিক্টেশন সার্ভার ঠিক কী উত্তর দিচ্ছে তা জানায়।"
+      "changelogEn": "Voice input keeps the last bit of audio you speak, and Charlie dictation reports exactly what the server answers.",
+      "changelogBn": "ভয়েস ইনপুটে আপনি যা বলেন তার শেষ অংশটুকুও এখন রাখা হয়, এবং Charlie ডিক্টেশন সার্ভার ঠিক কী উত্তর দিচ্ছে তা জানায়।"
     },
     {
       "versionCode": 12022,
@@ -512,36 +519,36 @@
       "versionCode": 12019,
       "versionName": "0.1.30-272-gd1c2979bc-unstable",
       "builtAt": "2026-11-12T14:37:43.130Z",
-      "changelogEn": "Fixed ChatGPT dictation uploading silence, and the mic now falls back to another audio source when needed.",
-      "changelogBn": "ChatGPT ডিক্টেশনে নীরব অডিও আপলোড হওয়ার সমস্যা ঠিক করা হয়েছে, এবং প্রয়োজনে মাইক এখন অন্য অডিও সোর্সে যায়।"
+      "changelogEn": "Fixed Charlie dictation uploading silence, and the mic now falls back to another audio source when needed.",
+      "changelogBn": "Charlie ডিক্টেশনে নীরব অডিও আপলোড হওয়ার সমস্যা ঠিক করা হয়েছে, এবং প্রয়োজনে মাইক এখন অন্য অডিও সোর্সে যায়।"
     },
     {
       "versionCode": 12017,
       "versionName": "0.1.30-270-g07045b2a4-unstable",
       "builtAt": "2026-11-12T14:16:57.462Z",
-      "changelogEn": "Fixed ChatGPT dictation sending empty audio, so nothing was being typed.",
-      "changelogBn": "ChatGPT ডিক্টেশনে খালি অডিও পাঠানোর সমস্যা ঠিক করা হয়েছে, তাই কিছু লেখা হচ্ছিল না।"
+      "changelogEn": "Fixed Charlie dictation sending empty audio, so nothing was being typed.",
+      "changelogBn": "Charlie ডিক্টেশনে খালি অডিও পাঠানোর সমস্যা ঠিক করা হয়েছে, তাই কিছু লেখা হচ্ছিল না।"
     },
     {
       "versionCode": 12015,
       "versionName": "0.1.30-268-g6850daf99-unstable",
       "builtAt": "2026-11-12T13:52:50.370Z",
-      "changelogEn": "ChatGPT dictation now waits for its transcript, so voice input actually types what you said.",
-      "changelogBn": "ChatGPT ডিক্টেশন এখন ট্রান্সক্রিপ্টের জন্য অপেক্ষা করে, তাই ভয়েস ইনপুটে আপনি যা বলেছেন তা লেখা হয়।"
+      "changelogEn": "Charlie dictation now waits for its transcript, so voice input actually types what you said.",
+      "changelogBn": "Charlie ডিক্টেশন এখন ট্রান্সক্রিপ্টের জন্য অপেক্ষা করে, তাই ভয়েস ইনপুটে আপনি যা বলেছেন তা লেখা হয়।"
     },
     {
       "versionCode": 12013,
       "versionName": "0.1.30-266-g46795915d-unstable",
       "builtAt": "2026-11-12T13:32:36.132Z",
-      "changelogEn": "Fixed ChatGPT dictation failing on every utterance with no audio captured.",
-      "changelogBn": "ChatGPT ডিক্টেশনে প্রতিবার অডিও না পাওয়ার সমস্যা সমাধান করা হয়েছে।"
+      "changelogEn": "Fixed Charlie dictation failing on every utterance with no audio captured.",
+      "changelogBn": "Charlie ডিক্টেশনে প্রতিবার অডিও না পাওয়ার সমস্যা সমাধান করা হয়েছে।"
     },
     {
       "versionCode": 12011,
       "versionName": "0.1.30-264-g226f68517-unstable",
       "builtAt": "2026-11-12T13:07:36.916Z",
-      "changelogEn": "Added ChatGPT dictation as a third voice input provider alongside Facebook Muse and Google Antigravity.",
-      "changelogBn": "ফেসবুক মিউজ ও গুগল অ্যান্টিগ্র্যাভিটির পাশাপাশি তৃতীয় ভয়েস ইনপুট প্রোভাইডার হিসেবে ChatGPT ডিক্টেশন যুক্ত করা হয়েছে।"
+      "changelogEn": "Added Charlie dictation as a third voice input provider alongside Alfa and Bravo.",
+      "changelogBn": "ফেসবুক মিউজ ও গুগল অ্যান্টিগ্র্যাভিটির পাশাপাশি তৃতীয় ভয়েস ইনপুট প্রোভাইডার হিসেবে Charlie ডিক্টেশন যুক্ত করা হয়েছে।"
     },
     {
       "versionCode": 12009,
@@ -554,14 +561,14 @@
       "versionCode": 12000,
       "versionName": "0.1.30-253-g0c83b9961-unstable",
       "builtAt": "2026-11-12T03:39:11.055Z",
-      "changelogEn": "Fixed Antigravity voice dictation dropping spoken words: the transcript now keeps the literal spoken text when the server's final rewrite collapses the turn, and the endpointing window was stretched to 2 seconds so fewer turns get rewritten.",
+      "changelogEn": "Fixed Bravo voice dictation dropping spoken words: the transcript now keeps the literal spoken text when the server's final rewrite collapses the turn, and the endpointing window was stretched to 2 seconds so fewer turns get rewritten.",
       "changelogBn": "অ্যান্টিগ্র্যাভিটি ভয়েস ডিক্টেশনে বলা শব্দ বাদ পড়ার সমস্যা সমাধান করা হয়েছে: সার্ভারের ফাইনাল টেক্সট যখন টার্নের প্রত্যাজন ছোট করে দেয় তখন মূল বলা লেখা রাখা হয়, আর এন্ডপয়েন্টিং উইন্ডো ২ সেকেন্ড করা হয়েছে যাতে কম টার্ন নতুন করে লেখা না হয়।"
     },
     {
       "versionCode": 11994,
       "versionName": "0.1.30-247-g0bed709fb-unstable",
       "builtAt": "2026-11-11T17:13:42.422Z",
-      "changelogEn": "Fixed voice stream connection keepalive, prevented cellular audio stalls from cooling down global voice tokens, and added 24kHz audio resampling for Antigravity voice typing.",
+      "changelogEn": "Fixed voice stream connection keepalive, prevented cellular audio stalls from cooling down global voice tokens, and added 24kHz audio resampling for Bravo voice typing.",
       "changelogBn": "ভয়েস টাইপিং কানেকশন কিপ-অ্যালাইভ, মোবাইল ডেটায় অডিও স্টল হলে গ্লোবাল টোকেন কুলডাউন প্রতিরোধ এবং অ্যান্টিগ্র্যাভিটি ২৪ কিলোহার্টজ অডিও রিস্যাম্পলিং উন্নত করা হয়েছে।"
     },
     {
@@ -582,7 +589,7 @@
       "versionCode": 11983,
       "versionName": "0.1.30-236-g93c6a6131-unstable",
       "builtAt": "2026-11-11T17:57:35.7227645+06:00",
-      "changelogEn": "Fixed automatic Antigravity voice dictation when Muse is turned off, removed client-side technical error popups, and enabled automatic server error telemetry.",
+      "changelogEn": "Fixed automatic Bravo voice dictation when Alfa is turned off, removed client-side technical error popups, and enabled automatic server error telemetry.",
       "changelogBn": "মিউজ বন্ধ থাকলে স্বয়ংক্রিয়ভাবে অ্যান্টিগ্র্যাভিটি ভয়েস ডিক্টেশন চালু হওয়ার সমস্যা সমাধান করা হয়েছে এবং বলো কী অ্যাপের সব এরর ও ক্র্যাশ তথ্য সরাসরি সার্ভারে পাঠানো হচ্ছে।"
     },
     {
@@ -617,7 +624,7 @@
       "versionCode": 11961,
       "versionName": "0.1.30-214-g893482108-unstable",
       "builtAt": "11/09/2026 23:44:19",
-      "changelogEn": "Server-side daily 12-hour voice typing quota tracking and server-managed Muse token provisioning.",
+      "changelogEn": "Server-side daily 12-hour voice typing quota tracking and server-managed Alfa token provisioning.",
       "changelogBn": "সার্ভার-সাইড দৈনিক ১২ ঘণ্টার ভয়েস টাইপিং কোটা ট্র্যাকিং এবং সুরক্ষিত মিউজ টোকেন প্রভিশনিং।"
     },
     {
