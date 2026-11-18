@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-575-gefb8893320-unstable",
-  "versionCode": 12320,
+  "versionName": "0.1.30-578-g7cf6ed3db6-unstable",
+  "versionCode": 12323,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70282364,
-  "sha256": "cfbd7e0c6539657ddaf10589806b5aca71d6f764a76a596be536de6005a8dd40",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12320/bolo-keyboard-12320-arm64-v8a.apk",
-  "builtAt": "2026-11-18T16:58:58.027Z",
-  "changelogBn": "সহায়তা ও মতামত সারি আপাতত লুকানো",
-  "changelogEn": "help & feedback row hidden for now",
+  "sha256": "c0b722cc0b7e3e5654c69f3ceb8b36c582aed09efa80493cdd6e5b0ffcb708a6",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12323/bolo-keyboard-12323-arm64-v8a.apk",
+  "builtAt": "2026-11-18T17:14:30.623Z",
+  "changelogBn": "প্রো ভয়েস ব্যানার এখন টাইপ শুরু করলেই সরে যায়, আর তাতে ট্যাপ করলে সাবস্ক্রিপশন পেজ খোলার আগে একটি মেসেজ দেখায়।",
+  "changelogEn": "The Pro voice banner now goes away when you start typing, and tapping it shows a message before opening the subscription page.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70282364,
-      "sha256": "cfbd7e0c6539657ddaf10589806b5aca71d6f764a76a596be536de6005a8dd40",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12320/bolo-keyboard-12320-arm64-v8a.apk"
+      "sha256": "c0b722cc0b7e3e5654c69f3ceb8b36c582aed09efa80493cdd6e5b0ffcb708a6",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12323/bolo-keyboard-12323-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65274704,
-      "sha256": "af553b5bef29678823b1329d60013b7e30d3f2428bd41e7de1a412df00279c3b",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12320/bolo-keyboard-12320-armeabi-v7a.apk"
+      "sha256": "9767224e96d13dffcc7b154e6ffe5484b5a423b74656d092cd442a7f2575f8c0",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12323/bolo-keyboard-12323-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12323,
+      "versionName": "0.1.30-578-g7cf6ed3db6-unstable",
+      "builtAt": "2026-11-18T17:14:30.623Z",
+      "changelogEn": "The Pro voice banner now goes away when you start typing, and tapping it shows a message before opening the subscription page.",
+      "changelogBn": "প্রো ভয়েস ব্যানার এখন টাইপ শুরু করলেই সরে যায়, আর তাতে ট্যাপ করলে সাবস্ক্রিপশন পেজ খোলার আগে একটি মেসেজ দেখায়।"
+    },
     {
       "versionCode": 12320,
       "versionName": "0.1.30-575-gefb8893320-unstable",
