@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-541-g5e8fd4ed0-unstable",
-  "versionCode": 12286,
+  "versionName": "0.1.30-545-gf16aa860b-unstable",
+  "versionCode": 12290,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70259485,
-  "sha256": "2bf979b0ed0553487858ce7c5201dbe3a9d52eeec35d319eaaa2d9f0c61b0b1b",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12286/bolo-keyboard-12286-arm64-v8a.apk",
-  "builtAt": "2026-11-18T08:42:01.639Z",
-  "changelogBn": "Google sign-in thik kora hoise: account picker ekhon plain Google ID flow use kore, branded sheet-ta notun Play services sathe sathe cancel kore dito.",
-  "changelogEn": "Fixed Google sign-in: the account picker now uses the plain Google ID flow instead of the branded sheet, which newer Google Play services cancels instantly.",
+  "sha256": "6cb103d5710bef8253650ef147f43c36f6749a437d91743429281b8358c77947",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12290/bolo-keyboard-12290-arm64-v8a.apk",
+  "builtAt": "2026-11-18T09:36:06.728Z",
+  "changelogBn": "Sign-in diagnostics: cancel hoye gele ekhon chupchap fail na kore log + report hobe, jate karon khuje ber kora jay.",
+  "changelogEn": "Sign-in diagnostics: a cancelled sign-in is now logged and reported instead of failing silently, so the cause can be traced.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70259485,
-      "sha256": "2bf979b0ed0553487858ce7c5201dbe3a9d52eeec35d319eaaa2d9f0c61b0b1b",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12286/bolo-keyboard-12286-arm64-v8a.apk"
+      "sha256": "6cb103d5710bef8253650ef147f43c36f6749a437d91743429281b8358c77947",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12290/bolo-keyboard-12290-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65251825,
-      "sha256": "9ab67c742d5f7ba293d9e939dd91b72254f53a568e6939593726b95f03ceb1e2",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12286/bolo-keyboard-12286-armeabi-v7a.apk"
+      "sha256": "b7bc58cbef6a064dad46889f25111b48886997db2ddc1c5552aad6feab65ee3c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12290/bolo-keyboard-12290-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12290,
+      "versionName": "0.1.30-545-gf16aa860b-unstable",
+      "builtAt": "2026-11-18T09:36:06.728Z",
+      "changelogEn": "Sign-in diagnostics: a cancelled sign-in is now logged and reported instead of failing silently, so the cause can be traced.",
+      "changelogBn": "Sign-in diagnostics: cancel hoye gele ekhon chupchap fail na kore log + report hobe, jate karon khuje ber kora jay."
+    },
     {
       "versionCode": 12286,
       "versionName": "0.1.30-541-g5e8fd4ed0-unstable",
