@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-583-gca2b30363e-unstable",
-  "versionCode": 12328,
+  "versionName": "0.1.30-584-g15ea73b5b6-unstable",
+  "versionCode": 12329,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70282368,
-  "sha256": "3aaf2be32fd71e09963a86508b26c6c986246593033a1b292c5b4a3c19750ce6",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12328/bolo-keyboard-12328-arm64-v8a.apk",
-  "builtAt": "2026-11-18T17:32:34.202Z",
-  "changelogBn": "প্রোমো কোড রিডিম করা ঠিক করা হয়েছে — ট্রায়াল দেওয়ার বদলে এটি একটি এরর দেখাত।",
-  "changelogEn": "Fixed promo code redeeming - it failed with a serializer error instead of granting the trial.",
+  "sha256": "ea6d296952728f89060993d88aa510e013f26ec0fffcebc82070a32be5dca0b5",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12329/bolo-keyboard-12329-arm64-v8a.apk",
+  "builtAt": "2026-11-18T17:40:08.506Z",
+  "changelogBn": "সাবস্ক্রিপশন পেজ নতুন অরোরা গ্লাস ডিজাইনে সাজানো হয়েছে: লাইসেন্স কার্ড এখন হিরোর ভেতরে, পেমেন্ট প্রোমো কোডের উপরে, এবং ইয়ারলি প্ল্যানে ১২ মাসের কাটা দাম দেখা যাবে।",
+  "changelogEn": "Subscription page redesigned in Aurora Glass: the license card merges into the hero, payment moves above the promo code, and yearly shows the struck-through 12-month price.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70282368,
-      "sha256": "3aaf2be32fd71e09963a86508b26c6c986246593033a1b292c5b4a3c19750ce6",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12328/bolo-keyboard-12328-arm64-v8a.apk"
+      "sha256": "ea6d296952728f89060993d88aa510e013f26ec0fffcebc82070a32be5dca0b5",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12329/bolo-keyboard-12329-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65274708,
-      "sha256": "c237503475749501ac249f12c788d60f3d8e21b0db3990f578b80973f39f8b37",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12328/bolo-keyboard-12328-armeabi-v7a.apk"
+      "sha256": "924560ca8c20cd2694032181f59ad2600700e3b7f594f56789d27e3250b88f96",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12329/bolo-keyboard-12329-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12329,
+      "versionName": "0.1.30-584-g15ea73b5b6-unstable",
+      "builtAt": "2026-11-18T17:40:08.506Z",
+      "changelogEn": "Subscription page redesigned in Aurora Glass: the license card merges into the hero, payment moves above the promo code, and yearly shows the struck-through 12-month price.",
+      "changelogBn": "সাবস্ক্রিপশন পেজ নতুন অরোরা গ্লাস ডিজাইনে সাজানো হয়েছে: লাইসেন্স কার্ড এখন হিরোর ভেতরে, পেমেন্ট প্রোমো কোডের উপরে, এবং ইয়ারলি প্ল্যানে ১২ মাসের কাটা দাম দেখা যাবে।"
+    },
     {
       "versionCode": 12328,
       "versionName": "0.1.30-583-gca2b30363e-unstable",
