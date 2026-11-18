@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-555-gcbfffa14b-unstable",
-  "versionCode": 12300,
+  "versionName": "0.1.30-565-g6fc7710257-unstable",
+  "versionCode": 12310,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70281464,
-  "sha256": "d2d8dc0e70d7dddec9d2164fbae78f43fcc4bc45225b4f5accfabe7d1958000c",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12300/bolo-keyboard-12300-arm64-v8a.apk",
-  "builtAt": "2026-11-18T11:08:54.653Z",
-  "changelogBn": "ব্রাউজার সাইন-ইন: ফোনে Google সাইন-ইন না হলে ব্রাউজারে সাইন ইন করুন - এর জন্য Play Services লাগে না",
-  "changelogEn": "browser sign-in: if google sign-in fails on your phone, sign in in the browser instead - it doesn't need play services",
+  "sizeBytes": 70281568,
+  "sha256": "2afcae13c21917ca2a29f65171c0c1984111834483fff51397455ada5dedd6b2",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12310/bolo-keyboard-12310-arm64-v8a.apk",
+  "builtAt": "2026-11-18T12:28:06.255Z",
+  "changelogBn": "সেটিংস পরিষ্কার: ল্যাংগুয়েজ রো লুকানো, মডেলস-এ coming soon, ক্রেডিটস স্ক্রিন সরল করা",
+  "changelogEn": "settings cleanup: languages row hidden, models says coming soon, credits screen simplified",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70281464,
-      "sha256": "d2d8dc0e70d7dddec9d2164fbae78f43fcc4bc45225b4f5accfabe7d1958000c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12300/bolo-keyboard-12300-arm64-v8a.apk"
+      "sizeBytes": 70281568,
+      "sha256": "2afcae13c21917ca2a29f65171c0c1984111834483fff51397455ada5dedd6b2",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12310/bolo-keyboard-12310-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65273804,
-      "sha256": "c7628d4f27e0fb0ab3237906a84f7276f8f602bfdbf89420b56cd294378031b3",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12300/bolo-keyboard-12300-armeabi-v7a.apk"
+      "sizeBytes": 65273908,
+      "sha256": "5c69cc651b564307bb2d4f8051cb3db032b628d7f00671a67b0c62b3e82d2d7a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12310/bolo-keyboard-12310-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12310,
+      "versionName": "0.1.30-565-g6fc7710257-unstable",
+      "builtAt": "2026-11-18T12:28:06.255Z",
+      "changelogEn": "settings cleanup: languages row hidden, models says coming soon, credits screen simplified",
+      "changelogBn": "সেটিংস পরিষ্কার: ল্যাংগুয়েজ রো লুকানো, মডেলস-এ coming soon, ক্রেডিটস স্ক্রিন সরল করা"
+    },
     {
       "versionCode": 12300,
       "versionName": "0.1.30-555-gcbfffa14b-unstable",
