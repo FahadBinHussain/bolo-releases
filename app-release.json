@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-584-g15ea73b5b6-unstable",
-  "versionCode": 12329,
+  "versionName": "0.1.30-587-g393ea04cd5-unstable",
+  "versionCode": 12332,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70282368,
-  "sha256": "ea6d296952728f89060993d88aa510e013f26ec0fffcebc82070a32be5dca0b5",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12329/bolo-keyboard-12329-arm64-v8a.apk",
-  "builtAt": "2026-11-18T17:40:08.506Z",
-  "changelogBn": "সাবস্ক্রিপশন পেজ নতুন অরোরা গ্লাস ডিজাইনে সাজানো হয়েছে: লাইসেন্স কার্ড এখন হিরোর ভেতরে, পেমেন্ট প্রোমো কোডের উপরে, এবং ইয়ারলি প্ল্যানে ১২ মাসের কাটা দাম দেখা যাবে।",
-  "changelogEn": "Subscription page redesigned in Aurora Glass: the license card merges into the hero, payment moves above the promo code, and yearly shows the struck-through 12-month price.",
+  "sizeBytes": 70283816,
+  "sha256": "753118028a9c862529fcfd861a4167688a93738b3372ebded3e4b0c2f16e3ccd",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12332/bolo-keyboard-12332-arm64-v8a.apk",
+  "builtAt": "2026-11-18T18:12:08.585Z",
+  "changelogBn": "পুরো সাবস্ক্রিপশন পেজ এখন অরোরা গ্লাস: গাঢ় গ্রেডিয়েন্ট আর বেগুনি-সবুজ আভা, সব সেকশনে গ্লাস কার্ড, কাটা দামসহ পুরো প্ল্যান কার্ড, আর মেথড ও দামসহ পিল বাটন।",
+  "changelogEn": "The whole subscription page is Aurora Glass now: dark gradient with violet and teal glows, glass cards everywhere, full plan cards with the struck-through yearly price, and a pill button naming your method and price.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70282368,
-      "sha256": "ea6d296952728f89060993d88aa510e013f26ec0fffcebc82070a32be5dca0b5",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12329/bolo-keyboard-12329-arm64-v8a.apk"
+      "sizeBytes": 70283816,
+      "sha256": "753118028a9c862529fcfd861a4167688a93738b3372ebded3e4b0c2f16e3ccd",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12332/bolo-keyboard-12332-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65274708,
-      "sha256": "924560ca8c20cd2694032181f59ad2600700e3b7f594f56789d27e3250b88f96",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12329/bolo-keyboard-12329-armeabi-v7a.apk"
+      "sizeBytes": 65276156,
+      "sha256": "bfcdc3d746b18ecf40710404b3d4d1eb27df153f808363a5f9db9bcf7bb6f0a8",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12332/bolo-keyboard-12332-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12332,
+      "versionName": "0.1.30-587-g393ea04cd5-unstable",
+      "builtAt": "2026-11-18T18:12:08.585Z",
+      "changelogEn": "The whole subscription page is Aurora Glass now: dark gradient with violet and teal glows, glass cards everywhere, full plan cards with the struck-through yearly price, and a pill button naming your method and price.",
+      "changelogBn": "পুরো সাবস্ক্রিপশন পেজ এখন অরোরা গ্লাস: গাঢ় গ্রেডিয়েন্ট আর বেগুনি-সবুজ আভা, সব সেকশনে গ্লাস কার্ড, কাটা দামসহ পুরো প্ল্যান কার্ড, আর মেথড ও দামসহ পিল বাটন।"
+    },
     {
       "versionCode": 12329,
       "versionName": "0.1.30-584-g15ea73b5b6-unstable",
