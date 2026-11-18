@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-545-gf16aa860b-unstable",
-  "versionCode": 12290,
+  "versionName": "0.1.30-550-g3d1719c25-unstable",
+  "versionCode": 12295,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70259485,
-  "sha256": "6cb103d5710bef8253650ef147f43c36f6749a437d91743429281b8358c77947",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12290/bolo-keyboard-12290-arm64-v8a.apk",
-  "builtAt": "2026-11-18T09:36:06.728Z",
-  "changelogBn": "Sign-in diagnostics: cancel hoye gele ekhon chupchap fail na kore log + report hobe, jate karon khuje ber kora jay.",
-  "changelogEn": "Sign-in diagnostics: a cancelled sign-in is now logged and reported instead of failing silently, so the cause can be traced.",
+  "sizeBytes": 70260341,
+  "sha256": "cf03dfa6670c49edad0aecd1088d5c35b946de32059a45ae0c4f4a2a04b12c95",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12295/bolo-keyboard-12295-arm64-v8a.apk",
+  "builtAt": "2026-11-18T10:13:54.896Z",
+  "changelogBn": "Sign-in fix: age authorized Google account diye try korbe (picker chara), notun sign-in-e picker asbe. Notun: sign-in-er por jodi ager session-er keyboard settings cloud-e thake, app restore korbe naki ignore korbe jiggesh korbe.",
+  "changelogEn": "Sign-in fix: try your authorized Google account first (no picker), fall back to the picker only for a fresh sign-in. New: after signing in, if your keyboard settings from an earlier session are saved in the cloud, the app asks whether to restore them or ignore them.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70259485,
-      "sha256": "6cb103d5710bef8253650ef147f43c36f6749a437d91743429281b8358c77947",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12290/bolo-keyboard-12290-arm64-v8a.apk"
+      "sizeBytes": 70260341,
+      "sha256": "cf03dfa6670c49edad0aecd1088d5c35b946de32059a45ae0c4f4a2a04b12c95",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12295/bolo-keyboard-12295-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65251825,
-      "sha256": "b7bc58cbef6a064dad46889f25111b48886997db2ddc1c5552aad6feab65ee3c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12290/bolo-keyboard-12290-armeabi-v7a.apk"
+      "sizeBytes": 65252681,
+      "sha256": "7a76ab8dc42ff36188a3fe5c9e4a6fa8dfd82346894f9e868a285277fcfefabb",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12295/bolo-keyboard-12295-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12295,
+      "versionName": "0.1.30-550-g3d1719c25-unstable",
+      "builtAt": "2026-11-18T10:13:54.896Z",
+      "changelogEn": "Sign-in fix: try your authorized Google account first (no picker), fall back to the picker only for a fresh sign-in. New: after signing in, if your keyboard settings from an earlier session are saved in the cloud, the app asks whether to restore them or ignore them.",
+      "changelogBn": "Sign-in fix: age authorized Google account diye try korbe (picker chara), notun sign-in-e picker asbe. Notun: sign-in-er por jodi ager session-er keyboard settings cloud-e thake, app restore korbe naki ignore korbe jiggesh korbe."
+    },
     {
       "versionCode": 12290,
       "versionName": "0.1.30-545-gf16aa860b-unstable",
