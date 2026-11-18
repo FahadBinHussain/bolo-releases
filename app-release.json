@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-550-g3d1719c25-unstable",
-  "versionCode": 12295,
+  "versionName": "0.1.30-552-g830be3375-unstable",
+  "versionCode": 12297,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70260341,
-  "sha256": "cf03dfa6670c49edad0aecd1088d5c35b946de32059a45ae0c4f4a2a04b12c95",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12295/bolo-keyboard-12295-arm64-v8a.apk",
-  "builtAt": "2026-11-18T10:13:54.896Z",
-  "changelogBn": "Sign-in fix: age authorized Google account diye try korbe (picker chara), notun sign-in-e picker asbe. Notun: sign-in-er por jodi ager session-er keyboard settings cloud-e thake, app restore korbe naki ignore korbe jiggesh korbe.",
-  "changelogEn": "Sign-in fix: try your authorized Google account first (no picker), fall back to the picker only for a fresh sign-in. New: after signing in, if your keyboard settings from an earlier session are saved in the cloud, the app asks whether to restore them or ignore them.",
+  "sizeBytes": 70281468,
+  "sha256": "0f73deccec0b8b674533d4b93c33443772ba2d1a223157b8617620d61ad70a5a",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12297/bolo-keyboard-12297-arm64-v8a.apk",
+  "builtAt": "2026-11-18T10:27:42.632Z",
+  "changelogBn": "ব্রাউজার সাইন-ইন: ফোনে Google সাইন-ইন না হলে ব্রাউজারে সাইন ইন করুন - এর জন্য Play Services লাগে না",
+  "changelogEn": "browser sign-in: if google sign-in fails on your phone, sign in in the browser instead - it doesn't need play services",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70260341,
-      "sha256": "cf03dfa6670c49edad0aecd1088d5c35b946de32059a45ae0c4f4a2a04b12c95",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12295/bolo-keyboard-12295-arm64-v8a.apk"
+      "sizeBytes": 70281468,
+      "sha256": "0f73deccec0b8b674533d4b93c33443772ba2d1a223157b8617620d61ad70a5a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12297/bolo-keyboard-12297-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65252681,
-      "sha256": "7a76ab8dc42ff36188a3fe5c9e4a6fa8dfd82346894f9e868a285277fcfefabb",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12295/bolo-keyboard-12295-armeabi-v7a.apk"
+      "sizeBytes": 65273808,
+      "sha256": "e79a65821d855e9b820b7f306eca3923d7a520f243baeaab06e7986cf6fc0cde",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12297/bolo-keyboard-12297-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12297,
+      "versionName": "0.1.30-552-g830be3375-unstable",
+      "builtAt": "2026-11-18T10:27:42.632Z",
+      "changelogEn": "browser sign-in: if google sign-in fails on your phone, sign in in the browser instead - it doesn't need play services",
+      "changelogBn": "ব্রাউজার সাইন-ইন: ফোনে Google সাইন-ইন না হলে ব্রাউজারে সাইন ইন করুন - এর জন্য Play Services লাগে না"
+    },
     {
       "versionCode": 12295,
       "versionName": "0.1.30-550-g3d1719c25-unstable",
