@@ -3,7 +3,7 @@
   "versionCode": 12300,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 10,
+  "rolloutPercentage": 100,
   "sizeBytes": 70281464,
   "sha256": "d2d8dc0e70d7dddec9d2164fbae78f43fcc4bc45225b4f5accfabe7d1958000c",
   "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12300/bolo-keyboard-12300-arm64-v8a.apk",
