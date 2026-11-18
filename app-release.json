@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-578-g7cf6ed3db6-unstable",
-  "versionCode": 12323,
+  "versionName": "0.1.30-583-gca2b30363e-unstable",
+  "versionCode": 12328,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70282364,
-  "sha256": "c0b722cc0b7e3e5654c69f3ceb8b36c582aed09efa80493cdd6e5b0ffcb708a6",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12323/bolo-keyboard-12323-arm64-v8a.apk",
-  "builtAt": "2026-11-18T17:14:30.623Z",
-  "changelogBn": "প্রো ভয়েস ব্যানার এখন টাইপ শুরু করলেই সরে যায়, আর তাতে ট্যাপ করলে সাবস্ক্রিপশন পেজ খোলার আগে একটি মেসেজ দেখায়।",
-  "changelogEn": "The Pro voice banner now goes away when you start typing, and tapping it shows a message before opening the subscription page.",
+  "sizeBytes": 70282368,
+  "sha256": "3aaf2be32fd71e09963a86508b26c6c986246593033a1b292c5b4a3c19750ce6",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12328/bolo-keyboard-12328-arm64-v8a.apk",
+  "builtAt": "2026-11-18T17:32:34.202Z",
+  "changelogBn": "প্রোমো কোড রিডিম করা ঠিক করা হয়েছে — ট্রায়াল দেওয়ার বদলে এটি একটি এরর দেখাত।",
+  "changelogEn": "Fixed promo code redeeming - it failed with a serializer error instead of granting the trial.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70282364,
-      "sha256": "c0b722cc0b7e3e5654c69f3ceb8b36c582aed09efa80493cdd6e5b0ffcb708a6",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12323/bolo-keyboard-12323-arm64-v8a.apk"
+      "sizeBytes": 70282368,
+      "sha256": "3aaf2be32fd71e09963a86508b26c6c986246593033a1b292c5b4a3c19750ce6",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12328/bolo-keyboard-12328-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65274704,
-      "sha256": "9767224e96d13dffcc7b154e6ffe5484b5a423b74656d092cd442a7f2575f8c0",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12323/bolo-keyboard-12323-armeabi-v7a.apk"
+      "sizeBytes": 65274708,
+      "sha256": "c237503475749501ac249f12c788d60f3d8e21b0db3990f578b80973f39f8b37",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12328/bolo-keyboard-12328-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12328,
+      "versionName": "0.1.30-583-gca2b30363e-unstable",
+      "builtAt": "2026-11-18T17:32:34.202Z",
+      "changelogEn": "Fixed promo code redeeming - it failed with a serializer error instead of granting the trial.",
+      "changelogBn": "প্রোমো কোড রিডিম করা ঠিক করা হয়েছে — ট্রায়াল দেওয়ার বদলে এটি একটি এরর দেখাত।"
+    },
     {
       "versionCode": 12323,
       "versionName": "0.1.30-578-g7cf6ed3db6-unstable",
