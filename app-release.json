@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-539-g869e344d9-unstable",
-  "versionCode": 12284,
+  "versionName": "0.1.30-541-g5e8fd4ed0-unstable",
+  "versionCode": 12286,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70275869,
-  "sha256": "c0606f5de6e9a58883e2f0285e4d22ffc733649dfddaca30ab735daaddf2bb87",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12284/bolo-keyboard-12284-arm64-v8a.apk",
-  "builtAt": "2026-11-18T07:44:07.586Z",
-  "changelogBn": "ঠিক করা হয়েছে: গুগল সাইন-ইন বাটন এখন প্রতিটি ট্যাপে সাড়া দেয়।",
-  "changelogEn": "Fixed: the Google sign-in button now responds on every tap (the listener is re-attached after every layout pass).",
+  "sizeBytes": 70259485,
+  "sha256": "2bf979b0ed0553487858ce7c5201dbe3a9d52eeec35d319eaaa2d9f0c61b0b1b",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12286/bolo-keyboard-12286-arm64-v8a.apk",
+  "builtAt": "2026-11-18T08:42:01.639Z",
+  "changelogBn": "Google sign-in thik kora hoise: account picker ekhon plain Google ID flow use kore, branded sheet-ta notun Play services sathe sathe cancel kore dito.",
+  "changelogEn": "Fixed Google sign-in: the account picker now uses the plain Google ID flow instead of the branded sheet, which newer Google Play services cancels instantly.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70275869,
-      "sha256": "c0606f5de6e9a58883e2f0285e4d22ffc733649dfddaca30ab735daaddf2bb87",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12284/bolo-keyboard-12284-arm64-v8a.apk"
+      "sizeBytes": 70259485,
+      "sha256": "2bf979b0ed0553487858ce7c5201dbe3a9d52eeec35d319eaaa2d9f0c61b0b1b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12286/bolo-keyboard-12286-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65268209,
-      "sha256": "dccbdb34cfac89944e35e750907e2a5bf81519fa210ad2a735adedb5da34535c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12284/bolo-keyboard-12284-armeabi-v7a.apk"
+      "sizeBytes": 65251825,
+      "sha256": "9ab67c742d5f7ba293d9e939dd91b72254f53a568e6939593726b95f03ceb1e2",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12286/bolo-keyboard-12286-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12286,
+      "versionName": "0.1.30-541-g5e8fd4ed0-unstable",
+      "builtAt": "2026-11-18T08:42:01.639Z",
+      "changelogEn": "Fixed Google sign-in: the account picker now uses the plain Google ID flow instead of the branded sheet, which newer Google Play services cancels instantly.",
+      "changelogBn": "Google sign-in thik kora hoise: account picker ekhon plain Google ID flow use kore, branded sheet-ta notun Play services sathe sathe cancel kore dito."
+    },
     {
       "versionCode": 12284,
       "versionName": "0.1.30-539-g869e344d9-unstable",
