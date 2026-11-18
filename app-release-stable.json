@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-520-gfee49b7dd",
-  "versionCode": 12265,
+  "versionName": "0.1.30-556-g2182a0b73",
+  "versionCode": 12301,
   "packageName": "com.bolo.key",
   "minSupportedVersionCode": 12119,
   "rolloutPercentage": 100,
-  "sizeBytes": 70313960,
-  "sha256": "9c6b07a1360d8cf497ab23576fec4ad099eaba6a41dd9db008e21dec102fc0f0",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12265-stable/bolo-keyboard-12265-stable-arm64-v8a.apk",
-  "builtAt": "2026-11-17T14:04:58.634Z",
+  "sizeBytes": 70335951,
+  "sha256": "4356f55356e1a8b8464192ba62de8891bbc0262f9f2464d507057f68d0afae7a",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12301-stable/bolo-keyboard-12301-stable-arm64-v8a.apk",
+  "builtAt": "2026-11-18T11:15:20.882Z",
   "changelogBn": "বিভিন্ন উন্নতি ও বাগ ফিক্স।",
   "changelogEn": "Improvements and bug fixes.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70313960,
-      "sha256": "9c6b07a1360d8cf497ab23576fec4ad099eaba6a41dd9db008e21dec102fc0f0",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12265-stable/bolo-keyboard-12265-stable-arm64-v8a.apk"
+      "sizeBytes": 70335951,
+      "sha256": "4356f55356e1a8b8464192ba62de8891bbc0262f9f2464d507057f68d0afae7a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12301-stable/bolo-keyboard-12301-stable-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65306300,
-      "sha256": "1941ecccdf1359ba21b1cf099e2d971cac98686b9109cf68e2e45477b8c8de0d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12265-stable/bolo-keyboard-12265-stable-armeabi-v7a.apk"
+      "sizeBytes": 65328291,
+      "sha256": "e1329fd458132046e7133e8a8ef681d7d29dc2e7b714229aa1b5bcb6e52af95b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12301-stable/bolo-keyboard-12301-stable-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12301,
+      "versionName": "0.1.30-556-g2182a0b73",
+      "builtAt": "2026-11-18T11:15:20.882Z",
+      "changelogEn": "Improvements and bug fixes.",
+      "changelogBn": "বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
     {
       "versionCode": 12265,
       "versionName": "0.1.30-520-gfee49b7dd",
