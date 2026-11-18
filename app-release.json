@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-532-g20b6adf1b-unstable",
-  "versionCode": 12277,
+  "versionName": "0.1.30-534-ge9de2bf36-unstable",
+  "versionCode": 12279,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70259485,
-  "sha256": "1367145736688e6cd55d1f5b854187290d18196bf5fe8169a378c303c14f09e8",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12277/bolo-keyboard-12277-arm64-v8a.apk",
-  "builtAt": "2026-11-18T05:18:01.911Z",
-  "changelogBn": "সাইন-ইন স্ক্রিনে সুইচ বাটনে ট্যাপ করলে ক্র্যাশ হতো — ঠিক করা হয়েছে।",
-  "changelogEn": "Fixed a crash when tapping the switch button on the sign-in screen.",
+  "sizeBytes": 70259481,
+  "sha256": "9a4023b31c50c566cc8ecec115d8d00e51f65a1e46f159ac752d0e17fe631cbf",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12279/bolo-keyboard-12279-arm64-v8a.apk",
+  "builtAt": "2026-11-18T05:36:00.200Z",
+  "changelogBn": "Google সাইন-ইন বাটনে ট্যাপ করলে সাড়া না দেওয়ার সমস্যা ঠিক করা হয়েছে।",
+  "changelogEn": "Fixed the Google sign-in button not responding to taps.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70259485,
-      "sha256": "1367145736688e6cd55d1f5b854187290d18196bf5fe8169a378c303c14f09e8",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12277/bolo-keyboard-12277-arm64-v8a.apk"
+      "sizeBytes": 70259481,
+      "sha256": "9a4023b31c50c566cc8ecec115d8d00e51f65a1e46f159ac752d0e17fe631cbf",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12279/bolo-keyboard-12279-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65251825,
-      "sha256": "7c9f88b368d38aa023b11ce2a9f8434a45bf51ad5f3928a34222944807c0e325",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12277/bolo-keyboard-12277-armeabi-v7a.apk"
+      "sizeBytes": 65251821,
+      "sha256": "1e7bc95837d9e58941a51637f601d52970c252941ad3e39adb1bd9912e64a488",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12279/bolo-keyboard-12279-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12279,
+      "versionName": "0.1.30-534-ge9de2bf36-unstable",
+      "builtAt": "2026-11-18T05:36:00.200Z",
+      "changelogEn": "Fixed the Google sign-in button not responding to taps.",
+      "changelogBn": "Google সাইন-ইন বাটনে ট্যাপ করলে সাড়া না দেওয়ার সমস্যা ঠিক করা হয়েছে।"
+    },
     {
       "versionCode": 12277,
       "versionName": "0.1.30-532-g20b6adf1b-unstable",
