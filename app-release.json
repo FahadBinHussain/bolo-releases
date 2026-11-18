@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-528-g39d8191be-unstable",
-  "versionCode": 12273,
+  "versionName": "0.1.30-532-g20b6adf1b-unstable",
+  "versionCode": 12277,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70259485,
-  "sha256": "792fd3a7fbcfce9724d2a69c8b8870a2336902c20a2ffa28dd346b1238d18330",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12273/bolo-keyboard-12273-arm64-v8a.apk",
-  "builtAt": "2026-11-18T03:00:49.677Z",
-  "changelogBn": "paste suggestion দেখানোর সময় tools switcher আবার কাজ করে: কিবোর্ড খুললে suggestion দেখাবে, আর switcher চাপলে tools আর suggestion-এর মধ্যে যাওয়া-আসা করা যাবে।",
-  "changelogEn": "The tools switcher works again while the paste suggestion is showing: the suggestion still appears when you open the keyboard, and the switcher goes back and forth between your tools and the suggestion.",
+  "sha256": "1367145736688e6cd55d1f5b854187290d18196bf5fe8169a378c303c14f09e8",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12277/bolo-keyboard-12277-arm64-v8a.apk",
+  "builtAt": "2026-11-18T05:18:01.911Z",
+  "changelogBn": "সাইন-ইন স্ক্রিনে সুইচ বাটনে ট্যাপ করলে ক্র্যাশ হতো — ঠিক করা হয়েছে।",
+  "changelogEn": "Fixed a crash when tapping the switch button on the sign-in screen.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70259485,
-      "sha256": "792fd3a7fbcfce9724d2a69c8b8870a2336902c20a2ffa28dd346b1238d18330",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12273/bolo-keyboard-12273-arm64-v8a.apk"
+      "sha256": "1367145736688e6cd55d1f5b854187290d18196bf5fe8169a378c303c14f09e8",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12277/bolo-keyboard-12277-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65251825,
-      "sha256": "634958131ff0bd811273154bfe0f0da9c946b8c55f27e66d4000518e7ed6258e",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12273/bolo-keyboard-12273-armeabi-v7a.apk"
+      "sha256": "7c9f88b368d38aa023b11ce2a9f8434a45bf51ad5f3928a34222944807c0e325",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12277/bolo-keyboard-12277-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12277,
+      "versionName": "0.1.30-532-g20b6adf1b-unstable",
+      "builtAt": "2026-11-18T05:18:01.911Z",
+      "changelogEn": "Fixed a crash when tapping the switch button on the sign-in screen.",
+      "changelogBn": "সাইন-ইন স্ক্রিনে সুইচ বাটনে ট্যাপ করলে ক্র্যাশ হতো — ঠিক করা হয়েছে।"
+    },
     {
       "versionCode": 12273,
       "versionName": "0.1.30-528-g39d8191be-unstable",
