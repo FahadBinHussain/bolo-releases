@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-624-gbd61d61747-unstable",
-  "versionCode": 12367,
+  "versionName": "0.1.30-626-g878c61f988-unstable",
+  "versionCode": 12369,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70272692,
-  "sha256": "824fa5b63df8d597b033eca5fc398ce44456609cd3ada803e20c8be31503410a",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12367/bolo-keyboard-12367-arm64-v8a.apk",
-  "builtAt": "2026-11-19T04:04:27.144Z",
-  "changelogBn": "ঠিক করা হয়েছে: মিটারড কানেকশনে আপডেট ডায়ালগ এখন উত্তরের জন্য অপেক্ষা করবে — ডাউনলোড আর পিছনে নিজে থেকে শুরু হবে না। প্রাইভেসি ও শর্তাবলি পেজে অনুরোধে মুছে দেওয়ার প্রতিশ্রুতি আর নেই: ক্লিপ লাইফটাইম আর্কাইভের জন্য সংগ্রহ করা হয়, এটাই ডিজাইন।",
-  "changelogEn": "Fixed: on a metered connection the update dialog now actually waits for your answer — the download no longer starts behind it. The privacy and terms pages no longer promise deletion on request: clips are collected for the lifetime archive by design.",
+  "sizeBytes": 70092209,
+  "sha256": "239206be1d1f81471f03d239f1db4a11f3e6c6bcf93be5867f39bfeb4f381dc7",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12369/bolo-keyboard-12369-arm64-v8a.apk",
+  "builtAt": "2026-11-19T05:13:44.095Z",
+  "changelogBn": "রিলিজ বিল্ড এখন অবফাস্কেটেড — অ্যাপ রিভার্স করা অনেক কঠিন হবে।",
+  "changelogEn": "Release builds are now obfuscated, so the shipped app is much harder to reverse-engineer.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70272692,
-      "sha256": "824fa5b63df8d597b033eca5fc398ce44456609cd3ada803e20c8be31503410a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12367/bolo-keyboard-12367-arm64-v8a.apk"
+      "sizeBytes": 70092209,
+      "sha256": "239206be1d1f81471f03d239f1db4a11f3e6c6bcf93be5867f39bfeb4f381dc7",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12369/bolo-keyboard-12369-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65265032,
-      "sha256": "2ab428a545f3b9ba4dfd2fb01984490723b1dfdcb195e74d74acda6dff36638b",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12367/bolo-keyboard-12367-armeabi-v7a.apk"
+      "sizeBytes": 65084549,
+      "sha256": "aff95e98aa9f9f0809334f60840a98831f712f7e5989c984b5d40af73460e427",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12369/bolo-keyboard-12369-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12369,
+      "versionName": "0.1.30-626-g878c61f988-unstable",
+      "builtAt": "2026-11-19T05:13:44.095Z",
+      "changelogEn": "Release builds are now obfuscated, so the shipped app is much harder to reverse-engineer.",
+      "changelogBn": "রিলিজ বিল্ড এখন অবফাস্কেটেড — অ্যাপ রিভার্স করা অনেক কঠিন হবে।"
+    },
     {
       "versionCode": 12367,
       "versionName": "0.1.30-624-gbd61d61747-unstable",
