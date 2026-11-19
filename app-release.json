@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-652-g598e5ea189-unstable",
-  "versionCode": 12395,
+  "versionName": "0.1.30-660-g06edd41c0a-unstable",
+  "versionCode": 12403,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70188454,
-  "sha256": "7e35f992e435768c5f970d54745e57cc2eca54321904152a04e202b0bd6a1634",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12395/bolo-keyboard-12395-arm64-v8a.apk",
-  "builtAt": "2026-11-19T09:27:17.033Z",
-  "changelogBn": "বাংলা লং-প্রেসে রেফ অক্ষর এখন রেফ চিহ্ন হিসেবে দেখাবে, আভ্রোর মতো।",
-  "changelogEn": "Bangla long-press: the ref character now shows as the reph mark, like Avro.",
+  "sha256": "0e3adeb40b29db69be5158feabf3c75f9298d16357970f2a2bc8c49ba529161e",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12403/bolo-keyboard-12403-arm64-v8a.apk",
+  "builtAt": "2026-11-19T11:12:46.177Z",
+  "changelogBn": "হোম স্ক্রিনের শেষ নোটিফিকেশন সরালে অ্যাপ বন্ধ হয়ে যেত — ঠিক করা হয়েছে।",
+  "changelogEn": "Fixed a crash when dismissing the last notification on the home screen.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70188454,
-      "sha256": "7e35f992e435768c5f970d54745e57cc2eca54321904152a04e202b0bd6a1634",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12395/bolo-keyboard-12395-arm64-v8a.apk"
+      "sha256": "0e3adeb40b29db69be5158feabf3c75f9298d16357970f2a2bc8c49ba529161e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12403/bolo-keyboard-12403-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65180794,
-      "sha256": "f36000158dbb5b3fce2c343d58c5ae696f800abe2697c55b07adc0b4fd7186f8",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12395/bolo-keyboard-12395-armeabi-v7a.apk"
+      "sha256": "9df6b8aa9ed8dbc25e031916617c98df0347787e24a773183b4cf5c160f2f409",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12403/bolo-keyboard-12403-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12403,
+      "versionName": "0.1.30-660-g06edd41c0a-unstable",
+      "builtAt": "2026-11-19T11:12:46.177Z",
+      "changelogEn": "Fixed a crash when dismissing the last notification on the home screen.",
+      "changelogBn": "হোম স্ক্রিনের শেষ নোটিফিকেশন সরালে অ্যাপ বন্ধ হয়ে যেত — ঠিক করা হয়েছে।"
+    },
     {
       "versionCode": 12395,
       "versionName": "0.1.30-652-g598e5ea189-unstable",
