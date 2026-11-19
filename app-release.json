@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-628-gf06edabb34-unstable",
-  "versionCode": 12371,
+  "versionName": "0.1.30-631-gd41c180b12-unstable",
+  "versionCode": 12374,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70075825,
-  "sha256": "659aef141edf7cc04edc909f5d50ef631a4ffcaf9e7c94c15a1f64adc8566870",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12371/bolo-keyboard-12371-arm64-v8a.apk",
-  "builtAt": "2026-11-19T05:22:43.035Z",
-  "changelogBn": "ভয়েস কোডও এখন অবফাস্কেটেড — পুরো অ্যাপটাই রিনেম হয়ে শিপ হবে।",
-  "changelogEn": "Voice code is obfuscated too — the whole app now ships renamed, not just parts of it.",
+  "sizeBytes": 70092209,
+  "sha256": "f5a0562e9c2bfdc41300a427ec3ee0b55737fff713ae9bbf40339303031e291f",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12374/bolo-keyboard-12374-arm64-v8a.apk",
+  "builtAt": "2026-11-19T07:00:53.389Z",
+  "changelogBn": "প্ল্যান হিস্টরি নতুন ডিজাইন — উপরে সামারি কার্ড (বর্তমান প্ল্যান, মেয়াদ, মোট পেমেন্ট) আর মাস অনুযায়ী টাইমলাইন, আইকন আর ডিটেইল চিপসহ।",
+  "changelogEn": "Plan history redesigned — a summary card up top (current plan, expiry, lifetime paid) and a month-grouped timeline with icons and detail chips.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70075825,
-      "sha256": "659aef141edf7cc04edc909f5d50ef631a4ffcaf9e7c94c15a1f64adc8566870",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12371/bolo-keyboard-12371-arm64-v8a.apk"
+      "sizeBytes": 70092209,
+      "sha256": "f5a0562e9c2bfdc41300a427ec3ee0b55737fff713ae9bbf40339303031e291f",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12374/bolo-keyboard-12374-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65068165,
-      "sha256": "318df84686acb76511f589831a7fc701abf2db220465a8cb1eac48707a8234db",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12371/bolo-keyboard-12371-armeabi-v7a.apk"
+      "sizeBytes": 65084549,
+      "sha256": "bbcd299f391974d602d69759888b56dccb8ff1c124429cd28f17fb72538432c1",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12374/bolo-keyboard-12374-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12374,
+      "versionName": "0.1.30-631-gd41c180b12-unstable",
+      "builtAt": "2026-11-19T07:00:53.389Z",
+      "changelogEn": "Plan history redesigned — a summary card up top (current plan, expiry, lifetime paid) and a month-grouped timeline with icons and detail chips.",
+      "changelogBn": "প্ল্যান হিস্টরি নতুন ডিজাইন — উপরে সামারি কার্ড (বর্তমান প্ল্যান, মেয়াদ, মোট পেমেন্ট) আর মাস অনুযায়ী টাইমলাইন, আইকন আর ডিটেইল চিপসহ।"
+    },
     {
       "versionCode": 12371,
       "versionName": "0.1.30-628-gf06edabb34-unstable",
