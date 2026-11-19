@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-568-g3fa254c384",
-  "versionCode": 12313,
+  "versionName": "0.1.30-632-g74e65d221b",
+  "versionCode": 12375,
   "packageName": "com.bolo.key",
   "minSupportedVersionCode": 12119,
   "rolloutPercentage": 100,
-  "sizeBytes": 70336671,
-  "sha256": "e8b64c0d46f8c7591e3b78642baf19e927a91851fbc38db1680023fb749dc846",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12313-stable/bolo-keyboard-12313-stable-arm64-v8a.apk",
-  "builtAt": "2026-11-18T13:36:52.119Z",
-  "changelogBn": "সেটিংস পরিষ্কার ও নতুন ক্রেডিটস স্ক্রিন",
-  "changelogEn": "settings cleanup and a redesigned credits screen",
+  "sizeBytes": 70146452,
+  "sha256": "7e0cf162945d783b230128ce0d601c4dc5ff66d9f2ec7ab5bfb81c2fa89a1cfd",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12375-stable/bolo-keyboard-12375-stable-arm64-v8a.apk",
+  "builtAt": "2026-11-19T07:13:01.450Z",
+  "changelogBn": "প্ল্যান হিস্টরি নতুন ডিজাইন আর সেটিংসে কিছু পরিমার্জন।",
+  "changelogEn": "Plan history redesigned with a cleaner look, plus settings polish.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70336671,
-      "sha256": "e8b64c0d46f8c7591e3b78642baf19e927a91851fbc38db1680023fb749dc846",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12313-stable/bolo-keyboard-12313-stable-arm64-v8a.apk"
+      "sizeBytes": 70146452,
+      "sha256": "7e0cf162945d783b230128ce0d601c4dc5ff66d9f2ec7ab5bfb81c2fa89a1cfd",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12375-stable/bolo-keyboard-12375-stable-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65329011,
-      "sha256": "830fe5d004c23f85d6ce2e641191ce76a40b88acd274779ac8df579aaa61fdc6",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12313-stable/bolo-keyboard-12313-stable-armeabi-v7a.apk"
+      "sizeBytes": 65138792,
+      "sha256": "7e846e3ea6bc00658b9728afd1ee10bcc883af275262bb1052ca3232da566307",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12375-stable/bolo-keyboard-12375-stable-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12375,
+      "versionName": "0.1.30-632-g74e65d221b",
+      "builtAt": "2026-11-19T07:13:01.450Z",
+      "changelogEn": "Plan history redesigned with a cleaner look, plus settings polish.",
+      "changelogBn": "প্ল্যান হিস্টরি নতুন ডিজাইন আর সেটিংসে কিছু পরিমার্জন।"
+    },
     {
       "versionCode": 12313,
       "versionName": "0.1.30-568-g3fa254c384",
