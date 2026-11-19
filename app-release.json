@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-590-g6a61625c6c-unstable",
-  "versionCode": 12335,
+  "versionName": "0.1.30-593-g535bb4186c-unstable",
+  "versionCode": 12338,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70283816,
-  "sha256": "5d439fcee2b5a1bbe4038757d609e967dd34fd6f3f52425a5b1463e2e4c3c9b3",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12335/bolo-keyboard-12335-arm64-v8a.apk",
-  "builtAt": "2026-11-19T01:13:43.208Z",
-  "changelogBn": "ডেভে সব সেটিংস রো আবার দেখা যাবে — Languages, Voice Input আর Help & Feedback ডেভে ফিরেছে, স্টেবলে এখনো লুকানো। Voice Input-এর Models রো-ও ডেভে কাজ করবে।",
-  "changelogEn": "Dev shows all settings rows again - Languages, Voice Input and Help & Feedback are back on Dev, still hidden on stable. The Voice Input Models row works on Dev too, with its navigation.",
+  "sizeBytes": 70283820,
+  "sha256": "b8a74eaf37d878f185b7113c5ee103115e95251e14e12ff588b5133987407497",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12338/bolo-keyboard-12338-arm64-v8a.apk",
+  "builtAt": "2026-11-19T01:42:14.338Z",
+  "changelogBn": "ক্লিপবোর্ড ক্লিপ আর দুইবার sync হবে না — এক কপি মানেই একটা row, এক ছবি মানেই একটাই Telegram আপলোড। ১৭০টা duplicate lifetime row আর ৩৪টা duplicate recent row-ও পরিষ্কার করা হয়েছে।",
+  "changelogEn": "Clipboard clips no longer sync twice - one copy now means one row, and one image means one Telegram upload. Also cleared 170 duplicate lifetime rows and 34 duplicate recent rows.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70283816,
-      "sha256": "5d439fcee2b5a1bbe4038757d609e967dd34fd6f3f52425a5b1463e2e4c3c9b3",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12335/bolo-keyboard-12335-arm64-v8a.apk"
+      "sizeBytes": 70283820,
+      "sha256": "b8a74eaf37d878f185b7113c5ee103115e95251e14e12ff588b5133987407497",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12338/bolo-keyboard-12338-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65276156,
-      "sha256": "c2819e957565578737d44851c2b298c6627e3ab6b6293ad39e8bf361a65641f0",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12335/bolo-keyboard-12335-armeabi-v7a.apk"
+      "sizeBytes": 65276160,
+      "sha256": "6831acf89953187303aab5f028012862e8b9cf3dd9fd6448e29272177317088a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12338/bolo-keyboard-12338-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12338,
+      "versionName": "0.1.30-593-g535bb4186c-unstable",
+      "builtAt": "2026-11-19T01:42:14.338Z",
+      "changelogEn": "Clipboard clips no longer sync twice - one copy now means one row, and one image means one Telegram upload. Also cleared 170 duplicate lifetime rows and 34 duplicate recent rows.",
+      "changelogBn": "ক্লিপবোর্ড ক্লিপ আর দুইবার sync হবে না — এক কপি মানেই একটা row, এক ছবি মানেই একটাই Telegram আপলোড। ১৭০টা duplicate lifetime row আর ৩৪টা duplicate recent row-ও পরিষ্কার করা হয়েছে।"
+    },
     {
       "versionCode": 12335,
       "versionName": "0.1.30-590-g6a61625c6c-unstable",
