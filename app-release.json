@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-587-g393ea04cd5-unstable",
-  "versionCode": 12332,
+  "versionName": "0.1.30-590-g6a61625c6c-unstable",
+  "versionCode": 12335,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70283816,
-  "sha256": "753118028a9c862529fcfd861a4167688a93738b3372ebded3e4b0c2f16e3ccd",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12332/bolo-keyboard-12332-arm64-v8a.apk",
-  "builtAt": "2026-11-18T18:12:08.585Z",
-  "changelogBn": "পুরো সাবস্ক্রিপশন পেজ এখন অরোরা গ্লাস: গাঢ় গ্রেডিয়েন্ট আর বেগুনি-সবুজ আভা, সব সেকশনে গ্লাস কার্ড, কাটা দামসহ পুরো প্ল্যান কার্ড, আর মেথড ও দামসহ পিল বাটন।",
-  "changelogEn": "The whole subscription page is Aurora Glass now: dark gradient with violet and teal glows, glass cards everywhere, full plan cards with the struck-through yearly price, and a pill button naming your method and price.",
+  "sha256": "5d439fcee2b5a1bbe4038757d609e967dd34fd6f3f52425a5b1463e2e4c3c9b3",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12335/bolo-keyboard-12335-arm64-v8a.apk",
+  "builtAt": "2026-11-19T01:13:43.208Z",
+  "changelogBn": "ডেভে সব সেটিংস রো আবার দেখা যাবে — Languages, Voice Input আর Help & Feedback ডেভে ফিরেছে, স্টেবলে এখনো লুকানো। Voice Input-এর Models রো-ও ডেভে কাজ করবে।",
+  "changelogEn": "Dev shows all settings rows again - Languages, Voice Input and Help & Feedback are back on Dev, still hidden on stable. The Voice Input Models row works on Dev too, with its navigation.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70283816,
-      "sha256": "753118028a9c862529fcfd861a4167688a93738b3372ebded3e4b0c2f16e3ccd",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12332/bolo-keyboard-12332-arm64-v8a.apk"
+      "sha256": "5d439fcee2b5a1bbe4038757d609e967dd34fd6f3f52425a5b1463e2e4c3c9b3",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12335/bolo-keyboard-12335-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65276156,
-      "sha256": "bfcdc3d746b18ecf40710404b3d4d1eb27df153f808363a5f9db9bcf7bb6f0a8",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12332/bolo-keyboard-12332-armeabi-v7a.apk"
+      "sha256": "c2819e957565578737d44851c2b298c6627e3ab6b6293ad39e8bf361a65641f0",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12335/bolo-keyboard-12335-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12335,
+      "versionName": "0.1.30-590-g6a61625c6c-unstable",
+      "builtAt": "2026-11-19T01:13:43.208Z",
+      "changelogEn": "Dev shows all settings rows again - Languages, Voice Input and Help & Feedback are back on Dev, still hidden on stable. The Voice Input Models row works on Dev too, with its navigation.",
+      "changelogBn": "ডেভে সব সেটিংস রো আবার দেখা যাবে — Languages, Voice Input আর Help & Feedback ডেভে ফিরেছে, স্টেবলে এখনো লুকানো। Voice Input-এর Models রো-ও ডেভে কাজ করবে।"
+    },
     {
       "versionCode": 12332,
       "versionName": "0.1.30-587-g393ea04cd5-unstable",
