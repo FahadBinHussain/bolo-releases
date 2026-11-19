@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-602-g90606283a0-unstable",
-  "versionCode": 12345,
+  "versionName": "0.1.30-620-g3445780659-unstable",
+  "versionCode": 12363,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70272404,
-  "sha256": "6ef071c113e6532064e0c55f2ccd6ddced184633260df9003ac74540802b1ea2",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12345/bolo-keyboard-12345-arm64-v8a.apk",
-  "builtAt": "2026-11-19T02:53:19.527Z",
-  "changelogBn": "ফ্রেশ ইনস্টলে নাম্বার রো টগল এখন কিবোর্ডের সাথে মিলবে। ড্রয়েবল লসলেস অপটিমাইজ করা হয়েছে (ছোট APK, একই পিক্সেল)।",
-  "changelogEn": "Number row toggle now matches the keyboard on fresh installs. Drawables losslessly optimized (smaller APK, same pixels).",
+  "sizeBytes": 70272692,
+  "sha256": "0cb96f62c20d77973b56fdb84a68ddbe7e3ed5bf8db013242d0a9394fd2f8efa",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12363/bolo-keyboard-12363-arm64-v8a.apk",
+  "builtAt": "2026-11-19T03:38:42.798Z",
+  "changelogBn": "নিরাপত্তা শক্তিশালী করা হয়েছে: ব্রাউজার সাইন-ইন কলব্যাক এখন তার চেষ্টার সাথে বাঁধা, অথ হোস্ট পিন করা হয়েছে, সাইন-আউটে স্থানীয় ক্লিপবোর্ড মুছে যায়, নোটিফিকেশন লিংক শুধু ওয়েবেই খোলে, এবং টোকেন মাইগ্রেশন তার প্লেইনটেক্সট সোর্স মুছে ফেলে। টুলবার অ্যাকশনের ক্রম এখন এডিটরকে অনুসরণ করে।",
+  "changelogEn": "Security hardening: the browser sign-in callback is now bound to its attempt, the auth host is pinned, sign-out wipes the local clipboard, notification links stay web-only, and the token migration blanks its plaintext source. Toolbar action order now follows the editor.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70272404,
-      "sha256": "6ef071c113e6532064e0c55f2ccd6ddced184633260df9003ac74540802b1ea2",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12345/bolo-keyboard-12345-arm64-v8a.apk"
+      "sizeBytes": 70272692,
+      "sha256": "0cb96f62c20d77973b56fdb84a68ddbe7e3ed5bf8db013242d0a9394fd2f8efa",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12363/bolo-keyboard-12363-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65264744,
-      "sha256": "146d2a538ef0fdfb8954b25b373e54bfeff5033ec786b6dcab7c93244fb2f0cf",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12345/bolo-keyboard-12345-armeabi-v7a.apk"
+      "sizeBytes": 65265032,
+      "sha256": "58cf54525c1baa764b2f333377fa2f58b1741838c0ec036bce72126035a99d83",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12363/bolo-keyboard-12363-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12363,
+      "versionName": "0.1.30-620-g3445780659-unstable",
+      "builtAt": "2026-11-19T03:38:42.798Z",
+      "changelogEn": "Security hardening: the browser sign-in callback is now bound to its attempt, the auth host is pinned, sign-out wipes the local clipboard, notification links stay web-only, and the token migration blanks its plaintext source. Toolbar action order now follows the editor.",
+      "changelogBn": "নিরাপত্তা শক্তিশালী করা হয়েছে: ব্রাউজার সাইন-ইন কলব্যাক এখন তার চেষ্টার সাথে বাঁধা, অথ হোস্ট পিন করা হয়েছে, সাইন-আউটে স্থানীয় ক্লিপবোর্ড মুছে যায়, নোটিফিকেশন লিংক শুধু ওয়েবেই খোলে, এবং টোকেন মাইগ্রেশন তার প্লেইনটেক্সট সোর্স মুছে ফেলে। টুলবার অ্যাকশনের ক্রম এখন এডিটরকে অনুসরণ করে।"
+    },
     {
       "versionCode": 12345,
       "versionName": "0.1.30-602-g90606283a0-unstable",
