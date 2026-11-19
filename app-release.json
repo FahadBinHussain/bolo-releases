@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-626-g878c61f988-unstable",
-  "versionCode": 12369,
+  "versionName": "0.1.30-628-gf06edabb34-unstable",
+  "versionCode": 12371,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70092209,
-  "sha256": "239206be1d1f81471f03d239f1db4a11f3e6c6bcf93be5867f39bfeb4f381dc7",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12369/bolo-keyboard-12369-arm64-v8a.apk",
-  "builtAt": "2026-11-19T05:13:44.095Z",
-  "changelogBn": "রিলিজ বিল্ড এখন অবফাস্কেটেড — অ্যাপ রিভার্স করা অনেক কঠিন হবে।",
-  "changelogEn": "Release builds are now obfuscated, so the shipped app is much harder to reverse-engineer.",
+  "sizeBytes": 70075825,
+  "sha256": "659aef141edf7cc04edc909f5d50ef631a4ffcaf9e7c94c15a1f64adc8566870",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12371/bolo-keyboard-12371-arm64-v8a.apk",
+  "builtAt": "2026-11-19T05:22:43.035Z",
+  "changelogBn": "ভয়েস কোডও এখন অবফাস্কেটেড — পুরো অ্যাপটাই রিনেম হয়ে শিপ হবে।",
+  "changelogEn": "Voice code is obfuscated too — the whole app now ships renamed, not just parts of it.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70092209,
-      "sha256": "239206be1d1f81471f03d239f1db4a11f3e6c6bcf93be5867f39bfeb4f381dc7",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12369/bolo-keyboard-12369-arm64-v8a.apk"
+      "sizeBytes": 70075825,
+      "sha256": "659aef141edf7cc04edc909f5d50ef631a4ffcaf9e7c94c15a1f64adc8566870",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12371/bolo-keyboard-12371-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65084549,
-      "sha256": "aff95e98aa9f9f0809334f60840a98831f712f7e5989c984b5d40af73460e427",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12369/bolo-keyboard-12369-armeabi-v7a.apk"
+      "sizeBytes": 65068165,
+      "sha256": "318df84686acb76511f589831a7fc701abf2db220465a8cb1eac48707a8234db",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12371/bolo-keyboard-12371-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12371,
+      "versionName": "0.1.30-628-gf06edabb34-unstable",
+      "builtAt": "2026-11-19T05:22:43.035Z",
+      "changelogEn": "Voice code is obfuscated too — the whole app now ships renamed, not just parts of it.",
+      "changelogBn": "ভয়েস কোডও এখন অবফাস্কেটেড — পুরো অ্যাপটাই রিনেম হয়ে শিপ হবে।"
+    },
     {
       "versionCode": 12369,
       "versionName": "0.1.30-626-g878c61f988-unstable",
