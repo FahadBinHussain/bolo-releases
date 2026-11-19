@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-631-gd41c180b12-unstable",
-  "versionCode": 12374,
+  "versionName": "0.1.30-636-g40eafc588b-unstable",
+  "versionCode": 12379,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70092209,
-  "sha256": "f5a0562e9c2bfdc41300a427ec3ee0b55737fff713ae9bbf40339303031e291f",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12374/bolo-keyboard-12374-arm64-v8a.apk",
-  "builtAt": "2026-11-19T07:00:53.389Z",
-  "changelogBn": "প্ল্যান হিস্টরি নতুন ডিজাইন — উপরে সামারি কার্ড (বর্তমান প্ল্যান, মেয়াদ, মোট পেমেন্ট) আর মাস অনুযায়ী টাইমলাইন, আইকন আর ডিটেইল চিপসহ।",
-  "changelogEn": "Plan history redesigned — a summary card up top (current plan, expiry, lifetime paid) and a month-grouped timeline with icons and detail chips.",
+  "sha256": "14f63f711ec8f9a20bbc5aa3fb11601a2ffba681079034461e9ace413c0bc6b1",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12379/bolo-keyboard-12379-arm64-v8a.apk",
+  "builtAt": "2026-11-19T07:45:33.982Z",
+  "changelogBn": "ফোনের সময় বদলালে এখন আর প্ল্যান বা ডেইলি ভয়েস লিমিটে কোনো প্রভাব পড়বে না — অ্যাপ এখন সার্ভারের সময় ধরে চেক করে।",
+  "changelogEn": "Clock changes can no longer affect your plan or daily voice limit — the app now checks against server time.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70092209,
-      "sha256": "f5a0562e9c2bfdc41300a427ec3ee0b55737fff713ae9bbf40339303031e291f",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12374/bolo-keyboard-12374-arm64-v8a.apk"
+      "sha256": "14f63f711ec8f9a20bbc5aa3fb11601a2ffba681079034461e9ace413c0bc6b1",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12379/bolo-keyboard-12379-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65084549,
-      "sha256": "bbcd299f391974d602d69759888b56dccb8ff1c124429cd28f17fb72538432c1",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12374/bolo-keyboard-12374-armeabi-v7a.apk"
+      "sha256": "bf8feaf722f0f9bea9e9ffb8c59b39531b4f91c44c86ad7a79272d2b9b352de4",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12379/bolo-keyboard-12379-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12379,
+      "versionName": "0.1.30-636-g40eafc588b-unstable",
+      "builtAt": "2026-11-19T07:45:33.982Z",
+      "changelogEn": "Clock changes can no longer affect your plan or daily voice limit — the app now checks against server time.",
+      "changelogBn": "ফোনের সময় বদলালে এখন আর প্ল্যান বা ডেইলি ভয়েস লিমিটে কোনো প্রভাব পড়বে না — অ্যাপ এখন সার্ভারের সময় ধরে চেক করে।"
+    },
     {
       "versionCode": 12374,
       "versionName": "0.1.30-631-gd41c180b12-unstable",
