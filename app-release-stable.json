@@ -1,36 +1,183 @@
 {
-  "versionName": "0.1.30-632-g74e65d221b",
-  "versionCode": 12375,
+  "versionName": "0.1.30-653-geec87941ff",
+  "versionCode": 12396,
   "packageName": "com.bolo.key",
   "minSupportedVersionCode": 12119,
   "rolloutPercentage": 100,
-  "sizeBytes": 70146452,
-  "sha256": "7e0cf162945d783b230128ce0d601c4dc5ff66d9f2ec7ab5bfb81c2fa89a1cfd",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12375-stable/bolo-keyboard-12375-stable-arm64-v8a.apk",
-  "builtAt": "2026-11-19T07:13:01.450Z",
-  "changelogBn": "প্ল্যান হিস্টরি নতুন ডিজাইন আর সেটিংসে কিছু পরিমার্জন।",
-  "changelogEn": "Plan history redesigned with a cleaner look, plus settings polish.",
+  "sizeBytes": 70242697,
+  "sha256": "235caeae42e25ef79d94c533fd27c47517e7476679aedb475bc544c8fb0a0a64",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12396-stable/bolo-keyboard-12396-stable-arm64-v8a.apk",
+  "builtAt": "2026-11-19T09:39:03.029Z",
+  "changelogBn": "বাংলা লং-প্রেসে রেফ অক্ষর এখন রেফ চিহ্ন হিসেবে দেখায়, সাথে সেটআপ স্ক্রিনের ঠিকঠাক আর সেটিংসে উন্নতি।",
+  "changelogEn": "Bangla long-press now shows the ref as the reph mark, plus setup screen fixes and settings polish.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70146452,
-      "sha256": "7e0cf162945d783b230128ce0d601c4dc5ff66d9f2ec7ab5bfb81c2fa89a1cfd",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12375-stable/bolo-keyboard-12375-stable-arm64-v8a.apk"
+      "sizeBytes": 70242697,
+      "sha256": "235caeae42e25ef79d94c533fd27c47517e7476679aedb475bc544c8fb0a0a64",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12396-stable/bolo-keyboard-12396-stable-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65138792,
-      "sha256": "7e846e3ea6bc00658b9728afd1ee10bcc883af275262bb1052ca3232da566307",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12375-stable/bolo-keyboard-12375-stable-armeabi-v7a.apk"
+      "sizeBytes": 65235037,
+      "sha256": "9c4f39b33c9f7da3b2ddc5a4b50403cd06dddbf7e307ecd8d1651d446b2eb55e",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12396-stable/bolo-keyboard-12396-stable-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12396,
+      "versionName": "0.1.30-653-geec87941ff",
+      "builtAt": "2026-11-19T09:39:03.029Z",
+      "changelogEn": "Bangla long-press now shows the ref as the reph mark, plus setup screen fixes and settings polish.",
+      "changelogBn": "বাংলা লং-প্রেসে রেফ অক্ষর এখন রেফ চিহ্ন হিসেবে দেখায়, সাথে সেটআপ স্ক্রিনের ঠিকঠাক আর সেটিংসে উন্নতি।"
+    },
+    {
+      "versionCode": 12395,
+      "versionName": "0.1.30-652-g598e5ea189",
+      "builtAt": "2026-11-19T09:27:17.033Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12391,
+      "versionName": "0.1.30-648-g1c12c60c72",
+      "builtAt": "2026-11-19T09:01:21.374Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12387,
+      "versionName": "0.1.30-644-ge1f66427bf",
+      "builtAt": "2026-11-19T08:34:48.916Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12379,
+      "versionName": "0.1.30-636-g40eafc588b",
+      "builtAt": "2026-11-19T07:45:33.982Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
     {
       "versionCode": 12375,
       "versionName": "0.1.30-632-g74e65d221b",
       "builtAt": "2026-11-19T07:13:01.450Z",
       "changelogEn": "Plan history redesigned with a cleaner look, plus settings polish.",
       "changelogBn": "প্ল্যান হিস্টরি নতুন ডিজাইন আর সেটিংসে কিছু পরিমার্জন।"
+    },
+    {
+      "versionCode": 12374,
+      "versionName": "0.1.30-631-gd41c180b12",
+      "builtAt": "2026-11-19T07:00:53.389Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12371,
+      "versionName": "0.1.30-628-gf06edabb34",
+      "builtAt": "2026-11-19T05:22:43.035Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12369,
+      "versionName": "0.1.30-626-g878c61f988",
+      "builtAt": "2026-11-19T05:13:44.095Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12367,
+      "versionName": "0.1.30-624-gbd61d61747",
+      "builtAt": "2026-11-19T04:04:27.144Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12363,
+      "versionName": "0.1.30-620-g3445780659",
+      "builtAt": "2026-11-19T03:38:42.798Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12345,
+      "versionName": "0.1.30-602-g90606283a0",
+      "builtAt": "2026-11-19T02:53:19.527Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12340,
+      "versionName": "0.1.30-595-g249558a9d8",
+      "builtAt": "2026-11-19T02:10:12.673Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12338,
+      "versionName": "0.1.30-593-g535bb4186c",
+      "builtAt": "2026-11-19T01:42:14.338Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12335,
+      "versionName": "0.1.30-590-g6a61625c6c",
+      "builtAt": "2026-11-19T01:13:43.208Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12332,
+      "versionName": "0.1.30-587-g393ea04cd5",
+      "builtAt": "2026-11-18T18:12:08.585Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12329,
+      "versionName": "0.1.30-584-g15ea73b5b6",
+      "builtAt": "2026-11-18T17:40:08.506Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12328,
+      "versionName": "0.1.30-583-gca2b30363e",
+      "builtAt": "2026-11-18T17:32:34.202Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12323,
+      "versionName": "0.1.30-578-g7cf6ed3db6",
+      "builtAt": "2026-11-18T17:14:30.623Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12320,
+      "versionName": "0.1.30-575-gefb8893320",
+      "builtAt": "2026-11-18T16:58:58.027Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12318,
+      "versionName": "0.1.30-573-ge0cebdb310",
+      "builtAt": "2026-11-18T16:49:05.417Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12315,
+      "versionName": "0.1.30-570-gcca3f109ea",
+      "builtAt": "2026-11-18T14:25:48.594Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
     },
     {
       "versionCode": 12313,
@@ -40,11 +187,102 @@
       "changelogBn": "সেটিংস পরিষ্কার ও নতুন ক্রেডিটস স্ক্রিন"
     },
     {
+      "versionCode": 12312,
+      "versionName": "0.1.30-567-ge28818b782",
+      "builtAt": "2026-11-18T13:15:21.561Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12310,
+      "versionName": "0.1.30-565-g6fc7710257",
+      "builtAt": "2026-11-18T12:28:06.255Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
       "versionCode": 12301,
       "versionName": "0.1.30-556-g2182a0b73",
       "builtAt": "2026-11-18T11:15:20.882Z",
       "changelogEn": "Improvements and bug fixes.",
       "changelogBn": "বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12300,
+      "versionName": "0.1.30-555-gcbfffa14b",
+      "builtAt": "2026-11-18T11:08:54.653Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12297,
+      "versionName": "0.1.30-552-g830be3375",
+      "builtAt": "2026-11-18T10:27:42.632Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12295,
+      "versionName": "0.1.30-550-g3d1719c25",
+      "builtAt": "2026-11-18T10:13:54.896Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12290,
+      "versionName": "0.1.30-545-gf16aa860b",
+      "builtAt": "2026-11-18T09:36:06.728Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12286,
+      "versionName": "0.1.30-541-g5e8fd4ed0",
+      "builtAt": "2026-11-18T08:42:01.639Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12284,
+      "versionName": "0.1.30-539-g869e344d9",
+      "builtAt": "2026-11-18T07:44:07.586Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12279,
+      "versionName": "0.1.30-534-ge9de2bf36",
+      "builtAt": "2026-11-18T05:36:00.200Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12277,
+      "versionName": "0.1.30-532-g20b6adf1b",
+      "builtAt": "2026-11-18T05:18:01.911Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12273,
+      "versionName": "0.1.30-528-g39d8191be",
+      "builtAt": "2026-11-18T03:00:49.677Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12271,
+      "versionName": "0.1.30-526-g7b01a2391",
+      "builtAt": "2026-11-18T01:58:20.954Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12269,
+      "versionName": "0.1.30-524-g0a77d8e6d",
+      "builtAt": "2026-11-17T14:45:51.063Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
     },
     {
       "versionCode": 12265,
@@ -54,6 +292,97 @@
       "changelogBn": "বিভিন্ন উন্নতি ও বাগ ফিক্স।"
     },
     {
+      "versionCode": 12264,
+      "versionName": "0.1.30-519-ge63ce1dde",
+      "builtAt": "2026-11-17T13:37:10.875Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12261,
+      "versionName": "0.1.30-516-ge9e64fa2e",
+      "builtAt": "2026-11-17T12:47:08.946Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12259,
+      "versionName": "0.1.30-514-gac0d5b512",
+      "builtAt": "2026-11-17T11:36:12.390Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12256,
+      "versionName": "0.1.30-511-gb3f9f6cf7",
+      "builtAt": "2026-11-17T11:09:48.657Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12254,
+      "versionName": "0.1.30-509-g4ba47ece6",
+      "builtAt": "2026-11-17T10:47:56.077Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12252,
+      "versionName": "0.1.30-507-g97a53360c",
+      "builtAt": "2026-11-17T10:00:06.334Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12249,
+      "versionName": "0.1.30-504-g6dc43694e",
+      "builtAt": "2026-11-17T05:19:16.515Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12244,
+      "versionName": "0.1.30-499-g01401958c",
+      "builtAt": "2026-11-16T18:14:06.076Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12242,
+      "versionName": "0.1.30-497-gc802a9bbb",
+      "builtAt": "2026-11-16T17:22:47.289Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12239,
+      "versionName": "0.1.30-494-gf02f63b4d",
+      "builtAt": "2026-11-16T15:46:57.764Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12235,
+      "versionName": "0.1.30-490-g965638a06",
+      "builtAt": "2026-11-16T12:43:53.091Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12225,
+      "versionName": "0.1.30-480-ga43589740",
+      "builtAt": "2026-11-16T08:57:38.318Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12221,
+      "versionName": "0.1.30-476-ga7bdcf939",
+      "builtAt": "2026-11-16T08:25:36.392Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
       "versionCode": 12219,
       "versionName": "0.1.30-474-gbcfcfbd60",
       "builtAt": "2026-11-16T08:10:32.775Z",
@@ -61,11 +390,718 @@
       "changelogBn": "RefKB-র লেআউটের মতো নাম্বার রো ছোট ও কী-এর ফাঁক কমানো হলো (#29)"
     },
     {
+      "versionCode": 12216,
+      "versionName": "0.1.30-471-g26c6a1a6d",
+      "builtAt": "2026-11-16T07:45:14.056Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12213,
+      "versionName": "0.1.30-468-g441dc12a1",
+      "builtAt": "2026-11-16T07:07:49.477Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12205,
+      "versionName": "0.1.30-460-geaf05b273",
+      "builtAt": "2026-11-16T04:05:49.671Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12199,
+      "versionName": "0.1.30-454-g08fb02e5a",
+      "builtAt": "2026-11-16T02:44:44.931Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12195,
+      "versionName": "0.1.30-450-gb1d56325a",
+      "builtAt": "2026-11-16T02:16:55.563Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12193,
+      "versionName": "0.1.30-448-g6bd33b58e",
+      "builtAt": "2026-11-16T01:59:50.351Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12183,
+      "versionName": "0.1.30-438-gadebe4899",
+      "builtAt": "2026-11-15T17:01:12.551Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12177,
+      "versionName": "0.1.30-432-gf34d2fc69",
+      "builtAt": "2026-11-15T16:25:22.757Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12174,
+      "versionName": "0.1.30-429-g9b59a3b9d",
+      "builtAt": "2026-11-15T15:30:55.819Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12171,
+      "versionName": "0.1.30-426-g37e070065",
+      "builtAt": "2026-11-15T13:49:45.934Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12169,
+      "versionName": "0.1.30-424-gfc40ea63d",
+      "builtAt": "2026-11-15T11:52:29.737Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12162,
+      "versionName": "0.1.30-417-gc470c0473",
+      "builtAt": "2026-11-15T11:07:11.046Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12151,
+      "versionName": "0.1.30-406-g4abbc7dce",
+      "builtAt": "2026-11-15T09:44:48.549Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12148,
+      "versionName": "0.1.30-403-gaaaf7e7d1",
+      "builtAt": "2026-11-15T02:06:50.978Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12143,
+      "versionName": "0.1.30-398-gf41da9ee8",
+      "builtAt": "2026-11-15T01:12:46.553Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12139,
+      "versionName": "0.1.30-394-g2681d65e2",
+      "builtAt": "2026-11-14T19:00:55.540Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12133,
+      "versionName": "0.1.30-388-g53e8bd3c9",
+      "builtAt": "11/15/2026 00:09:56",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12130,
+      "versionName": "0.1.30-385-g52108477a",
+      "builtAt": "2026-11-14T18:04:30.497Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12127,
+      "versionName": "0.1.30-380-g2ca0138a4",
+      "builtAt": "2026-11-14T17:01:39.652Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
       "versionCode": 12119,
       "versionName": "0.1.30-372-g694d3720c",
       "builtAt": "2026-11-14T13:52:31.270Z",
       "changelogEn": "first stable release of bolo key. bangla-first keyboard with voice typing, avro phonetic, probhat and cloud settings.",
       "changelogBn": "বলো কী-এর প্রথম স্থিতিশীল সংস্করণ।"
+    },
+    {
+      "versionCode": 12116,
+      "versionName": "0.1.30-369-gf548eefb6",
+      "builtAt": "2026-11-14T11:20:46.356Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12114,
+      "versionName": "0.1.30-367-g8679c3c28",
+      "builtAt": "2026-11-14T10:57:33.076Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12111,
+      "versionName": "0.1.30-364-g6dd350667",
+      "builtAt": "2026-11-14T10:17:02.991Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12107,
+      "versionName": "0.1.30-360-gab40d3ca5",
+      "builtAt": "2026-11-14T06:47:48.546Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12105,
+      "versionName": "0.1.30-358-g768674556",
+      "builtAt": "2026-11-14T05:15:51.993Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12102,
+      "versionName": "0.1.30-355-g79f7c3bc6",
+      "builtAt": "2026-11-14T04:52:37.447Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12094,
+      "versionName": "0.1.30-347-gc77e012f9",
+      "builtAt": "2026-11-14T04:17:50.804Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12092,
+      "versionName": "0.1.30-345-g6d6c4f312",
+      "builtAt": "2026-11-14T04:03:10.141Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12087,
+      "versionName": "0.1.30-340-gf45a61d1f",
+      "builtAt": "2026-11-14T03:12:14.796Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12084,
+      "versionName": "0.1.30-337-g724bd54cb",
+      "builtAt": "2026-11-14T02:52:43.902Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12080,
+      "versionName": "0.1.30-333-ga021ed9e0",
+      "builtAt": "2026-11-14T02:33:33.201Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12065,
+      "versionName": "0.1.30-318-g1c7da8561",
+      "builtAt": "2026-11-13T15:35:53.933Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12057,
+      "versionName": "0.1.30-310-ge51833b5a",
+      "builtAt": "2026-11-13T13:30:42.647Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12053,
+      "versionName": "0.1.30-306-gc39ab1184",
+      "builtAt": "2026-11-13T12:08:43.661Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12051,
+      "versionName": "0.1.30-304-g30e083a1c",
+      "builtAt": "2026-11-13T11:15:30.188Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12041,
+      "versionName": "0.1.30-294-gf5a239886",
+      "builtAt": "2026-11-13T02:52:18.232Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12039,
+      "versionName": "0.1.30-292-gf02f0f5d7",
+      "builtAt": "2026-11-13T02:31:10.045Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12037,
+      "versionName": "0.1.30-290-gc4bd8e142",
+      "builtAt": "2026-11-12T18:16:13.809Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12035,
+      "versionName": "0.1.30-288-g38346e64f",
+      "builtAt": "2026-11-12T17:50:31.098Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12033,
+      "versionName": "0.1.30-286-g6a504f0d5",
+      "builtAt": "2026-11-12T17:25:30.368Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12031,
+      "versionName": "0.1.30-284-gf40213c4c",
+      "builtAt": "2026-11-12T17:00:56.335Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12029,
+      "versionName": "0.1.30-282-g703cbb588",
+      "builtAt": "2026-11-12T16:04:09.479Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12026,
+      "versionName": "0.1.30-279-g9c5e9a201",
+      "builtAt": "2026-11-12T15:39:19.165Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12022,
+      "versionName": "0.1.30-275-g43dd244cf",
+      "builtAt": "2026-11-12T15:02:58.338Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12019,
+      "versionName": "0.1.30-272-gd1c2979bc",
+      "builtAt": "2026-11-12T14:37:43.130Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12017,
+      "versionName": "0.1.30-270-g07045b2a4",
+      "builtAt": "2026-11-12T14:16:57.462Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12015,
+      "versionName": "0.1.30-268-g6850daf99",
+      "builtAt": "2026-11-12T13:52:50.370Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12013,
+      "versionName": "0.1.30-266-g46795915d",
+      "builtAt": "2026-11-12T13:32:36.132Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12011,
+      "versionName": "0.1.30-264-g226f68517",
+      "builtAt": "2026-11-12T13:07:36.916Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12009,
+      "versionName": "0.1.30-262-ge65943c56",
+      "builtAt": "2026-11-12T11:46:19.602Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 12000,
+      "versionName": "0.1.30-253-g0c83b9961",
+      "builtAt": "2026-11-12T03:39:11.055Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11994,
+      "versionName": "0.1.30-247-g0bed709fb",
+      "builtAt": "2026-11-11T17:13:42.422Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11991,
+      "versionName": "0.1.30-244-g46b85b7b3",
+      "builtAt": "2026-11-11T14:57:59.702Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11989,
+      "versionName": "0.1.30-242-ge3fcb566e",
+      "builtAt": "2026-11-11T13:58:11.315Z",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11983,
+      "versionName": "0.1.30-236-g93c6a6131",
+      "builtAt": "2026-11-11T17:57:35.7227645+06:00",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11980,
+      "versionName": "0.1.30-233-g09b056249",
+      "builtAt": "11/11/2026 05:09:21",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11970,
+      "versionName": "0.1.30-223-g0dd9a5f9d",
+      "builtAt": "11/11/2026 07:37:29",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11968,
+      "versionName": "0.1.30-221-g506879074",
+      "builtAt": "11/10/2026 23:10:14",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11962,
+      "versionName": "0.1.30-215-g27e971733",
+      "builtAt": "11/10/2026 15:34:33",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11961,
+      "versionName": "0.1.30-214-g893482108",
+      "builtAt": "11/09/2026 23:44:19",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11959,
+      "versionName": "0.1.30-212-gfd8e0bcfe",
+      "builtAt": "11/09/2026 23:04:35",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11958,
+      "versionName": "0.1.30-211-g3cdffe373",
+      "builtAt": "11/09/2026 22:35:21",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11957,
+      "versionName": "0.1.30-210-gcc547b6e3",
+      "builtAt": "11/09/2026 22:16:56",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11955,
+      "versionName": "0.1.30-208-gad95cb085",
+      "builtAt": "11/09/2026 20:48:04",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11953,
+      "versionName": "0.1.30-206-gdb43208d4",
+      "builtAt": "11/09/2026 20:03:58",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11952,
+      "versionName": "0.1.30-205-g4922fccfd",
+      "builtAt": "11/09/2026 17:05:07",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11951,
+      "versionName": "0.1.30-204-gb5d5b8101",
+      "builtAt": "11/09/2026 16:51:36",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11949,
+      "versionName": "0.1.30-202-gbb82beb57",
+      "builtAt": "11/09/2026 15:58:04",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11947,
+      "versionName": "0.1.30-200-gd2e8be1af",
+      "builtAt": "11/09/2026 15:08:19",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11946,
+      "versionName": "0.1.30-199-g6fb19d1b9",
+      "builtAt": "11/09/2026 14:41:58",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11945,
+      "versionName": "0.1.30-198-g5e82d8ae5",
+      "builtAt": "11/09/2026 13:45:35",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11943,
+      "versionName": "0.1.30-196-gf4823549b",
+      "builtAt": "11/09/2026 11:52:46",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11941,
+      "versionName": "0.1.30-194-g668610fc1",
+      "builtAt": "11/09/2026 11:21:45",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11939,
+      "versionName": "0.1.30-192-g5bef3d085",
+      "builtAt": "11/09/2026 10:06:18",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11937,
+      "versionName": "0.1.30-190-gcd7994945",
+      "builtAt": "11/09/2026 09:48:21",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11935,
+      "versionName": "0.1.30-188-ga6cc5f4f8",
+      "builtAt": "11/09/2026 09:29:34",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11933,
+      "versionName": "0.1.30-186-g6ba0038a7",
+      "builtAt": "11/09/2026 08:29:08",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11931,
+      "versionName": "0.1.30-184-g25f573c07",
+      "builtAt": "11/09/2026 08:05:00",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11927,
+      "versionName": "0.1.30-180-g7a9c12e4",
+      "builtAt": "11/09/2026 07:20:00",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11925,
+      "versionName": "0.1.30-178-g4f1d88a2",
+      "builtAt": "11/09/2026 06:50:00",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11923,
+      "versionName": "0.1.30-176-g9b4e31c0",
+      "builtAt": "11/09/2026 06:15:00",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11921,
+      "versionName": "0.1.30-174-g9a9ea61a6",
+      "builtAt": "11/08/2026 23:57:31",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11919,
+      "versionName": "0.1.30-172-g564a84fc4",
+      "builtAt": "11/08/2026 23:21:03",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11914,
+      "versionName": "0.1.30-167-g5ba3264d1",
+      "builtAt": "11/08/2026 21:17:56",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11912,
+      "versionName": "0.1.30-165-gd942a2c21",
+      "builtAt": "11/08/2026 20:19:30",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11908,
+      "versionName": "0.1.30-160-g2a34db2c3",
+      "builtAt": "11/08/2026 18:28:31",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11906,
+      "versionName": "0.1.30-158-g1d0837b11",
+      "builtAt": "11/08/2026 16:43:13",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11903,
+      "versionName": "0.1.30-155-gf88d07ef1",
+      "builtAt": "11/07/2026 23:17:08",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11901,
+      "versionName": "0.1.30-153-gaaa3d64d9",
+      "builtAt": "11/07/2026 22:52:05",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11899,
+      "versionName": "0.1.30-151-g16a76b1b9",
+      "builtAt": "11/07/2026 22:20:33",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11896,
+      "versionName": "0.1.30-148-g8c19dd9b9",
+      "builtAt": "11/07/2026 21:42:40",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11894,
+      "versionName": "0.1.30-146-g559e6a2a1",
+      "builtAt": "11/07/2026 20:56:38",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11893,
+      "versionName": "0.1.30-145-gc7550aa20",
+      "builtAt": "11/07/2026 20:03:07",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11891,
+      "versionName": "0.1.30-143-g88f962493",
+      "builtAt": "11/07/2026 19:30:26",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11889,
+      "versionName": "0.1.30-141-g6a5af6e51",
+      "builtAt": "11/07/2026 19:01:27",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11887,
+      "versionName": "0.1.30-139-ga1a2abc5d",
+      "builtAt": "11/07/2026 18:47:02",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11885,
+      "versionName": "0.1.30-137-gc30238440",
+      "builtAt": "11/07/2026 18:26:15",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11883,
+      "versionName": "0.1.30-135-g1dd259730",
+      "builtAt": "11/07/2026 17:47:33",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11882,
+      "versionName": "0.1.30-134-g4202380fa",
+      "builtAt": "11/07/2026 17:24:18",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11881,
+      "versionName": "0.1.30-133-ga2af5f2e3",
+      "builtAt": "11/07/2026 17:13:51",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11879,
+      "versionName": "0.1.30-131-g6792543a4",
+      "builtAt": "11/07/2026 16:54:33",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
+    },
+    {
+      "versionCode": 11877,
+      "versionName": "0.1.30-129-g4821c1085",
+      "builtAt": "11/07/2026 16:41:06",
+      "changelogEn": "### What's new\n* Improvements and bug fixes.",
+      "changelogBn": "### নতুন কী আছে\n* বিভিন্ন উন্নতি ও বাগ ফিক্স।"
     }
   ]
 }
