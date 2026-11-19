@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-593-g535bb4186c-unstable",
-  "versionCode": 12338,
+  "versionName": "0.1.30-595-g249558a9d8-unstable",
+  "versionCode": 12340,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70283820,
-  "sha256": "b8a74eaf37d878f185b7113c5ee103115e95251e14e12ff588b5133987407497",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12338/bolo-keyboard-12338-arm64-v8a.apk",
-  "builtAt": "2026-11-19T01:42:14.338Z",
-  "changelogBn": "ক্লিপবোর্ড ক্লিপ আর দুইবার sync হবে না — এক কপি মানেই একটা row, এক ছবি মানেই একটাই Telegram আপলোড। ১৭০টা duplicate lifetime row আর ৩৪টা duplicate recent row-ও পরিষ্কার করা হয়েছে।",
-  "changelogEn": "Clipboard clips no longer sync twice - one copy now means one row, and one image means one Telegram upload. Also cleared 170 duplicate lifetime rows and 34 duplicate recent rows.",
+  "sizeBytes": 70283816,
+  "sha256": "3c42b8eef09aa9ccddc0911e4eee787aabe3fdb9643820182fbdfc0fea2ffeea",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12340/bolo-keyboard-12340-arm64-v8a.apk",
+  "builtAt": "2026-11-19T02:10:12.673Z",
+  "changelogBn": "GitHub Release Page বাটন এখন শুধু Dev-এ — stable থেকে আর public releases পেজের লিঙ্ক থাকছে না।",
+  "changelogEn": "The GitHub Release Page button is now Dev-only - stable no longer links out to the public releases page.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70283820,
-      "sha256": "b8a74eaf37d878f185b7113c5ee103115e95251e14e12ff588b5133987407497",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12338/bolo-keyboard-12338-arm64-v8a.apk"
+      "sizeBytes": 70283816,
+      "sha256": "3c42b8eef09aa9ccddc0911e4eee787aabe3fdb9643820182fbdfc0fea2ffeea",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12340/bolo-keyboard-12340-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65276160,
-      "sha256": "6831acf89953187303aab5f028012862e8b9cf3dd9fd6448e29272177317088a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12338/bolo-keyboard-12338-armeabi-v7a.apk"
+      "sizeBytes": 65276156,
+      "sha256": "346887cbf03f920b9311a154aa46020464a0804ed07c94c2783c74607c2df41d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12340/bolo-keyboard-12340-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12340,
+      "versionName": "0.1.30-595-g249558a9d8-unstable",
+      "builtAt": "2026-11-19T02:10:12.673Z",
+      "changelogEn": "The GitHub Release Page button is now Dev-only - stable no longer links out to the public releases page.",
+      "changelogBn": "GitHub Release Page বাটন এখন শুধু Dev-এ — stable থেকে আর public releases পেজের লিঙ্ক থাকছে না।"
+    },
     {
       "versionCode": 12338,
       "versionName": "0.1.30-593-g535bb4186c-unstable",
