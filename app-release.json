@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-595-g249558a9d8-unstable",
-  "versionCode": 12340,
+  "versionName": "0.1.30-602-g90606283a0-unstable",
+  "versionCode": 12345,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70283816,
-  "sha256": "3c42b8eef09aa9ccddc0911e4eee787aabe3fdb9643820182fbdfc0fea2ffeea",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12340/bolo-keyboard-12340-arm64-v8a.apk",
-  "builtAt": "2026-11-19T02:10:12.673Z",
-  "changelogBn": "GitHub Release Page বাটন এখন শুধু Dev-এ — stable থেকে আর public releases পেজের লিঙ্ক থাকছে না।",
-  "changelogEn": "The GitHub Release Page button is now Dev-only - stable no longer links out to the public releases page.",
+  "sizeBytes": 70272404,
+  "sha256": "6ef071c113e6532064e0c55f2ccd6ddced184633260df9003ac74540802b1ea2",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12345/bolo-keyboard-12345-arm64-v8a.apk",
+  "builtAt": "2026-11-19T02:53:19.527Z",
+  "changelogBn": "ফ্রেশ ইনস্টলে নাম্বার রো টগল এখন কিবোর্ডের সাথে মিলবে। ড্রয়েবল লসলেস অপটিমাইজ করা হয়েছে (ছোট APK, একই পিক্সেল)।",
+  "changelogEn": "Number row toggle now matches the keyboard on fresh installs. Drawables losslessly optimized (smaller APK, same pixels).",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70283816,
-      "sha256": "3c42b8eef09aa9ccddc0911e4eee787aabe3fdb9643820182fbdfc0fea2ffeea",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12340/bolo-keyboard-12340-arm64-v8a.apk"
+      "sizeBytes": 70272404,
+      "sha256": "6ef071c113e6532064e0c55f2ccd6ddced184633260df9003ac74540802b1ea2",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12345/bolo-keyboard-12345-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65276156,
-      "sha256": "346887cbf03f920b9311a154aa46020464a0804ed07c94c2783c74607c2df41d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12340/bolo-keyboard-12340-armeabi-v7a.apk"
+      "sizeBytes": 65264744,
+      "sha256": "146d2a538ef0fdfb8954b25b373e54bfeff5033ec786b6dcab7c93244fb2f0cf",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12345/bolo-keyboard-12345-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12345,
+      "versionName": "0.1.30-602-g90606283a0-unstable",
+      "builtAt": "2026-11-19T02:53:19.527Z",
+      "changelogEn": "Number row toggle now matches the keyboard on fresh installs. Drawables losslessly optimized (smaller APK, same pixels).",
+      "changelogBn": "ফ্রেশ ইনস্টলে নাম্বার রো টগল এখন কিবোর্ডের সাথে মিলবে। ড্রয়েবল লসলেস অপটিমাইজ করা হয়েছে (ছোট APK, একই পিক্সেল)।"
+    },
     {
       "versionCode": 12340,
       "versionName": "0.1.30-595-g249558a9d8-unstable",
