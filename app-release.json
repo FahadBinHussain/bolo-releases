@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-644-ge1f66427bf-unstable",
-  "versionCode": 12387,
+  "versionName": "0.1.30-648-g1c12c60c72-unstable",
+  "versionCode": 12391,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70092209,
-  "sha256": "4685cdcb581ea7a97801f2a9a0d58d724766c16f1dbbe3bb2b612a1ca1a219dd",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12387/bolo-keyboard-12387-arm64-v8a.apk",
-  "builtAt": "2026-11-19T08:34:48.916Z",
-  "changelogBn": "সেটআপ স্ক্রিনের ব্র্যান্ড হেডার এখন ছোট ডিসপ্লেতে কাটা যায় না।",
-  "changelogEn": "Setup screens: the brand header image now scales to fit shorter displays instead of getting cut off.",
+  "sizeBytes": 70092213,
+  "sha256": "78f3a470c168a5a13015eb62a3c05633f4f3861b926636e1b28e07cb26b7d21d",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12391/bolo-keyboard-12391-arm64-v8a.apk",
+  "builtAt": "2026-11-19T09:01:21.374Z",
+  "changelogBn": "বাংলা লং-প্রেস মেনুতে রেফ এখন Avro-র মতো রেফ চিহ্ন হিসেবে দেখায়।",
+  "changelogEn": "Bangla long-press: the ref character now renders as the reph mark, like Avro.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70092209,
-      "sha256": "4685cdcb581ea7a97801f2a9a0d58d724766c16f1dbbe3bb2b612a1ca1a219dd",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12387/bolo-keyboard-12387-arm64-v8a.apk"
+      "sizeBytes": 70092213,
+      "sha256": "78f3a470c168a5a13015eb62a3c05633f4f3861b926636e1b28e07cb26b7d21d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12391/bolo-keyboard-12391-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65084549,
-      "sha256": "4342208a9ce2b0bab73084da7941b41f51ad1abd0510cf5eacada5c1b229f2d1",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12387/bolo-keyboard-12387-armeabi-v7a.apk"
+      "sizeBytes": 65084553,
+      "sha256": "5e51d5b42b9da6541814ad0e5154054285f707c038297cfaf0c4b1595aad254b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12391/bolo-keyboard-12391-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12391,
+      "versionName": "0.1.30-648-g1c12c60c72-unstable",
+      "builtAt": "2026-11-19T09:01:21.374Z",
+      "changelogEn": "Bangla long-press: the ref character now renders as the reph mark, like Avro.",
+      "changelogBn": "বাংলা লং-প্রেস মেনুতে রেফ এখন Avro-র মতো রেফ চিহ্ন হিসেবে দেখায়।"
+    },
     {
       "versionCode": 12387,
       "versionName": "0.1.30-644-ge1f66427bf-unstable",
