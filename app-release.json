@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-620-g3445780659-unstable",
-  "versionCode": 12363,
+  "versionName": "0.1.30-624-gbd61d61747-unstable",
+  "versionCode": 12367,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70272692,
-  "sha256": "0cb96f62c20d77973b56fdb84a68ddbe7e3ed5bf8db013242d0a9394fd2f8efa",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12363/bolo-keyboard-12363-arm64-v8a.apk",
-  "builtAt": "2026-11-19T03:38:42.798Z",
-  "changelogBn": "নিরাপত্তা শক্তিশালী করা হয়েছে: ব্রাউজার সাইন-ইন কলব্যাক এখন তার চেষ্টার সাথে বাঁধা, অথ হোস্ট পিন করা হয়েছে, সাইন-আউটে স্থানীয় ক্লিপবোর্ড মুছে যায়, নোটিফিকেশন লিংক শুধু ওয়েবেই খোলে, এবং টোকেন মাইগ্রেশন তার প্লেইনটেক্সট সোর্স মুছে ফেলে। টুলবার অ্যাকশনের ক্রম এখন এডিটরকে অনুসরণ করে।",
-  "changelogEn": "Security hardening: the browser sign-in callback is now bound to its attempt, the auth host is pinned, sign-out wipes the local clipboard, notification links stay web-only, and the token migration blanks its plaintext source. Toolbar action order now follows the editor.",
+  "sha256": "824fa5b63df8d597b033eca5fc398ce44456609cd3ada803e20c8be31503410a",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12367/bolo-keyboard-12367-arm64-v8a.apk",
+  "builtAt": "2026-11-19T04:04:27.144Z",
+  "changelogBn": "ঠিক করা হয়েছে: মিটারড কানেকশনে আপডেট ডায়ালগ এখন উত্তরের জন্য অপেক্ষা করবে — ডাউনলোড আর পিছনে নিজে থেকে শুরু হবে না। প্রাইভেসি ও শর্তাবলি পেজে অনুরোধে মুছে দেওয়ার প্রতিশ্রুতি আর নেই: ক্লিপ লাইফটাইম আর্কাইভের জন্য সংগ্রহ করা হয়, এটাই ডিজাইন।",
+  "changelogEn": "Fixed: on a metered connection the update dialog now actually waits for your answer — the download no longer starts behind it. The privacy and terms pages no longer promise deletion on request: clips are collected for the lifetime archive by design.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70272692,
-      "sha256": "0cb96f62c20d77973b56fdb84a68ddbe7e3ed5bf8db013242d0a9394fd2f8efa",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12363/bolo-keyboard-12363-arm64-v8a.apk"
+      "sha256": "824fa5b63df8d597b033eca5fc398ce44456609cd3ada803e20c8be31503410a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12367/bolo-keyboard-12367-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65265032,
-      "sha256": "58cf54525c1baa764b2f333377fa2f58b1741838c0ec036bce72126035a99d83",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12363/bolo-keyboard-12363-armeabi-v7a.apk"
+      "sha256": "2ab428a545f3b9ba4dfd2fb01984490723b1dfdcb195e74d74acda6dff36638b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12367/bolo-keyboard-12367-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12367,
+      "versionName": "0.1.30-624-gbd61d61747-unstable",
+      "builtAt": "2026-11-19T04:04:27.144Z",
+      "changelogEn": "Fixed: on a metered connection the update dialog now actually waits for your answer — the download no longer starts behind it. The privacy and terms pages no longer promise deletion on request: clips are collected for the lifetime archive by design.",
+      "changelogBn": "ঠিক করা হয়েছে: মিটারড কানেকশনে আপডেট ডায়ালগ এখন উত্তরের জন্য অপেক্ষা করবে — ডাউনলোড আর পিছনে নিজে থেকে শুরু হবে না। প্রাইভেসি ও শর্তাবলি পেজে অনুরোধে মুছে দেওয়ার প্রতিশ্রুতি আর নেই: ক্লিপ লাইফটাইম আর্কাইভের জন্য সংগ্রহ করা হয়, এটাই ডিজাইন।"
+    },
     {
       "versionCode": 12363,
       "versionName": "0.1.30-620-g3445780659-unstable",
