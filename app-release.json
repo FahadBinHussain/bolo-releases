@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-718-g910d9c0ea7-unstable",
-  "versionCode": 12461,
+  "versionName": "0.1.30-720-gba797c9c66-unstable",
+  "versionCode": 12463,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 72637167,
-  "sha256": "c2dca0a92582f58b150340b81e6fa6fec3743972bb1eb5cdaa32c66354c2a82a",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12461/bolo-keyboard-12461-arm64-v8a.apk",
-  "builtAt": "2026-11-20T11:30:51.420Z",
-  "changelogBn": "Echo ভয়েস এখন handshake fail হলে আবার চেষ্টা করে।",
-  "changelogEn": "Echo voice retries a failed handshake instead of giving up.",
+  "sha256": "36f60bea0e13de538f175c603aeba08729f16732cfa4d8a55e57c7c4fa26e117",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12463/bolo-keyboard-12463-arm64-v8a.apk",
+  "builtAt": "2026-11-20T11:57:38.399Z",
+  "changelogBn": "Echo ভয়েস এখন সত্যিই কাজ করে — handshake-এর উত্তর ঠিকমতো পড়া হয়, কথা বললেই লেখা উঠবে।",
+  "changelogEn": "Echo voice actually works now — the handshake answer is read correctly, so speaking types words again.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 72637167,
-      "sha256": "c2dca0a92582f58b150340b81e6fa6fec3743972bb1eb5cdaa32c66354c2a82a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12461/bolo-keyboard-12461-arm64-v8a.apk"
+      "sha256": "36f60bea0e13de538f175c603aeba08729f16732cfa4d8a55e57c7c4fa26e117",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12463/bolo-keyboard-12463-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 67629507,
-      "sha256": "80b057607072be5c550bd62e3f56539129906622995ee913551c4ddd4092b193",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12461/bolo-keyboard-12461-armeabi-v7a.apk"
+      "sha256": "ba1124111dd132f2b99f387816bcf8d84809f4a4a8b72625cfb36ef0493e621c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12463/bolo-keyboard-12463-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12463,
+      "versionName": "0.1.30-720-gba797c9c66-unstable",
+      "builtAt": "2026-11-20T11:57:38.399Z",
+      "changelogEn": "Echo voice actually works now — the handshake answer is read correctly, so speaking types words again.",
+      "changelogBn": "Echo ভয়েস এখন সত্যিই কাজ করে — handshake-এর উত্তর ঠিকমতো পড়া হয়, কথা বললেই লেখা উঠবে।"
+    },
     {
       "versionCode": 12461,
       "versionName": "0.1.30-718-g910d9c0ea7-unstable",
