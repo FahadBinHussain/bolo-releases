@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-722-g49efca7fb7-unstable",
-  "versionCode": 12465,
+  "versionName": "0.1.30-724-g7848c073f1-unstable",
+  "versionCode": 12467,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 72637167,
-  "sha256": "0155df37bdd9f0f4902c5442d664aa996b052825469675337714e2975f0fd3f6",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12465/bolo-keyboard-12465-arm64-v8a.apk",
-  "builtAt": "2026-11-20T12:19:44.684Z",
-  "changelogBn": "Echo ভয়েস এখন দ্রুত — কথা বলার সাথে সাথেই স্ট্রিম হয়, মাইক ছাড়লেই লেখা উঠবে।",
-  "changelogEn": "Echo voice is fast now — it streams while you speak, so words land almost as soon as you lift off the mic.",
+  "sizeBytes": 72637171,
+  "sha256": "4d1cbe25f68d3171c3e9ace255422ce45d20d8ea5c94a7f7997a2c7861276744",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12467/bolo-keyboard-12467-arm64-v8a.apk",
+  "builtAt": "2026-11-20T12:58:49.432Z",
+  "changelogBn": "Echo ভয়েস ঠিক করা হয়েছে — মাইক ছাড়ার প্রায় এক সেকেন্ড পরেই লেখা উঠবে।",
+  "changelogEn": "Echo voice fixed — words land about a second after you lift off the mic.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 72637167,
-      "sha256": "0155df37bdd9f0f4902c5442d664aa996b052825469675337714e2975f0fd3f6",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12465/bolo-keyboard-12465-arm64-v8a.apk"
+      "sizeBytes": 72637171,
+      "sha256": "4d1cbe25f68d3171c3e9ace255422ce45d20d8ea5c94a7f7997a2c7861276744",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12467/bolo-keyboard-12467-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 67629507,
-      "sha256": "7106266e8e2fdf41b58e307f7a9117b80625edfddb4de1dfcd01f7d522864889",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12465/bolo-keyboard-12465-armeabi-v7a.apk"
+      "sizeBytes": 67629511,
+      "sha256": "d2d626f52ab591f3d8b94a7e6298b0e9c60cbab7e107885400eb502fc976a880",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12467/bolo-keyboard-12467-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12467,
+      "versionName": "0.1.30-724-g7848c073f1-unstable",
+      "builtAt": "2026-11-20T12:58:49.432Z",
+      "changelogEn": "Echo voice fixed — words land about a second after you lift off the mic.",
+      "changelogBn": "Echo ভয়েস ঠিক করা হয়েছে — মাইক ছাড়ার প্রায় এক সেকেন্ড পরেই লেখা উঠবে।"
+    },
     {
       "versionCode": 12465,
       "versionName": "0.1.30-722-g49efca7fb7-unstable",
