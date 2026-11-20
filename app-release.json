@@ -1,71 +1,78 @@
 {
-  "versionName": "0.1.30-700-ge2922c7649-unstable",
-  "versionCode": 12443,
+  "versionName": "0.1.30-712-g2d13e7e48e-unstable",
+  "versionCode": 12455,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70306634,
-  "sha256": "4f4902246d0c34ac76bdf4e17912cf99f2caeb2144a4b4e9f38d2358a1f298b9",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12443/bolo-keyboard-12443-arm64-v8a.apk",
-  "builtAt": "2026-11-20T05:08:04.447Z",
-  "changelogBn": "এই বিল্ডে কীবোর্ড কেমন চলছে তা মাপা হচ্ছে, যাতে ভবিষ্যতের আপডেট আসল ব্যবহার দেখে বানানো যায়: কীবোর্ড কত দ্রুত খোলে, মুখে বলার পর প্রথম কথা কত দ্রুত আসে, আর আপডেট ঠিকমতো ডাউনলোড ও ইনস্টল হচ্ছে কিনা। আটকে যাওয়া বা হঠাৎ বন্ধ হয়ে যাওয়াও এখন জানা যাবে।",
-  "changelogEn": "This build measures how the keyboard is doing, so future updates follow real usage: how fast the keyboard opens, how quickly the first words appear when you dictate, and whether updates download and install cleanly. Freezes and sudden closes are reported now too.",
+  "sha256": "828c19e56cb91991653b7b74a5ab81d6424f6e105cbb797b7a76c944a6633b98",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12455/bolo-keyboard-12455-arm64-v8a.apk",
+  "builtAt": "2026-11-20T07:12:18.272Z",
+  "changelogBn": "ব্যাকগ্রাউন্ড সিঙ্কের স্থিতিশীলতার ফিক্স।",
+  "changelogEn": "Stability fixes for background sync.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70306634,
-      "sha256": "4f4902246d0c34ac76bdf4e17912cf99f2caeb2144a4b4e9f38d2358a1f298b9",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12443/bolo-keyboard-12443-arm64-v8a.apk"
+      "sha256": "828c19e56cb91991653b7b74a5ab81d6424f6e105cbb797b7a76c944a6633b98",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12455/bolo-keyboard-12455-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65298974,
-      "sha256": "bd6a51032b12a5259585386b1ad262a346ef51b8800bb187b44355a55aeb5a54",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12443/bolo-keyboard-12443-armeabi-v7a.apk"
+      "sha256": "ce82f692800ce6623555332409721c9238bb240bedac438b7386b25a5f7958cc",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12455/bolo-keyboard-12455-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 12455,
+      "versionName": "0.1.30-712-g2d13e7e48e-unstable",
+      "builtAt": "2026-11-20T07:12:18.272Z",
+      "changelogEn": "Stability fixes for background sync.",
+      "changelogBn": "ব্যাকগ্রাউন্ড সিঙ্কের স্থিতিশীলতার ফিক্স।"
+    },
+    {
       "versionCode": 12443,
       "versionName": "0.1.30-700-ge2922c7649-unstable",
       "builtAt": "2026-11-20T05:08:04.447Z",
-      "changelogEn": "This build measures how the keyboard is doing, so future updates follow real usage: how fast the keyboard opens, how quickly the first words appear when you dictate, and whether updates download and install cleanly. Freezes and sudden closes are reported now too.",
-      "changelogBn": "এই বিল্ডে কীবোর্ড কেমন চলছে তা মাপা হচ্ছে, যাতে ভবিষ্যতের আপডেট আসল ব্যবহার দেখে বানানো যায়: কীবোর্ড কত দ্রুত খোলে, মুখে বলার পর প্রথম কথা কত দ্রুত আসে, আর আপডেট ঠিকমতো ডাউনলোড ও ইনস্টল হচ্ছে কিনা। আটকে যাওয়া বা হঠাৎ বন্ধ হয়ে যাওয়াও এখন জানা যাবে।"
+      "changelogEn": "Background sync improvements and bug fixes.",
+      "changelogBn": "ব্যাকগ্রাউন্ড সিঙ্কের উন্নতি ও বাগ ফিক্স।"
     },
     {
       "versionCode": 12438,
       "versionName": "0.1.30-695-g7ba112d294-unstable",
       "builtAt": "2026-11-20T04:24:19.209Z",
-      "changelogEn": "This build measures how the keyboard is doing, so future updates follow real usage: how fast the keyboard opens, how quickly the first words appear when you dictate, and whether updates download and install cleanly. Freezes and sudden closes are reported now too.",
-      "changelogBn": "এই বিল্ডে কীবোর্ড কেমন চলছে তা মাপা হচ্ছে, যাতে ভবিষ্যতের আপডেট আসল ব্যবহার দেখে বানানো যায়: কীবোর্ড কত দ্রুত খোলে, মুখে বলার পর প্রথম কথা কত দ্রুত আসে, আর আপডেট ঠিকমতো ডাউনলোড ও ইনস্টল হচ্ছে কিনা। আটকে যাওয়া বা হঠাৎ বন্ধ হয়ে যাওয়াও এখন জানা যাবে।"
+      "changelogEn": "Fixed a crash that could close the keyboard right after updating.",
+      "changelogBn": "আপডেটের পরপরই কীবোর্ড বন্ধ হয়ে যাওয়ার ক্র্যাশ ঠিক করা হয়েছে।"
     },
     {
       "versionCode": 12435,
       "versionName": "0.1.30-692-g6a0312d00d-unstable",
       "builtAt": "2026-11-20T03:43:15.701Z",
-      "changelogEn": "This build measures how the keyboard is doing, so future updates follow real usage: how fast the keyboard opens, how quickly the first words appear when you dictate, and whether updates download and install cleanly. Freezes and sudden closes are reported now too.",
-      "changelogBn": "এই বিল্ডে কীবোর্ড কেমন চলছে তা মাপা হচ্ছে, যাতে ভবিষ্যতের আপডেট আসল ব্যবহার দেখে বানানো যায়: কীবোর্ড কত দ্রুত খোলে, মুখে বলার পর প্রথম কথা কত দ্রুত আসে, আর আপডেট ঠিকমতো ডাউনলোড ও ইনস্টল হচ্ছে কিনা। আটকে যাওয়া বা হঠাৎ বন্ধ হয়ে যাওয়াও এখন জানা যাবে।"
+      "changelogEn": "Background reliability work and bug fixes.",
+      "changelogBn": "ব্যাকগ্রাউন্ডের নির্ভরযোগ্যতার কাজ ও বাগ ফিক্স।"
     },
     {
       "versionCode": 12433,
       "versionName": "0.1.30-690-g6c933d9b6f-unstable",
       "builtAt": "2026-11-20T03:32:03.229Z",
-      "changelogEn": "This build measures how the keyboard is doing, so future updates follow real usage: how fast the keyboard opens, how quickly the first words appear when you dictate, and whether updates download and install cleanly. Freezes and sudden closes are reported now too.",
-      "changelogBn": "এই বিল্ডে কীবোর্ড কেমন চলছে তা মাপা হচ্ছে, যাতে ভবিষ্যতের আপডেট আসল ব্যবহার দেখে বানানো যায়: কীবোর্ড কত দ্রুত খোলে, মুখে বলার পর প্রথম কথা কত দ্রুত আসে, আর আপডেট ঠিকমতো ডাউনলোড ও ইনস্টল হচ্ছে কিনা। আটকে যাওয়া বা হঠাৎ বন্ধ হয়ে যাওয়াও এখন জানা যাবে।"
+      "changelogEn": "Under-the-hood stability work and bug fixes.",
+      "changelogBn": "ভেতরের স্থিতিশীলতার কাজ ও বাগ ফিক্স।"
     },
     {
       "versionCode": 12425,
       "versionName": "0.1.30-682-g79122e9619-unstable",
       "builtAt": "2026-11-20T01:08:56.049Z",
-      "changelogEn": "This build measures how the keyboard is doing, so future updates follow real usage: how fast the keyboard opens, how quickly the first words appear when you dictate, and whether updates download and install cleanly. Freezes and sudden closes are reported now too.",
-      "changelogBn": "এই বিল্ডে কীবোর্ড কেমন চলছে তা মাপা হচ্ছে, যাতে ভবিষ্যতের আপডেট আসল ব্যবহার দেখে বানানো যায়: কীবোর্ড কত দ্রুত খোলে, মুখে বলার পর প্রথম কথা কত দ্রুত আসে, আর আপডেট ঠিকমতো ডাউনলোড ও ইনস্টল হচ্ছে কিনা। আটকে যাওয়া বা হঠাৎ বন্ধ হয়ে যাওয়াও এখন জানা যাবে।"
+      "changelogEn": "Fixed the notification icon showing as a white square.",
+      "changelogBn": "নোটিফিকেশন আইকন সাদা বর্গক্ষেত্র হয়ে দেখানোর সমস্যা ঠিক করা হয়েছে।"
     },
     {
       "versionCode": 12419,
       "versionName": "0.1.30-676-g79adb99409-unstable",
       "builtAt": "2026-11-19T14:56:26.838Z",
-      "changelogEn": "This build measures how the keyboard is doing, so future updates follow real usage: how fast the keyboard opens, how quickly the first words appear when you dictate, and whether updates download and install cleanly. Freezes and sudden closes are reported now too.",
-      "changelogBn": "এই বিল্ডে কীবোর্ড কেমন চলছে তা মাপা হচ্ছে, যাতে ভবিষ্যতের আপডেট আসল ব্যবহার দেখে বানানো যায়: কীবোর্ড কত দ্রুত খোলে, মুখে বলার পর প্রথম কথা কত দ্রুত আসে, আর আপডেট ঠিকমতো ডাউনলোড ও ইনস্টল হচ্ছে কিনা। আটকে যাওয়া বা হঠাৎ বন্ধ হয়ে যাওয়াও এখন জানা যাবে।"
+      "changelogEn": "Typing 'ref' in Bangla now renders the ref mark correctly.",
+      "changelogBn": "বাংলায় 'ref' টাইপ করলে এখন সঠিকভাবে ref চিহ্ন দেখাবে।"
     },
     {
       "versionCode": 12414,
@@ -904,7 +911,7 @@
       "versionCode": 11941,
       "versionName": "0.1.30-194-g668610fc1-unstable",
       "builtAt": "11/09/2026 11:21:45",
-      "changelogEn": "### Features\n* **Mandatory Google Sign-In:** Enforced Google Sign-In as Step 1 of 3 during initial setup. All users must sign in to activate the keyboard.\n* **Keyboard Sign-In Lockout Gate:** Replaces keyboard keys with a single-tap Sign-In card and IME switcher when signed out, blocking unauthenticated keystrokes and clipboard actions.",
+      "changelogEn": "### Features\n* **Mandatory Google Sign-In:** Enforced Google Sign-In as Step 1 of 3 during initial setup. All users must sign in to activate the keyboard.\n* **Keyboard Sign-In Lockout Gate:** Replaces keyboard keys with a single-tap Sign-In card and IME switcher when signed out, blocking typing and clipboard actions until you sign in.",
       "changelogBn": "### ফিচার\n* **বাধ্যতামূলক গুগল সাইন-ইন:** প্রথমবার ইনস্টলের পর কিবোর্ড ব্যবহারের পূর্বে গুগল দিয়ে সাইন-ইন বাধ্যতামূলক করা হয়েছে।"
     },
     {
