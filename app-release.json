@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-676-g79adb99409-unstable",
-  "versionCode": 12419,
+  "versionName": "0.1.30-682-g79122e9619-unstable",
+  "versionCode": 12425,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70188450,
-  "sha256": "460b31f6c4ca3a1ee78aea97379805591ed1b4904820785e75997b4c521000c5",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12419/bolo-keyboard-12419-arm64-v8a.apk",
-  "builtAt": "2026-11-19T14:56:26.838Z",
+  "sizeBytes": 70189066,
+  "sha256": "24ad6be0ced35fe89dccee165b5c8f6884c6163256c39285d0da5c41116dd182",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12425/bolo-keyboard-12425-arm64-v8a.apk",
+  "builtAt": "2026-11-20T01:08:56.049Z",
   "changelogBn": "এই বিল্ডে কীবোর্ড কেমন চলছে তা মাপা হচ্ছে, যাতে ভবিষ্যতের আপডেট আসল ব্যবহার দেখে বানানো যায়: কীবোর্ড কত দ্রুত খোলে, মুখে বলার পর প্রথম কথা কত দ্রুত আসে, আর আপডেট ঠিকমতো ডাউনলোড ও ইনস্টল হচ্ছে কিনা। আটকে যাওয়া বা হঠাৎ বন্ধ হয়ে যাওয়াও এখন জানা যাবে।",
   "changelogEn": "This build measures how the keyboard is doing, so future updates follow real usage: how fast the keyboard opens, how quickly the first words appear when you dictate, and whether updates download and install cleanly. Freezes and sudden closes are reported now too.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70188450,
-      "sha256": "460b31f6c4ca3a1ee78aea97379805591ed1b4904820785e75997b4c521000c5",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12419/bolo-keyboard-12419-arm64-v8a.apk"
+      "sizeBytes": 70189066,
+      "sha256": "24ad6be0ced35fe89dccee165b5c8f6884c6163256c39285d0da5c41116dd182",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12425/bolo-keyboard-12425-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65180790,
-      "sha256": "701336e620d7caf116d07e5d069a344f63ce1ee4741e5af9d890b4f6cd6de880",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12419/bolo-keyboard-12419-armeabi-v7a.apk"
+      "sizeBytes": 65181406,
+      "sha256": "ee0f250dd944cc1178c0d109c25d3c05d550824f44e7fef4c584f120c5e2e86f",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12425/bolo-keyboard-12425-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12425,
+      "versionName": "0.1.30-682-g79122e9619-unstable",
+      "builtAt": "2026-11-20T01:08:56.049Z",
+      "changelogEn": "This build measures how the keyboard is doing, so future updates follow real usage: how fast the keyboard opens, how quickly the first words appear when you dictate, and whether updates download and install cleanly. Freezes and sudden closes are reported now too.",
+      "changelogBn": "এই বিল্ডে কীবোর্ড কেমন চলছে তা মাপা হচ্ছে, যাতে ভবিষ্যতের আপডেট আসল ব্যবহার দেখে বানানো যায়: কীবোর্ড কত দ্রুত খোলে, মুখে বলার পর প্রথম কথা কত দ্রুত আসে, আর আপডেট ঠিকমতো ডাউনলোড ও ইনস্টল হচ্ছে কিনা। আটকে যাওয়া বা হঠাৎ বন্ধ হয়ে যাওয়াও এখন জানা যাবে।"
+    },
     {
       "versionCode": 12419,
       "versionName": "0.1.30-676-g79adb99409-unstable",
