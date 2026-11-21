@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-732-g460ee4b419-unstable",
-  "versionCode": 12475,
+  "versionName": "0.1.30-737-gc066479e68-unstable",
+  "versionCode": 12480,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 100,
+  "rolloutPercentage": 10,
   "sizeBytes": 70774117,
-  "sha256": "9d72fd7a7b38b0f66dce9bc6fd3bc293bf2082a2e68c4ab93302a22247816fa8",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12475/bolo-keyboard-12475-arm64-v8a.apk",
-  "builtAt": "2026-11-21T02:23:54.690Z",
-  "changelogBn": "অ্যাপ ছোট হয়েছে: আইকন পিকারের প্রিভিউ এখন WebP, প্রায় ২ MB কমেছে, কোয়ালিটি একই।",
-  "changelogEn": "Smaller app: the icon picker previews are now WebP, saving about 2 MB with no visible quality change.",
+  "sha256": "f3219965260989be80518f24f8a4126e0bd54dd9c58c0482fc66918600e945c2",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12480/bolo-keyboard-12480-arm64-v8a.apk",
+  "builtAt": "2026-11-21T04:52:26.255Z",
+  "changelogBn": "Echo: এখন বলার সময়ই শব্দ দেখা যাবে, আর একটা বাক্য দুইবার লেখা হবে না।",
+  "changelogEn": "Echo: the words now show up while you are still talking, and a sentence is no longer typed twice.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70774117,
-      "sha256": "9d72fd7a7b38b0f66dce9bc6fd3bc293bf2082a2e68c4ab93302a22247816fa8",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12475/bolo-keyboard-12475-arm64-v8a.apk"
+      "sha256": "f3219965260989be80518f24f8a4126e0bd54dd9c58c0482fc66918600e945c2",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12480/bolo-keyboard-12480-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65766457,
-      "sha256": "4081e24c869eaff879876d097262ee795ce14d016cee1f12e123c80a6682aeec",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12475/bolo-keyboard-12475-armeabi-v7a.apk"
+      "sha256": "786752229bc975e9b19bb84c68c9f0dbee36fa3f41ec5902be628a6252c04030",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12480/bolo-keyboard-12480-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12480,
+      "versionName": "0.1.30-737-gc066479e68-unstable",
+      "builtAt": "2026-11-21T04:52:26.255Z",
+      "changelogEn": "Echo: the words now show up while you are still talking, and a sentence is no longer typed twice.",
+      "changelogBn": "Echo: এখন বলার সময়ই শব্দ দেখা যাবে, আর একটা বাক্য দুইবার লেখা হবে না।"
+    },
     {
       "versionCode": 12475,
       "versionName": "0.1.30-732-g460ee4b419-unstable",
