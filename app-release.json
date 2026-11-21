@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-737-gc066479e68-unstable",
-  "versionCode": 12480,
+  "versionName": "0.1.30-739-g931f555d4b-unstable",
+  "versionCode": 12482,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 10,
   "sizeBytes": 70774117,
-  "sha256": "f3219965260989be80518f24f8a4126e0bd54dd9c58c0482fc66918600e945c2",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12480/bolo-keyboard-12480-arm64-v8a.apk",
-  "builtAt": "2026-11-21T04:52:26.255Z",
-  "changelogBn": "Echo: এখন বলার সময়ই শব্দ দেখা যাবে, আর একটা বাক্য দুইবার লেখা হবে না।",
-  "changelogEn": "Echo: the words now show up while you are still talking, and a sentence is no longer typed twice.",
+  "sha256": "7982d3e12304caa585079b8969146ea598137c2dbcae688c7b13d417a16ef42d",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12482/bolo-keyboard-12482-arm64-v8a.apk",
+  "builtAt": "2026-11-21T05:15:56.641Z",
+  "changelogBn": "Echo: এখন লাইভ শব্দ হালনাগাদ হতে থাকে, আর দুইটি প্রিভিউ সেশন একসাথে চলতে পারে।",
+  "changelogEn": "Echo: the live words keep updating now, and two preview sessions can run at once.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70774117,
-      "sha256": "f3219965260989be80518f24f8a4126e0bd54dd9c58c0482fc66918600e945c2",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12480/bolo-keyboard-12480-arm64-v8a.apk"
+      "sha256": "7982d3e12304caa585079b8969146ea598137c2dbcae688c7b13d417a16ef42d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12482/bolo-keyboard-12482-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65766457,
-      "sha256": "786752229bc975e9b19bb84c68c9f0dbee36fa3f41ec5902be628a6252c04030",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12480/bolo-keyboard-12480-armeabi-v7a.apk"
+      "sha256": "da8291d0197be18a3d5d65d1d6523086c36052f95f2af671b29d5043905f9e13",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12482/bolo-keyboard-12482-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12482,
+      "versionName": "0.1.30-739-g931f555d4b-unstable",
+      "builtAt": "2026-11-21T05:15:56.641Z",
+      "changelogEn": "Echo: the live words keep updating now, and two preview sessions can run at once.",
+      "changelogBn": "Echo: এখন লাইভ শব্দ হালনাগাদ হতে থাকে, আর দুইটি প্রিভিউ সেশন একসাথে চলতে পারে।"
+    },
     {
       "versionCode": 12480,
       "versionName": "0.1.30-737-gc066479e68-unstable",
