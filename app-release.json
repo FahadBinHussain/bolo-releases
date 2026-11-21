@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-724-g7848c073f1-unstable",
-  "versionCode": 12467,
+  "versionName": "0.1.30-732-g460ee4b419-unstable",
+  "versionCode": 12475,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 72637171,
-  "sha256": "4d1cbe25f68d3171c3e9ace255422ce45d20d8ea5c94a7f7997a2c7861276744",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12467/bolo-keyboard-12467-arm64-v8a.apk",
-  "builtAt": "2026-11-20T12:58:49.432Z",
-  "changelogBn": "Echo ভয়েস ঠিক করা হয়েছে — মাইক ছাড়ার প্রায় এক সেকেন্ড পরেই লেখা উঠবে।",
-  "changelogEn": "Echo voice fixed — words land about a second after you lift off the mic.",
+  "sizeBytes": 70774117,
+  "sha256": "9d72fd7a7b38b0f66dce9bc6fd3bc293bf2082a2e68c4ab93302a22247816fa8",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12475/bolo-keyboard-12475-arm64-v8a.apk",
+  "builtAt": "2026-11-21T02:23:54.690Z",
+  "changelogBn": "অ্যাপ ছোট হয়েছে: আইকন পিকারের প্রিভিউ এখন WebP, প্রায় ২ MB কমেছে, কোয়ালিটি একই।",
+  "changelogEn": "Smaller app: the icon picker previews are now WebP, saving about 2 MB with no visible quality change.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 72637171,
-      "sha256": "4d1cbe25f68d3171c3e9ace255422ce45d20d8ea5c94a7f7997a2c7861276744",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12467/bolo-keyboard-12467-arm64-v8a.apk"
+      "sizeBytes": 70774117,
+      "sha256": "9d72fd7a7b38b0f66dce9bc6fd3bc293bf2082a2e68c4ab93302a22247816fa8",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12475/bolo-keyboard-12475-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 67629511,
-      "sha256": "d2d626f52ab591f3d8b94a7e6298b0e9c60cbab7e107885400eb502fc976a880",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12467/bolo-keyboard-12467-armeabi-v7a.apk"
+      "sizeBytes": 65766457,
+      "sha256": "4081e24c869eaff879876d097262ee795ce14d016cee1f12e123c80a6682aeec",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12475/bolo-keyboard-12475-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12475,
+      "versionName": "0.1.30-732-g460ee4b419-unstable",
+      "builtAt": "2026-11-21T02:23:54.690Z",
+      "changelogEn": "Smaller app: the icon picker previews are now WebP, saving about 2 MB with no visible quality change.",
+      "changelogBn": "অ্যাপ ছোট হয়েছে: আইকন পিকারের প্রিভিউ এখন WebP, প্রায় ২ MB কমেছে, কোয়ালিটি একই।"
+    },
     {
       "versionCode": 12467,
       "versionName": "0.1.30-724-g7848c073f1-unstable",
