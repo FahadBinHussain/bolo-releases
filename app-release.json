@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-743-g06367921f7-unstable",
-  "versionCode": 12486,
+  "versionName": "0.1.30-745-g0853b65804-unstable",
+  "versionCode": 12488,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70775581,
-  "sha256": "c4b2ca7d593f2906ddf598bdf4ef61f7571ea79ae057f4169f726cb109e8562a",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12486/bolo-keyboard-12486-arm64-v8a.apk",
-  "builtAt": "2026-11-21T06:41:40.540Z",
-  "changelogBn": "নেটওয়ার্ক সমস্যায় অ্যাপ আর চুপচাপ ব্যর্থ হয় না: খারাপ সংযোগে আর সাইন আউট হবে না, সার্ভারে পৌঁছানো না গেলে ভয়েসে পরিষ্কার বার্তা দেখাবে আর ট্যাপ করলেই আবার চেষ্টা করবে, এবং ব্যাকগ্রাউন্ড সিঙ্ক নিজে থেকেই আবার চেষ্টা করবে।",
-  "changelogEn": "Network failures are handled gracefully now: a bad connection no longer signs you out, voice shows a clear message with tap-to-retry when the server can't be reached, and background sync retries quietly on its own.",
+  "sizeBytes": 70791961,
+  "sha256": "21cd51e3093caa8a034d2ae432c0a4558573b9ac194915d950d912a867ae9f93",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12488/bolo-keyboard-12488-arm64-v8a.apk",
+  "builtAt": "2026-11-21T06:52:08.015Z",
+  "changelogBn": "আপডেটের পর্দায় এখন যে রিলিজটা তোমার ফোনে এখনো পৌঁছায়নি, সেটাকে 'সর্বশেষ' না বলে 'শিগগিরই আসছে' দেখাবে — রোলআউট চলার সময় আর উল্টোপাল্টা বার্তা দেখাবে না।",
+  "changelogEn": "The update screen now labels a release that hasn't reached your device yet as 'Coming soon' instead of calling it the latest — no more mixed messages while a rollout is still going out.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70775581,
-      "sha256": "c4b2ca7d593f2906ddf598bdf4ef61f7571ea79ae057f4169f726cb109e8562a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12486/bolo-keyboard-12486-arm64-v8a.apk"
+      "sizeBytes": 70791961,
+      "sha256": "21cd51e3093caa8a034d2ae432c0a4558573b9ac194915d950d912a867ae9f93",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12488/bolo-keyboard-12488-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65767921,
-      "sha256": "00c889e9a0f64a40e9dee74fd3c4b8b0eb51d86510869ca3c3a522d620a10524",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12486/bolo-keyboard-12486-armeabi-v7a.apk"
+      "sizeBytes": 65784301,
+      "sha256": "c92421e4e13cff16f8286d85e56932f99f40cd76f1d53820d1edfa0ca9819623",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12488/bolo-keyboard-12488-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12488,
+      "versionName": "0.1.30-745-g0853b65804-unstable",
+      "builtAt": "2026-11-21T06:52:08.015Z",
+      "changelogEn": "The update screen now labels a release that hasn't reached your device yet as 'Coming soon' instead of calling it the latest — no more mixed messages while a rollout is still going out.",
+      "changelogBn": "আপডেটের পর্দায় এখন যে রিলিজটা তোমার ফোনে এখনো পৌঁছায়নি, সেটাকে 'সর্বশেষ' না বলে 'শিগগিরই আসছে' দেখাবে — রোলআউট চলার সময় আর উল্টোপাল্টা বার্তা দেখাবে না।"
+    },
     {
       "versionCode": 12486,
       "versionName": "0.1.30-743-g06367921f7-unstable",
