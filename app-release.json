@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-745-g0853b65804-unstable",
-  "versionCode": 12488,
+  "versionName": "0.1.30-753-gb649e76440-unstable",
+  "versionCode": 12496,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 100,
+  "rolloutPercentage": 10,
   "sizeBytes": 70791961,
-  "sha256": "21cd51e3093caa8a034d2ae432c0a4558573b9ac194915d950d912a867ae9f93",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12488/bolo-keyboard-12488-arm64-v8a.apk",
-  "builtAt": "2026-11-21T06:52:08.015Z",
-  "changelogBn": "আপডেটের পর্দায় এখন যে রিলিজটা তোমার ফোনে এখনো পৌঁছায়নি, সেটাকে 'সর্বশেষ' না বলে 'শিগগিরই আসছে' দেখাবে — রোলআউট চলার সময় আর উল্টোপাল্টা বার্তা দেখাবে না।",
-  "changelogEn": "The update screen now labels a release that hasn't reached your device yet as 'Coming soon' instead of calling it the latest — no more mixed messages while a rollout is still going out.",
+  "sha256": "2eb80cd108d03565f3a60b5655603bfe0dd05d2a97dca748457531b57c9166c6",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12496/bolo-keyboard-12496-arm64-v8a.apk",
+  "builtAt": "2026-11-21T14:21:37.324Z",
+  "changelogBn": "Foxtrot একটি নতুন ভয়েস প্রোভাইডার, যেটা কথা বলার সময়ই শব্দগুলো দেখায় - বাক্য শেষ হওয়ার জন্য অপেক্ষা না করে চলতে চলতেই লেখা উঠে। ড্যাশবোর্ডে Foxtrot Speech নামে পাবে।",
+  "changelogEn": "Foxtrot is a new voice provider that shows the words while you are still talking - the running words as they are spoken, instead of a transcript that only arrives when the mic is released. Pick it in the dashboard as Foxtrot Speech.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70791961,
-      "sha256": "21cd51e3093caa8a034d2ae432c0a4558573b9ac194915d950d912a867ae9f93",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12488/bolo-keyboard-12488-arm64-v8a.apk"
+      "sha256": "2eb80cd108d03565f3a60b5655603bfe0dd05d2a97dca748457531b57c9166c6",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12496/bolo-keyboard-12496-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65784301,
-      "sha256": "c92421e4e13cff16f8286d85e56932f99f40cd76f1d53820d1edfa0ca9819623",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12488/bolo-keyboard-12488-armeabi-v7a.apk"
+      "sha256": "e9549c579fe7302dfffc85910f341f73537a72dd73182bc38ed48daf09cb8d3a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12496/bolo-keyboard-12496-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12496,
+      "versionName": "0.1.30-753-gb649e76440-unstable",
+      "builtAt": "2026-11-21T14:21:37.324Z",
+      "changelogEn": "Foxtrot is a new voice provider that shows the words while you are still talking - the running words as they are spoken, instead of a transcript that only arrives when the mic is released. Pick it in the dashboard as Foxtrot Speech.",
+      "changelogBn": "Foxtrot একটি নতুন ভয়েস প্রোভাইডার, যেটা কথা বলার সময়ই শব্দগুলো দেখায় - বাক্য শেষ হওয়ার জন্য অপেক্ষা না করে চলতে চলতেই লেখা উঠে। ড্যাশবোর্ডে Foxtrot Speech নামে পাবে।"
+    },
     {
       "versionCode": 12488,
       "versionName": "0.1.30-745-g0853b65804-unstable",
