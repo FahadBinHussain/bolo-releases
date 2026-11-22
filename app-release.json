@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-775-ga19903f3c8-unstable",
-  "versionCode": 12515,
+  "versionName": "0.1.30-777-g371c9b9c73-unstable",
+  "versionCode": 12517,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70791961,
-  "sha256": "670b5ff17ae416d01f3b565ab42cecf601b0cd36e50a9b242f08e0489ad9efd4",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12515/bolo-keyboard-12515-arm64-v8a.apk",
-  "builtAt": "2026-11-22T12:25:57.051Z",
-  "changelogBn": "কোনো লেখা ছাড়াই শেষ হওয়া ভয়েস সেশনগুলো এখন সার্ভারে রিপোর্ট হবে — নীরবে হারিয়ে যাওয়া ব্যর্থতাগুলো আর অদৃশ্য থাকবে না। ভয়েস চলার সময় নেটওয়ার্ক ছিঁড়ে গেলেও রিপোর্ট যাবে।",
-  "changelogEn": "Voice sessions that ended with no transcript now report to the server, so silent failures show up in the dashboard instead of disappearing. Network drops during voice input are reported too.",
+  "sizeBytes": 70792013,
+  "sha256": "7c3f23731b05656db746c5ed814ac39f758db6d7984b68c0b529d8b94c221b74",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12517/bolo-keyboard-12517-arm64-v8a.apk",
+  "builtAt": "2026-11-22T12:52:34.459Z",
+  "changelogBn": "• ডাবল আপডেট নোটিফিকেশন ঠিক করা হয়েছে — এক রিলিজে এখন একবারই নোটিফিকেশন আসবে।\n• আপডেট নোটিফিকেশনের আইকন ফাঁকা দেখাতো, ঠিক করা হয়েছে।",
+  "changelogEn": "• Fixed duplicate update notifications — one release now notifies once.\n• Fixed the update notification icon showing as a blank blob.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70791961,
-      "sha256": "670b5ff17ae416d01f3b565ab42cecf601b0cd36e50a9b242f08e0489ad9efd4",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12515/bolo-keyboard-12515-arm64-v8a.apk"
+      "sizeBytes": 70792013,
+      "sha256": "7c3f23731b05656db746c5ed814ac39f758db6d7984b68c0b529d8b94c221b74",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12517/bolo-keyboard-12517-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65784301,
-      "sha256": "88ea727388011dac2f07eda62920bc574069a6693832ac6082ec19a39d68e163",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12515/bolo-keyboard-12515-armeabi-v7a.apk"
+      "sizeBytes": 65784353,
+      "sha256": "b41a742588b15ba756612b38a9f258a4275a433c10e09c39e5536fcf5ae66cb4",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12517/bolo-keyboard-12517-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12517,
+      "versionName": "0.1.30-777-g371c9b9c73-unstable",
+      "builtAt": "2026-11-22T12:52:34.459Z",
+      "changelogEn": "• Fixed duplicate update notifications — one release now notifies once.\n• Fixed the update notification icon showing as a blank blob.",
+      "changelogBn": "• ডাবল আপডেট নোটিফিকেশন ঠিক করা হয়েছে — এক রিলিজে এখন একবারই নোটিফিকেশন আসবে।\n• আপডেট নোটিফিকেশনের আইকন ফাঁকা দেখাতো, ঠিক করা হয়েছে।"
+    },
     {
       "versionCode": 12515,
       "versionName": "0.1.30-775-ga19903f3c8-unstable",
