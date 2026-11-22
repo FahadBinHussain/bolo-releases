@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-761-g8b4abfa827-unstable",
-  "versionCode": 12504,
+  "versionName": "0.1.30-764-geb565b925c-unstable",
+  "versionCode": 12507,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70791961,
-  "sha256": "04cb5eb2621ea26fd6a8d0ec3e020c28cd9591ef629ba2d9cc271a8dd19afa9a",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12504/bolo-keyboard-12504-arm64-v8a.apk",
-  "builtAt": "2026-11-22T01:17:44.786Z",
-  "changelogBn": "কোনো কারণ ছাড়াই লগআউট হয়ে যাওয়ার বাগ ঠিক করা হয়েছে: সেশন রিফ্রেশ হওয়ার সাথে সাথেই এখন নিরাপদে জমা হয়, নতুন লগইন টোকেন আর হারাবে না।",
-  "changelogEn": "Fixes a bug that could sign you out for no reason: the app now saves its session securely the moment it refreshes, so a fresh login token can no longer be lost.",
+  "sha256": "c9ac1ed2065ef53dc498fc8ce41102d0df365be56d9fd951eb10bd381d9d1ae1",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12507/bolo-keyboard-12507-arm64-v8a.apk",
+  "builtAt": "2026-11-22T01:49:09.908Z",
+  "changelogBn": "সাইন-ইনের পর কিবোর্ড শুধু টুলবার হয়ে যাওয়ার বাগ ঠিক করা হয়েছে: কিবোর্ডের উচ্চতার এখন একটা সর্বনিম্ন সীমা আছে, আর ক্লাউড সেটিংস থেকে ভুল উচ্চতার মান এলে তা আর প্রয়োগ হবে না।",
+  "changelogEn": "Fixes the keyboard shrinking to just its toolbar after sign-in: the keyboard height now has a minimum it can never go below, and a bad height value from cloud settings is rejected instead of applied.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70791961,
-      "sha256": "04cb5eb2621ea26fd6a8d0ec3e020c28cd9591ef629ba2d9cc271a8dd19afa9a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12504/bolo-keyboard-12504-arm64-v8a.apk"
+      "sha256": "c9ac1ed2065ef53dc498fc8ce41102d0df365be56d9fd951eb10bd381d9d1ae1",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12507/bolo-keyboard-12507-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65784301,
-      "sha256": "31f48da52bfa32e3901753dee62a454ae18c831f9f8943327d6df085230282be",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12504/bolo-keyboard-12504-armeabi-v7a.apk"
+      "sha256": "420aca9597e045adac76a6c007042d0354cbdb372b86c478fe007ce3db3ec4e2",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12507/bolo-keyboard-12507-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12507,
+      "versionName": "0.1.30-764-geb565b925c-unstable",
+      "builtAt": "2026-11-22T01:49:09.908Z",
+      "changelogEn": "Fixes the keyboard shrinking to just its toolbar after sign-in: the keyboard height now has a minimum it can never go below, and a bad height value from cloud settings is rejected instead of applied.",
+      "changelogBn": "সাইন-ইনের পর কিবোর্ড শুধু টুলবার হয়ে যাওয়ার বাগ ঠিক করা হয়েছে: কিবোর্ডের উচ্চতার এখন একটা সর্বনিম্ন সীমা আছে, আর ক্লাউড সেটিংস থেকে ভুল উচ্চতার মান এলে তা আর প্রয়োগ হবে না।"
+    },
     {
       "versionCode": 12504,
       "versionName": "0.1.30-761-g8b4abfa827-unstable",
