@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-753-gb649e76440-unstable",
-  "versionCode": 12496,
+  "versionName": "0.1.30-761-g8b4abfa827-unstable",
+  "versionCode": 12504,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
-  "rolloutPercentage": 10,
+  "rolloutPercentage": 100,
   "sizeBytes": 70791961,
-  "sha256": "2eb80cd108d03565f3a60b5655603bfe0dd05d2a97dca748457531b57c9166c6",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12496/bolo-keyboard-12496-arm64-v8a.apk",
-  "builtAt": "2026-11-21T14:21:37.324Z",
-  "changelogBn": "Foxtrot একটি নতুন ভয়েস প্রোভাইডার, যেটা কথা বলার সময়ই শব্দগুলো দেখায় - বাক্য শেষ হওয়ার জন্য অপেক্ষা না করে চলতে চলতেই লেখা উঠে। ড্যাশবোর্ডে Foxtrot Speech নামে পাবে।",
-  "changelogEn": "Foxtrot is a new voice provider that shows the words while you are still talking - the running words as they are spoken, instead of a transcript that only arrives when the mic is released. Pick it in the dashboard as Foxtrot Speech.",
+  "sha256": "04cb5eb2621ea26fd6a8d0ec3e020c28cd9591ef629ba2d9cc271a8dd19afa9a",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12504/bolo-keyboard-12504-arm64-v8a.apk",
+  "builtAt": "2026-11-22T01:17:44.786Z",
+  "changelogBn": "কোনো কারণ ছাড়াই লগআউট হয়ে যাওয়ার বাগ ঠিক করা হয়েছে: সেশন রিফ্রেশ হওয়ার সাথে সাথেই এখন নিরাপদে জমা হয়, নতুন লগইন টোকেন আর হারাবে না।",
+  "changelogEn": "Fixes a bug that could sign you out for no reason: the app now saves its session securely the moment it refreshes, so a fresh login token can no longer be lost.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70791961,
-      "sha256": "2eb80cd108d03565f3a60b5655603bfe0dd05d2a97dca748457531b57c9166c6",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12496/bolo-keyboard-12496-arm64-v8a.apk"
+      "sha256": "04cb5eb2621ea26fd6a8d0ec3e020c28cd9591ef629ba2d9cc271a8dd19afa9a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12504/bolo-keyboard-12504-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65784301,
-      "sha256": "e9549c579fe7302dfffc85910f341f73537a72dd73182bc38ed48daf09cb8d3a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12496/bolo-keyboard-12496-armeabi-v7a.apk"
+      "sha256": "31f48da52bfa32e3901753dee62a454ae18c831f9f8943327d6df085230282be",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12504/bolo-keyboard-12504-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12504,
+      "versionName": "0.1.30-761-g8b4abfa827-unstable",
+      "builtAt": "2026-11-22T01:17:44.786Z",
+      "changelogEn": "Fixes a bug that could sign you out for no reason: the app now saves its session securely the moment it refreshes, so a fresh login token can no longer be lost.",
+      "changelogBn": "কোনো কারণ ছাড়াই লগআউট হয়ে যাওয়ার বাগ ঠিক করা হয়েছে: সেশন রিফ্রেশ হওয়ার সাথে সাথেই এখন নিরাপদে জমা হয়, নতুন লগইন টোকেন আর হারাবে না।"
+    },
     {
       "versionCode": 12496,
       "versionName": "0.1.30-753-gb649e76440-unstable",
