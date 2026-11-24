@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-785-g300d506b4f-unstable",
-  "versionCode": 12525,
+  "versionName": "0.1.30-790-gb6f4b1fde7-unstable",
+  "versionCode": 12530,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70792013,
-  "sha256": "8e90777920b6dc8949a425b73ad19ca88e0a6129ce82d7c521640be7a434c2ff",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12525/bolo-keyboard-12525-arm64-v8a.apk",
-  "builtAt": "2026-11-24T02:15:35.652Z",
-  "changelogBn": "ড্যাশবোর্ডের লাইভ ভিউতে এখন আসল টেক্সট ফিল্ড দেখাবে, তাই মুছা, এডিট আর কার্সর সরানো সরাসরি দেখা যাবে।",
-  "changelogEn": "Live typing view on the dashboard now shows the actual text field, so edits, deletions and cursor moves appear as they happen.",
+  "sizeBytes": 70792009,
+  "sha256": "42c20ba536b5f88974aef3fce2edfa9a1539c64f36f0d72e891d903d4cc22522",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12530/bolo-keyboard-12530-arm64-v8a.apk",
+  "builtAt": "2026-11-24T06:14:05.710Z",
+  "changelogBn": "ক্লিপবোর্ড Live view ঠিক করা হয়েছে: একটা clip-এর timestamp না থাকায় পুরো sync reject হয়ে যাচ্ছিল, তাই dashboard-এ clipboard state আসছিল না। এখন Live tab-এ আসল clipboard দেখাবে।",
+  "changelogEn": "Fixed the clipboard Live view: the app's clipboard state never reached the dashboard because one clip with a missing timestamp made the server reject the whole sync. The Live tab now shows your current clipboard.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70792013,
-      "sha256": "8e90777920b6dc8949a425b73ad19ca88e0a6129ce82d7c521640be7a434c2ff",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12525/bolo-keyboard-12525-arm64-v8a.apk"
+      "sizeBytes": 70792009,
+      "sha256": "42c20ba536b5f88974aef3fce2edfa9a1539c64f36f0d72e891d903d4cc22522",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12530/bolo-keyboard-12530-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65784353,
-      "sha256": "80c41c12af000759e143db1680b647296e69ae60f9c9d21c1bb470c278499e27",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12525/bolo-keyboard-12525-armeabi-v7a.apk"
+      "sizeBytes": 65784349,
+      "sha256": "258e36618e57c140626648980a038a234446164a2b6911d5b8bb99b350a4ce90",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12530/bolo-keyboard-12530-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12530,
+      "versionName": "0.1.30-790-gb6f4b1fde7-unstable",
+      "builtAt": "2026-11-24T06:14:05.710Z",
+      "changelogEn": "Fixed the clipboard Live view: the app's clipboard state never reached the dashboard because one clip with a missing timestamp made the server reject the whole sync. The Live tab now shows your current clipboard.",
+      "changelogBn": "ক্লিপবোর্ড Live view ঠিক করা হয়েছে: একটা clip-এর timestamp না থাকায় পুরো sync reject হয়ে যাচ্ছিল, তাই dashboard-এ clipboard state আসছিল না। এখন Live tab-এ আসল clipboard দেখাবে।"
+    },
     {
       "versionCode": 12525,
       "versionName": "0.1.30-785-g300d506b4f-unstable",
