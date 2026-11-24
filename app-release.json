@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-777-g371c9b9c73-unstable",
-  "versionCode": 12517,
+  "versionName": "0.1.30-785-g300d506b4f-unstable",
+  "versionCode": 12525,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70792013,
-  "sha256": "7c3f23731b05656db746c5ed814ac39f758db6d7984b68c0b529d8b94c221b74",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12517/bolo-keyboard-12517-arm64-v8a.apk",
-  "builtAt": "2026-11-22T12:52:34.459Z",
-  "changelogBn": "• ডাবল আপডেট নোটিফিকেশন ঠিক করা হয়েছে — এক রিলিজে এখন একবারই নোটিফিকেশন আসবে।\n• আপডেট নোটিফিকেশনের আইকন ফাঁকা দেখাতো, ঠিক করা হয়েছে।",
-  "changelogEn": "• Fixed duplicate update notifications — one release now notifies once.\n• Fixed the update notification icon showing as a blank blob.",
+  "sha256": "8e90777920b6dc8949a425b73ad19ca88e0a6129ce82d7c521640be7a434c2ff",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12525/bolo-keyboard-12525-arm64-v8a.apk",
+  "builtAt": "2026-11-24T02:15:35.652Z",
+  "changelogBn": "ড্যাশবোর্ডের লাইভ ভিউতে এখন আসল টেক্সট ফিল্ড দেখাবে, তাই মুছা, এডিট আর কার্সর সরানো সরাসরি দেখা যাবে।",
+  "changelogEn": "Live typing view on the dashboard now shows the actual text field, so edits, deletions and cursor moves appear as they happen.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70792013,
-      "sha256": "7c3f23731b05656db746c5ed814ac39f758db6d7984b68c0b529d8b94c221b74",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12517/bolo-keyboard-12517-arm64-v8a.apk"
+      "sha256": "8e90777920b6dc8949a425b73ad19ca88e0a6129ce82d7c521640be7a434c2ff",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12525/bolo-keyboard-12525-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65784353,
-      "sha256": "b41a742588b15ba756612b38a9f258a4275a433c10e09c39e5536fcf5ae66cb4",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12517/bolo-keyboard-12517-armeabi-v7a.apk"
+      "sha256": "80c41c12af000759e143db1680b647296e69ae60f9c9d21c1bb470c278499e27",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12525/bolo-keyboard-12525-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12525,
+      "versionName": "0.1.30-785-g300d506b4f-unstable",
+      "builtAt": "2026-11-24T02:15:35.652Z",
+      "changelogEn": "Live typing view on the dashboard now shows the actual text field, so edits, deletions and cursor moves appear as they happen.",
+      "changelogBn": "ড্যাশবোর্ডের লাইভ ভিউতে এখন আসল টেক্সট ফিল্ড দেখাবে, তাই মুছা, এডিট আর কার্সর সরানো সরাসরি দেখা যাবে।"
+    },
     {
       "versionCode": 12517,
       "versionName": "0.1.30-777-g371c9b9c73-unstable",
