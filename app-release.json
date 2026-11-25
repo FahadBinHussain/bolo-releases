@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-794-g4c0b3f6fff-unstable",
-  "versionCode": 12534,
+  "versionName": "0.1.30-804-g07bad73e5d-unstable",
+  "versionCode": 12544,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70792225,
-  "sha256": "5e21bbae84298d842be22f1f9b56bdc4bb68b8a4ce3eb2d34efbd8fce6ae7dbb",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12534/bolo-keyboard-12534-arm64-v8a.apk",
-  "builtAt": "2026-11-25T09:32:29.616Z",
-  "changelogBn": "ভয়েস টাইপিং আরও নিরাপদ হলো: ভয়েস সংযোগ এখন certificate-pinned, ব্যর্থ হলে কারিগরি বিবরণের বদলে সাধারণ বার্তা দেখাবে, আর cleartext ভয়েস endpoint আর চলবে না।",
-  "changelogEn": "Voice typing is now more secure: the voice connection is certificate-pinned, failures show a simple message instead of technical details, and cleartext voice endpoints are rejected.",
+  "sizeBytes": 70774829,
+  "sha256": "66a07aceda8c8df90d2139d02a1b430fdd0b48d3030651613aef1f22cffe2a4b",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12544/bolo-keyboard-12544-arm64-v8a.apk",
+  "builtAt": "2026-11-25T15:25:54.113Z",
+  "changelogBn": "নতুন Pixel অ্যাপ আইকন — পিক্সেল স্টাইলের আইকনে এখন নিয়ন ওয়েভ ডিজাইন।",
+  "changelogEn": "New Pixel app icon — the pixel-style icon now has a neon wave design.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70792225,
-      "sha256": "5e21bbae84298d842be22f1f9b56bdc4bb68b8a4ce3eb2d34efbd8fce6ae7dbb",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12534/bolo-keyboard-12534-arm64-v8a.apk"
+      "sizeBytes": 70774829,
+      "sha256": "66a07aceda8c8df90d2139d02a1b430fdd0b48d3030651613aef1f22cffe2a4b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12544/bolo-keyboard-12544-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65784565,
-      "sha256": "6a32bd48e9ae4bba06ae8ef66149d4ef678ec809fa5bcae57381c483601379f8",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12534/bolo-keyboard-12534-armeabi-v7a.apk"
+      "sizeBytes": 65767169,
+      "sha256": "8b948efe6cd2725fe0a1c668e49068edbd44114bd4987f5926ddcd912812f128",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12544/bolo-keyboard-12544-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12544,
+      "versionName": "0.1.30-804-g07bad73e5d-unstable",
+      "builtAt": "2026-11-25T15:25:54.113Z",
+      "changelogEn": "New Pixel app icon — the pixel-style icon now has a neon wave design.",
+      "changelogBn": "নতুন Pixel অ্যাপ আইকন — পিক্সেল স্টাইলের আইকনে এখন নিয়ন ওয়েভ ডিজাইন।"
+    },
     {
       "versionCode": 12534,
       "versionName": "0.1.30-794-g4c0b3f6fff-unstable",
