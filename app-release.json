@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-807-gb77b3e6f47-unstable",
-  "versionCode": 12547,
+  "versionName": "0.1.30-809-g27d051a88f-unstable",
+  "versionCode": 12549,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70796224,
-  "sha256": "c7dcf18c67a8b7fb5e496717764186f61ca17651771c5696c9ea522c4ea4ae39",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12547/bolo-keyboard-12547-arm64-v8a.apk",
-  "builtAt": "2026-11-25T16:29:34.798Z",
-  "changelogBn": "প্রো সেটিংস হোম — প্রো ইউজাররা এখন নতুন পিক্সেল স্টাইলের সেটিংস পেজ পাবেন, নতুন হেডার, What's New কার্ড আর ফুটারসহ।",
-  "changelogEn": "Pro settings home — Pro users now get the new pixel-style settings page with the new header, What's New card and footer.",
+  "sizeBytes": 70791413,
+  "sha256": "8eb3b4ec93f24400d572ef5dce114108b3d13f6b2112249c1c9b642b43bb8ac5",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12549/bolo-keyboard-12549-arm64-v8a.apk",
+  "builtAt": "2026-11-25T16:47:02.892Z",
+  "changelogBn": "প্রো সেটিংস হোম পরিষ্কার করা হয়েছে — সেটিংসের row-গুলো আবার আগের ক্লাসিক আইকনে ফিরেছে, আর কার্ডগুলো কর্নার স্কয়ার আর আইকন টাইল ছাড়া আরও পরিষ্কার।",
+  "changelogEn": "Pro settings home cleanup — settings rows are back to the classic icons, and the cards are cleaner without the corner squares and icon tile.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70796224,
-      "sha256": "c7dcf18c67a8b7fb5e496717764186f61ca17651771c5696c9ea522c4ea4ae39",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12547/bolo-keyboard-12547-arm64-v8a.apk"
+      "sizeBytes": 70791413,
+      "sha256": "8eb3b4ec93f24400d572ef5dce114108b3d13f6b2112249c1c9b642b43bb8ac5",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12549/bolo-keyboard-12549-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65788564,
-      "sha256": "49eb273f2e70077efcee83af97975bb224fabf063bd214302c78fa7b98e0cda8",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12547/bolo-keyboard-12547-armeabi-v7a.apk"
+      "sizeBytes": 65783753,
+      "sha256": "34e8cfa7580e45f5bb0210d3477758d541b6fe1f5eb012f94ce0e9af4916c7a6",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12549/bolo-keyboard-12549-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12549,
+      "versionName": "0.1.30-809-g27d051a88f-unstable",
+      "builtAt": "2026-11-25T16:47:02.892Z",
+      "changelogEn": "Pro settings home cleanup — settings rows are back to the classic icons, and the cards are cleaner without the corner squares and icon tile.",
+      "changelogBn": "প্রো সেটিংস হোম পরিষ্কার করা হয়েছে — সেটিংসের row-গুলো আবার আগের ক্লাসিক আইকনে ফিরেছে, আর কার্ডগুলো কর্নার স্কয়ার আর আইকন টাইল ছাড়া আরও পরিষ্কার।"
+    },
     {
       "versionCode": 12547,
       "versionName": "0.1.30-807-gb77b3e6f47-unstable",
