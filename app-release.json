@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-804-g07bad73e5d-unstable",
-  "versionCode": 12544,
+  "versionName": "0.1.30-807-gb77b3e6f47-unstable",
+  "versionCode": 12547,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70774829,
-  "sha256": "66a07aceda8c8df90d2139d02a1b430fdd0b48d3030651613aef1f22cffe2a4b",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12544/bolo-keyboard-12544-arm64-v8a.apk",
-  "builtAt": "2026-11-25T15:25:54.113Z",
-  "changelogBn": "নতুন Pixel অ্যাপ আইকন — পিক্সেল স্টাইলের আইকনে এখন নিয়ন ওয়েভ ডিজাইন।",
-  "changelogEn": "New Pixel app icon — the pixel-style icon now has a neon wave design.",
+  "sizeBytes": 70796224,
+  "sha256": "c7dcf18c67a8b7fb5e496717764186f61ca17651771c5696c9ea522c4ea4ae39",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12547/bolo-keyboard-12547-arm64-v8a.apk",
+  "builtAt": "2026-11-25T16:29:34.798Z",
+  "changelogBn": "প্রো সেটিংস হোম — প্রো ইউজাররা এখন নতুন পিক্সেল স্টাইলের সেটিংস পেজ পাবেন, নতুন হেডার, What's New কার্ড আর ফুটারসহ।",
+  "changelogEn": "Pro settings home — Pro users now get the new pixel-style settings page with the new header, What's New card and footer.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70774829,
-      "sha256": "66a07aceda8c8df90d2139d02a1b430fdd0b48d3030651613aef1f22cffe2a4b",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12544/bolo-keyboard-12544-arm64-v8a.apk"
+      "sizeBytes": 70796224,
+      "sha256": "c7dcf18c67a8b7fb5e496717764186f61ca17651771c5696c9ea522c4ea4ae39",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12547/bolo-keyboard-12547-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65767169,
-      "sha256": "8b948efe6cd2725fe0a1c668e49068edbd44114bd4987f5926ddcd912812f128",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12544/bolo-keyboard-12544-armeabi-v7a.apk"
+      "sizeBytes": 65788564,
+      "sha256": "49eb273f2e70077efcee83af97975bb224fabf063bd214302c78fa7b98e0cda8",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12547/bolo-keyboard-12547-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12547,
+      "versionName": "0.1.30-807-gb77b3e6f47-unstable",
+      "builtAt": "2026-11-25T16:29:34.798Z",
+      "changelogEn": "Pro settings home — Pro users now get the new pixel-style settings page with the new header, What's New card and footer.",
+      "changelogBn": "প্রো সেটিংস হোম — প্রো ইউজাররা এখন নতুন পিক্সেল স্টাইলের সেটিংস পেজ পাবেন, নতুন হেডার, What's New কার্ড আর ফুটারসহ।"
+    },
     {
       "versionCode": 12544,
       "versionName": "0.1.30-804-g07bad73e5d-unstable",
