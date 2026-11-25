@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-790-gb6f4b1fde7-unstable",
-  "versionCode": 12530,
+  "versionName": "0.1.30-794-g4c0b3f6fff-unstable",
+  "versionCode": 12534,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70792009,
-  "sha256": "42c20ba536b5f88974aef3fce2edfa9a1539c64f36f0d72e891d903d4cc22522",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12530/bolo-keyboard-12530-arm64-v8a.apk",
-  "builtAt": "2026-11-24T06:14:05.710Z",
-  "changelogBn": "ক্লিপবোর্ড Live view ঠিক করা হয়েছে: একটা clip-এর timestamp না থাকায় পুরো sync reject হয়ে যাচ্ছিল, তাই dashboard-এ clipboard state আসছিল না। এখন Live tab-এ আসল clipboard দেখাবে।",
-  "changelogEn": "Fixed the clipboard Live view: the app's clipboard state never reached the dashboard because one clip with a missing timestamp made the server reject the whole sync. The Live tab now shows your current clipboard.",
+  "sizeBytes": 70792225,
+  "sha256": "5e21bbae84298d842be22f1f9b56bdc4bb68b8a4ce3eb2d34efbd8fce6ae7dbb",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12534/bolo-keyboard-12534-arm64-v8a.apk",
+  "builtAt": "2026-11-25T09:32:29.616Z",
+  "changelogBn": "ভয়েস টাইপিং আরও নিরাপদ হলো: ভয়েস সংযোগ এখন certificate-pinned, ব্যর্থ হলে কারিগরি বিবরণের বদলে সাধারণ বার্তা দেখাবে, আর cleartext ভয়েস endpoint আর চলবে না।",
+  "changelogEn": "Voice typing is now more secure: the voice connection is certificate-pinned, failures show a simple message instead of technical details, and cleartext voice endpoints are rejected.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70792009,
-      "sha256": "42c20ba536b5f88974aef3fce2edfa9a1539c64f36f0d72e891d903d4cc22522",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12530/bolo-keyboard-12530-arm64-v8a.apk"
+      "sizeBytes": 70792225,
+      "sha256": "5e21bbae84298d842be22f1f9b56bdc4bb68b8a4ce3eb2d34efbd8fce6ae7dbb",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12534/bolo-keyboard-12534-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65784349,
-      "sha256": "258e36618e57c140626648980a038a234446164a2b6911d5b8bb99b350a4ce90",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12530/bolo-keyboard-12530-armeabi-v7a.apk"
+      "sizeBytes": 65784565,
+      "sha256": "6a32bd48e9ae4bba06ae8ef66149d4ef678ec809fa5bcae57381c483601379f8",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12534/bolo-keyboard-12534-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12534,
+      "versionName": "0.1.30-794-g4c0b3f6fff-unstable",
+      "builtAt": "2026-11-25T09:32:29.616Z",
+      "changelogEn": "Voice typing is now more secure: the voice connection is certificate-pinned, failures show a simple message instead of technical details, and cleartext voice endpoints are rejected.",
+      "changelogBn": "ভয়েস টাইপিং আরও নিরাপদ হলো: ভয়েস সংযোগ এখন certificate-pinned, ব্যর্থ হলে কারিগরি বিবরণের বদলে সাধারণ বার্তা দেখাবে, আর cleartext ভয়েস endpoint আর চলবে না।"
+    },
     {
       "versionCode": 12530,
       "versionName": "0.1.30-790-gb6f4b1fde7-unstable",
