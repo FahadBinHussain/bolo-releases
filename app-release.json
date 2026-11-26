@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-848-gd0dabbf2c0-unstable",
-  "versionCode": 12588,
+  "versionName": "0.1.30-851-g353bfc19d3-unstable",
+  "versionCode": 12591,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70811301,
-  "sha256": "0d0cb90fb7bda5fb0dec7d6abd56f30843e2410b40f343c75e5c11ffa97fd838",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12588/bolo-keyboard-12588-arm64-v8a.apk",
-  "builtAt": "2026-11-26T11:55:08.994Z",
-  "changelogBn": "নোটিফিকেশন ক্যাপচার: ক্যাপচার ঠিক থাকলেও সেটঅপ অ্যাসিস্ট ব্যাকগ্রাউন্ড-স্টার্ট গেট দেখে, কারণ আপডেট সেটটা নিঃশব্দে বন্ধ করে দেয়।",
-  "changelogEn": "Notification capture: the setup assist checks the background-start gate even when the capture looks fine, because an update closes it silently.",
+  "sizeBytes": 70811305,
+  "sha256": "dd087b5a639e304fee6869cee318ba4cfc05916f51b2b54cf61cdf755ee5f6ec",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12591/bolo-keyboard-12591-arm64-v8a.apk",
+  "builtAt": "2026-11-26T12:17:53.101Z",
+  "changelogBn": "নোটিফিকেশন ক্যাপচার: ভেন্ডরের সুইচ ক্লিক অ্যাকশন উপেক্ষা করে, তাই সেটঅপ অ্যাসিস্ট এখন টাচ দিয়ে ট্যাপ করে।",
+  "changelogEn": "Notification capture: the setup assist taps the vendor's autostart switch by touch, because the vendor's own switch ignores the click action.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70811301,
-      "sha256": "0d0cb90fb7bda5fb0dec7d6abd56f30843e2410b40f343c75e5c11ffa97fd838",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12588/bolo-keyboard-12588-arm64-v8a.apk"
+      "sizeBytes": 70811305,
+      "sha256": "dd087b5a639e304fee6869cee318ba4cfc05916f51b2b54cf61cdf755ee5f6ec",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12591/bolo-keyboard-12591-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65803641,
-      "sha256": "ea1b26ab572c0603ce031ed1bc90caedb976ac299c5e8c91714ac91f5f02278c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12588/bolo-keyboard-12588-armeabi-v7a.apk"
+      "sizeBytes": 65803645,
+      "sha256": "73d813f8340c4221d01d17e3d954161b0af9c93459eeb1a5ad4c00fe62397975",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12591/bolo-keyboard-12591-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12591,
+      "versionName": "0.1.30-851-g353bfc19d3-unstable",
+      "builtAt": "2026-11-26T12:17:53.101Z",
+      "changelogEn": "Notification capture: the setup assist taps the vendor's autostart switch by touch, because the vendor's own switch ignores the click action.",
+      "changelogBn": "নোটিফিকেশন ক্যাপচার: ভেন্ডরের সুইচ ক্লিক অ্যাকশন উপেক্ষা করে, তাই সেটঅপ অ্যাসিস্ট এখন টাচ দিয়ে ট্যাপ করে।"
+    },
     {
       "versionCode": 12588,
       "versionName": "0.1.30-848-gd0dabbf2c0-unstable",
