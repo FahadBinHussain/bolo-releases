@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-813-g602fc06b1f-unstable",
-  "versionCode": 12553,
+  "versionName": "0.1.30-818-gee08b28843-unstable",
+  "versionCode": 12558,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70792185,
-  "sha256": "f8d23adfb83cf7b6f56df17b38ce1ae5002cda52653d5a4dcc5d14f6011ace69",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12553/bolo-keyboard-12553-arm64-v8a.apk",
-  "builtAt": "2026-11-26T02:06:49.805Z",
-  "changelogBn": "নোটিফিকেশন ক্যাপচার (unstable প্রিভিউ) - কীবোর্ড এখন নোটিফিকেশন পড়তে পারে আর সেখান থেকে ভেরিফিকেশন কোড বের করতে পারে, তাই ২এফএ কোড হাতে টাইপ করার দরকার নেই। শুধু unstable বিল্ডে: Misc সেটিংসে চালু করে নোটিফিকেশন অ্যাক্সেস দিন।",
-  "changelogEn": "Notification capture (unstable preview) - the keyboard can now read notifications and pull out the verification codes that arrive as a message, so a 2FA code no longer has to be typed by hand. Unstable builds only: turn it on in Misc settings and grant notification access.",
+  "sizeBytes": 70792181,
+  "sha256": "e5995856917088a10dc2a72058ed5ae724a83446417de3a68aa1b8a21d8ad859",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12558/bolo-keyboard-12558-arm64-v8a.apk",
+  "builtAt": "2026-11-26T03:56:06.814Z",
+  "changelogBn": "ব্যাকগ্রাউন্ড কাজ চালু হওয়ার সময়কার ক্র্যাশ ঠিক করা হয়েছে",
+  "changelogEn": "Fix a crash when background jobs start",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70792185,
-      "sha256": "f8d23adfb83cf7b6f56df17b38ce1ae5002cda52653d5a4dcc5d14f6011ace69",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12553/bolo-keyboard-12553-arm64-v8a.apk"
+      "sizeBytes": 70792181,
+      "sha256": "e5995856917088a10dc2a72058ed5ae724a83446417de3a68aa1b8a21d8ad859",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12558/bolo-keyboard-12558-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65784525,
-      "sha256": "6b575387d02c4c12c292e0abe153f56a2e6c63636ec9edbe3e4aec42507f4399",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12553/bolo-keyboard-12553-armeabi-v7a.apk"
+      "sizeBytes": 65784521,
+      "sha256": "c3ab939db39bdcaa1d008ccf252fcd83b6d9b6eddd9690c754ff8932766a4734",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12558/bolo-keyboard-12558-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12558,
+      "versionName": "0.1.30-818-gee08b28843-unstable",
+      "builtAt": "2026-11-26T03:56:06.814Z",
+      "changelogEn": "Fix a crash when background jobs start",
+      "changelogBn": "ব্যাকগ্রাউন্ড কাজ চালু হওয়ার সময়কার ক্র্যাশ ঠিক করা হয়েছে"
+    },
     {
       "versionCode": 12553,
       "versionName": "0.1.30-813-g602fc06b1f-unstable",
