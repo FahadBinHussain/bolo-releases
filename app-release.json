@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-840-geb9d261f14-unstable",
-  "versionCode": 12580,
+  "versionName": "0.1.30-843-g00dd8348dc-unstable",
+  "versionCode": 12583,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70810665,
-  "sha256": "fc321cd46f99750d62dab6f8d8c10e67533e6fd38c0f68290af27c6dd1775c16",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12580/bolo-keyboard-12580-arm64-v8a.apk",
-  "builtAt": "2026-11-26T10:57:56.931Z",
-  "changelogBn": "নোটিফিকেশন ক্যাপচার: সেটঅপ অ্যাসিস্ট এখন OEM গেটের প্রভাব দেখে সেট ঠিক করে, আর মাপা নোড আইডি ব্যবহার করে।",
-  "changelogEn": "Notification capture: the setup assist now judges the OEM gate by its effect and repairs it through the vendor's own screen, with the measured node ids.",
+  "sizeBytes": 70811305,
+  "sha256": "52192e83f2711cccedf2980d99989ae0cfb658284dba65046b9a88636902b415",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12583/bolo-keyboard-12583-arm64-v8a.apk",
+  "builtAt": "2026-11-26T11:21:51.506Z",
+  "changelogBn": "নোটিফিকেশন ক্যাপচার: সেটঅপ অ্যাসিস্ট নিজেই অ্যাক্সেস দেয় ও ব্যাকগ্রাউন্ড স্টার্ট ঠিক করে; ব্যাকগ্রাউন্ড থেকে স্ক্রিন খুলতে না দিলে এক ট্যাপ চায়।",
+  "changelogEn": "Notification capture: the setup assist grants the access and repairs the background start by itself, and asks for one tap when the system refuses to open a screen from the background.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70810665,
-      "sha256": "fc321cd46f99750d62dab6f8d8c10e67533e6fd38c0f68290af27c6dd1775c16",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12580/bolo-keyboard-12580-arm64-v8a.apk"
+      "sizeBytes": 70811305,
+      "sha256": "52192e83f2711cccedf2980d99989ae0cfb658284dba65046b9a88636902b415",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12583/bolo-keyboard-12583-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65803005,
-      "sha256": "0e57f893df8ca9784984a116fcdd9b8af5e0cbe384c4a03ba1e0de14e08bf345",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12580/bolo-keyboard-12580-armeabi-v7a.apk"
+      "sizeBytes": 65803645,
+      "sha256": "e67b1588fa319e83c7203834ceed96492e79db32e85c837174545f819b9a76b2",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12583/bolo-keyboard-12583-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12583,
+      "versionName": "0.1.30-843-g00dd8348dc-unstable",
+      "builtAt": "2026-11-26T11:21:51.506Z",
+      "changelogEn": "Notification capture: the setup assist grants the access and repairs the background start by itself, and asks for one tap when the system refuses to open a screen from the background.",
+      "changelogBn": "নোটিফিকেশন ক্যাপচার: সেটঅপ অ্যাসিস্ট নিজেই অ্যাক্সেস দেয় ও ব্যাকগ্রাউন্ড স্টার্ট ঠিক করে; ব্যাকগ্রাউন্ড থেকে স্ক্রিন খুলতে না দিলে এক ট্যাপ চায়।"
+    },
     {
       "versionCode": 12580,
       "versionName": "0.1.30-840-geb9d261f14-unstable",
