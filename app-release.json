@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-851-g353bfc19d3-unstable",
-  "versionCode": 12591,
+  "versionName": "0.1.30-856-gbde17b5284-unstable",
+  "versionCode": 12596,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70811305,
-  "sha256": "dd087b5a639e304fee6869cee318ba4cfc05916f51b2b54cf61cdf755ee5f6ec",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12591/bolo-keyboard-12591-arm64-v8a.apk",
-  "builtAt": "2026-11-26T12:17:53.101Z",
-  "changelogBn": "নোটিফিকেশন ক্যাপচার: ভেন্ডরের সুইচ ক্লিক অ্যাকশন উপেক্ষা করে, তাই সেটঅপ অ্যাসিস্ট এখন টাচ দিয়ে ট্যাপ করে।",
-  "changelogEn": "Notification capture: the setup assist taps the vendor's autostart switch by touch, because the vendor's own switch ignores the click action.",
+  "sizeBytes": 70811273,
+  "sha256": "2d611808dfed54a60d37bd47a95fc0f73a34f5e653234baa7495372b075b3389",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12596/bolo-keyboard-12596-arm64-v8a.apk",
+  "builtAt": "2026-11-26T13:23:57.580Z",
+  "changelogBn": "সেটঅপ অ্যাসিস্ট এখন অ্যাক্সেসিবিলিটি তালিকায় 'Bolo Key Assistant' নামে দেখা যাবে।",
+  "changelogEn": "The setup assist now shows up as 'Bolo Key Assistant' in the accessibility list.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70811305,
-      "sha256": "dd087b5a639e304fee6869cee318ba4cfc05916f51b2b54cf61cdf755ee5f6ec",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12591/bolo-keyboard-12591-arm64-v8a.apk"
+      "sizeBytes": 70811273,
+      "sha256": "2d611808dfed54a60d37bd47a95fc0f73a34f5e653234baa7495372b075b3389",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12596/bolo-keyboard-12596-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65803645,
-      "sha256": "73d813f8340c4221d01d17e3d954161b0af9c93459eeb1a5ad4c00fe62397975",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12591/bolo-keyboard-12591-armeabi-v7a.apk"
+      "sizeBytes": 65803613,
+      "sha256": "4f77933ee18e626b225622d4b444dddaf2b38507bd9e90fdc7dd5449a1f62fbc",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12596/bolo-keyboard-12596-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12596,
+      "versionName": "0.1.30-856-gbde17b5284-unstable",
+      "builtAt": "2026-11-26T13:23:57.580Z",
+      "changelogEn": "The setup assist now shows up as 'Bolo Key Assistant' in the accessibility list.",
+      "changelogBn": "সেটঅপ অ্যাসিস্ট এখন অ্যাক্সেসিবিলিটি তালিকায় 'Bolo Key Assistant' নামে দেখা যাবে।"
+    },
     {
       "versionCode": 12591,
       "versionName": "0.1.30-851-g353bfc19d3-unstable",
