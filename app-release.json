@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-809-g27d051a88f-unstable",
-  "versionCode": 12549,
+  "versionName": "0.1.30-813-g602fc06b1f-unstable",
+  "versionCode": 12553,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70791413,
-  "sha256": "8eb3b4ec93f24400d572ef5dce114108b3d13f6b2112249c1c9b642b43bb8ac5",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12549/bolo-keyboard-12549-arm64-v8a.apk",
-  "builtAt": "2026-11-25T16:47:02.892Z",
-  "changelogBn": "প্রো সেটিংস হোম পরিষ্কার করা হয়েছে — সেটিংসের row-গুলো আবার আগের ক্লাসিক আইকনে ফিরেছে, আর কার্ডগুলো কর্নার স্কয়ার আর আইকন টাইল ছাড়া আরও পরিষ্কার।",
-  "changelogEn": "Pro settings home cleanup — settings rows are back to the classic icons, and the cards are cleaner without the corner squares and icon tile.",
+  "sizeBytes": 70792185,
+  "sha256": "f8d23adfb83cf7b6f56df17b38ce1ae5002cda52653d5a4dcc5d14f6011ace69",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12553/bolo-keyboard-12553-arm64-v8a.apk",
+  "builtAt": "2026-11-26T02:06:49.805Z",
+  "changelogBn": "নোটিফিকেশন ক্যাপচার (unstable প্রিভিউ) - কীবোর্ড এখন নোটিফিকেশন পড়তে পারে আর সেখান থেকে ভেরিফিকেশন কোড বের করতে পারে, তাই ২এফএ কোড হাতে টাইপ করার দরকার নেই। শুধু unstable বিল্ডে: Misc সেটিংসে চালু করে নোটিফিকেশন অ্যাক্সেস দিন।",
+  "changelogEn": "Notification capture (unstable preview) - the keyboard can now read notifications and pull out the verification codes that arrive as a message, so a 2FA code no longer has to be typed by hand. Unstable builds only: turn it on in Misc settings and grant notification access.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70791413,
-      "sha256": "8eb3b4ec93f24400d572ef5dce114108b3d13f6b2112249c1c9b642b43bb8ac5",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12549/bolo-keyboard-12549-arm64-v8a.apk"
+      "sizeBytes": 70792185,
+      "sha256": "f8d23adfb83cf7b6f56df17b38ce1ae5002cda52653d5a4dcc5d14f6011ace69",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12553/bolo-keyboard-12553-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65783753,
-      "sha256": "34e8cfa7580e45f5bb0210d3477758d541b6fe1f5eb012f94ce0e9af4916c7a6",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12549/bolo-keyboard-12549-armeabi-v7a.apk"
+      "sizeBytes": 65784525,
+      "sha256": "6b575387d02c4c12c292e0abe153f56a2e6c63636ec9edbe3e4aec42507f4399",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12553/bolo-keyboard-12553-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12553,
+      "versionName": "0.1.30-813-g602fc06b1f-unstable",
+      "builtAt": "2026-11-26T02:06:49.805Z",
+      "changelogEn": "Notification capture (unstable preview) - the keyboard can now read notifications and pull out the verification codes that arrive as a message, so a 2FA code no longer has to be typed by hand. Unstable builds only: turn it on in Misc settings and grant notification access.",
+      "changelogBn": "নোটিফিকেশন ক্যাপচার (unstable প্রিভিউ) - কীবোর্ড এখন নোটিফিকেশন পড়তে পারে আর সেখান থেকে ভেরিফিকেশন কোড বের করতে পারে, তাই ২এফএ কোড হাতে টাইপ করার দরকার নেই। শুধু unstable বিল্ডে: Misc সেটিংসে চালু করে নোটিফিকেশন অ্যাক্সেস দিন।"
+    },
     {
       "versionCode": 12549,
       "versionName": "0.1.30-809-g27d051a88f-unstable",
