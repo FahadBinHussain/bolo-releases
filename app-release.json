@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-856-gbde17b5284-unstable",
-  "versionCode": 12596,
+  "versionName": "0.1.30-860-g85ec6b2bdf-unstable",
+  "versionCode": 12600,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70811273,
-  "sha256": "2d611808dfed54a60d37bd47a95fc0f73a34f5e653234baa7495372b075b3389",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12596/bolo-keyboard-12596-arm64-v8a.apk",
-  "builtAt": "2026-11-26T13:23:57.580Z",
-  "changelogBn": "সেটঅপ অ্যাসিস্ট এখন অ্যাক্সেসিবিলিটি তালিকায় 'Bolo Key Assistant' নামে দেখা যাবে।",
-  "changelogEn": "The setup assist now shows up as 'Bolo Key Assistant' in the accessibility list.",
+  "sizeBytes": 70811025,
+  "sha256": "1c5ef242c81ed37fbb40e2c1f23067fd0ff1b3b2f33def08d8d3cd83d309511c",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12600/bolo-keyboard-12600-arm64-v8a.apk",
+  "builtAt": "2026-11-26T14:01:18.943Z",
+  "changelogBn": "নোটিফিকেশন লিসেনার এখন 'Bolo Key notifications' নামে দেখা যাবে, আর ইউজার যা পড়তে পারে তার কোথাও 'ক্যাপচার' শব্দটা নেই।",
+  "changelogEn": "The notification listener shows as 'Bolo Key notifications', and nothing the user can read names the mechanism any more.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70811273,
-      "sha256": "2d611808dfed54a60d37bd47a95fc0f73a34f5e653234baa7495372b075b3389",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12596/bolo-keyboard-12596-arm64-v8a.apk"
+      "sizeBytes": 70811025,
+      "sha256": "1c5ef242c81ed37fbb40e2c1f23067fd0ff1b3b2f33def08d8d3cd83d309511c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12600/bolo-keyboard-12600-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65803613,
-      "sha256": "4f77933ee18e626b225622d4b444dddaf2b38507bd9e90fdc7dd5449a1f62fbc",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12596/bolo-keyboard-12596-armeabi-v7a.apk"
+      "sizeBytes": 65803365,
+      "sha256": "5740f42ded6a35bdaa02a487862e6fa5bc99534687e62ca67ac3a39aca4a7754",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12600/bolo-keyboard-12600-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12600,
+      "versionName": "0.1.30-860-g85ec6b2bdf-unstable",
+      "builtAt": "2026-11-26T14:01:18.943Z",
+      "changelogEn": "The notification listener shows as 'Bolo Key notifications', and nothing the user can read names the mechanism any more.",
+      "changelogBn": "নোটিফিকেশন লিসেনার এখন 'Bolo Key notifications' নামে দেখা যাবে, আর ইউজার যা পড়তে পারে তার কোথাও 'ক্যাপচার' শব্দটা নেই।"
+    },
     {
       "versionCode": 12596,
       "versionName": "0.1.30-856-gbde17b5284-unstable",
