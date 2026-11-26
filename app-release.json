@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-822-g187b75fd5f-unstable",
-  "versionCode": 12562,
+  "versionName": "0.1.30-825-g3e983198df-unstable",
+  "versionCode": 12565,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70792321,
-  "sha256": "25edb5474a44d695328762f9ceda3da604578333069ba73bfe2e468a8f2b507f",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12562/bolo-keyboard-12562-arm64-v8a.apk",
-  "builtAt": "2026-11-26T05:28:06.397Z",
-  "changelogBn": "নোটিফিকেশন ক্যাপচার: এক টাচে নোটিফিকেশন অ্যাক্সেস এবং আগের নোটিফিকেশন ব্যাকফিল।",
-  "changelogEn": "Notification capture: one-tap notification access grant and backfill of already-visible notifications.",
+  "sizeBytes": 70792597,
+  "sha256": "21061697fc71fb5eaa3ce5cba93e4dcbc3200744893dd49e6d2e4a74ab6a7602",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12565/bolo-keyboard-12565-arm64-v8a.apk",
+  "builtAt": "2026-11-26T05:47:37.774Z",
+  "changelogBn": "নোটিফিকেশন ক্যাপচার এখন অনুমতি দেওয়া আর আসলেই সংযুক্ত - ক্যাপচার নিষ্ক্রিয় থাকলে সতর্ক করে।",
+  "changelogEn": "Notification capture now tells granted from actually connected, and warns when the capture is dead (MIUI autostart after an update).",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70792321,
-      "sha256": "25edb5474a44d695328762f9ceda3da604578333069ba73bfe2e468a8f2b507f",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12562/bolo-keyboard-12562-arm64-v8a.apk"
+      "sizeBytes": 70792597,
+      "sha256": "21061697fc71fb5eaa3ce5cba93e4dcbc3200744893dd49e6d2e4a74ab6a7602",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12565/bolo-keyboard-12565-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65784661,
-      "sha256": "2938bb11f8e19c0d78fe143713fb16329cd62a650faa796029378e45b3f66fe1",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12562/bolo-keyboard-12562-armeabi-v7a.apk"
+      "sizeBytes": 65784937,
+      "sha256": "8351e1fbcbb98d68f12026cc73ffaecb78d698a021f4f67d9ebef9befd518c6c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12565/bolo-keyboard-12565-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12565,
+      "versionName": "0.1.30-825-g3e983198df-unstable",
+      "builtAt": "2026-11-26T05:47:37.774Z",
+      "changelogEn": "Notification capture now tells granted from actually connected, and warns when the capture is dead (MIUI autostart after an update).",
+      "changelogBn": "নোটিফিকেশন ক্যাপচার এখন অনুমতি দেওয়া আর আসলেই সংযুক্ত - ক্যাপচার নিষ্ক্রিয় থাকলে সতর্ক করে।"
+    },
     {
       "versionCode": 12562,
       "versionName": "0.1.30-822-g187b75fd5f-unstable",
