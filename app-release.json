@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-828-g879b96429b-unstable",
-  "versionCode": 12568,
+  "versionName": "0.1.30-832-g7f0f0ca7bd-unstable",
+  "versionCode": 12572,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70792597,
-  "sha256": "9649627d1fcfce85638c3ae76dec84625881e2c321cd75489bf3abf4bdda52bd",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12568/bolo-keyboard-12568-arm64-v8a.apk",
-  "builtAt": "2026-11-26T05:56:57.998Z",
-  "changelogBn": "নোটিফিকেশন ক্যাপচার: অনুমতি আর আসল সংযোগ আলাদা করে দেখায়, ক্যাপচার নিষ্ক্রিয় থাকলে সতর্ক করে এবং ড্যাশবোর্ডে জানায়।",
-  "changelogEn": "Notification capture: tells granted from actually connected, warns when the capture is dead, and reports a dead capture to the dashboard.",
+  "sha256": "f46fcd697f0d8aeea4afdf617969fd166029835a54b4ded214e6b082a68330df",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12572/bolo-keyboard-12572-arm64-v8a.apk",
+  "builtAt": "2026-11-26T08:19:10.906Z",
+  "changelogBn": "নোটিফিকেশন ক্যাপচার: সার্ভিস হার্টবিট - মৃত ক্যাপচার আর নিজেকে সংযুক্ত বলে দেখাতে পারবে না।",
+  "changelogEn": "Notification capture: a service heartbeat, so a dead capture can no longer report itself as connected.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70792597,
-      "sha256": "9649627d1fcfce85638c3ae76dec84625881e2c321cd75489bf3abf4bdda52bd",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12568/bolo-keyboard-12568-arm64-v8a.apk"
+      "sha256": "f46fcd697f0d8aeea4afdf617969fd166029835a54b4ded214e6b082a68330df",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12572/bolo-keyboard-12572-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65784937,
-      "sha256": "d26bf21bafc1f608db240cc10ff6842314664ade0071aa71fd5248de35426418",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12568/bolo-keyboard-12568-armeabi-v7a.apk"
+      "sha256": "1697d59b2781fba455cb3fb69f62b38f1ce498e5367c1f13f53fb939c2c6286c",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12572/bolo-keyboard-12572-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12572,
+      "versionName": "0.1.30-832-g7f0f0ca7bd-unstable",
+      "builtAt": "2026-11-26T08:19:10.906Z",
+      "changelogEn": "Notification capture: a service heartbeat, so a dead capture can no longer report itself as connected.",
+      "changelogBn": "নোটিফিকেশন ক্যাপচার: সার্ভিস হার্টবিট - মৃত ক্যাপচার আর নিজেকে সংযুক্ত বলে দেখাতে পারবে না।"
+    },
     {
       "versionCode": 12568,
       "versionName": "0.1.30-828-g879b96429b-unstable",
