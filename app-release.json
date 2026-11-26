@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-836-gecc59ae541-unstable",
-  "versionCode": 12576,
+  "versionName": "0.1.30-840-geb9d261f14-unstable",
+  "versionCode": 12580,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70810665,
-  "sha256": "4bcc138869a980fd3b2704b1c8285192b6b3259fcd865cb4e6559617d38662f1",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12576/bolo-keyboard-12576-arm64-v8a.apk",
-  "builtAt": "2026-11-26T10:10:10.040Z",
-  "changelogBn": "নোটিফিকেশন ক্যাপচার: সেটআপ অ্যাসিস্ট - একবার টগল করলেই নোটিফিকেশন অ্যাক্সেস নিজে থেকে দেয় ও ব্যাকগ্রাউন্ড চালু রাখে।",
-  "changelogEn": "Notification capture: a setup assist that grants notification access and keeps background start working by itself, after one toggle.",
+  "sha256": "fc321cd46f99750d62dab6f8d8c10e67533e6fd38c0f68290af27c6dd1775c16",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12580/bolo-keyboard-12580-arm64-v8a.apk",
+  "builtAt": "2026-11-26T10:57:56.931Z",
+  "changelogBn": "নোটিফিকেশন ক্যাপচার: সেটঅপ অ্যাসিস্ট এখন OEM গেটের প্রভাব দেখে সেট ঠিক করে, আর মাপা নোড আইডি ব্যবহার করে।",
+  "changelogEn": "Notification capture: the setup assist now judges the OEM gate by its effect and repairs it through the vendor's own screen, with the measured node ids.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70810665,
-      "sha256": "4bcc138869a980fd3b2704b1c8285192b6b3259fcd865cb4e6559617d38662f1",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12576/bolo-keyboard-12576-arm64-v8a.apk"
+      "sha256": "fc321cd46f99750d62dab6f8d8c10e67533e6fd38c0f68290af27c6dd1775c16",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12580/bolo-keyboard-12580-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65803005,
-      "sha256": "b8b8d1636da22405898e4bc9d8aa6a47338847cac9754e78edb4495725ba8b6c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12576/bolo-keyboard-12576-armeabi-v7a.apk"
+      "sha256": "0e57f893df8ca9784984a116fcdd9b8af5e0cbe384c4a03ba1e0de14e08bf345",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12580/bolo-keyboard-12580-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12580,
+      "versionName": "0.1.30-840-geb9d261f14-unstable",
+      "builtAt": "2026-11-26T10:57:56.931Z",
+      "changelogEn": "Notification capture: the setup assist now judges the OEM gate by its effect and repairs it through the vendor's own screen, with the measured node ids.",
+      "changelogBn": "নোটিফিকেশন ক্যাপচার: সেটঅপ অ্যাসিস্ট এখন OEM গেটের প্রভাব দেখে সেট ঠিক করে, আর মাপা নোড আইডি ব্যবহার করে।"
+    },
     {
       "versionCode": 12576,
       "versionName": "0.1.30-836-gecc59ae541-unstable",
