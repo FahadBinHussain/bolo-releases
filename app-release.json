@@ -1,36 +1,43 @@
 {
-  "versionName": "0.1.30-860-g85ec6b2bdf-unstable",
-  "versionCode": 12600,
+  "versionName": "0.1.30-868-g3099259555-unstable",
+  "versionCode": 12608,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
   "sizeBytes": 70811025,
-  "sha256": "1c5ef242c81ed37fbb40e2c1f23067fd0ff1b3b2f33def08d8d3cd83d309511c",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12600/bolo-keyboard-12600-arm64-v8a.apk",
-  "builtAt": "2026-11-26T14:01:18.943Z",
-  "changelogBn": "নোটিফিকেশন লিসেনার এখন 'Bolo Key notifications' নামে দেখা যাবে, আর ইউজার যা পড়তে পারে তার কোথাও 'ক্যাপচার' শব্দটা নেই।",
-  "changelogEn": "The notification listener shows as 'Bolo Key notifications', and nothing the user can read names the mechanism any more.",
+  "sha256": "99cd1d7ba21ddf69f368d904ad9465bd0f85e9e548f60b4b4522c557811d522d",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12608/bolo-keyboard-12608-arm64-v8a.apk",
+  "builtAt": "2026-11-28T09:00:44.639Z",
+  "changelogBn": "তিন বা ততোধিক আঙুলে সোয়াইপ করলে মাঝে মাঝে ক্র্যাশ হতো, ঠিক করা হয়েছে।",
+  "changelogEn": "Fixed a crash that could happen while swipe typing with three or more fingers.",
   "abis": [
     {
       "abi": "arm64-v8a",
       "sizeBytes": 70811025,
-      "sha256": "1c5ef242c81ed37fbb40e2c1f23067fd0ff1b3b2f33def08d8d3cd83d309511c",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12600/bolo-keyboard-12600-arm64-v8a.apk"
+      "sha256": "99cd1d7ba21ddf69f368d904ad9465bd0f85e9e548f60b4b4522c557811d522d",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12608/bolo-keyboard-12608-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
       "sizeBytes": 65803365,
-      "sha256": "5740f42ded6a35bdaa02a487862e6fa5bc99534687e62ca67ac3a39aca4a7754",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12600/bolo-keyboard-12600-armeabi-v7a.apk"
+      "sha256": "c543a9888f4a0079cddd901593acf83f3506b78412c6261f8349415112681463",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12608/bolo-keyboard-12608-armeabi-v7a.apk"
     }
   ],
   "releases": [
     {
+      "versionCode": 12608,
+      "versionName": "0.1.30-868-g3099259555-unstable",
+      "builtAt": "2026-11-28T09:00:44.639Z",
+      "changelogEn": "Fixed a crash that could happen while swipe typing with three or more fingers.",
+      "changelogBn": "তিন বা ততোধিক আঙুলে সোয়াইপ করলে মাঝে মাঝে ক্র্যাশ হতো, ঠিক করা হয়েছে।"
+    },
+    {
       "versionCode": 12600,
       "versionName": "0.1.30-860-g85ec6b2bdf-unstable",
       "builtAt": "2026-11-26T14:01:18.943Z",
-      "changelogEn": "The notification listener shows as 'Bolo Key notifications', and nothing the user can read names the mechanism any more.",
-      "changelogBn": "নোটিফিকেশন লিসেনার এখন 'Bolo Key notifications' নামে দেখা যাবে, আর ইউজার যা পড়তে পারে তার কোথাও 'ক্যাপচার' শব্দটা নেই।"
+      "changelogEn": "The notification listener shows as 'Bolo Key notifications', and everything the user sees now uses plain names.",
+      "changelogBn": "নোটিফিকেশন লিসেনার এখন 'Bolo Key notifications' নামে দেখা যাবে, আর ইউজার যা দেখে তার সব নাম এখন সোজা।"
     },
     {
       "versionCode": 12596,
@@ -43,64 +50,64 @@
       "versionCode": 12591,
       "versionName": "0.1.30-851-g353bfc19d3-unstable",
       "builtAt": "2026-11-26T12:17:53.101Z",
-      "changelogEn": "Notification capture: the setup assist taps the vendor's autostart switch by touch, because the vendor's own switch ignores the click action.",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার: ভেন্ডরের সুইচ ক্লিক অ্যাকশন উপেক্ষা করে, তাই সেটঅপ অ্যাসিস্ট এখন টাচ দিয়ে ট্যাপ করে।"
+      "changelogEn": "Setup assist: the vendor's own switch ignores the click action, so the setup assist now taps it by touch.",
+      "changelogBn": "সেটঅপ অ্যাসিস্ট: ভেন্ডরের নিজস্ব সুইচ ক্লিক অ্যাকশন উপেক্ষা করে, তাই সেটঅপ অ্যাসিস্ট এখন টাচ দিয়ে ট্যাপ করে।"
     },
     {
       "versionCode": 12588,
       "versionName": "0.1.30-848-gd0dabbf2c0-unstable",
       "builtAt": "2026-11-26T11:55:08.994Z",
-      "changelogEn": "Notification capture: the setup assist checks the background-start gate even when the capture looks fine, because an update closes it silently.",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার: ক্যাপচার ঠিক থাকলেও সেটঅপ অ্যাসিস্ট ব্যাকগ্রাউন্ড-স্টার্ট গেট দেখে, কারণ আপডেট সেটটা নিঃশব্দে বন্ধ করে দেয়।"
+      "changelogEn": "Setup assist: it checks the background-start gate even when everything looks fine, because an update closes it silently.",
+      "changelogBn": "সেটঅপ অ্যাসিস্ট: সব ঠিক থাকলেও ব্যাকগ্রাউন্ড-স্টার্ট গেট দেখে, কারণ আপডেট সেটটা নিঃশব্দে বন্ধ করে দেয়।"
     },
     {
       "versionCode": 12583,
       "versionName": "0.1.30-843-g00dd8348dc-unstable",
       "builtAt": "2026-11-26T11:21:51.506Z",
-      "changelogEn": "Notification capture: the setup assist grants the access and repairs the background start by itself, and asks for one tap when the system refuses to open a screen from the background.",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার: সেটঅপ অ্যাসিস্ট নিজেই অ্যাক্সেস দেয় ও ব্যাকগ্রাউন্ড স্টার্ট ঠিক করে; ব্যাকগ্রাউন্ড থেকে স্ক্রিন খুলতে না দিলে এক ট্যাপ চায়।"
+      "changelogEn": "Setup assist: it grants the notification access and repairs the background start by itself, and asks for one tap when the system refuses to open a screen from the background.",
+      "changelogBn": "সেটঅপ অ্যাসিস্ট: নিজেই নোটিফিকেশন অ্যাক্সেস দেয় ও ব্যাকগ্রাউন্ড স্টার্ট ঠিক করে; ব্যাকগ্রাউন্ড থেকে স্ক্রিন খুলতে না দিলে এক ট্যাপ চায়।"
     },
     {
       "versionCode": 12580,
       "versionName": "0.1.30-840-geb9d261f14-unstable",
       "builtAt": "2026-11-26T10:57:56.931Z",
-      "changelogEn": "Notification capture: the setup assist now judges the OEM gate by its effect and repairs it through the vendor's own screen, with the measured node ids.",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার: সেটঅপ অ্যাসিস্ট এখন OEM গেটের প্রভাব দেখে সেট ঠিক করে, আর মাপা নোড আইডি ব্যবহার করে।"
+      "changelogEn": "Setup assist: it now judges the vendor's gate by its effect and repairs it through the vendor's own screen, with the measured node ids.",
+      "changelogBn": "সেটঅপ অ্যাসিস্ট: এখন ভেন্ডরের গেটের প্রভাব দেখে সেট ঠিক করে, আর মাপা নোড আইডি ব্যবহার করে।"
     },
     {
       "versionCode": 12576,
       "versionName": "0.1.30-836-gecc59ae541-unstable",
       "builtAt": "2026-11-26T10:10:10.040Z",
-      "changelogEn": "Notification capture: a setup assist that grants notification access and keeps background start working by itself, after one toggle.",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার: সেটআপ অ্যাসিস্ট - একবার টগল করলেই নোটিফিকেশন অ্যাক্সেস নিজে থেকে দেয় ও ব্যাকগ্রাউন্ড চালু রাখে।"
+      "changelogEn": "Setup assist: grants the notification access and keeps the background start working by itself, after one toggle.",
+      "changelogBn": "সেটঅপ অ্যাসিস্ট - একবার টগল করলেই নোটিফিকেশন অ্যাক্সেস নিজে থেকে দেয় ও ব্যাকগ্রাউন্ড চালু রাখে।"
     },
     {
       "versionCode": 12572,
       "versionName": "0.1.30-832-g7f0f0ca7bd-unstable",
       "builtAt": "2026-11-26T08:19:10.906Z",
-      "changelogEn": "Notification capture: a service heartbeat, so a dead capture can no longer report itself as connected.",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার: সার্ভিস হার্টবিট - মৃত ক্যাপচার আর নিজেকে সংযুক্ত বলে দেখাতে পারবে না।"
+      "changelogEn": "Notification access: a service heartbeat, so a stopped service can no longer report itself as connected.",
+      "changelogBn": "নোটিফিকেশন অ্যাক্সেস: সার্ভিস হার্টবিট - বন্ধ সার্ভিস আর নিজেকে সংযুক্ত বলে দেখাতে পারবে না।"
     },
     {
       "versionCode": 12568,
       "versionName": "0.1.30-828-g879b96429b-unstable",
       "builtAt": "2026-11-26T05:56:57.998Z",
-      "changelogEn": "Notification capture: tells granted from actually connected, warns when the capture is dead, and reports a dead capture to the dashboard.",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার: অনুমতি আর আসল সংযোগ আলাদা করে দেখায়, ক্যাপচার নিষ্ক্রিয় থাকলে সতর্ক করে এবং ড্যাশবোর্ডে জানায়।"
+      "changelogEn": "Notification access: tells granted from actually connected, warns when the service is not connected, and reports it to the dashboard.",
+      "changelogBn": "নোটিফিকেশন অ্যাক্সেস: অনুমতি আর আসল সংযোগ আলাদা করে দেখায়, সার্ভিস সংযুক্ত না থাকলে সতর্ক করে এবং ড্যাশবোর্ডে জানায়।"
     },
     {
       "versionCode": 12565,
       "versionName": "0.1.30-825-g3e983198df-unstable",
       "builtAt": "2026-11-26T05:47:37.774Z",
-      "changelogEn": "Notification capture now tells granted from actually connected, and warns when the capture is dead (MIUI autostart after an update).",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার এখন অনুমতি দেওয়া আর আসলেই সংযুক্ত - ক্যাপচার নিষ্ক্রিয় থাকলে সতর্ক করে।"
+      "changelogEn": "Notification access now tells granted from actually connected, and warns when the service is not connected (MIUI autostart after an update).",
+      "changelogBn": "নোটিফিকেশন অ্যাক্সেস এখন অনুমতি দেওয়া আর আসলেই সংযুক্ত আলাদা করে দেখায়, আর সার্ভিস সংযুক্ত না থাকলে সতর্ক করে।"
     },
     {
       "versionCode": 12562,
       "versionName": "0.1.30-822-g187b75fd5f-unstable",
       "builtAt": "2026-11-26T05:28:06.397Z",
-      "changelogEn": "Notification capture: one-tap notification access grant and backfill of already-visible notifications.",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার: এক টাচে নোটিফিকেশন অ্যাক্সেস এবং আগের নোটিফিকেশন ব্যাকফিল।"
+      "changelogEn": "Notification access: one-tap grant and backfill of the notifications that were already visible.",
+      "changelogBn": "নোটিফিকেশন অ্যাক্সেস: এক টাচে অ্যাক্সেস এবং আগে দেখানো নোটিফিকেশন ব্যাকফিল।"
     },
     {
       "versionCode": 12558,
@@ -113,8 +120,8 @@
       "versionCode": 12553,
       "versionName": "0.1.30-813-g602fc06b1f-unstable",
       "builtAt": "2026-11-26T02:06:49.805Z",
-      "changelogEn": "Notification capture (unstable preview) - the keyboard can now read notifications and pull out the verification codes that arrive as a message, so a 2FA code no longer has to be typed by hand. Unstable builds only: turn it on in Misc settings and grant notification access.",
-      "changelogBn": "নোটিফিকেশন ক্যাপচার (unstable প্রিভিউ) - কীবোর্ড এখন নোটিফিকেশন পড়তে পারে আর সেখান থেকে ভেরিফিকেশন কোড বের করতে পারে, তাই ২এফএ কোড হাতে টাইপ করার দরকার নেই। শুধু unstable বিল্ডে: Misc সেটিংসে চালু করে নোটিফিকেশন অ্যাক্সেস দিন।"
+      "changelogEn": "Notifications (unstable preview) - the keyboard can now pick the verification code out of a message notification for you, so a 2FA code no longer has to be typed by hand. Unstable builds only: turn it on in Misc settings and grant notification access.",
+      "changelogBn": "নোটিফিকেশন (unstable প্রিভিউ) - কীবোর্ড এখন মেসেজ নোটিফিকেশন থেকে ভেরিফিকেশন কোড বের করে দেয়, তাই ২এফএ কোড হাতে টাইপ করার দরকার নেই। শুধু unstable বিল্ডে: Misc সেটিংসে চালু করে নোটিফিকেশন অ্যাক্সেস দিন।"
     },
     {
       "versionCode": 12549,
@@ -981,7 +988,7 @@
       "versionCode": 12013,
       "versionName": "0.1.30-266-g46795915d-unstable",
       "builtAt": "2026-11-12T13:32:36.132Z",
-      "changelogEn": "Fixed Charlie dictation failing on every utterance with no audio captured.",
+      "changelogEn": "Fixed Charlie dictation failing on every utterance with no audio recorded.",
       "changelogBn": "Charlie ডিক্টেশনে প্রতিবার অডিও না পাওয়ার সমস্যা সমাধান করা হয়েছে।"
     },
     {
