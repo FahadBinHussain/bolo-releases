@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-873-g9af18c4efb-unstable",
-  "versionCode": 12613,
+  "versionName": "0.1.30-876-g4498ef1ea8-unstable",
+  "versionCode": 12616,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70811025,
-  "sha256": "0dd991405c0c1c418fa04bf40e76e261de1db0e3c45a706f3cc81981dfd8f98b",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12613/bolo-keyboard-12613-arm64-v8a.apk",
-  "builtAt": "2026-11-28T10:26:50.330Z",
-  "changelogBn": "সাইন আউট থাকায় যেগুলা পাঠানো যায় নাই, সাইন ইন করলে সেগুলা আবার নিজে নিজে পাঠাবে।",
-  "changelogEn": "Items that could not upload while signed out are now sent again automatically after you sign back in.",
+  "sizeBytes": 70811029,
+  "sha256": "79562390b12ccbd0dd7d9b473d98244aed4557db756d638a61c41920c5193159",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12616/bolo-keyboard-12616-arm64-v8a.apk",
+  "builtAt": "2026-11-28T13:00:37.603Z",
+  "changelogBn": "সেশন রিনিউ করতে গিয়ে বারবার নেটওয়ার্ক error আসলে এখন দিনে একবারই রিপোর্ট হবে।",
+  "changelogEn": "Repeated network errors while renewing your session are now reported once a day instead of every time.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70811025,
-      "sha256": "0dd991405c0c1c418fa04bf40e76e261de1db0e3c45a706f3cc81981dfd8f98b",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12613/bolo-keyboard-12613-arm64-v8a.apk"
+      "sizeBytes": 70811029,
+      "sha256": "79562390b12ccbd0dd7d9b473d98244aed4557db756d638a61c41920c5193159",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12616/bolo-keyboard-12616-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65803365,
-      "sha256": "e0ffaf604439d1c9fb153dec36f36c3c9bd5bb3173c599409db961805b8443d7",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12613/bolo-keyboard-12613-armeabi-v7a.apk"
+      "sizeBytes": 65803369,
+      "sha256": "009b4596045fac838053f13b53a38cd731ca67e32d2561a2d965cbe5f8cf5c36",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12616/bolo-keyboard-12616-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12616,
+      "versionName": "0.1.30-876-g4498ef1ea8-unstable",
+      "builtAt": "2026-11-28T13:00:37.603Z",
+      "changelogEn": "Repeated network errors while renewing your session are now reported once a day instead of every time.",
+      "changelogBn": "সেশন রিনিউ করতে গিয়ে বারবার নেটওয়ার্ক error আসলে এখন দিনে একবারই রিপোর্ট হবে।"
+    },
     {
       "versionCode": 12613,
       "versionName": "0.1.30-873-g9af18c4efb-unstable",
