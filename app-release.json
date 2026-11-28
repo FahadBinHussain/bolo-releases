@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-871-gc0a9029218-unstable",
-  "versionCode": 12611,
+  "versionName": "0.1.30-873-g9af18c4efb-unstable",
+  "versionCode": 12613,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70811029,
-  "sha256": "56d6b78d4342f6635861c5868ce21bb143e0a327278db65b15a3c3067b1b7459",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12611/bolo-keyboard-12611-arm64-v8a.apk",
-  "builtAt": "2026-11-28T09:21:23.597Z",
-  "changelogBn": "ফোন অফলাইন থাকলে একই এরর বারবার রিপোর্ট করা কমানো হয়েছে, আর একসাথে দুইটা ডাউনলোড চললে আপডেট ফাইল নষ্ট হওয়ার বিরল সমস্যাটা ঠিক করা হয়েছে।",
-  "changelogEn": "Fewer repeated error reports when the phone is offline, and a fix for a rare case where two downloads at once could corrupt an update file.",
+  "sizeBytes": 70811025,
+  "sha256": "0dd991405c0c1c418fa04bf40e76e261de1db0e3c45a706f3cc81981dfd8f98b",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12613/bolo-keyboard-12613-arm64-v8a.apk",
+  "builtAt": "2026-11-28T10:26:50.330Z",
+  "changelogBn": "সাইন আউট থাকায় যেগুলা পাঠানো যায় নাই, সাইন ইন করলে সেগুলা আবার নিজে নিজে পাঠাবে।",
+  "changelogEn": "Items that could not upload while signed out are now sent again automatically after you sign back in.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70811029,
-      "sha256": "56d6b78d4342f6635861c5868ce21bb143e0a327278db65b15a3c3067b1b7459",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12611/bolo-keyboard-12611-arm64-v8a.apk"
+      "sizeBytes": 70811025,
+      "sha256": "0dd991405c0c1c418fa04bf40e76e261de1db0e3c45a706f3cc81981dfd8f98b",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12613/bolo-keyboard-12613-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65803369,
-      "sha256": "3c38b7db40eabfdc6acfaf9f62b83113e81134f1689b0af87f20c49bba441a7a",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12611/bolo-keyboard-12611-armeabi-v7a.apk"
+      "sizeBytes": 65803365,
+      "sha256": "e0ffaf604439d1c9fb153dec36f36c3c9bd5bb3173c599409db961805b8443d7",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12613/bolo-keyboard-12613-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12613,
+      "versionName": "0.1.30-873-g9af18c4efb-unstable",
+      "builtAt": "2026-11-28T10:26:50.330Z",
+      "changelogEn": "Items that could not upload while signed out are now sent again automatically after you sign back in.",
+      "changelogBn": "সাইন আউট থাকায় যেগুলা পাঠানো যায় নাই, সাইন ইন করলে সেগুলা আবার নিজে নিজে পাঠাবে।"
+    },
     {
       "versionCode": 12611,
       "versionName": "0.1.30-871-gc0a9029218-unstable",
