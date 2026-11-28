@@ -1,30 +1,37 @@
 {
-  "versionName": "0.1.30-868-g3099259555-unstable",
-  "versionCode": 12608,
+  "versionName": "0.1.30-871-gc0a9029218-unstable",
+  "versionCode": 12611,
   "packageName": "com.bolo.key.unstable",
   "minSupportedVersionCode": 11777,
   "rolloutPercentage": 100,
-  "sizeBytes": 70811025,
-  "sha256": "99cd1d7ba21ddf69f368d904ad9465bd0f85e9e548f60b4b4522c557811d522d",
-  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12608/bolo-keyboard-12608-arm64-v8a.apk",
-  "builtAt": "2026-11-28T09:00:44.639Z",
-  "changelogBn": "তিন বা ততোধিক আঙুলে সোয়াইপ করলে মাঝে মাঝে ক্র্যাশ হতো, ঠিক করা হয়েছে।",
-  "changelogEn": "Fixed a crash that could happen while swipe typing with three or more fingers.",
+  "sizeBytes": 70811029,
+  "sha256": "56d6b78d4342f6635861c5868ce21bb143e0a327278db65b15a3c3067b1b7459",
+  "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12611/bolo-keyboard-12611-arm64-v8a.apk",
+  "builtAt": "2026-11-28T09:21:23.597Z",
+  "changelogBn": "ফোন অফলাইন থাকলে একই এরর বারবার রিপোর্ট করা কমানো হয়েছে, আর একসাথে দুইটা ডাউনলোড চললে আপডেট ফাইল নষ্ট হওয়ার বিরল সমস্যাটা ঠিক করা হয়েছে।",
+  "changelogEn": "Fewer repeated error reports when the phone is offline, and a fix for a rare case where two downloads at once could corrupt an update file.",
   "abis": [
     {
       "abi": "arm64-v8a",
-      "sizeBytes": 70811025,
-      "sha256": "99cd1d7ba21ddf69f368d904ad9465bd0f85e9e548f60b4b4522c557811d522d",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12608/bolo-keyboard-12608-arm64-v8a.apk"
+      "sizeBytes": 70811029,
+      "sha256": "56d6b78d4342f6635861c5868ce21bb143e0a327278db65b15a3c3067b1b7459",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12611/bolo-keyboard-12611-arm64-v8a.apk"
     },
     {
       "abi": "armeabi-v7a",
-      "sizeBytes": 65803365,
-      "sha256": "c543a9888f4a0079cddd901593acf83f3506b78412c6261f8349415112681463",
-      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12608/bolo-keyboard-12608-armeabi-v7a.apk"
+      "sizeBytes": 65803369,
+      "sha256": "3c38b7db40eabfdc6acfaf9f62b83113e81134f1689b0af87f20c49bba441a7a",
+      "downloadUrl": "https://github.com/FahadBinHussain/bolo-releases/releases/download/v12611/bolo-keyboard-12611-armeabi-v7a.apk"
     }
   ],
   "releases": [
+    {
+      "versionCode": 12611,
+      "versionName": "0.1.30-871-gc0a9029218-unstable",
+      "builtAt": "2026-11-28T09:21:23.597Z",
+      "changelogEn": "Fewer repeated error reports when the phone is offline, and a fix for a rare case where two downloads at once could corrupt an update file.",
+      "changelogBn": "ফোন অফলাইন থাকলে একই এরর বারবার রিপোর্ট করা কমানো হয়েছে, আর একসাথে দুইটা ডাউনলোড চললে আপডেট ফাইল নষ্ট হওয়ার বিরল সমস্যাটা ঠিক করা হয়েছে।"
+    },
     {
       "versionCode": 12608,
       "versionName": "0.1.30-868-g3099259555-unstable",
